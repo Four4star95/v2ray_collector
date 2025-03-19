@@ -14427,3 +14427,10 @@ ss://13d2e8b0-0eb0-49db-9e25-5928631866e4@138.199.194.113:2053/?security=reality
 vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:8880?mode=gun&security=&encryption=none&type=grpc&serviceName=vless-grpc&sni=Rs_vpnAndroid2.info.gf#[🏁]t.me/ConfigsHub
 vless://telegram-id-ArV2ray6@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=m.mashti.link&fp=firefox&type=ws&sni=m.mashti.link#[🇨🇦]t.me/ConfigsHub
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.247.72.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGE1NmJjNDkwZmVhYmQ2@57.128.190.61:23436#[🇬🇧]t.me/ConfigsHub
+trojan://Aimer@173.245.59.201:443?sni=agepj.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+vless://d154eff1-379b-4f8b-9bd8-887018f64611@104.21.69.44:2053?security=tls&sni=all32.kikforwindows.com&type=ws&host=all32.kikforwindows.com&path=%2Fcontainers%2Fde&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.82.84:443#[🇬🇧]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.178.113:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.9.247.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇬🇧]t.me/ConfigsHub
+vless://9685b2b6-5b03-46ea-aca7-b8da0a9a1348@91.92.40.78:2070?security=none&type=tcp#[🇸🇪]t.me/ConfigsHub
