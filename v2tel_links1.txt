@@ -14447,3 +14447,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1Qdmt
 vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzY3MDAiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://TOZA9E6pyq4z3pFYeIeOC3ApaSDjR2wFueaO8uNDx0czDF3YCSwa3xjZ3qZAyB4YCKCZS@swiftly.meijireform.com:443/?type=tcp&security=tls&sni=swiftly.meijireform.com#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@5.188.181.201:9000#[🏁]t.me/ConfigsHub
+vless://28da528a-d2d4-4cf7-a11f-1a096eafbc63@151.101.64.155:80?encryption=none&security=none&type=ws&host=2.wexer-rih.ir&path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://4dc0a354-1fc7-433f-9b58-0fd017b0a6b3@185.125.103.139:30693?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+vless://2b18c69d-b774-5eb8-9cf5-a5dd26bd6229@45.89.55.188:8880?encryption=none&security=none&sni=Rs_vpnAndroid2.info.gf&type=grpc&authority=&serviceName=vless-grpc&mode=gun#[🏁]t.me/ConfigsHub
+vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@147.45.221.147:3044?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🏁]t.me/ConfigsHub
+vless://19f7214d-17f5-43d0-ee0f-b17cd5fc0376@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
