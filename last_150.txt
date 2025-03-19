@@ -1,3 +1,4 @@
+trojan://blue2024@172.64.146.66:443?security=tls&headerType=&type=tcp&sni=ta.promote.icu#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&headerType=&type=tcp&sni=z-v2-077787.kailib.com#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://ce257ee5-5c17-4627-8801-eb78852f048c@104.21.32.1:2083?path=%2FCK9bk7TxrEkG0y0W%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=joinmahdiserver-sa7.pages.dev&fp=randomized&type=ws&sni=JoiNmaHdIseRVEr-Sa7.pAgEs.Dev#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://bpb-trojan@23.227.60.8:443?security=tls&headerType=&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -128,7 +129,6 @@ vless://ada739a2-2443-4d75-85bd-3b4580457d8a@151.101.64.155:80?path=%2Ftelegram-
 vless://44943a3e-0b7f-42ea-abfc-11703164708c@104.21.112.1:443?path=%2FXknzc5eLHCy19uEA%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiiivpn.pages.dev&fp=randomized&type=ws&sni=beSTiiIiVPn.pAgeS.DEV#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.222.95:443#👉🆔 @MoftConfig📡🇧🇭Bahrain
 vless://d154eff1-379b-4f8b-9bd8-887018f64611@zula.ir:2053?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=all32.kikforwindows.com&fp=chrome&type=ws&sni=all32.kikforwindows.com#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.248.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aWw5OGJBSmRRUzBzM0RI@admin.c4.havij.co:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.178.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://c2795ae1-2cbf-49a0-931e-11800a1e6a8a@www.speedtest.net:443?path=%2F6WTbnamA2Vkah6Wi%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bestiiivpn.pages.dev&fp=randomized&type=ws&sni=beStiIIVPn.pageS.DeV#[🇨🇦]t.me/ConfigsHub
