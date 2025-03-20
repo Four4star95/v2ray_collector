@@ -14600,3 +14600,6 @@ vless://899350c2-27fa-45e1-9cd2-97f746db88f7@hajlab.ucdavis.edu:80?type=ws&host=
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8764/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202503170996717-MVQjjXvt4R.download.microsoft.com#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.176.204.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTM0LjY4LjEzNCIsInBvcnQiOiI0NDMiLCJpZCI6Ijk0NGI0ZmJiLWFjNmUtNGJiYy1hYTNmLWFiMzAzYTZlOTA5YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.71.122:2087?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/ConfigsHub
