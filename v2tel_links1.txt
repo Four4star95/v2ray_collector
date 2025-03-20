@@ -14911,3 +14911,7 @@ vmess://eyJhZGQiOiIxODguMTE0Ljk3Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36143#[🏁]t.me/ConfigsHub
 trojan://telegram-id-v2rayvpnchannel@16.170.193.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.185:8080?type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://172fd450-cebd-4678-937f-ac15be1d2925@188.114.96.3:2083?security=tls&sni=maHDiservEr-UfF.PaGES.dEv&type=ws&host=mahdiserver-uff.pages.dev&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36143#[🏁]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.185:8080?type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-v2rayvpnchannel@16.170.193.255:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇸🇪]t.me/MoftConfig
