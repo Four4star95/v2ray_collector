@@ -14603,3 +14603,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEu
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.71.122:2087?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.132.57.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.104.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.132.57.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.191.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://00ae2be4-ad8c-4650-a543-569a5d2431a7@82.118.19.162:8443?security=&type=grpc&serviceName=vless9090&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://10c6876b-5540-41dc-84a9-38da86cf5838@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.191.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
