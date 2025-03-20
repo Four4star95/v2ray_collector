@@ -14865,3 +14865,13 @@ trojan://telegram-id-privatevpns@54.154.24.201:22222?security=tls&alpn=http/1.1&
 trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@vss.lihua.click:13710/?type=tcp&security=tls&sni=aus.lihua.click&allowInsecure=1#⚜️Telegram:@IP_CF
 trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@terture.meijireform.com:443?allowInsecure=0&sni=terture.meijireform.com#[🏁]t.me/MoftConfig
 trojan://telegram-id-privatevpns@51.44.129.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇫🇷France
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkZaRFJsRkhVVTVaTTFKTlRFNDBOZw@156.231.104.22:18012#👉🆔 @MoftConfig📡🇯🇵Japan
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UkRJNVJscEJWelUzVjBZd1drRTRWZw@w72tapyb.slashdevslashnetslashtun.net:15004#👉🆔 @MoftConfig📡🇨🇳China
+vless://4d60cbdb-ef66-404c-b81b-27a8aeacdfe5@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.33.speedtest3.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NmVkYzdkNC03NDkwLTQ4ZmYtOTljYy00OTZiMGY0YTI3ZTk@ss.miloli.cc:19240#👉🆔 @MoftConfig📡🇨🇳China
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYyYTQzYS1hZTg5LTRhOWEtYTU0NS05MTVmYTFjNTNkNDM@free.2weradf.xyz:36731#👉🆔 @MoftConfig📡🇨🇳China
+vless://78614c71-cc1b-4dd3-86fb-286a2e1db6d3@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.speedtest2.cfd.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://74260708004220600@capital-hyena.shiner427.skin:443?allowInsecure=0#👉🆔 @MoftConfig📡🇱🇺Luxembourg
+trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@terture.meijireform.com:443?allowInsecure=0&sni=terture.meijireform.com#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://965574cc-9451-4421-be75-d1c7f929ef0b@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.33.isvpython.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.85.71:443#👉🆔 @MoftConfig📡🇰🇷South Korea
