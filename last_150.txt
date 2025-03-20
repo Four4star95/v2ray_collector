@@ -1,3 +1,5 @@
+vless://7bae290a-fd31-4fdf-ae3b-c07b75494a01@hajlab.ucdavis.edu:80?mode=auto&path=%2F%40Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn%3Fed&security=none&encryption=none&host=joinbedeMoft_Vpn.ir&type=xhttp#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREE1WWpGaA==@de1.opensocks.site:8388#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://19d3596a-a6c6-44be-9f18-26f349da4972@ZuLa.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://%69%64%2D%48%71%76%32%72%61%79%4E%47@84.234.31.28:2087?security=reality&pbk=z0Di-2ywYXzOdsNidu-6XSbSkCoAsHUbU05kbTPVzAQ&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=69a916d351#👉🆔 @MoftConfig📡🇨🇭Switzerland
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.27:8119#👉🆔 @MoftConfig📡🇺🇸United States
@@ -139,12 +141,10 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.132:8080#[🇺🇸]t.me
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.133:8080#[🇳🇱]t.me/ConfigsHub
 vless://e7466ee9-073c-477a-8fab-e9b3792b7990@170.114.45.6:80?path=%2F&security=none&encryption=none&host=group.darkshadoww.shop&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://6b221895-03f0-4a07-a768-66111b83e7c8@37.202.237.107:45495?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
-ss://43121bff-3e8a-44bb-9c33-3f1000f8efe3@148.113.136.236:2053?encryption=none&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519&type=grpc&authority=&serviceName=2053vless&mode=gun#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@3.71.141.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://e227242d-26f1-41ce-ac78-eee39e3480f6@91.92.40.78:2070?security=none&encryption=none&headerType=none&type=tcp#[🇸🇪]t.me/ConfigsHub
 vless://650b3192-7eb9-442e-9802-e0768fe2c71e@sub.atakconfig.com:8080?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056413677.rasht-drec-abac.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://088de8a7-aa1f-4717-b794-18f7f7c714b7@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed&security=none&encryption=none&host=www.speedtest.net.34.isvpython.onlinE.&type=ws#[🇨🇦]t.me/ConfigsHub
-trojan://telegram-id-directvpn@3.71.141.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638779006056417026.rasht-drec-abac.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://1b889114-b265-4e3b-b818-10a0c848be17@hol.9model.ir:1025?security=reality&encryption=none&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇳🇱]t.me/ConfigsHub
