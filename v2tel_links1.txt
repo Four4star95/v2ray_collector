@@ -16163,3 +16163,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmY4YzVkYTEwZTAwMjRh@144.126.142.92:21448#[
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmY4YzVkYTEwZTAwMjRh@144.126.142.92:21448#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDJlMjA2OGMwNDdkNzUw@57.130.11.84:11202#[🇫🇷]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbW9JWTBMWFN1RDAxakNj@85.210.120.172:443#[🇬🇧]t.me/ConfigsHub
+vless://60f69e7c-f284-4dce-bd47-6074ce08a800@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=1024&security=none&encryption=none&host=www.speedtest.net.39.isvpython.onlinE.&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDJlMjA2OGMwNDdkNzUw@57.130.11.84:11202#👉🆔 @MoftConfig📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OWVlZGY4ZTkxNzBjOGE0@57.128.190.214:48977#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2ZhZmFkMjM2MzExNjdj@57.130.11.56:11202#👉🆔 @MoftConfig📡🇫🇷France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbW9JWTBMWFN1RDAxakNj@85.210.120.172:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmY4YzVkYTEwZTAwMjRh@144.126.142.92:21448#👉🆔 @MoftConfig📡🇺🇸United States
+vless://714ed6b1-ee85-4ef1-9e74-572f39a98bf3@199.232.5.153:80?path=Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2044&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=JoinBede--VPNCUSTOMIZE---VPNCUSTOMIZE.Ir&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://5f1afab7-419e-45b6-ae6e-5e4600f687a1@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=1024&security=none&encryption=none&host=www.speedtest.net.39.speedtest3.onlinE.&type=ws#[🇨🇦]t.me/MoftConfig
