@@ -16277,3 +16277,7 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.248.189:5498#👉🆔 @MoftConfi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.40.63:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @MoftConfig📡🇸🇪Sweden
 vmess://eyJhZGQiOiI5MS4xMDcuMTM4LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0NzhhNzNhLTliOTctNGMxZC04ODZiLTU4NzZiMTRhNThkNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjMwMzAiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
+trojan://telegram-id-v2rayvpnchannel@18.153.149.85:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
+trojan://CCwEYCy3g3SzejBn3lDpRAeC83ap7TaR7a0A4Dxg6IelDZFFuaXNFOSSFYpKaSwyeN8qX@affairs.meijireform.com:28331?allowInsecure=0&sni=affairs.meijireform.com#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YTY5YmRjMWJmNGNkOTI3@40.160.8.211:11105#[🇺🇸]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?type=grpc#👉🆔 @MoftConfig📡🇺🇸United States
