@@ -16276,3 +16276,4 @@ vless://db3ce2b0-2461-47c3-a2b6-b6a06aed8ce6@tel5.vpntype.dev:443?security=tls&e
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.248.189:5498#👉🆔 @MoftConfig📡🇺🇸United States
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.40.63:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @MoftConfig📡🇸🇪Sweden
 vmess://eyJhZGQiOiI5MS4xMDcuMTM4LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0NzhhNzNhLTliOTctNGMxZC04ODZiLTU4NzZiMTRhNThkNCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjMwMzAiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
