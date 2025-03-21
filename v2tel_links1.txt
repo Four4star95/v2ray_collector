@@ -15127,3 +15127,21 @@ vless://132d7485-7da5-4d78-811f-1000bd6c4473@151.101.194.165:80?security=none&ty
 trojan://Aimer@188.164.159.185:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
 trojan://Aimer@108.165.152.163:2087?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇮🇳India
 
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@47.254.22.131:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇺🇸United States
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.222.160.112:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.91.159:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.191.45:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://0aef3f78-ddd1-46ce-9526-2a033d20dcf4@92.53.190.149:2087?path=%2FV2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&security=tls&encryption=none&type=ws&sni=crm.iranigamebaz.ir#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.235.156:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.194.115:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.172.181:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.210.48.192:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+vless://0aef3f78-ddd1-46ce-9526-2a033d20dcf4@66.235.200.146:2087?path=%2FV2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&security=tls&encryption=none&type=ws&sni=crm.iranigamebaz.ir#👉🆔 @MoftConfig📡🇺🇸United States
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.222.128.71:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.103.101:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.146.89:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://0aef3f78-ddd1-46ce-9526-2a033d20dcf4@199.34.228.46:2087?path=%2FV2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&security=tls&encryption=none&type=ws&sni=crm.iranigamebaz.ir#👉🆔 @MoftConfig📡🇺🇸United States
+vless://0aef3f78-ddd1-46ce-9526-2a033d20dcf4@199.34.228.187:2087?path=%2FV2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&security=tls&encryption=none&type=ws&sni=crm.iranigamebaz.ir#👉🆔 @MoftConfig📡🇺🇸United States
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.222.245.218:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.122.88:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://0aef3f78-ddd1-46ce-9526-2a033d20dcf4@199.34.228.191:2087?path=%2FV2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&security=tls&encryption=none&type=ws&sni=crm.iranigamebaz.ir#👉🆔 @MoftConfig📡🇺🇸United States
