@@ -1,3 +1,4 @@
+vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@147.45.221.147:3044?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com#👉🆔 @MoftConfig📡🇦🇱Albania
 vless://409ef7ff-6449-4b9a-9db9-775927a1a925@157.245.40.50:8989?security=reality&encryption=none&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.122.61:54075#👉🆔 @MoftConfig📡🇬🇮Gibraltar
 vless://3c3b9a7c-81d0-4bdc-9615-25f4f83b039b@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.29.isvpython.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -107,7 +108,6 @@ ss://a77f4f69f0444896bacb302bbe3116d5@109.61.18.221:9314#[🇦🇪]t.me/ConfigsH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@67.220.95.102:6379#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.132:8080#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.133:8080#[🇳🇱]t.me/ConfigsHub
 vless://e7466ee9-073c-477a-8fab-e9b3792b7990@170.114.45.6:80?path=%2F&security=none&encryption=none&host=group.darkshadoww.shop&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://6b221895-03f0-4a07-a768-66111b83e7c8@37.202.237.107:45495?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.71.141.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
