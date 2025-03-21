@@ -1,3 +1,4 @@
+ss://a77f4f69f0444896bacb302bbe3116d5@109.61.18.221:9314#[🇦🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@67.220.95.102:6379#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.132:8080#[🇺🇸]t.me/ConfigsHub
@@ -140,7 +141,6 @@ vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880/?type=ws&encry
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.12.31:80/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://telegram-id-directvpn@52.28.112.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 trojan://telegram-id-directvpn@52.28.112.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@52.28.112.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://7d54a4ed-a079-453e-9320-61fd06c596e2@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇫🇷]t.me/ConfigsHub
 vless://08c6af5c-0cf6-4cef-9e71-ff2b8bda9a88@91.107.171.178:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=ewDD3JGVy5gr1kULxg5hiBN7OEsJizyP8mLKSZ6mIV0&fp=chrome&type=xhttp&sni=wabulkleads.com&sid=3094ca615ff48777#[🇩🇪]t.me/MoftConfig
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@172.64.34.232:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=news1.testsnew.com&type=ws&sni=news1.testsnew.com#[🇨🇦]t.me/ConfigsHub
