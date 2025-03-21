@@ -15188,3 +15188,14 @@ trojan://telegram-id-privatevpns@13.50.61.27:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.20.19.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.186.96:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 trojan://telegram-id-v2rayvpnchannel@51.20.19.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://telegram-id-directvpn@13.36.73.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.221.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
+vless://252456af-eeaf-41a4-f4f2-d18a2d234301@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&host=Telegram#[🇳🇱]t.me/ConfigsHub
+vless://8cf7a8ba-22a2-4876-b779-232f4c82dc3e@www.speedtest.net:443?mode=auto&path=%2F%3F%40jokerrvpnTelegram#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.241.99:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://V2RAXX@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=BIG-bang.global.ssl.fastly.net&type=xhttp#👉🆔 @MoftConfig📡🇺🇸United States
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@chopper.lnmarketplace.net:443?security=tls&alpn=h2&encryption=none&host=Telegram#[🇳🇱]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.36.73.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.221.132:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://8cf7a8ba-22a2-4876-b779-232f4c82dc3e@www.speedtest.net:443?mode=auto&path=%2F%3F%40jokerrvpnTelegram#[🇨🇦]t.me/MoftConfig
