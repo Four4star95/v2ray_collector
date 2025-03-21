@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.142.145:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
 ss://a77f4f69f0444896bacb302bbe3116d5@109.61.18.221:9314#[🇦🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@67.220.95.102:6379#[🇺🇸]t.me/ConfigsHub
@@ -123,7 +124,6 @@ vless://%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72V2ray8@www.speedtest.net:443?p
 trojan://telegram-id-privatevpns@3.124.166.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 vless://8cf7a8ba-22a2-4876-b779-232f4c82dc3e@www.speedtest.net:443?mode=auto&path=%2F%3FNicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker&security=tls&encryption=none&host=ipv4.dgclix.ir&type=xhttp&sni=ipv4.dgclix.ir#[🇨🇦]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.216:80/?type=ws&encryption=none&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#👉🆔 @MoftConfig📡🇯🇵Japan
-vless://8cf7a8ba-22a2-4876-b779-232f4c82dc3e@www.speedtest.net:443?mode=auto&path=%2F%3FNicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker_Nicotine_joker&security=tls&encryption=none&host=ipv4.dgclix.ir&type=xhttp&sni=ipv4.dgclix.ir#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.51:80/?type=ws&encryption=none&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#👉🆔 @MoftConfig📡🇯🇵Japan
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2F#👉🆔 @MoftConfig📡🇯🇵Japan
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80/?type=ws&encryption=none&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#👉🆔 @MoftConfig📡🇯🇵Japan
