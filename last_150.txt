@@ -1,3 +1,8 @@
+vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@147.45.221.147:3044?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com#👉🆔 @MoftConfig📡🇦🇱Albania
+vless://409ef7ff-6449-4b9a-9db9-775927a1a925@157.245.40.50:8989?security=reality&encryption=none&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.122.61:54075#👉🆔 @MoftConfig📡🇬🇮Gibraltar
+vless://3c3b9a7c-81d0-4bdc-9615-25f4f83b039b@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.29.isvpython.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://auto@104.21.72.108:443?path=%2F&security=tls&host=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&sni=esetsecuritylicense1.cxlrazo.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://Parsashonam-169@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔 @MoftConfig📡🇺🇸United States
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.162.194:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
@@ -143,8 +148,3 @@ trojan://0FaYIOcSy4lBg38yRxnj7RlR3RZYSq3pC9OaSDAAOw6Oe8FCpy08u8pzx3eKZacDz3XE3@t
 trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@rolling.homeofbrave.net:28333?allowInsecure=0&sni=rolling.homeofbrave.net#👉🆔 @MoftConfig📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @MoftConfig📡🇧🇭Bahrain
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.248.121:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSzRXRW9iVGVlQlM=@120.233.44.70:998#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT01Ya3FlQ1NMTkhsVnkxQXZkcW0y@77.83.246.74:443#[🏁]t.me/ConfigsHub
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMDQuMTkuMTczLjY4IiwiYWlkIjowLCJob3N0IjoiNTExOTcwMDUwOTQzMDMyMDI1MDMyMDEwMzQwNTQ0NDcxLm1nbHhjLmNoaWJhYmEuZmlsZWdlYXItc2cubWUiLCJpZCI6IjI3Yzg1ZmRiLTVlOGYtNDNlYS1iZjQzLTRlZDRkMGEzYjMwNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbHhjLmh0bWw/ZWQ9MjA0OCIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
