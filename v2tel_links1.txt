@@ -16054,3 +16054,15 @@ vless://83bddc83-60aa-406d-a075-21b987f87f93@242232454.web-manage.com.tr:1521?se
 vless://83bddc83-60aa-406d-a075-21b987f87f93@722309294.web-manage.com.tr:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://83bddc83-60aa-406d-a075-21b987f87f93@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/MoftConfig
 vmess://eyJhZGQiOiJiaWlpYS12cG4td2hhbC5mYXN0Lmhvc3RpbmctaXAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjYXQuSVIuIiwiaWQiOiJpZDktLS1AdnBuLXdoYWwiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkXHUwMDNkMjA1Ni8jaWQtdGVsZWdyYW06LS0tXHUwMDNlQHZwbl93aGFsXHUwMDNjLS0tIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://edef9de3-a257-4638-a7a8-e702d8d77ee4@mmdking.mamadking.shop:32415/?type=ws&path=%2F%3Fed%3D2048&host=www.speedtest.net&security=none#[🇮🇷]t.me/MoftConfig
+vless://83bddc83-60aa-406d-a075-21b987f87f93@722309294.web-manage.com.tr:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇫🇮Finland
+trojan://telegram-id-directvpn@13.48.201.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+vless://83bddc83-60aa-406d-a075-21b987f87f93@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇫🇮Finland
+vless://tel:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://tel:v2rayng_76@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://telegram-id-directvpn@13.48.201.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://5f6d1a7d-17fd-4751-9389-f43e15c3e0cc@huffingtonpost.es:80?flow&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://a72d08ec-677f-47fb-b24a-1d4ecf30f823@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://83bddc83-60aa-406d-a075-21b987f87f93@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://edef9de3-a257-4638-a7a8-e702d8d77ee4@mmdking.mamadking.shop:32415/?type=ws&path=%2F%3Fed%3D2048&host=www.speedtest.net&security=none#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.48.201.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
