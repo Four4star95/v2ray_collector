@@ -15072,3 +15072,4 @@ ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.154.136.132:5499#👉🆔 @MoftConfi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT01Ya3FlQ1NMTkhsVnkxQXZkcW0y@77.83.246.74:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiJVczctMDEuODkwNjI0Lnh5eiIsImFpZCI6MCwiaG9zdCI6IlVzNy0wMS44OTA2MjQueHl6IiwiaWQiOiI0ZDA0YjMwYy1lZjdiLTRhMDctOGY5ZS1mNTgxZWMxNzFmOGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2J1YTJoTWNiQTh3TXpiR0Z0ViIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ1czctMDEuODkwNjI0Lnh5eiJ9
+trojan://7505bf2d-9d04-46a3-b91e-d1115c5dcba8@vss.lihua.click:13680/?type=tcp&security=tls&sni=jp.lihua.click&allowInsecure=1#⚜️Telegram:@IP_CF
