@@ -1,3 +1,6 @@
+trojan://SDYlNZ6z5DA8TZqz33YnN4lzpp88YBZOyXC5we8AZBqn6YXwI0gISyalXjIOyNwCaDpDORKSyDCSg9S@rolling.homeofbrave.net:28333?allowInsecure=0&sni=rolling.homeofbrave.net#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @MoftConfig📡🇧🇭Bahrain
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.248.121:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/ConfigsHub
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@193.123.188.16:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@141.148.241.108:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@104.19.199.105:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -140,9 +143,6 @@ vless://1e9b0786-d7a3-427e-a73d-b061d843c292@3.irancella.blog:2089?security=real
 vless://1e9b0786-d7a3-427e-a73d-b061d843c292@2.irancella.blog:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&host=Telegram#[🇩🇪]t.me/MoftConfig
 vless://1e9b0786-d7a3-427e-a73d-b061d843c292@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&host=Telegram#[🇩🇪]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.73.175.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.81.171:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
-vmess://eyJhZGQiOiI5MS4xMDcuMTQ4LjExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVmZTg4MmEzLWFmNjYtNGE1YS04OGFjLTk4NGRjODRiYWRmZiIsIm5ldCI6InhodHRwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwODMiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.73.175.95:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.45.122:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@185.193.158.8:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#[🇳🇱]t.me/ConfigsHub
