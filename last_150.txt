@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#👉🆔 @MoftConfig📡🇧🇭Bahrain
 trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.248.121:443?security=tls&sni=jp.mjt001.com#[🏁]t.me/ConfigsHub
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@193.123.188.16:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@141.148.241.108:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇳🇱The Netherlands
@@ -145,6 +146,5 @@ trojan://telegram-id-privatevpns@176.34.242.30:22222?security=tls&alpn=http/1.1&
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5600#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNell4WkdSbQ==@45.140.167.182:8388#[🇬🇧]t.me/ConfigsHub
-ss://3415f323-9e99-4b15-ddac-7bdb0409c606@95.217.0.23:26209?path=%2F&security=none&encryption=none&type=ws#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#[🇬🇧]t.me/ConfigsHub
 vless://7f4402b5-8b88-453e-a887-007703fc2faf@cdnjs.com:2096?security=tls&encryption=none&type=ws&host=mJe.nimhub.ir&path=/&sni=mJe.nimhub.ir&fp=random&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
