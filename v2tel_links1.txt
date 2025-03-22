@@ -17068,3 +17068,9 @@ vless://802a5ca1-e1cf-4d33-8b05-6f7e577663b5@tify-binex-join.espikernajafi.ir:20
 trojan://Aimer@160.79.105.160:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@37.27.211.10:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/ConfigsHub
 trojan://Aimer@167.68.4.131:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@167.68.4.131:8443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://a7af3cab-00c1-44fa-8a02-0236b5a4ed9f@151.101.64.155:80?type=ws&host=1.wexer-rih.ir&path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@37.27.211.10:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/MoftConfig
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@172.67.204.84:443?security=tls&sni=tjovt.dominic-doshaboone.info&type=ws&host=tjovt.dominic-doshaboone.info&path=/tiger#[🇨🇦]t.me/MoftConfig
+vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@188.245.95.151:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇩🇪]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F%3Fed%3D2560&fp=random#[🇨🇦]t.me/MoftConfig
