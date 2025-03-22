@@ -16968,3 +16968,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.45.122:8880?security=&encry
 vless://925fa8b2-40e4-456f-b87b-dc34f4f7cd6d@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://7e5813d0-e5ac-437c-ba4e-2f8c17a84aae@185.193.158.8:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#[🇳🇱]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#[🇺🇸]t.me/ConfigsHub
+vless://245f8d6f-989b-46b1-a773-d7cea3b16a10@32892393.web-manage.com.tr:1524?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.93.129:443#[🇧🇭]t.me/ConfigsHub
