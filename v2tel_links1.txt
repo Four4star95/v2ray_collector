@@ -17095,3 +17095,8 @@ trojan://Aimer@108.165.152.219:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni=3y.2032.pp.ua&type=ws&host=3y.2032.pp.ua&path=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#👉🆔 @MoftConfig📡🇨🇦Canada
 trojan://Aimer@arvind.ns.cloudflare.com:443?allowInsecure=0&sni=agepk.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.21.94:2095?security=none&type=ws&host=fuckingcloudflare.2-5e8.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.77.141.158:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://Aimer@103.103.245.183:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+trojan://Aimer@108.165.152.219:443?allowInsecure=0&sni=agepj.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
+trojan://Aimer@arvind.ns.cloudflare.com:443?allowInsecure=0&sni=agepk.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?security=reality&sni=www.yahoo.co.jp&type=grpc&serviceName=GunService&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#[🏁]t.me/MoftConfig
