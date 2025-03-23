@@ -17402,3 +17402,6 @@ vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@84.8.147.131:443?encryption=none&fl
 vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-fr.hmray.pro:2092?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/MoftConfig
 vless://0791e547-9191-4981-8b38-3d490c2b41d5@242232454.web-manage.com.tr:1521?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇫🇮Finland
 vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-nl.hmray.pro:2087?encryption=none&security=none&type=ws&path=%2F#[🇮🇷]t.me/MoftConfig
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.24.13.213:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@54.217.200.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
