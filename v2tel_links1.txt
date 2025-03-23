@@ -17736,3 +17736,4 @@ vless://3176900e-eeb6-468b-9865-a87d3ce4e2ec@sto5.vpntype.dev:443?security=tls&e
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.231.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 vless://b72f10b0-69fa-43c3-9cf6-3907fba914e9@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=de1-vless.greenssh.org&type=ws&sni=de1-vless.greenssh.org#[🇨🇦]t.me/MoftConfig
 vless://b72f10b0-69fa-43c3-9cf6-3907fba914e9@bazar.ir:443?path=%2Fvless&security=tls&encryption=none&host=de1-vless.greenssh.org&type=ws&sni=de1-vless.greenssh.org#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.64.27:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#⚜️Telegram:@IP_CF
