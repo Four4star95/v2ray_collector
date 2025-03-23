@@ -17171,3 +17171,4 @@ trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=agepk.ambercc.fi
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@172.67.167.186:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@damien.ns.cloudflare.com:443?allowInsecure=0&sni=agepk.ambercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://9aeaf9e5-873e-4c58-85f9-1dcd61a4ff38@188.121.100.12:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#[🇮🇷]t.me/MoftConfig
+
