@@ -17189,3 +17189,4 @@ ss://YWVzLTI1Ni1nY206TkxHWlhHRzA5RDVGOFg1VQ@156.245.190.17:15008#[🇬🇧]t.me/
 vmess://eyJhZGQiOiIyMy4xNTguNTYuMjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmVlZjM0NDgtYmJjMC00OTMzLTg5NGEtNzJiM2U4Nzg2MTA5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODk2MSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://043db856-1b59-4ade-9daf-d9e6b9e40adf@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&authority=&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel+%3A+%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#⚜️Telegram:@IP_CF
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bXVhZUZ0Tm94RWNmQ2tBUnkyMXNz@92.118.112.111:18622#[🇺🇸]t.me/ConfigsHub
