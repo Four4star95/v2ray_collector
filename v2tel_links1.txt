@@ -17617,3 +17617,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.226:80?path=Telegram%40Wan
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.99:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.132:80?path=Telegram%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.149.48:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@54.75.236.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.243.228.79:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.243.228.79:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
