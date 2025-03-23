@@ -17539,3 +17539,11 @@ trojan://telegram-id-privatevpns@3.73.6.39:22222?security=tls&alpn=http/1.1&head
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.30.114:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@15.237.230.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://055fbab8-d893-4572-92d7-4d340ce9664c@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3FjokerrvpnTelegram#[🇩🇪]t.me/ConfigsHub
+ss://0841b328-9011-4be5-99d8-da53d1eae956@tify-binex-join.espikernajafi.ir:2053/?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=chess.com&type=ws#⚜️Telegram:@IP_CF
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3F%40jokerrvpnTelegram#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyMmFKSnY2bXR2YmJIWWNP@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dFZ3V2d2OVhRVFk1Wk5U@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjA3LjkwLjIzOC4xMzYiLCJwb3J0IjoiMjAwMjIiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmUyZTVkNTItZGZmNS00YWRjLWJlMDUtZDIyYjBiNjg4ODk4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
