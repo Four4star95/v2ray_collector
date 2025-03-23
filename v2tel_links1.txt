@@ -17445,3 +17445,4 @@ vless://46a682d0-8fe2-4cec-bfac-1fbd31416867@www.parsvds.com:2096?path=%2F2096%2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbkVXVmJFcmRIdnZTQktwOEpla0Fr@89.185.84.185:443#[🇬🇧]t.me/MoftConfig
 trojan://telegram-id-directvpn@18.202.210.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.76.147:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇬🇧
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.76.147:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
