@@ -17219,3 +17219,13 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?security=tls&sni
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.z.sPeedtest3.sbs.&type=ws#WS3-Irancell+%7C+%40ArV2ray
 vless://50cfad9c-d60a-4276-bd3f-696bc1ca9c25@hol.9model.ir:1025/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc&sid=#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 trojan://telegram-id-directvpn@16.16.59.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇸🇪
+ss://YWVzLTI1Ni1nY206UVdTTEtTVjdDNE4xMThWRw==@185.93.173.246:20008#👉🆔 @MoftConfig📡🇧🇴Bolivia
+vless://521de297-75cb-4302-a88b-c24532bf0f57@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.172.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@16.16.59.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://4db4ce76-14f3-4b29-b41b-8aaa9cc28463@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+trojan://telegram-id-directvpn@16.16.59.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#👉🆔 @MoftConfig📡🇭🇰Hong Kong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.71:443#👉🆔 @MoftConfig📡🇳🇱The Netherlands
