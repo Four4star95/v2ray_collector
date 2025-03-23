@@ -1,3 +1,5 @@
+vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.82.81:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?encryption=none&security=tls&sni=pHOTOgrApHipiCTureaI.IR&fp=randomized&type=ws&host=photographipictureai.ir&path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@141.147.172.191:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇯🇵Japan
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@130.162.174.70:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@158.101.23.175:443?path=%2Fwss&security=tls&encryption=none&type=ws&sni=news1.testsnew.com#👉🆔 @MoftConfig📡🇺🇸United States
@@ -142,9 +144,7 @@ vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.5e11.613.b297.djj
 vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.dje11.1.b297.djjsvip.cfd:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cremedelamer.com&fp=ios&security=reality&pbk=DGzXhLIUE3NQXX-IVo5YCSeANn1vECVBdnw7dtC0sTQ&sid=92388f50ce26394f&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 vless://e88c3f95-45e9-4462-b032-01dc43391886@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRURUVXhXR0lkdlJvYnQ5R1pkQ05J@77.83.246.74:443#[🏁]t.me/ConfigsHub
-vless://f3bcbe2a-c451-45e1-87b1-fff3cd634a3e@37.27.250.128:1520?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3F%40jokerrvpnTelegram#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@44.212.252.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub
-vless://c4457d8c-7c11-4bbd-b37c-9fcdc5d59bef@liferobot.darkping.net:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&host=Telegram#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.149.48:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.228.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://f3bcbe2a-c451-45e1-87b1-fff3cd634a3e@37.27.211.10:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3F%40jokerrvpnTelegram#[🇫🇮]t.me/ConfigsHub
