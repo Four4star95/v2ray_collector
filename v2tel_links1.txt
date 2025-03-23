@@ -17701,3 +17701,4 @@ vless://5e1102b1-742f-4d55-af7b-aaee668eb9d3@hon5.vpntype.dev:443?security=tls&e
 trojan://telegram-id-privatevpns@13.39.228.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵@MoftConfig
 vless://71d21ff6-3701-44ae-9c4f-ddb2921e44da@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://744f2a6d-46f2-4d40-870d-c43926d41f74@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://60be7572-d2e4-4336-b776-5b44c7d2411a@5.75.140.123:4810?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
