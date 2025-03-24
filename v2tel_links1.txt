@@ -18368,3 +18368,15 @@ vless://512e80c1-55b5-4729-8908-c0d83ff3def5@hajlab.ucdavis.edu:80?security=&typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#👉🆔 @MoftConfig📡🇺🇸United States
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@185.184.70.48:13507?security=reality&encryption=none&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=31c87861#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://610648e9-0f0f-4a9b-9ba7-f35b07a80b4a@151.101.192.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.20.195.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://c6873f52-eb32-4717-849a-2266a3af8d3b@150.241.81.131:443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/23654/@M3HDIO1&fp=chrome&allowInsecure=1#[🇸🇪]t.me/ConfigsHub
+vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?security=tls&sni=ed19-dc7.pages.dev&type=ws&host=ed19-dc7.pages.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
+trojan://f2s539@104.21.51.9:443?security=tls&sni=aws-us-dallas-1.f1cflined.com&type=ws&host=aws-us-dallas-1.f1cflined.com&path=%2Ff1rocket#[🇨🇦]t.me/ConfigsHub
+vless://5db1705c-5129-4da6-a5b8-55305bfd7726@hajlab.ucdavis.edu:80?type=ws&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&host=joinxvproxybedee.ir&security=none#👉🆔 @MoftConfig📡🇺🇸United States
+vless://610648e9-0f0f-4a9b-9ba7-f35b07a80b4a@151.101.3.8:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.203.118.212:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
+vless://a31662df-9ef2-43f9-981f-6cb2d0341c17@137.184.91.43:56702?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInBvcnQiOiIyMzQ1MiIsInR5cGUiOiJub25lIiwiaWQiOiI3MzE4YmMxNS00YmZmLTRlMjItYWFjMy00ZDlmODQ5OTMwZGIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0Ijoid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+trojan://telegram-id-privatevpns@13.36.79.206:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
+trojan://NuL1nBAAaM@172.67.161.74:2083?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
