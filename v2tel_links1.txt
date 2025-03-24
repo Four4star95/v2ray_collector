@@ -18321,3 +18321,7 @@ vless://4b49f101-2a22-4b0f-eb5d-04b060cc708c@Tehran.codephpplus13.ir:7000?type=g
 vless://4b49f101-2a22-4b0f-eb5d-04b060cc708c@Tehran.codephpplus13.ir:7000?type=grpc&serviceName=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config&authority=&security=reality&pbk=swSLisRT-EwqAPNLfzKxnki30_VwpXGZ4pXowY7KBRs&fp=qq&sni=www.cdn77.com&sid=&spx=%2F#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.215.201.13:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.14.85:80?security=none&type=ws&host=redfrEe8w.Pooriam.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://5bafc2b7-0554-4020-8bde-2a35f5f24ed9@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#[🇬🇧]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#[🇺🇸]t.me/ConfigsHub
