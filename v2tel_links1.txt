@@ -18482,3 +18482,16 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.72.40.21:22222?path=/telegram-ch
 trojan://telegram-id-privatevpns@54.195.170.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 trojan://telegram-id-privatevpns@54.195.170.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.177.129.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-200@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
+trojan://auto@188.114.99.81:443?path=%2F&security=tls&host=mazq100za43.962dael.workers.dev&type=ws&sni=mazq100za43.962dael.workers.dev#[🇺🇸]t.me/MoftConfig
+vless://b0b6a34e-0c93-457c-abc8-99c0ab3afdb4@172.67.187.18:443?mode=auto&path=%2FAZFlrd5mM4sTe3tLTdYD&security=tls&alpn=h3&encryption=none&host=cdn1.proxystore11.news&fp=chrome&type=xhttp&sni=cdn1.proxystore11.news#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.19:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDcuOTIuMTUyLjE2OSIsInBvcnQiOiI1MDAwMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3FjokerrvpnTelegram%20%3A&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://63d7714a-2ac5-46ac-93be-96cea00300f8@172.64.88.159:80?security=none&type=ws&host=winter-unit-b41d-ppal03.daxesac157.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-200@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@37.27.250.128:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.72.132.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.34:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/MoftConfig
+vless://7c9f6cf3-c083-46f8-b371-17374d1f5232@32892393.web-manage.com.tr:1524?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#👉🆔 @MoftConfig📡🇫🇮Finland
