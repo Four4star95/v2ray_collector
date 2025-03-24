@@ -17776,3 +17776,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjcwY2UzYy05NjMyLTRjZDEtOWJiMC00ZTM0NzFhOTc
 vless://6cb73a80-e416-41c0-bad7-48cb5c5cebb1@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36721#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36313#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36721#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36243#[🏁]t.me/MoftConfig
