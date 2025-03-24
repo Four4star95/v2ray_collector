@@ -18728,3 +18728,9 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@185.16.110.111:443?sni=uu.vs2024.us
 vless://bacbaca-aabc-abca-bacd-aacacbbcbabc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 vless://b0a82794-d4d3-4660-d3fd-34de710727d3@172.67.175.40:443?security=tls&sni=iran.farsonline24.ir&type=ws&host=iran.farsonline24.ir&path=%2F35872%2F%40M3HDIO1&fp=chrome#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#👉🆔 @MoftConfig📡🇨🇭Switzerland
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3F%40jokerrvpnTelegram#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://d6660712-4d18-47fd-b095-0c36db667250@104.17.159.188:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://ca426e95-9d37-4cca-9521-e61dc50186c2@173.245.59.132:2053?path=%2F%3F%40jokerrvpnTelegram#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2Fn9VBBKoNzJpkUcnO%3Fed%3D2048&security=tls&encryption=none&host=HaSti.fReEaIRlAineS.coM&fp=chrome&type=ws&sni=HASti.FReeAirlAINEs.cOm#⚜️Telegram:@IP_CF
+vless://65eb246a-8436-45a1-993f-4ff65d35e7fc@108.162.193.81:443?security=tls&sni=64jhrt.allgums.com&type=ws&host=64jhrt.allgums.com&path=/wss&alpn=http/1.1#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2Fn9VBBKoNzJpkUcnO%3Fed%3D2048&security=tls&encryption=none&host=HaSti.fReEaIRlAineS.coM&fp=chrome&type=ws&sni=HASti.FReeAirlAINEs.cOm#👉🆔 @MoftConfig📡🇨🇦Canada
