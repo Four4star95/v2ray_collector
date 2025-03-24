@@ -17778,3 +17778,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36313#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36721#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODM0MjE4NS0yM2I3LTQwMWEtODA1OS0wN2JiYjA0ZjMzNjE@free.2weradf.xyz:36243#[🏁]t.me/MoftConfig
+vless://d9929a9e-c1e0-4595-ac91-b3deed551d2d@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇪%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQOGNhbWVqSWh1T3RzY0ZPblV6TVJY@81.19.141.45:443#🇩🇪 Германия
