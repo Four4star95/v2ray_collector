@@ -18809,3 +18809,7 @@ vless://31f625ef-7585-441d-9df3-8839506dfb1e@soft98.ir.p31download.com:8080?secu
 trojan://telegram-id-directvpn@13.42.109.74:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?security=none&type=tcp#👉🆔 @MoftConfig📡🇧🇪Belgium
 vless://7c9f6cf3-c083-46f8-b371-17374d1f5232@32892393.web-manage.com.tr:1524?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#[🇩🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FNo0b7KFvNtbAEJWV%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://5057251d-6dab-4021-b359-5e77b7bb1b6e@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=crimson-cell-5828-ppal03.febox45376.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ppaL03.Ally-hIRthE.woRkErs.DeV&fp=randomized&type=ws&sni=Ppal03.ally-Hirthe.wOrKERs.DEv#[🇨🇦]t.me/ConfigsHub
