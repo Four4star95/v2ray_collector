@@ -18831,3 +18831,6 @@ trojan://telegram-id-directvpn@13.53.50.52:22222?security=tls&alpn=http/1.1&head
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.6.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.53.50.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://Aimer@27.50.48.189:2083?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@135.84.74.27:8443?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:2087?security=tls&sni=us-190.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
