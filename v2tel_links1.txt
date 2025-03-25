@@ -18823,3 +18823,5 @@ trojan://Aimer@27.50.49.47:2083?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me
 trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=agepn.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
 trojan://Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&sni=agepm.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
 vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@162.159.192.153:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/ConfigsHub
+vless://1e9a4cde-648f-4d9a-91bd-73a92fecba2b@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+vless://75019522-8742-481c-ac07-1e65936a4fdf@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
