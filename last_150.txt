@@ -1,3 +1,5 @@
+vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@129.153.90.9:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=dj-download-us.xn--4gq62f52gopi49k.com&fp=ios&packetEncoding=xudp#[🇺🇸]t.me/ConfigsHub
+vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.5e11.613.b297.djjsvip.cfd:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=djdownloadhk1.xn--4gq62f52gopi49k.com&fp=safari&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@c8217-b2a.h2.49d2.dje11.1.b297.djjsvip.cfd:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cremedelamer.com&fp=ios&security=reality&pbk=DGzXhLIUE3NQXX-IVo5YCSeANn1vECVBdnw7dtC0sTQ&sid=92388f50ce26394f&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 vless://e88c3f95-45e9-4462-b032-01dc43391886@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxRURUVXhXR0lkdlJvYnQ5R1pkQ05J@77.83.246.74:443#[🏁]t.me/ConfigsHub
@@ -146,5 +148,3 @@ vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.183:2096?security=tls&sn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31677#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQOGNhbWVqSWh1T3RzY0ZPblV6TVJY@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
 vless://891ae5f5-6847-4c06-805f-afb4bcc906ff@wanderlust.zone.id:8443?mode=auto&path=%2Fdee69592&security=reality&encryption=none&pbk=xNcZAorXH9rA85fD6A5w3-fC0iWLWYdE3XJc39ckNAc&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=1dafa50a048e3f#[🇫🇮]t.me/ConfigsHub
-vless://d697e738-c105-42d0-916a-191b2e3074fd@d6.vixsm.ir:4810?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@13.42.244.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
