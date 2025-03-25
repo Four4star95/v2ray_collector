@@ -18808,3 +18808,4 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#👉🆔 @MoftConf
 vless://31f625ef-7585-441d-9df3-8839506dfb1e@soft98.ir.p31download.com:8080?security=none&encryption=none&host=sNaPp.MaStErSrV.ir.&type=ws#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.42.109.74:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?security=none&type=tcp#👉🆔 @MoftConfig📡🇧🇪Belgium
+vless://7c9f6cf3-c083-46f8-b371-17374d1f5232@32892393.web-manage.com.tr:1524?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#[🇩🇪]t.me/ConfigsHub
