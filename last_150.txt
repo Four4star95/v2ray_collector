@@ -1,3 +1,4 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.14.85:80?encryption=none&security=none&type=ws&host=redfrEe8w.Pooriam.ir&path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.174:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.99:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.226:80?encryption=none&security=none&type=ws&host=301.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
@@ -77,7 +78,6 @@ vless://05be6af3-8764-4284-94e3-d114247065ee@hon5.vpntype.dev:443?security=tls&e
 vless://2eeac4e3-d70f-44d3-8324-b446431dcb05@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&encryption=none&host=rohammmmmvistav2.ir&type=ws#👉🆔 @MoftConfig📡🇺🇸United States
 vless://16d7a04d-e6f4-479f-8914-80d3817317f9@172.67.175.106:443?security=tls&sni=ed19-dc7.pages.dev&type=ws&host=ed19-dc7.pages.dev&path=%2F#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://d7807075-738b-4032-8124-f11eb88dd097@188.34.201.88:16072?mode=gun&security=none&encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&type=grpc#👉🆔 @MoftConfig📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.26:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://b1335e20-6006-4bc1-a791-8820772903fd@65.109.200.53:23856?security=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&encryption=none&headerType=none&type=tcp#👉🆔 @MoftConfig📡🇫🇮Finland
 vmess://eyJhZGQiOiJqb3p2ZWhlc3Rla2hkYW1pLndlYnlsbi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZmFzdC5jb20iLCJpZCI6ImE0NTA3NThiLTQ4NDUtNGI2YS1iMzMwLTUxYzQ2N2RjNWVhNiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODEiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
