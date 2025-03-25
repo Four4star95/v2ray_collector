@@ -1,3 +1,13 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.99:80?encryption=none&security=none&type=ws&host=redw.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.226:80?encryption=none&security=none&type=ws&host=301.pooriam.ir&path=Telegram%40WangCai2%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://16206e3f-18fe-421b-a5ef-606976e1e736@65.109.184.112:7642?encryption=none&security=none&type=tcp&headerType=none#[🇫🇮]t.me/ConfigsHub
+vless://17dc7c46-0e94-4290-8b00-1cfeeec8f107@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇳🇱]t.me/ConfigsHub
+vless://17dc7c46-0e94-4290-8b00-1cfeeec8f107@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjcwY2UzYy05NjMyLTRjZDEtOWJiMC00ZTM0NzFhOTc4NDI@free.2apzhfa.xyz:31171#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjcwY2UzYy05NjMyLTRjZDEtOWJiMC00ZTM0NzFhOTc4NDI@free.2apzhfa.xyz:31145#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.205:80?security=none&type=ws&host=redw.pooriam.ir&path=Telegram🇨🇳+@WangCai2#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYjcwY2UzYy05NjMyLTRjZDEtOWJiMC00ZTM0NzFhOTc4NDI@free.2apzhfa.xyz:31241#[🏁]t.me/ConfigsHub
+vless://753ac1b2-d3a1-408c-a5c6-59a36352e817@199.232.170.133:80?type=xhttp&host=joinbede_unlimiteddev.ir#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.61.61.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://44aef0cc-ec1b-450e-8bc7-82d3dc2ba31c@51.77.108.99:13004?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@45.149.12.67:8880?security=none&type=ws&host=photographipictureai.ir&path=%2FTABRIZ.NET%2C+%40Azarbayjab1.googleapis.com%2C+%40Azarbayjab1%40Azarbayjab1%2F%3Fed%3Dtabrizm137.com#[🇳🇱]t.me/ConfigsHub
@@ -132,19 +142,9 @@ vless://391c94b0-30b4-46d2-8d26-f9a005b33dfe@hajlab.ucdavis.edu:80?type=ws&path=
 vless://6275d0ea-f71f-4c73-a292-130f524ae08f@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://6ef50faa-e825-4750-ba40-ca517af41bf2@195.15.243.208:1990?security=reality&sni=stackoverflow.com&type=xhttp&host=stackoverflow.com&path=%2F&fp=chrome&pbk=4qOKlkttwn8Yw2FN4ZYCint9k-TK9QU56tOXiXgXsGM&sid=fce601089937b01a#[🏁]t.me/ConfigsHub
 vless://84477544-3b2d-486b-82c3-eab804753c7b@37.27.250.128:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir%2F%3F%40Join_Bade_Channel@Nicotine_joker&headerType=http#[🇫🇮]t.me/ConfigsHub
-trojan://b746399a-2169-330a-a824-e0a24bd2b526@gy.58n.net:20305?allowInsecure=1&sni=z305.hongkongnode.top#[🏁]t.me/ConfigsHub
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.240:443?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#👉🆔 @MoftConfig📡🇸🇬Singapore
-trojan://Aimer@162.159.44.235:2053?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#👉🆔 @MoftConfig📡🇺🇸United States
-vless://669cc314-8eb0-4940-8622-112e9f2ebd2a@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @MoftConfig📡🇩🇪Germany
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2053?security=tls&sni=gb-0.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
-vless://34842069-dcb9-4595-bd60-20b0562c56e5@172.64.32.217:2053?security=tls&sni=gb-0.memories-00.space&type=xhttp&path=/api/v1&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.95.227.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmYwMTczNS05YWQ2LTRiODYtODQ3Yy04MTViNDNhOGE3NGI@free.2weradf.xyz:36641#[🏁]t.me/ConfigsHub
-vless://a551374a-3e35-4122-a15a-a9555adba4e0@104.26.14.16:2083?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&host=bEAt.MIRaclETaxbiTS.Top.&path=%2F2083%2F%40VRayyNGvpn&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.21.14.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
-trojan://b746399a-2169-330a-a824-e0a24bd2b526@gy.58n.net:50355?allowInsecure=1&sni=z264.hongkongnode.top#[🏁]t.me/ConfigsHub
-trojan://b746399a-2169-330a-a824-e0a24bd2b526@gy.58n.net:20305?allowInsecure=1&sni=z305.hongkongnode.top#[🏁]t.me/MoftConfig
 trojan://telegram-id-privatevpns@18.195.191.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://d3fb8889-3f54-4ef8-9083-a6478dd4bd03@mehdi20.vact.ir:443/?type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&authority=&security=reality&pbk=euMUHS3boiZ0500KTjnU9l_RTX1RP9VFOGEo82gFUyE&fp=chrome&sni=www.cdn77.com&sid=ce1be0&spx=%2F#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://NuL1nBAAaM@104.21.15.33:2083?path=%2F%40M3HDIO1&security=tls&host=support.sabapardaziran.ir&type=ws&sni=support.sabapardaziran.ir#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MmYwMTczNS05YWQ2LTRiODYtODQ3Yy04MTViNDNhOGE3NGI@free.2weradf.xyz:36341#[🏁]t.me/ConfigsHub
