@@ -10404,3 +10404,18 @@ vless://0791e547-9191-4981-8b38-3d490c2b41d5@32892393.web-manage.com.tr:1524?sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzWUxQaDd4YVhRMVV0Skl1@74.177.168.202:443?outline=1&prefix=POST%20s2c77d6J#[🇬🇧]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObU5sT0RZNA%3D%3D@45.140.167.94:8388#[🇬🇧]t.me/ConfigsHub
 vless://d27a2242-3d2d-419e-8ed6-1fd90e154e0f@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://9efd97ca-7ff5-4ee9-b50a-3c2ee654715e@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://telegram-id-directvpn@63.176.228.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
+trojan://telegram-id-privatevpns@52.30.195.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@cdn.fastly.f-35.store:8080?path=/@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY----@ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @MoftConfig📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTElubVVCcnhNZ0VuODVZNnZWamVI@185.172.129.91:56220#👉🆔 @MoftConfig📡🇺🇸United States
+vless://ab441240-5474-4308-9dcd-d8407b85a2c0@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMzk2YzZmMDlkYTEwZWMy@198.244.142.139:11104#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@85.90.207.153:8080#👉🆔 @MoftConfig📡🇦🇲Armenia
+vless://728708dc-2000-4c42-8535-925bd3898e99@31.14.131.51:55829?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔 @MoftConfig📡🇮🇹Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNHo1RWZlTm9EM3E0a2dtU2pCZ0NV@89.23.103.125:42090#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+vless://235eeb0a-307e-4007-95e3-9403d8df0574@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://e2e019e4-57da-40bd-974c-d201c55c528e@80.211.203.158:25210?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔 @MoftConfig📡🇨🇿Czechia
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.212.103.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
+vless://5e49d80e-ccef-47ae-bd2d-8fedd481f14f@51.77.108.99:13004?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔 @MoftConfig📡🇬🇧United Kingdom
