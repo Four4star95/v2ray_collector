@@ -1,3 +1,7 @@
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@188.114.97.255:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://716e8c06-40e6-41ae-82ca-db79b41112c2@162.159.195.88:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇩🇪Germany
+vless://76d6910d-e7ec-43d9-a997-0655209410ab@188.245.95.151:1523?security=none&encryption=none&host=testspeed-foreign.tci.ir%2F%3FjokerrvpnTelegram%20%3A&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://f5e8dbec-9612-4ec5-8cbd-d8fea37ed2ab@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://abcbaca-abca-cbaa-acdb-ccbbacabcaab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31341#[🏁]t.me/MoftConfig
@@ -142,9 +146,5 @@ vless://60a1eb6d-ba29-48d2-9c82-6dbe62834a09@91.107.249.196:443?security=reality
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@149.202.82.172:8080#[🇫🇷]t.me/MoftConfig
 vless://d457af45-9ec8-46f7-bf70-fa8761cf627d@188.245.252.59:26528?mode=gun&security=reality&encryption=none&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@149.202.82.172:8000#[🇫🇷]t.me/MoftConfig
-vless://fd7dfc40-0702-486e-b546-b01cba3563bf@34.200.250.40:443?encryption=none&security=reality&sni=api.cloudflare.com&fp=chrome&pbk=R0OcdqUt3HNQhekl_X41VX8iOmrpxDoyk-1xdXQaN08&sid=ac2f76d05c&type=xhttp&host=api.cloudflare.com&path=%2Fclient&mode=auto#[🇺🇸]t.me/ConfigsHub
-vless://38fe5e89-dee3-45ca-9e6e-6c24dd0f2b05@44.198.189.24:443?encryption=none&security=reality&sni=api.cloudflare.com&fp=chrome&pbk=cS_8Hh2EoGNJnscn64EOp7_zRg8oXI99D4gdaaMNryQ&sid=d237&spx=%2Fclient%2F%3F%40MARAMBASHI%40MARAMBASHI&type=xhttp&host=api.cloudflare.com&path=%2Fclient%2F%3F%40MARAMBASHITELGRAM%20%3A&mode=stream-up#[🇺🇸]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?security=tls&sni=UoCmUcLi11.rIpLeToOrY.InFo&fp=chrome&type=ws&host=UoCmUcLi11.rIpLeToOrY.InFo&encryption=none#[🇨🇦]t.me/MoftConfig
-vless://fe069d77-882c-4175-b48e-c79e3fe65a81@nextgenerationaiplatform.ir:443?encryption=none&security=tls&sni=nextgenerationaiplatform.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=nextgenerationaiplatform.ir&path=%2FfsafasfsafA%23%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2048#[🇫🇮]t.me/ConfigsHub
-trojan://telegram-id-directvpn@54.74.174.25:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#[🇮🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#[🇫🇷]t.me/MoftConfig
