@@ -1,3 +1,4 @@
+vless://abcbaca-abca-cbaa-acdb-ccbbacabcaab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31341#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31677#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31173#👉🆔 @MoftConfig📡🇨🇳China
@@ -62,7 +63,6 @@ vless://45ce6f5fd81c414286cad87e5ba1f61a@172.67.39.142:80/?type=ws&encryption=no
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096/?type=ws&encryption=none&host=PhGhOlMi1.RoCkStOnEy.iNfO&path=%2F&security=tls&sni=PhGhOlMi1.RoCkStOnEy.iNfO&alpn=h2http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://744f2a6d-46f2-4d40-870d-c43926d41f74@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://d1b8f72c-ae28-4d39-a924-6c2dd8d0bfda@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@beta.mattenadene.org:54075#[🇳🇱]t.me/ConfigsHub
 vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://a7af3cab-00c1-44fa-8a02-0236b5a4ed9f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc&sni=TABRIZ.NET#[🇺🇸]t.me/ConfigsHub
