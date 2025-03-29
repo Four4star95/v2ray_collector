@@ -1,3 +1,5 @@
+vless://f5e8dbec-9612-4ec5-8cbd-d8fea37ed2ab@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇸🇪Sweden
+vless://abcbaca-abca-cbaa-acdb-ccbbacabcaab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31341#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31677#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31173#👉🆔 @MoftConfig📡🇨🇳China
@@ -146,5 +148,3 @@ vless://38fe5e89-dee3-45ca-9e6e-6c24dd0f2b05@44.198.189.24:443?mode=stream-up&pa
 trojan://telegram-id-privatevpns@34.247.150.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://MTMVPN@mehdi21.vact.ir:443?mode=gun&security=reality&encryption=none&pbk=vLtM7H2Bbmzw5-Tevlxh2soD0WML7GJNeAg6gdhsCzo&fp=chrome&spx=%2F&type=grpc&serviceName=Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN&sni=www.cdn77.com&sid=ba66#[🇩🇪]t.me/ConfigsHub
 vless://telegram-id-ArV2ray15@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=m.mashti.link&fp=firefox&type=ws&sni=m.mashti.link#[🇨🇦]t.me/ConfigsHub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#[🏁]t.me/MoftConfig
-vless://39cdf375-fb4c-4532-b48c-206da998b145@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
