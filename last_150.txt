@@ -1,3 +1,4 @@
+vless://f5e8dbec-9612-4ec5-8cbd-d8fea37ed2ab@sto5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://abcbaca-abca-cbaa-acdb-ccbbacabcaab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31341#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31677#[🏁]t.me/MoftConfig
@@ -127,7 +128,6 @@ vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.200:80?path=Telegram%F0%9F
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.162:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.48.1:443?path=%2F3um9NK8jwisKz35E%3Fed%3D%2F%3F%40jokerrvpnJoinBadeChannel%40JOKERRVPN&security=tls&encryption=none&host=karshenashamrah.ir&type=ws&sni=karshenashamrah.ir#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.128:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:8080?path=%2F%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/MoftConfig
 trojan://8r<[9'l6hAO#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5601#[🇫🇷]t.me/MoftConfig
