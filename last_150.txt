@@ -1,12 +1,3 @@
-vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?security=tls&sni=AzAdnET-SemeJ.pAGES.dev&type=ws&host=azADNet-seMEJ.pageS.DeV&fp=chrome&alpn=h2,http/1.1#👉🆔 @MoftConfig📡🇨🇦Canada
-trojan://telegram-id-v2rayvpnchannel@3.72.132.84:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/MoftConfig
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8009#👉🆔 @MoftConfig📡🇺🇸United States
-trojan://telegram-id-v2rayvpnchannel@3.72.132.84:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇩🇪Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31341#[🏁]t.me/ConfigsHub
-vless://97ef6ad8-05d3-4d21-9048-c6fc6980d350@172.67.204.234:80?security=none&type=ws&host=farda.vipturk.ir&path=%2FFaRdAvipTurk.Rr#👉🆔 @MoftConfig📡🇨🇦Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31341#👉🆔 @MoftConfig📡🇨🇳China
-vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.183:2096?security=tls&sni=bEAt.MIRaclETaxbiTS.Top.&type=ws&path=/2096/@VRayyNGvpn#👉🆔 @MoftConfig📡🇺🇸United States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTliODc3NC01YWY0LTQwMGEtYmM5YS03NzRiMDg3NGFiNDg@free.2apzhfa.xyz:31677#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQOGNhbWVqSWh1T3RzY0ZPblV6TVJY@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
 vless://891ae5f5-6847-4c06-805f-afb4bcc906ff@wanderlust.zone.id:8443?mode=auto&path=%2Fdee69592&security=reality&encryption=none&pbk=xNcZAorXH9rA85fD6A5w3-fC0iWLWYdE3XJc39ckNAc&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=1dafa50a048e3f#[🇫🇮]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.126.188:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇬🇧]t.me/ConfigsHub
@@ -148,3 +139,12 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?security=none&en
 vless://fb064675-f2f1-4d41-bcca-213ebd7d2b76@151.101.64.155:80?encryption=none&security=none&type=ws&host=www.speedtest.net.42.isvpython.onlinE.&path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://V2RAXX@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://86177e67-df7d-561a-a708-19d1452bff97@Abrha.net:80?path=join-@mosiv2-@mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.sk2.vless.Sitespeedtest.net.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?path=%2F&security=tls&alpn=h3h2&encryption=none&host=SaUuJcEu8N.mYsPdMmEtI.cOm&type=ws&sni=SaUuJcEu8N.mYsPdMmEtI.cOm#[🇸🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.160.167:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.ai.sPeedtest3.sbs.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://8f320d6a-9953-4065-b61c-d62f89a6767f@www.whatismyip.com:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e.exedu.ip-ddns.com&fp=chrome&type=ws&sni=e.exedu.ip-ddns.com#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.47.146.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.108:80?path=%2FTelegram%40WangCai2&security=&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2http%2F1.1&encryption=none&host=WgRyZmDb0.RiCkTmOuSe.iNfO&type=ws&sni=WgRyZmDb0.RiCkTmOuSe.iNfO#[🇨🇦]t.me/ConfigsHub
+vless://b0f902f5-17ba-4b56-ad37-c79c9e00fb1b@speedtest.net:80?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&security=none&encryption=none&host=6bizaram.azzndagi.net&type=ws#[🇨🇦]t.me/ConfigsHub
