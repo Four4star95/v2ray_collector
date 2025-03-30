@@ -1,3 +1,4 @@
+vless://744f2a6d-46f2-4d40-870d-c43926d41f74@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://d1b8f72c-ae28-4d39-a924-6c2dd8d0bfda@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://07a227b7-745e-4b4b-b653-7c05466e662f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://a7af3cab-00c1-44fa-8a02-0236b5a4ed9f@151.101.64.155:80?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=none&encryption=none&host=1.wexer-rih.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -138,7 +139,6 @@ vless://cfe61ed6-7293-4aab-8bfc-215fdd3dc96d@tel5.vpntype.dev:443?security=tls&e
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.210:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#[🇮🇷]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.109:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#[🇮🇷]t.me/MoftConfig
 vless://eda9e21d-bb16-4432-8697-1ae6d017d13e@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.42.speedtest3.onlinE.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://6d91bc33-2d86-4839-9205-02024ff483c7@104.21.51.72:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=chrome&type=ws&sni=wtestfrtt.requesttest.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://dd9fc142-479e-43b1-a80c-3f5ec9755392@104.18.8.74:443?path=%2Fadmin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&fp=random&type=ws&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://cfe61ed6-7293-4aab-8bfc-215fdd3dc96d@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.243:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#[🇮🇷]t.me/MoftConfig
