@@ -10885,3 +10885,10 @@ vless://8cf3b84b-3db5-4d89-9bd2-d796f93be126@lon5.vpntype.dev:443?security=tls&e
 vless://7c7aab40-4025-43d0-bd0e-ebd170541d35@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdVlWYlZlc1ZTUlRwcmpTQzBWa2JC@89.185.84.185:443#🇬🇧 Великобритания
 vless://067e3214-7b5f-4f15-a4b2-edd224ca0f1b@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://292c230f-1aaa-4441-b90e-2844163aa549@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#[🇫🇷]t.me/MoftConfig
+vless://3e7e3f3f-208f-4150-9bdd-dd981c518593@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyUGpINGlVUEthd1hDSTluVWlkWVRy@89.185.84.185:443#🇬🇧 Великобритания
+vless://5b71a5e7-810a-433d-8c89-71ccb495d978@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@54.36.174.181:8000#[🏁]t.me/MoftConfig
+vless://%50%61%72sashon%61m-205@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#⚜️Telegram:@IP_CF
