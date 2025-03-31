@@ -1,3 +1,4 @@
+ss://cmM0LW1kNTo2MzYwMzgwYzZmYWU2NjNlQDIxMy4xNTYuMTM3LjE0MjoyOTQ5Ng==#👉🆔 @MoftConfig📡🇰🇿Kazakhstan
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.190.213.105:8444?security=reality&type=tcp&headerType=&path=&host=&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#👉🆔 @MoftConfig📡🇺🇸United States
 vless://9ddb38fa-9c74-4a03-95fc-3352ef787695@104.19.54.50:8080?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D2048&security=&encryption=none&host=IPV2RY.www.webdade.com.www.speedtest.net.irna.ir.ips.mdffood.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://354a2c67-a4ba-4ea5-b33b-3d902b063075@usaoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top:443?security=reality&encryption=none&pbk=zEAiYwMY3kcDPYasoe6AM-UN7-F0ORvYAILhP90oSjg&headerType=none&fp=chrome&type=tcp&sni=usaoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&sid=02bdcf289551#👉🆔 @MoftConfig📡🇺🇸United States
@@ -130,7 +131,6 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@134.195.196.193:8000#👉🆔 @Mof
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.16.110.91:443?sni=uu.vs2024.us.kg&type=ws&host=uu.vs2024.us.kg#👉🆔 @MoftConfig📡🇫🇷France
 vless://d0f7e6f2-5819-4eb4-8742-d51ad16e97a8@krg2jyul092d.librekit.com:11996?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://d0f7e6f2-5819-4eb4-8742-d51ad16e97a8@krg2jyul092d.librekit.com:11996?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/ConfigsHub
-vless://8a8adab8-4821-429f-84e9-1a290218e3e4@151.101.64.155:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.42.isvpython.onlinE.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880/?type=grpc&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880/?type=grpc&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217/?type=tcp&encryption=none#[🏁]t.me/ConfigsHub
