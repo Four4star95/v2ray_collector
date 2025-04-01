@@ -1,7 +1,3 @@
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.162:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.48.1:443?path=%2F3um9NK8jwisKz35E%3Fed%3D%2F%3F%40jokerrvpnJoinBadeChannel%40JOKERRVPN&security=tls&encryption=none&host=karshenashamrah.ir&type=ws&sni=karshenashamrah.ir#[🇨🇦]t.me/ConfigsHub
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:8080?path=%2F%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/MoftConfig
-trojan://8r<[9'l6hAO#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@149.202.82.172:5601#[🇫🇷]t.me/MoftConfig
 trojan://NEHZp72yf2@95.181.162.233:443?security=tls&host=Zula.ir&headerType=http&fp=randomized&type=tcp&sni=dr-ping.ir#[🇳🇱]t.me/MoftConfig
 vless://3691f715-024c-411b-b269-d4a593f04ff2@194.49.53.184:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=21181028b56c8702#👉🆔 @MoftConfig📡🇳🇱The Netherlands
@@ -148,3 +144,7 @@ vmess://eyJhZGQiOiI5NS4xNjQuMTAuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://d90569c4-8a7d-4620-bb20-9a1c28529e82@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/MoftConfig
+vless://d90569c4-8a7d-4620-bb20-9a1c28529e82@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/ConfigsHub
+vless://59cf1cfb-696f-4d70-9df6-878b157dbce5@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
+vless://59cf1cfb-696f-4d70-9df6-878b157dbce5@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/ConfigsHub
