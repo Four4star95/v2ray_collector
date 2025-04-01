@@ -1,3 +1,6 @@
+vless://3779d8de-63f4-40d4-a266-406c0f885ae6@212.86.94.234:57350?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#[🇮🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.203.164:443#👉🆔 @MoftConfig📡🇯🇵Japan
+trojan://telegram-id-privatevpns@18.193.177.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.199.103.26:443#👉🆔 @MoftConfig📡🇯🇵Japan
 trojan://telegram-id-directvpn@52.56.94.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.93.21.189:443#👉🆔 @MoftConfig📡🇺🇸United States
@@ -142,9 +145,6 @@ trojan://lEqAIVYEBWxz@172.67.141.68:2096?security=tls&sni=mojnews.itn24.ir&alpn=
 vless://f5202085-8402-4b17-9e35-58ccd1b7f79b@111.243.171.244:20413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.visa.com&fp=chrome&pbk=BQk3bbYxbWAzoi8F0gl7oiM90YO7wFNuwTJRxaWtWFg&sid=bd2ca454&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇹🇼Taiwan
 trojan://telegram-id-privatevpns@18.135.219.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.55.124:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇬🇧
-vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@91.107.177.102:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiIyYTAxOjRmODpjMDEwOjZjYTM6OjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjg3MTllZWUtMzVjZi00OTgwLWFkYjMtYjM5ODZmNTY2YmY3IiwibmV0Ijoia2NwIiwicGF0aCI6IkhKSGp5RkYzNFkiLCJwb3J0IjoiNDEzNTgiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fjoin---NormanV2ray---join%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.98.5:443?security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/ConfigsHub
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@51.81.36.243:443?security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/ConfigsHub
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Fjoin---%40NormanV2ray---join%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#[🇨🇦]t.me/ConfigsHub
