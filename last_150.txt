@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.149.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.180.200.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://telegram-id-privatevpns@13.51.12.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
@@ -61,7 +62,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880/?type=grpc&encrypti
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880/?type=grpc&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217/?type=tcp&encryption=none#[🏁]t.me/ConfigsHub
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_86d0eb5@bazar.ir:443/?type=ws&encryption=none&host=ru1.vless.site&path=%2Fvless&security=tls&sni=ru1.vless.site&fp=chrome#[🇨🇦]t.me/ConfigsHub
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.254:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#[🇮🇷]t.me/ConfigsHub
 vless://3fe02115-2213-4e4c-8c37-48fae1f67042@au.1e6af9be69cbae59cba.tech:20888/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=safari&security=reality&pbk=zl1yP-7TC9czGP3gIcY6CFvF-iV3mpQXo_SBPfzMvkk&sid=#[🏁]t.me/ConfigsHub
 vless://b5efc2f6-2c03-4d26-8cd4-046755fd9f74@188.34.201.88:16072/?type=grpc&encryption=none#[🇩🇪]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.131:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[🇮🇷]t.me/ConfigsHub
