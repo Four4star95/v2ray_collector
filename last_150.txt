@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-privatevpns@35.180.200.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 trojan://telegram-id-privatevpns@13.51.12.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
 trojan://telegram-id-directvpn@freakconfig.felafel.org:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://c804d197-b78f-4114-8f5e-12fb97e95dd8@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#[🇩🇪]t.me/MoftConfig
