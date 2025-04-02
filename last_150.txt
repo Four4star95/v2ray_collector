@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@52.56.94.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.93.21.189:443#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://telegram-id-directvpn@52.56.94.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.149.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/MoftConfig
@@ -89,7 +90,6 @@ vless://Parsashonam-207@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed
 vless://Parsashonam-207@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://b10082c7-977f-4918-b26f-09caca6254f0@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
-vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@91.107.177.102:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5NS4xNjQuMTAuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIyYmE5MjMzLWVlZjItNTg2Ny1hMjM0LTU2NmU5YzcwNmUxMiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
