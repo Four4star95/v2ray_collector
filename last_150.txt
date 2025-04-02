@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@52.56.94.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.93.21.189:443#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://telegram-id-directvpn@52.56.94.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.149.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.149.201:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇫🇷]t.me/ConfigsHub
@@ -143,8 +145,6 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-208@185.146.173.39:8880?path=%2F&servi
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-208@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @MoftConfig📡🇺🇸United States
 vless://bcad1dbf-6ab3-4516-b51c-37213737c2e4@94.247.142.1:80?path=%2FTelegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&security=none&encryption=none&host=APPinfo.EiNETWORK.NEWS&type=ws#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&headerType=none&type=tcp&sni=connectwithemployers.online#👉🆔 @MoftConfig📡🇸🇬Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTmtYQm1zUklmYWk4M1Ez@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
 vless://fbadfa0c-e8ef-4769-ecf0-62c5ccf931b3@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&encryption=none&host=rohammmmmvistav2.ir&type=ws#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5U1V0UnB5Yk1vWXFDVWVI@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.164.229:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 vless://ca14ba8d-7f23-4f62-98dd-254afc0bc028@www.speedtest.net:443?security=tls&encryption=none&host=powerfulserver.top&type=ws&sni=powerfulserver.top#[🇨🇦]t.me/ConfigsHub
