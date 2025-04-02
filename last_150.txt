@@ -1,3 +1,13 @@
+trojan://telegram-id-privatevpns@35.180.200.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://telegram-id-privatevpns@13.51.12.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇸🇪Sweden
+trojan://telegram-id-directvpn@freakconfig.felafel.org:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
+vless://c804d197-b78f-4114-8f5e-12fb97e95dd8@207.154.224.68:54280?mode=gun&security=reality&encryption=none&pbk=ZRmfE4xJHk1EI5WTAoOPv97CS95jqOKz25zs-CvMA18&fp=chrome&spx=%2F&type=grpc&sni=grizzly.viraticket.ir&sid=d0f89f#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@freakconfig.felafel.org:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇫🇷France
+trojan://telegram-id-directvpn@freakconfig.felafel.org:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://336a2778-ff45-42ab-9a55-fbd4779dd8b2@54.236.34.180:443?mode=stream-up&path=%2Fclient%2F%3F%40jokerrvpnTelegram%20%3A&security=reality&encryption=none&pbk=C1tPFcJWDPxJwm21OewSqByrYcsyK9QiGV79DmDNODU&host=api.cloudflare.com&fp=chrome&spx=%2Fclient%2F%3F%40jokerrvpnJoinBadeChannel%40JOKERRVPN&type=xhttp&sni=api.cloudflare.com&sid=529cf59e344a#👉🆔 @MoftConfig📡🇺🇸United States
+vless://4791f963-84d1-4337-81e8-19fbf588f9b1@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-directvpn@52.21.55.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇺🇸United States
 vless://38fe5e89-dee3-45ca-9e6e-6c24dd0f2b05@44.198.189.24:443?mode=stream-up&path=%2Fclient%2F%3F%40jokerrvpnTelegram%20%3A&security=reality&encryption=none&pbk=cS_8Hh2EoGNJnscn64EOp7_zRg8oXI99D4gdaaMNryQ&host=api.cloudflare.com&fp=chrome&spx=%2Fclient%2F%3F%40jokerrvpnJoinBadeChannel%40JOKERRVPN&type=xhttp&sni=api.cloudflare.com&sid=d237#👉🆔 @MoftConfig📡🇺🇸United States
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.134:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#[🇮🇷]t.me/MoftConfig
 vless://b449215b-179a-49c2-975a-f5bddc3db8d6@91.107.249.144:8082?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=BXaSX6hKr6_asbw2597PBgqHSlvoq2Lw-CVCmVsT9j0&sid=69bd272d19717501&type=grpc#[🇩🇪]t.me/MoftConfig
@@ -134,17 +144,7 @@ vless://fbadfa0c-e8ef-4769-ecf0-62c5ccf931b3@151.101.3.8:80?path=%2F%40vistav2ra
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.164.229:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
 vless://ca14ba8d-7f23-4f62-98dd-254afc0bc028@www.speedtest.net:443?security=tls&encryption=none&host=powerfulserver.top&type=ws&sni=powerfulserver.top#[🇨🇦]t.me/ConfigsHub
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.188:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/ConfigsHub
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.35:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.164:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.35:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/ConfigsHub
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/MoftConfig
-vless://dce4535b-5833-4d62-97e7-3d9d4ba6bd4c@172.67.73.163:8080?security=none&encryption=none&host=0j.Gr02P5L88B.zUlaIR.oRG.&type=ws#[🇨🇦]t.me/MoftConfig
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.245:80?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/MoftConfig
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.198:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🇮🇷]t.me/MoftConfig
-vless://dce4535b-5833-4d62-97e7-3d9d4ba6bd4c@172.67.73.163:8080?security=none&encryption=none&host=0j.Gr02P5L88B.zUlaIR.oRG.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.99:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/ConfigsHub
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0ZWxlZ3JhbSDimqHvuI8gRGFpbHlWMnJ5IiwKICAiYWRkIjogIjk4LjcwLjQ5LjEwNyIsCiAgInBvcnQiOiA0MjQ3MywKICAiaWQiOiAiNjNiNWI3NmQtOTNmNC00NTY4LWE3NjQtYzRiOTY3NDcyOTYwIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=Daily
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.99:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/MoftConfig
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#[🏁]t.me/ConfigsHub
