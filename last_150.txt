@@ -1,3 +1,4 @@
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.227:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2%2F%3Fed#[🇮🇷]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.154:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#[🇮🇷]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.228:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#[🇮🇷]t.me/MoftConfig
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.148:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%40WangCai2#[🇮🇷]t.me/MoftConfig
@@ -147,4 +148,3 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.178.177.97:443#👉🆔 @MoftConfig📡�
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.37.220.218:443#👉🆔 @MoftConfig📡🇺🇸United States
 trojan://KsMF5kLudbU3@104.21.44.185:2087?path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&host=econews.onetwothree123.ir&type=ws&sni=econews.onetwothree123.ir#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@hk02.x.quickcht3.club:52612#👉🆔 @MoftConfig📡🇨🇳China
-vless://31d55b81-bdee-4355-8fee-a32ed6297860@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
