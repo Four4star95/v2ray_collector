@@ -1,3 +1,4 @@
+vless://:v2rayng_76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#👉🆔 @MoftConfig📡🇩🇪Germany
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@104.18.254.239:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&type=ws&sni=steep-pine-3b0b.facic63646.workers.dev#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppalJoWk4xTm5xbDhORTFHTEFXWVFH@78.129.140.11:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://03ae39fd-ec71-4db5-b234-94de99a6e514@104.16.174.56:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&type=ws&sni=steep-pine-3b0b.facic63646.workers.dev#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -46,7 +47,6 @@ vless://Parsashonam-207@185.146.173.39:8880?path=%2F&security=none&encryption=no
 vless://b10082c7-977f-4918-b26f-09caca6254f0@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vmess://eyJhZGQiOiI5NS4xNjQuMTAuMTE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIyYmE5MjMzLWVlZjItNTg2Ny1hMjM0LTU2NmU5YzcwNmUxMiIsIm5ldCI6ImdycGMiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInBvcnQiOiI4ODgwIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.42.250:8880?security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.104:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 trojan://a1bec5fe-74b4-4ef7-859b-ca4b27f9cb5c@high.ab.he.defehaita.xyz:10985/?type=tcp&security=tls&sni=douyin.com&allowInsecure=1#[🏁]t.me/ConfigsHub
