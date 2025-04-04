@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.188.214:443#👉🆔 @MoftConfig📡🇸🇬Singapore
 vless://89944776-5e88-4dd9-bc06-7c18554445a8@104.19.54.50:8080?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#👉🆔 @MoftConfig📡🇩🇪Germany
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@134.195.196.193:8000#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -131,7 +132,6 @@ vless://f5ac2015-10da-4379-af30-586d1b35443c@ali-sub.serverfreedom.com:1001?secu
 vless://5bef0350-5165-41bc-a9ce-99c648e00f69@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@3.73.244.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.38.244:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.60.220:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#⚜️Telegram:@IP_CF
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.154:8443/?type=ws&encryption=none&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccq.aimercc.filegear-sg.me#👉🆔 @MoftConfig📡🇭🇰Hong Kong
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.35:80?security=none&type=ws&host=gozargah.validbv7996.ir#👉🆔 @MoftConfig📡🇧🇿Belize
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#👉🆔 @MoftConfig📡🇺🇸United States
