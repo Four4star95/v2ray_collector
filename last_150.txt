@@ -1,3 +1,4 @@
+vless://d0f7e6f2-5819-4eb4-8742-d51ad16e97a8@krg2jyul092d.librekit.com:11996?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://d0f7e6f2-5819-4eb4-8742-d51ad16e97a8@krg2jyul092d.librekit.com:11996?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880/?type=grpc&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880/?type=grpc&encryption=none#[🇺🇸]t.me/MoftConfig
@@ -143,7 +144,6 @@ vless://5b9e71f4-0bb1-4f18-9ecd-e6919645bf42@172.67.209.117:8080?encryption=none
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@162.159.130.11:443/?type=ws&encryption=none&host=wtestfrtt.requesttest.cloudns.org&security=tls&sni=wtestfrtt.requesttest.cloudns.org&alpn=http%2F1.1&fp=chrome#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.7:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@lynn.ns.cloudflare.com:443/?type=ws&encryption=none&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccq.aimercc.filegear-sg.me#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://ad2ee675-f3a1-401a-bebe-a36371001b2c@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@sage.ns.cloudflare.com:443/?type=ws&encryption=none&host=edccq.aimercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccq.aimercc.filegear-sg.me#👉🆔 @MoftConfig📡🇺🇸United States
 vless://c27c09f4-7a06-41a8-990c-09e31f82b4c2@188.213.129.126:444?encryption=none&security=reality&sni=fauxid.com&fp=chrome&pbk=y-gm5T_DCFudc3AsHCtTi-hFM-_OSGwmVjNZIZxtUhk&type=grpc&authority=&serviceName=NinjaV2ray&mode=gun#[🏁]t.me/MoftConfig
 vless://7a24dbf2-455a-480e-ae03-f99d436d43c6@37.27.15.167:2089?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&sid=e3c5c005cae07eb8&spx=%2FMARAMBASHIJOIN_BEDE_CHANEL_MARAMBASHI&type=tcp&headerType=none&host=Telegram%20%3A%20MARAMBASHI%20MARAMBASHI#[🇫🇮]t.me/MoftConfig
