@@ -1,21 +1,3 @@
-trojan://lEqAIVYEBWxz@172.67.141.68:2096?security=tls&sni=mojnews.itn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=mojnews.itn24.ir&path=%2F%F0%9F%86%94%40M3HDIO1#👉🆔 @MoftConfig📡🇨🇦Canada
-vless://f5202085-8402-4b17-9e35-58ccd1b7f79b@111.243.171.244:20413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.visa.com&fp=chrome&pbk=BQk3bbYxbWAzoi8F0gl7oiM90YO7wFNuwTJRxaWtWFg&sid=bd2ca454&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇹🇼Taiwan
-trojan://telegram-id-privatevpns@18.135.219.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.55.124:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇬🇧
-vmess://eyJhZGQiOiIyYTAxOjRmODpjMDEwOjZjYTM6OjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjg3MTllZWUtMzVjZi00OTgwLWFkYjMtYjM5ODZmNTY2YmY3IiwibmV0Ijoia2NwIiwicGF0aCI6IkhKSGp5RkYzNFkiLCJwb3J0IjoiNDEzNTgiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://e86c7146-bd09-409c-a532-f41aed042f8d@185.234.66.155:443?path=%2F&security=tls&host=tr1.safecdn.site&type=ws&sni=tr1.safecdn.site#[🇹🇷]t.me/ConfigsHub
-trojan://e86c7146-bd09-409c-a532-f41aed042f8d@185.234.66.155:443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=tr1.safecdn.site#[🇹🇷]t.me/ConfigsHub
-vless://%50%61%72%73%61%73%68%6F%6E%61%6D-208@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @MoftConfig📡🇸🇪Sweden
-vless://%50%61%72%73%61%73%68%6F%6E%61%6D-208@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @MoftConfig📡🇺🇸United States
-vless://bcad1dbf-6ab3-4516-b51c-37213737c2e4@94.247.142.1:80?path=%2FTelegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&security=none&encryption=none&host=APPinfo.EiNETWORK.NEWS&type=ws#👉🆔 @MoftConfig📡🇬🇧United Kingdom
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&headerType=none&type=tcp&sni=connectwithemployers.online#👉🆔 @MoftConfig📡🇸🇬Singapore
-vless://fbadfa0c-e8ef-4769-ecf0-62c5ccf931b3@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=none&encryption=none&host=rohammmmmvistav2.ir&type=ws#[🇺🇸]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.164.229:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/ConfigsHub
-vless://ca14ba8d-7f23-4f62-98dd-254afc0bc028@www.speedtest.net:443?security=tls&encryption=none&host=powerfulserver.top&type=ws&sni=powerfulserver.top#[🇨🇦]t.me/ConfigsHub
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.242.193:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.177.163.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://19c7a13c-9f20-4a75-a31f-336397d57db8@huffingtonpost.es:80?flow&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#[🇳🇱]t.me/MoftConfig
 vless://19c7a13c-9f20-4a75-a31f-336397d57db8@huffingtonpost.es:80?flow&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#[🇫🇷]t.me/MoftConfig
 vless://0132a95b-c439-4396-82ae-13e27e865f0d@173.245.59.132:8080?security=none&type=httpupgrade&headerType=&path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&host=evay-free.ysphs.top.#[🇨🇦]t.me/MoftConfig
 vless://cc3c8301-d7a6-4282-a77c-3cb0a31bfb60@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
@@ -148,3 +130,21 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.30.192.1:22222?path=/telegram-ch
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.30.192.1:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.208.230.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://9af9f8b3-637c-5d12-9d18-943c095635c9@eevpnandroid2.69.mu:2086?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/MoftConfig
+ss://4e737c2e-adef-4cef-a702-7836309ab6ed@91.107.243.233:57379?security=none&type=tcp&host=divarcdn.com&headerType=http#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.18:9024#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.41.51.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.18:9010#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#[🇬🇧]t.me/MoftConfig
+vmess://eyJhZGQiOiJ1czJ2bWVzcy5ybm1jbm0uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1czJ2bWVzcy5ybm1jbm0uY29tIiwiaWQiOiI3ZjhhMWJiOS1iZWUwLTQwYTgtZjkwOC0yMWE2NWRhMGYzY2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMTIzcXdlIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://8302c2cf-4854-4b2f-a156-6f1f98475928@compare99.com:80?mode=auto&security=none&encryption=none&host=fl.ir&type=xhttp#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#[🇹🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@5.188.181.201:9040#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM@91.230.27.95:54075#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@5.188.181.201:9011#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@45.89.52.66:9011#[🇹🇷]t.me/ConfigsHub
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.25:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#[🏁]t.me/ConfigsHub
+vless://4e53a8e4-4587-4a33-a16d-8c8b866a7646@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1es-ovh.devefun.net#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@5.188.181.201:9020#[🏁]t.me/ConfigsHub
