@@ -1,3 +1,4 @@
+vless://f5a12a1b-0320-4e85-c1fc-ce3b55b556f0@irantr.ipmartnetwork.cloud:8443?security=&encryption=none&headerType=&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:87.68ms
 trojan://telegram-id-privatevpns@3.8.67.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:33.2ms
 ss://YWVzLTI1Ni1nY206MkRGVUs1OERXTEdVNkVRSA@156.231.104.15:18005#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:232.66ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.197:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:33.92ms
@@ -144,7 +145,6 @@ vless://2f70a97e-08cc-4486-a631-1647cf6b8f6a@2.irancella.blog:2089?security=real
 vless://8200f8c0-9179-4060-b9c3-3fac735e3047@172.67.69.236:2096?path=%2F2096%2F%40VRayyNGvpn&security=tls&encryption=none&host=bEAt.MIRaclETaxbiTS.Top.&fp=random&type=ws&sni=bEAt.MIRaclETaxbiTS.Top.#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.35:8880?security=&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
 vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.96.1:8080?path=%2FWVo2e8UiU2GEzLvl%3Fed%3D2560&security=none&encryption=none&host=gshsgshs.jqxkqk.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://0b47156f-0784-48eb-b300-dbd6754d438e@188.245.43.225:41788?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://d81f7dca-49a8-435c-b3fc-c4e0eea62dba@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.123.122.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.43.246.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
