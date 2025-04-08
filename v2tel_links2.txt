@@ -13753,3 +13753,26 @@ vless://493fc2b4-77be-4eb5-a730-eb725b6e25f0@tel5.vpntype.dev:443?security=tls&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.116.45:443#⚜️Telegram:@IP_CF
 vless://0b47156f-0784-48eb-b300-dbd6754d438e@188.245.43.225:41788?security=none&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://ee0b828e-7978-4bcf-a536-bac14a8dd78f@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://43fc1ad0-1405-11f0-ace5-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWNiOGZhNS03YWY1LTRhZGYtOWE4NC0wNTRmODRkYjc4M2Q@free.2weradf.xyz:36511#[🏁]t.me/MoftConfig
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.148.22:80?path=%2F&security=none&encryption=none&host=sareshab.wfft.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.119:80?sni=gozargah.validbv7996.ir&type=ws&host=gozargah.validbv7996.ir&path=/Telegram🇨🇳&allowInsecure=1#[🏁]t.me/MoftConfig
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.147.22:80?path=/DRAGON?ed&security=&encryption=none&host=powerpow.wfft.ir&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QURJRjRQQ21MUElNN1pYdlg1NUh6@77.83.246.74:443#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM0lsZ0l2Z0FrQWthQkNuMFNVQXNY@77.239.117.121:28694#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGVsV1U5Z2REN1N3YmQ5dDRQMVFV@81.19.141.45:443#🇩🇪 Германия
+vless://a9795c6c-f493-4735-aa71-793b4c72d1a9@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://6361301d-e318-468b-88cf-761c8067e286@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.148.22:80?path=/DRAGON&security=none&encryption=none&host=sareshab.wfft.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vmess://ewogICAgImFkZCI6ICJvYmRpaS5jZmQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvYmRpaS5jZmQiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAidGVsZWdyYW0g8J+MuiBEYWlseVYycnkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJvYmRpaS5jZmQiCn0=Daily
+vless://e207c137-47aa-4f56-b82b-19e3d4ee72a6@51.77.108.99:13004?security=none&type=grpc&serviceName=manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht-manzariyeh_rasht%3Fed%3D2048#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprazRzc01XbXNxWWRSbU1WMWZ5aUNm@89.185.84.185:443#🇬🇧 Великобритания
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?mode=gun&security=&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmJmYjQ5NS1hMzE3LTQ5YjAtOGZhMS0yZWQxZDMxYmQzNDM@free.2apzhfa.xyz:31173#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QzVSYUdZOTljSlhpYVZN@admin.c4.havij.co:443#[🇬🇧]t.me/MoftConfig
+vless://fbb9aca3-4a93-4d6f-a7f5-3e0c353181f8@138.197.154.162:443?security=reality&sni=CaNVa.com&type=grpc&fp=chrome&pbk=1hdF2ghIgrvTH9rf493hDR8y1ZEjKqW8U6sg2gt-jAk&sid=6036be4e05b3c4f4#[🇨🇦]t.me/MoftConfig
+trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.200.238:443?allowInsecure=0&sni=3s.890689.xyz&ws=1&wspath=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl#[🇨🇦]t.me/MoftConfig
+vless://c85e82a9-ed2b-4710-a10c-1ba12359b63f@157.180.30.213:12800?security=reality&sni=yahoo.com&type=grpc&serviceName=@proprojec&fp=chrome&pbk=u7dFsoz2tyS1q4geGjsKGOeDOA37ubsWqcxikNgkKTE&sid=a9598c7cf1#[🇫🇮]t.me/MoftConfig
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&security=reality&encryption=none&pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&fp=chrome&spx=/DRAGON&type=grpc&sni=www.target.com&sid=2b2e#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxODkwNmY2MWI2Yzk4ZGZkQDE4NS42Ny4xMjUuODE6NDQzNjM=#⚜️Telegram:@IP_CF
+vless://08fc3248-9c1e-4301-98cf-3f95c02a1571@141.95.111.135:443?security=reality&sni=tgju.org&type=tcp&fp=chrome&pbk=Zcyzgiterznw4Bh1rWU5spRfp7DqTEyR6a5HoJ2eNTw&sid=8d5785d6b62ecfee#[🇩🇪]t.me/MoftConfig
