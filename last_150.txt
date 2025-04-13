@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@185.225.20.17:30005#[🏁]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.135.17:59483/?type=grpc&encryption=none&security=auto#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmRiYTMxMC0xMTM5LTRkZTctYTRlNC0wNWMwZjE0NjIyNDE@83.147.15.46:30002#[🏁]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.73.169:59483/?type=grpc&encryption=none&security=auto#[🇺🇸]t.me/MoftConfig
@@ -98,7 +99,6 @@ vless://7c1c9771-b081-417c-8895-c84201680a87@85.133.206.197:13000?security=none&
 vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?security=none&type=tcp&host=Telegram%20%3A%20MARAMBASHI#[🏁]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=none&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FTelegram%40WedbazTelsecurity#[🇨🇦]t.me/ConfigsHub
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@188.114.99.44:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&fp=chrome&alpn=h3,h2#[🇺🇸]t.me/ConfigsHub
-vless://e69cc844-32fe-4f58-b3a2-4e8d87d5b110@www.speedtest.net:2086?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config%3Fed%3D2048&security=none&encryption=none&host=www.speedtest24.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0Ni4yNTAuMjM3LjQ4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjExYWE0NjE0LWJiNjMtNDVmZS05ZDRiLWYzYjIxNWM2MzllNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzNjkiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://telegram-id-directvpn@3.78.24.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNnpXa2FJb3doeW5mRkZ6YUh6dG5t@167.172.84.101:36892#[🏁]t.me/ConfigsHub
