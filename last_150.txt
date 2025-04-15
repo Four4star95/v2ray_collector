@@ -1,3 +1,4 @@
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@103.116.7.235:443/?type=ws&encryption=none&host=edccy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edccy.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 vless://8f320d6a-9953-4065-b61c-d62f89a6767f@172.66.40.87:2083/?type=ws&encryption=none&host=e.exedu.ip-ddns.com&path=%2F&security=tls&sni=e.exedu.ip-ddns.com&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.126:2083/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edccr.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@pranab.ns.cloudflare.com:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccr.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
@@ -121,7 +122,6 @@ vless://d8f1fa98-be39-47e8-8107-335f0afc77eb@Www.speedtest.net:2095?path=%2F%3Fe
 trojan://telegram-id-directvpn@13.36.53.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.65.203:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.74.237.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#[🇸🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNTBmZDgwYi1jNTViLTRkY2QtOTg3NC0wYTMwMDk0YTBmMTA@free.2apzhfa.xyz:31173#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNTBmZDgwYi1jNTViLTRkY2QtOTg3NC0wYTMwMDk0YTBmMTA@free.2apzhfa.xyz:31411#[🏁]t.me/ConfigsHub
 vless://4d249d85-837c-4fbd-9b21-0bd11178c854@45.131.5.31:8080?type=ws&host=vPncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.#[🏁]t.me/ConfigsHub
