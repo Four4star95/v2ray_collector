@@ -1,3 +1,4 @@
+vless://a7bb4cfa-2a99-485d-8a20-52ee05d62c01@gb.carefreemob2.com:3662?security=reality&type=tcp&headerType=&path=&host=&sni=icloud.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&sid=67a1a8bb9ff0ed21#[🏁]t.me/MoftConfig
 vless://2c17bf0a-f824-49a8-c0a3-33a2cab7e8fe@sdsdcd5ssf.sitesd22s5662dfaxsada-sd.sddsf2.sdcd5ssf.site:56954?host=soft98.ir&type=http#[🇮🇷]t.me/ConfigsHub
 vless://58777238-42cc-4738-89eb-d89e5dfeda24@www.speedtest.net:2086?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.isvpy.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.240:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/MoftConfig
@@ -147,4 +148,3 @@ trojan://telegram-id-directvpn@54.170.201.141:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.148.22:2053?security=tls&sni=app2.appdatanew2025g.lat&type=ws&host=app2.appdatanew2025g.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.c.1.mashti.link.&type=ws#WS4-Irancell+%7C+%40ArV2ray
