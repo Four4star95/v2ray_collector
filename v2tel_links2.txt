@@ -16950,3 +16950,40 @@ vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?mode=gun&secu
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638805695458798659.rasht-shleprx-aaal.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://e1dbda8d-834d-4351-b8ac-bf13712a1198@www.speedtest.net:2086?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.isvpy.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed&security=none&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.213.128.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+trojan://b17ea1b5-7c9a-4d2c-958e-4db6f6346720@45.146.232.171:27201?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=1#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@52.213.128.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪@MoftConfig
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#[🇫🇮]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@52.213.128.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇮🇪
+vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@100.21.111.217:80?security=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiI0MTI5MSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vless://961c51ed-b463-47ed-bb6f-b57945d2373f@jooon.hajalii.com:21620?security=none&encryption=none&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI&headerType=none&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Yousefvip.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzYW5qb3NlMDUuODUyMjI0LmdnZmYubmV0IiwiYWlkIjowLCJob3N0Ijoic2Fuam9zZTA1Ljg1MjIyNC5nZ2ZmLm5ldCIsImlkIjoiODljMWFlYTctNGQwZC00MDEzLWI2NjMtMGY5NGEzZTZiZGJkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ZZkIyOUdYZjRjVGhKUWVKYiIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://telegram-id-privatevpns@18.169.103.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.80.1:443?allowInsecure=0&sni=1g.890699.xyZ&ws=1&wspath=%2FlXENb74xF4ylXngZ#⚜️Telegram:@IP_CF
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Ser2.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.169.103.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-vlessconfig@18.169.103.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxQ0xkc1hCUkJWQzdxN3J0aWFvSzdB@77.83.246.74:443#🇵🇱 Польша
+vless://1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.147.22:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.kz.v2vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://a839b2c3-de34-4589-8095-3514733cbccf@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#[🇨🇦]t.me/MoftConfig
+vless://d7896b33-37e1-43d7-8b70-7ecda72e63d9@ka.sitwe.ir:8880/?type=httpupgrade&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=ka.sitwe.ir&security=none#[🇨🇦]t.me/MoftConfig
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.253:80?type=ws&host=digitalscientificresearchgroup.ir#[🏁]t.me/MoftConfig
+trojan://telegram-id-directvpn@18.169.103.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Serjio1.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/MoftConfig
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@16.162.225.15:443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/MoftConfig
+trojan://amclubs@103.160.204.1:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWHJQN2RWWjhLOVM3eWprTUtMYjhn@81.19.141.45:443#🇩🇪 Германия
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#[🇨🇦]t.me/MoftConfig
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?security=none&type=httpupgrade&headerType=&path=%2FGoodLuck%3Fed%3D2560&host=Ser2.serrjioo.ir#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.169.103.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇬🇧@MoftConfig
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.214.149:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeVB3bjJ1TlVTZGttRGlmTTN6R2l1@81.19.141.45:443#🇩🇪 Германия
