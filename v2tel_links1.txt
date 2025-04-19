@@ -37947,3 +37947,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2QwNTU3Yi04MmYxLTQ1YmQtOWZkNC05MDBlNjM4MzQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2QwNTU3Yi04MmYxLTQ1YmQtOWZkNC05MDBlNjM4MzQxOWI@free.2weradf.xyz:36271#[🏁]t.me/MoftConfig
 vmess://eyJhZGQiOiI1LjE4MC4zMC4xMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmNmODY0NzktYWFiNC00N2NmLTlkNmUtMzRkMzUzYmFhMWEyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTM1MiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://d559a22e-bd1b-4661-8cd4-c37a4e6b66e0@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TU5ENzh3T1RKaG9LUHpxQTlPM1RU@194.87.45.189:443#🇪🇸 Испания
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbEQydHJRdmJ6RWduYm1xRFU2eUVo@194.87.45.189:443#🇪🇸 Испания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZjk0WlIwdU9PTFR0UlllVWh6ckhp@89.185.84.185:443#🇬🇧 Великобритания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wm5aMlFCZDFEdUJveE5iOTVZeHJR@194.87.45.189:443#🇪🇸 Испания
