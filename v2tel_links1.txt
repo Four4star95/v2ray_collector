@@ -38750,3 +38750,5 @@ vless://c81c7ec4-8d6a-4252-afa1-c8320deedcf3@tor5.vpntype.dev:443?security=tls&e
 vless://d26051e0-dc00-4de5-b4b4-096265b92905@93.183.89.244:4434?security=tls&flow=xtls-rprx-vision-udp443&sni=vadim.fun&fp=chrome#[🇳🇱]t.me/MoftConfig
 vless://bd4dd3d4-1323-4755-925c-9f49b4d64d16@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 trojan://psycho@104.21.112.1:443?security=tls&sni=pSYcho.sUeX12.IR&alpn=http%2F1.1&fp=randomized&type=ws&host=psycho.suex12.ir&path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWWJ5dUVCVXBvTkRKWkltV2plSkQy@81.19.141.45:443#🇩🇪 Германия
+vless://04c73880-8479-4164-bd2c-e7d49eb82c2c@freedom.panelmarzban.com:1300/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&sid=#⚜️Telegram:@IP_CF
