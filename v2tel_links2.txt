@@ -17845,3 +17845,16 @@ vless://telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV
 vless://04c73880-8479-4164-bd2c-e7d49eb82c2c@freedom.panelmarzban.com:1300/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&sid=#[🇩🇪]t.me/MoftConfig
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?path=%2F&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://8a724c23-75c5-4915-bec8-fa2f8b7ab49d@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWWJ5dUVCVXBvTkRKWkltV2plSkQy@81.19.141.45:443#🇩🇪 Германия
+vless://422899ac-7bfb-441a-89c2-5b9eee312790@202.182.96.195:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY@c.naiun.node-is.green:52106#⚜️Telegram:@IP_CF
+trojan://psycho@104.21.112.1:443?security=tls&sni=pSYcho.sUeX12.IR&alpn=http%2F1.1&fp=randomized&type=ws&host=psycho.suex12.ir&path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#⚜️Telegram:@IP_CF
+vless://bd4dd3d4-1323-4755-925c-9f49b4d64d16@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY@c.naiun.node-is.green:52101#⚜️Telegram:@IP_CF
+vless://d73b8b8c-3044-4738-9f09-025bd27ef524@77.110.100.177:2083?security=reality&sni=speedtest.net&type=grpc&serviceName=%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY&fp=chrome&pbk=_Mo8etwPEDo42B4BnrkX3FOaPsOv2thyIlrzg3hhDBk&sid=e09b0ba7d2#[🇺🇸]t.me/MoftConfig
+vless://04c73880-8479-4164-bd2c-e7d49eb82c2c@freedom.panelmarzban.com:1300/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&sid=#⚜️Telegram:@IP_CF
+vless://d26051e0-dc00-4de5-b4b4-096265b92905@93.183.89.244:4434?security=tls&flow=xtls-rprx-vision-udp443&sni=vadim.fun&fp=chrome#[🇳🇱]t.me/MoftConfig
+vless://c81c7ec4-8d6a-4252-afa1-c8320deedcf3@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+trojan://utF6JLQd2x@141.227.128.69:1935/?type=tcp&security=tls&sni=x1es-ovh.devefun.net&allowInsecure=1#[🏁]t.me/MoftConfig
