@@ -38700,3 +38700,8 @@ vless://422899ac-7bfb-441a-89c2-5b9eee312790@infos21.novintec99.ir:21337?securit
 vless://422899ac-7bfb-441a-89c2-5b9eee312790@info1929.novintecc.org:21337?security=reality&encryption=none&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&host=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=866c9d6a17a0ae44#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638805116055507373.rasht-shleprx-aaak.info:8880/?type=grpc&encryption=none#[🏁]t.me/MoftConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880/?type=grpc&encryption=none#[🇺🇸]t.me/MoftConfig
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/MoftConfig
+vless://e1b25635-8a12-48c2-9125-176b4571568e@142.93.231.14:32409?path=%2F&security=none&encryption=none&type=ws#[🇳🇱]t.me/ConfigsHub
+vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
+vless://e1b25635-8a12-48c2-9125-176b4571568e@142.93.231.14:32409?path=%2F&security=none&encryption=none&type=ws#[🇳🇱]t.me/MoftConfig
