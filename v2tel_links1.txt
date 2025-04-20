@@ -38284,3 +38284,12 @@ vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=%2Fsinavm-si
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?encryption=none&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized&type=ws&host=vlee.amclubs.nyc.mn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?encryption=none&security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?encryption=none&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized&type=ws&host=vlee.amclubs.nyc.mn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?path=%2F&security=none&encryption=none&host=still-smoke-881e-ppal03.cabit21569.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppV01YYkk1OHc4Q3lHOE5XZHZ5ZTY2@103.57.251.223:39142#[🇦🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppV01YYkk1OHc4Q3lHOE5XZHZ5ZTY2@103.57.251.223:39142#[🇦🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.45.21:443#[🇬🇧]t.me/ConfigsHub
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?path=%2F&security=none&encryption=none&host=still-smoke-881e-ppal03.cabit21569.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3N0tiOUZ6Qm84Qm1xbHNDYTZHY3dQ@81.19.141.45:443#🇩🇪 Германия
+vless://07f1fce5-b779-40a3-b3a7-02c40e316c52@116.203.133.145:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
+vless://07f1fce5-b779-40a3-b3a7-02c40e316c52@116.203.133.145:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.45.21:443#[🇬🇧]t.me/MoftConfig
