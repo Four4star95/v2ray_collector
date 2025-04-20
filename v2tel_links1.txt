@@ -38742,3 +38742,9 @@ ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@80.92.204.106:9024#[🇩🇪]t.me/Co
 vless://d26051e0-dc00-4de5-b4b4-096265b92905@93.183.89.244:4434?security=tls&flow=xtls-rprx-vision-udp443&sni=vadim.fun&fp=chrome#[🇳🇱]t.me/ConfigsHub
 vless://422899ac-7bfb-441a-89c2-5b9eee312790@202.182.96.195:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/ConfigsHub
 vless://d73b8b8c-3044-4738-9f09-025bd27ef524@77.110.100.177:2083?security=reality&sni=speedtest.net&type=grpc&serviceName=%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY&fp=chrome&pbk=_Mo8etwPEDo42B4BnrkX3FOaPsOv2thyIlrzg3hhDBk&sid=e09b0ba7d2#[🇺🇸]t.me/ConfigsHub
+vless://8a724c23-75c5-4915-bec8-fa2f8b7ab49d@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://d73b8b8c-3044-4738-9f09-025bd27ef524@77.110.100.177:2083?security=reality&sni=speedtest.net&type=grpc&serviceName=%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY%40VPN_KING_V2RAY&fp=chrome&pbk=_Mo8etwPEDo42B4BnrkX3FOaPsOv2thyIlrzg3hhDBk&sid=e09b0ba7d2#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY@c.naiun.node-is.green:52106#⚜️Telegram:@IP_CF
+vless://422899ac-7bfb-441a-89c2-5b9eee312790@202.182.96.195:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/MoftConfig
+vless://c81c7ec4-8d6a-4252-afa1-c8320deedcf3@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://d26051e0-dc00-4de5-b4b4-096265b92905@93.183.89.244:4434?security=tls&flow=xtls-rprx-vision-udp443&sni=vadim.fun&fp=chrome#[🇳🇱]t.me/MoftConfig
