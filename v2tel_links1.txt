@@ -37991,3 +37991,4 @@ trojan://dQUWbcwECl@74.176.59.185:443?allowInsecure=0&sni=automq3-proxy.automq-s
 vless://d8f914df-4dcf-4fb0-80b7-204a23d579bf@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://d8f914df-4dcf-4fb0-80b7-204a23d579bf@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 
+vless://2e598370-4ef2-4185-b306-9088640d13ac@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
