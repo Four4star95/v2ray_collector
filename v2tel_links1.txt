@@ -38430,3 +38430,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?security=none&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
 vless://e1b25635-8a12-48c2-9125-176b4571568e@farsidutch.nl:32409?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
 trojan://oIwjHDXpKePvYIg8@43.161.255.183:443/?type=tcp&security=tls&sni=myvps.lol#⚜️Telegram:@IP_CF
+vless://d57eae91-6dba-40c5-b9ee-65a1e9f5bad1@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc%3D@166.1.157.228:55330#[🇫🇮]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWUs4RGtacW1ETFVRemFTYmIySzNO@64.227.132.137:80#[🇮🇳]t.me/MoftConfig
+vless://telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.a.3.mashti.link.&type=ws#WS-Irancell+%7C+%40ArV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY%3D@188.191.147.127:31348#[🏁]t.me/MoftConfig
