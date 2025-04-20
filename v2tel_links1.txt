@@ -38429,3 +38429,4 @@ trojan://telegram-id-vlessconfig@54.195.240.94:22222?security=tls&alpn=http/1.1&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
 vless://e1b25635-8a12-48c2-9125-176b4571568e@farsidutch.nl:32409?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
+trojan://oIwjHDXpKePvYIg8@43.161.255.183:443/?type=tcp&security=tls&sni=myvps.lol#⚜️Telegram:@IP_CF
