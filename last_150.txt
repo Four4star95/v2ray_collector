@@ -1,3 +1,4 @@
+vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@104.17.148.22:2096?security=tls&sni=app6.appdatanewk.lat&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmQ1MzAyZi02ODYwLTRhYzMtOGNhOC0yZDFiZmNkNGE2NDg@free.2weradf.xyz:36741#[🏁]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed%3D2560&fp=random#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZmQ1MzAyZi02ODYwLTRhYzMtOGNhOC0yZDFiZmNkNGE2NDg@free.2weradf.xyz:36677#[🏁]t.me/ConfigsHub
@@ -59,7 +60,6 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@205.233.181.174:443?path=%2FTelegra
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?path=%2FT5yZBrY2Qkg2cThJQeJb&security=tls&alpn=http%2F1.1&host=sanjose01.818185.xyz&fp=chrome&type=ws&sni=sanjose01.818185.xyz#[🇨🇦]t.me/ConfigsHub
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=%2F&fp=random#[🇨🇦]t.me/ConfigsHub
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@47.254.17.234:443?sni=cr777.medicaldream.ir&type=ws&host=cr777.medicaldream.ir&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
-trojan://auto@104.21.35.43:443?path=%2F&security=tls&host=esetsecuritylicense3.wawafec355.workers.dev&type=ws&sni=esetsecuritylicense3.wawafec355.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://c0512a6c-e10b-4f18-85c3-3d22a8cfbcfd@www.speedtest.net:2083?path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mahdipok.filmekade.site&fp=chrome&type=ws&sni=mahdipok.filmekade.site#[🇨🇦]t.me/ConfigsHub
 vless://c2406195-08e8-495a-aee7-8a524e768f07@54.37.7.94:443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#[🇬🇧]t.me/ConfigsHub
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz#[🏁]t.me/ConfigsHub
