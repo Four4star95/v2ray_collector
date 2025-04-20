@@ -38531,3 +38531,20 @@ vless://f9d28482-a8eb-4c6b-8575-596579979bf9@37.27.211.10:2025?security=reality&
 vless://51a29401-f065-4a8e-8cba-b4804ad27008@104.21.80.1:2083?security=tls&sni=vibe.orgspeed.net&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-privatevpns@3.66.82.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 
+trojan://telegram-id-privatevpns@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZzhLc2J1OG9NUVNqT1Ji@admin.c4.havij.co:443#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
+trojan://telegram-id-privatevpns@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c2h3Unh5UTV2aU1iMlRz@admin.c4.havij.co:443#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+vless://a129731c-e7cf-4c95-8417-12c739ba36bc@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c2h3Unh5UTV2aU1iMlRz@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZzhLc2J1OG9NUVNqT1Ji@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vmess://eyJhZGQiOiJbMDowOjA6MDowOmZmZmY6OGFjNTo2ZmFiXSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXMxLmJ1Z2ZyZWVuZXQuYml6LmRkbnMtaXAubmV0IiwiaWQiOiJiNTJkODE5My1lYjFkLTQ0OTItOTQ1MC1lODhhYTczNTgwYzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDk1IiwicHMiOiJb8J+HuvCfh7hddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+trojan://telegram-id-privatevpns@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bk9aeXhvY1NoN1pmSEpK@admin.c4.havij.co:443#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
+trojan://telegram-id-directvpn@13.51.117.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bk9aeXhvY1NoN1pmSEpK@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
