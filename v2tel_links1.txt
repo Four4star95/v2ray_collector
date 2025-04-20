@@ -38056,3 +38056,10 @@ trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epccu.ambercc.file
 trojan://67aae342-d53e-4b33-bc16-b70e15b30dc4@aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz:42881?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.126.7.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&security=tls&sni=GyKlAgNi.rOcKsToNeY.InFo&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=GyKlAgNi.rOcKsToNeY.InFo&path=%2F#[🇨🇦]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20214#[🇺🇸]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20127#[🇺🇸]t.me/MoftConfig
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20214#[🇺🇸]t.me/MoftConfig
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20277#[🇺🇸]t.me/MoftConfig
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20277#[🇺🇸]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20127#[🇺🇸]t.me/ConfigsHub
+vless://8ab1b720-dbab-412d-a159-27b9a58fbb96@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
