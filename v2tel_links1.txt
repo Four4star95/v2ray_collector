@@ -38195,3 +38195,13 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.76.113:443#[🇺🇸]t.me/MoftConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TVRJeE5XSXdOekl0WW1Ga09DMDBOelJtTFRrM016TXRNVE15WWpSa1pUYz0%3D@zz.mogufan.com:20127#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@13.36.215.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.153.152:443#[🏁]t.me/ConfigsHub
+vless://e53e7799-cdc3-4435-9455-e88b59f256aa@ua.serverclouding.zone.id:2096?security=none&encryption=none&type=httpupgrade#[🇦🇪]t.me/ConfigsHub
+trojan://VMhGp5wEIyCDf90T@csuzhou01.1cooldns.com:42303?allowInsecure=0&sni=hk06.run.place#[🏁]t.me/MoftConfig
+vless://f9d28482-a8eb-4c6b-8575-596579979bf9@37.27.252.57:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#[🇫🇮]t.me/MoftConfig
+vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.217.234.75:80?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY#[🇫🇮]t.me/MoftConfig
+vless://6a2206ac-208b-49f5-95e0-6f3656f9072a@5.75.215.22:44/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&sid=f289871208#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.153.152:443#[🏁]t.me/MoftConfig
+vmess://eyJhZGQiOiJrYXBlbGxlbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://fa149110-3364-4b5b-b3b2-c703452fe1c0@151.101.2.133:80?type=ws&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.153.91:443#[🏁]t.me/ConfigsHub
+vless://72054eb2-0f1b-497d-9e61-4b0c1fd25bd5@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
