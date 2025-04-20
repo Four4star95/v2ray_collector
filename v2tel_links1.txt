@@ -38723,3 +38723,10 @@ vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.166.17:443?security=tls&encr
 vless://51fda508-20aa-419e-b4c3-3a6202411412@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?path=Telegram%40V2ray_Alpha&security=none&encryption=none&host=psycho.suex12.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.254:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+trojan://e604616e-645e-41d0-96e6-c6dd7a03cba5@sla.cn.964e995b760.gogodns.xin:27101?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31722#[🏁]t.me/ConfigsHub
+vless://2b619c86-0173-4779-b1db-91bd18e3a618@104.21.79.221:2096?security=tls&sni=phantom.persia.my&type=ws&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36371#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31115#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31741#[🏁]t.me/ConfigsHub
