@@ -38770,3 +38770,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q
 vless://91294dc7-9d66-4dbe-b35c-251b29f5e509@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c2h3Unh5UTV2aU1iMlRz@admin.c4.havij.co:443#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36245#[🏁]t.me/ConfigsHub
+vless://422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/MoftConfig
+vless://e3b7b3f2-7ee5-43c0-88ba-484c1cfc6577@151.101.65.57:80?security=none&type=ws&host=mt.acvs.ir&path=%2FMTMVPN------MTMVPN------MTMVPN------MTMVPN------MTMVPN------MTMVPN------MTMVPN------MTMVPN------MTMVPN%3Fed%3D2560#[🇺🇸]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D%23%40vpnAndroid2%3Fed%3D512&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31215#[🏁]t.me/MoftConfig
+vless://eeff7e41-0d68-4930-97ef-fbae1356545a@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://ac0c43d2-13af-49dd-9681-06115712a109@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36113#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36175#[🏁]t.me/MoftConfig
+vless://fefba36d-5142-42f1-b14d-db5249511d93@107.172.132.248:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=qM1XlrSeyJsPBUvrGWi46okbeljt0ksMuMFPraXrmFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iyfglobal.org&sid=4b61d108#[🇺🇸]t.me/MoftConfig
+vless://e88187f8-62a3-4de1-a8f6-3b704ebd1865@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s26.sabzmaghz.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.sabzmaghz.ir#[🇨🇦]t.me/MoftConfig
+vless://09678bbf-8ce3-404c-b2f0-888b63892185@ufc.ru:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=none&encryption=none&host=vipfast_7.com&type=ws#⚜️Telegram:@IP_CF
+vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@website.amin-app.ir:8880?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://6bf33e1e-4ac0-44f4-94a3-63629c363235@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.158:2086?security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/Telegram@Azarbayjab1#[🇨🇦]t.me/MoftConfig
+vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?security=&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇩🇪]t.me/MoftConfig
+vless://d143c8a9-3e41-4e4b-832b-1eddd02c249b@151.101.130.133:80?type=ws&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#[🇺🇸]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638805116055507373.rasht-shleprx-aaak.info:8880?security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
+trojan://15f5ff0e-1837-4de6-8675-47819d7135e4@sla.cn.964e995b760.gogodns.xin:27001?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzVhYjVkMi1kZjJlLTRiZTUtOGVmNS1mZWZkOTMyYzJjNDY@c.naiun.node-is.green:52103#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36722#[🏁]t.me/MoftConfig
