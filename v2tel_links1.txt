@@ -38870,3 +38870,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoibW9y
 trojan://Aimer@108.165.152.163:2087?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
 vless://422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=/JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/ConfigsHub
 
+trojan://auto@172.66.46.254:443?allowInsecure=0&sni=dcf741e8.epeius-2gy.pages.dev#[🇨🇦]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiZWY3MjFhMTMtc3Yyc2cwLXN6eGg5dy00NmdjLmhrMy5wNXB2LmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIyMjVkMWNjYS1kNzQ0LTExZWYtYjc5MC1mMjNjOTFjZmJiYzkiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCJ0bHMiOiIifQ==
+vless://telegram-id-ArV2ray@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS2-All+%7C+%40ArV2ray
+vless://4befd844-b7a9-4992-94ae-fd0f2887fc75@104.17.147.22:8080?security=none&type=ws&host=jo.IPV2RY.iran.ir.arvancloud.ir.acvss.ddns-ip.net.&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@108.165.152.163:2087?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
+vless://422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=/JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/MoftConfig
+trojan://psycho@104.21.64.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#⚜️Telegram:@IP_CF
