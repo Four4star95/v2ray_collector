@@ -39375,3 +39375,8 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.146.66:443?sni=vv.ylka.dpdns
 vless://e1f091af-3751-4271-a326-f0b9040ed3e8@151.101.194.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?security=tls&sni=vlee.amclubs.nyc.mn&type=ws&host=vlee.amclubs.nyc.mn&path=%2FTelegram%40FreeIranWeb%2F%3Fed%3D2560&fp=randomized#[🇨🇦]t.me/ConfigsHub
 
+vless://965c9185-1ff2-44a8-b0d3-579822748c0f@144.76.231.24:36231?security=none&encryption=none&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/ConfigsHub
+vless://3d02439c-0618-4846-a2eb-7ed6fae26ffc@local.connectix-d1.info:44444?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2FJOIN_BEDE_CHANEL%40MARAMBASHI_MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#[🇮🇷]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hoZori.Ir#[🇨🇦]t.me/ConfigsHub
