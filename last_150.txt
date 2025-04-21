@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@15.188.125.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.156.210.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://862e90e1-2f26-4506-b8b9-0adf20da05fc@129.153.63.195:59303?security=reality&encryption=none&pbk=FHm9vc9hi1aK9jz8CqCjhJvT0bxzsD470FvOyubB6EA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=bbe06294#[🇨🇦]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.43:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.bgm2024.dpdns.org&type=ws&sni=vb.bgm2024.dpdns.org#[🏁]t.me/ConfigsHub
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@julio.ns.cloudflare.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#[🇺🇸]t.me/MoftConfig
 vless://78724318-bcf8-42ac-91f9-651618170f19@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
@@ -145,6 +148,3 @@ vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@downloadha.com.iraniantim.ir:80?pat
 vless://f9d28482-a8eb-4c6b-8575-596579979bf9@188.245.95.151:2025?security=reality&sni=stackoverflow.com&type=xhttp&path=%2FAS&fp=chrome&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#[🇩🇪]t.me/ConfigsHub
 vless://18ae6a6e-1a80-4907-b7d0-a72b76151761@104.22.32.78:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=%2F2096%2F%40V2RayyNGVpn&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGNiMmVhYS1jYWQ2LTRlOGEtOGNlMy0wODgyNTNjYzU3ZWI@free.2apzhfa.xyz:31243#[🏁]t.me/ConfigsHub
-trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.95.220:443#[🇬🇧]t.me/ConfigsHub
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.108:80?encryption=none&security=none&sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&path=%2F#[🇮🇷]t.me/ConfigsHub
