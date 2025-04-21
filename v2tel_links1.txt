@@ -38800,3 +38800,4 @@ vless://c8a4ced0-b100-4700-8857-d06ca3b251af@23.227.60.231:443?security=tls&sni=
 vless://d4e15ed7-5386-431b-841d-32c32788a4e0@5.199.174.190:2096?security=reality&sni=tgju.org&type=grpc&fp=chrome&pbk=ve-hlO8JG2AaXq50gHd8xh0Da-fb_rK_4MGHNCXDKDI&sid=c38fcb4e63#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWE2OTM4NC00MzU3LTQzYWItOGFlZi0wMzczYTNjMmQ0YTk@free.2apzhfa.xyz:31271#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZTE1MTFiMS1mN2I2LTQwZDMtYjkwNy05N2FkNzYzN2Q0MTc@free.2weradf.xyz:36141#[🏁]t.me/MoftConfig
+vless://73b94268-ca9e-4523-b10c-114d9e1a64fb@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
