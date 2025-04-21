@@ -38877,3 +38877,9 @@ vless://4befd844-b7a9-4992-94ae-fd0f2887fc75@104.17.147.22:8080?security=none&ty
 trojan://Aimer@108.165.152.163:2087?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
 vless://422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&host=/JOKERRVPNJoin_Bade_Channel@JOKERRVPN&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/MoftConfig
 trojan://psycho@104.21.64.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.75.78.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.75.78.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.75.78.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eU1HOEtoRkJoeURXR2x3MkROQlds@89.185.84.185:443#🇬🇧 Великобритания
+trojan://telegram-id-vlessconfig@3.75.78.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+trojan://telegram-id-vlessconfig@3.75.78.98:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
