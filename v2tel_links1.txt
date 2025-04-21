@@ -38814,3 +38814,10 @@ vless://c9cb82ad-121b-4bdd-a2fe-e6d371a95d3a@syd5.vpntype.dev:443?security=tls&e
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2F%3Fed%3D512&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#[🇨🇦]t.me/ConfigsHub
 vless://e29e0ba4-e95c-439a-89b8-c7e90f1efe47@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/MoftConfig
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2F%3Fed%3D512&security=tls&encryption=none&host=cr777.rayan.dpdns.org&fp=chrome&type=ws&sni=cr777.rayan.dpdns.org#[🇨🇦]t.me/MoftConfig
+vless://5daffdda-aa80-479c-9a82-c4aef4467722@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=Www.speedtest.net.mahdijamkaran.online.&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://5daffdda-aa80-479c-9a82-c4aef4467722@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=Www.speedtest.net.mahdijamkaran.online.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?path=%2FWR5A7Ug0BgqU4kju%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hoZori.Ir#[🇨🇦]t.me/MoftConfig
+vmess://eyJhZGQiOiI0NS4xMi4xNDUuMTExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFiNDExNTNlLWM0ZDQtNDMxYi04M2ViLTEwNDcyZjg2OWY5MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDYyOTAiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLb1dEZ3Y3QWYwc2lzOVZWMnRtWElW@77.83.246.74:443#🇵🇱 Польша
