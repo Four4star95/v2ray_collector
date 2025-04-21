@@ -38936,3 +38936,12 @@ vless://%74%65%6c%65%67%72%61%6d%2did-%41%72%56%32%72%61%79@151.101.64.155:80?pa
 vless://7026bbec-b5af-13a4-0b00-e3f5f94c6e5f@37.156.46.44:6718?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/MoftConfig
 vless://86733812-a630-4f3f-acf1-99c4f276bf26@syd5.vpntype.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=syd5.vpntype.dev&alpn=h2%2Chttp%2F1.1&fp=chrome#[🏁]t.me/MoftConfig
 vless://7d1f294b-62ae-40e4-97ad-1968c7b96458@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+trojan://telegram-id-privatevpns@35.180.108.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://3e704b83-b85c-40a7-a955-65faeb61b6c5@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/MoftConfig
+trojan://28bdfb42-f7ae-4a1f-9c85-dbc7f6b6cc95@45.146.232.170:43394/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#⚜️Telegram:@IP_CF
+vless://f8eb86d0-5938-48ab-bf0d-27052bf6a0e8@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/MoftConfig
+vless://7cc17892-965e-4061-8983-35324980f50f@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/MoftConfig
+trojan://telegram-id-directvpn@35.180.108.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://696ca1f2-8269-47e5-82b8-5c6b30996436@165.22.244.149:20800?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#[🏁]t.me/MoftConfig
+trojan://telegram-id-directvpn@35.180.108.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-vlessconfig@35.180.108.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
