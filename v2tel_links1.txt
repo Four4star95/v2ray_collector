@@ -39351,3 +39351,7 @@ vless://7bfac524-5abe-4401-b7f9-29da5f174ac3@151.101.64.155:80/?type=ws&encrypti
 vless://7026bbec-b5af-13a4-0b00-e3f5f94c6e5f@37.156.46.44:6718?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f#[🏁]t.me/ConfigsHub
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443/?type=ws&encryption=none&host=cr7.medicaltreatment.ir&path=%2F&security=tls&sni=cr7.medicaltreatment.ir&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://45ebbe2f-57b7-41cf-83ef-9ece48635119@84.47.235.218:33585/?encryption=none&host=chess.com&type=tcp&headerType=http#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@15.237.91.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://a89f3b8b-c74b-493a-a204-fb719cf879f7@54.37.7.94:443?encryption=none&security=reality&sni=snapp.ir&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1&spx=%2F&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.91.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://ca416683-b48c-4ae2-bcd6-d00316bfdef9@104.18.8.74:443?encryption=none&security=tls&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&alpn=h2%2Chttp%2F1.1&fp=random&type=ws&host=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin#[🇨🇦]t.me/ConfigsHub
