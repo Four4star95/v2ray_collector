@@ -39381,3 +39381,9 @@ vless://3d02439c-0618-4846-a2eb-7ed6fae26ffc@local.connectix-d1.info:44444?secur
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hoZori.Ir#[🇨🇦]t.me/ConfigsHub
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.24.222.73:443?path=Telegram%40V2ray_Alpha%2Fed%3D2560&security=tls&encryption=none&host=cr7.rayan.dpdns.org&fp=chrome&type=ws&sni=cr7.rayan.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.82:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#[🇩🇪]t.me/ConfigsHub
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@212.233.94.204:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#[🇷🇺]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.38.175.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://VMhGp5wEIyCDf90T@csuzhou01.1cooldns.com:42303?allowInsecure=0&sni=csuzhou01.1cooldns.com#[🏁]t.me/ConfigsHub
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@168.100.6.173:2095?security=none&type=ws&host=digitalscientificresearchgroup.ir#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjltcWVQaFhDYU5wVzh1MW15YUh0@178.208.78.170:23822#[🇳🇱]t.me/ConfigsHub
