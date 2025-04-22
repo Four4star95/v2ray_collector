@@ -39727,3 +39727,8 @@ vless://b694ef9c-a0e0-472e-a6c8-9059e1b6743a@www.speedtest.net:2086?path=/@Alfre
 trojan://telegram-id-privatevpns@13.38.212.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@221.161.58.134:30569?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#[🏁]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@59.5.53.119:23349?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#[🏁]t.me/MoftConfig
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@162.159.138.232:2086?path=%2FTM%40Azarbayjab1%3Fed%3D2560&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.112.1:8880?path=%2F&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.167:8880?path=%2FTM-%40AZARBAYJAB1&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🇸🇪]t.me/MoftConfig
+trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?path=%2F&security=none&encryption=none&host=psycho.suex12.ir&type=ws#[🇺🇸]t.me/MoftConfig
