@@ -1,3 +1,5 @@
+vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?security=tls&sni=M2-1CM.paGes.DeV&type=ws&host=M2-1CM.paGes.DeV#[🇨🇦]t.me/ConfigsHub
+vless://88d135ff-fd2c-4e78-b1c6-096fdc833172@SERVER-VIP-N-G-S-IS.servervip.nightgemshop.net:8080?headerType=http&host=&path=%2F&security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.227.51.255:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.170.201.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
@@ -144,7 +146,5 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&security=
 trojan://telegram-id-directvpn@52.208.132.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://fafdf8bf-8d2d-5f84-a856-e959e26fd646@151.101.128.155:80?type=ws&host=KHOMEINI.IR.#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#[🇸🇪]t.me/ConfigsHub
-vless://0a6f34c4-39a7-4a27-914c-9d9ec9b57a89@website.amin-app.ir:8880?security=none&type=ws&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed%3D2048&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&packetEncoding=xudp&encryption=none#⚜️Telegram:@IP_CF
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvVkNxSjc5SmppSklqaTUzNVdDandj@77.83.246.74:443#🇵🇱 Польша
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#[🇨🇦]t.me/ConfigsHub
