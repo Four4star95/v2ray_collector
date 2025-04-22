@@ -39885,3 +39885,7 @@ trojan://telegram-id-directvpn@99.80.195.6:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-privatevpns@99.80.195.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://229e6ed9-4ec3-43ea-94db-05cd79825f1f@151.101.3.8:80?encryption=none&security=none&type=tcp&headerType=none#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?security=none&type=ws&host=psycho.suex12.ir&path=%2F#[🇺🇸]t.me/ConfigsHub
+vless://229e6ed9-4ec3-43ea-94db-05cd79825f1f@151.101.3.8:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=Jointovistav2ray.fun&type=xhttp#[🇺🇸]t.me/ConfigsHub
+vless://def6e08c-b9ec-4257-86ef-475efaddd366@3233985.headsetabad.ir:59248?type=tcp&security=reality&pbk=8Kv7EfgfL25rSlPhosakuzPleZ4wWXN90dlh4Ti6FhA&fp=chrome&sni=refersion.com&spx=%2F#[🇩🇪]t.me/ConfigsHub
+vless://def6e08c-b9ec-4257-86ef-475efaddd366@3233985.headsetabad.ir:59248?type=tcp&security=reality&pbk=8Kv7EfgfL25rSlPhosakuzPleZ4wWXN90dlh4Ti6FhA&fp=chrome&sni=refersion.com&spx=%2F#[🇩🇪]t.me/MoftConfig
+vless://229e6ed9-4ec3-43ea-94db-05cd79825f1f@140.248.152.85:443?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Jointovistav2ray.fun&fp=chrome&type=xhttp&sni=zula.ir#[🇺🇸]t.me/ConfigsHub
