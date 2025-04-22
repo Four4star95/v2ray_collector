@@ -40121,3 +40121,4 @@ vless://223d408c-ed85-4c50-942a-b79e8a178a76@85.133.206.14:33912?security=none&t
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443?security=reality&sni=maviks.eu&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://42575d2a-3be1-498f-de6d-e33cb79c23a4@209.38.106.92:443?security=reality&sni=vn98.tv&fp=chrome&pbk=1sfTNQI_9K4RZ-IR8aPOd20VhTE1Eh2iwvv6nBV7ZGk&type=tcp&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://42575d2a-3be1-498f-de6d-e33cb79c23a4@209.38.106.92:443?security=reality&sni=vn98.tv&fp=safari&pbk=1sfTNQI_9K4RZ-IR8aPOd20VhTE1Eh2iwvv6nBV7ZGk&type=tcp&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
+vless://66cb380e-56a4-492a-9896-e09507bd28be@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
