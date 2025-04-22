@@ -39553,3 +39553,6 @@ vless://46db85a1-9d97-46f8-9b7a-ff9704510e5e@85.209.156.7:8880?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?encryption=none&security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@78.47.195.49:20878?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪]t.me/MoftConfig
 vless://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@78.47.195.49:20878?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbThVSnlzMWRmU1FxYkRaNWFuT3Nh@81.19.141.45:443#🇩🇪 Германия
+vless://0a6f34c4-39a7-4a27-914c-9d9ec9b57a89@downloadha.com.iraniantim.ir:80?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=website.amin-app.ir#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbThVSnlzMWRmU1FxYkRaNWFuT3Nh@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
