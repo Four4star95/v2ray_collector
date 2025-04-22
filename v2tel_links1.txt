@@ -39738,3 +39738,18 @@ vless://14e1f919-7d8e-4d9f-9685-1b3486d22584@ka.sitwe.ir:8880/?type=httpupgrade&
 vless://71ea7c77-40b2-4d21-a9ac-5bd7427c4a47@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ==@194.124.250.4:8388#⚜️Telegram:@IP_CF
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇬🇧
+trojan://Aimer@108.165.152.163:2087?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@121.158.194.32:11413?security=tls&sni=photosair.ir&type=ws&host=photosair.ir#[🏁]t.me/ConfigsHub
+vless://15f858a5-3b51-4fe1-a66b-39871f86cc3f@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+vless://15f858a5-3b51-4fe1-a66b-39871f86cc3f@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#[🇩🇪]t.me/MoftConfig
+vless://ff740476-1dc6-4d47-b96f-eafdd42fb9cc@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇬🇧@MoftConfig
+trojan://telegram-id-directvpn@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+vless://39d4ce03-f896-48db-8d2e-c95daa4898e4@185.85.241.196:28697?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=AYHrc8_0MYIbI5eS6Xw1tjYxVpa2haWlsqHl3rYALFQ&sid=3cc554af#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.10.172.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
