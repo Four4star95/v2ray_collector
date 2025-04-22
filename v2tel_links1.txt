@@ -40122,3 +40122,5 @@ vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443?security=reality&
 vless://42575d2a-3be1-498f-de6d-e33cb79c23a4@209.38.106.92:443?security=reality&sni=vn98.tv&fp=chrome&pbk=1sfTNQI_9K4RZ-IR8aPOd20VhTE1Eh2iwvv6nBV7ZGk&type=tcp&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://42575d2a-3be1-498f-de6d-e33cb79c23a4@209.38.106.92:443?security=reality&sni=vn98.tv&fp=safari&pbk=1sfTNQI_9K4RZ-IR8aPOd20VhTE1Eh2iwvv6nBV7ZGk&type=tcp&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://66cb380e-56a4-492a-9896-e09507bd28be@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@168.100.6.173:2095?path=%2FTM%40Azarbayjab1%3Fed&security=&encryption=none&host=digitalscientificresearchgroup.ir&type=ws&sni=digitalscientificresearchgroup.ir#[🇺🇸]t.me/ConfigsHub
