@@ -39642,3 +39642,4 @@ vless://4088e698-69fd-4d15-98bc-f1fe4c071642@168.100.6.173:2095?path=%2FTM%40Aza
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@209.208.227.239:443?path=%2F&security=tls&encryption=none&host=cr77.medicalhistory.ir&type=ws&sni=cr77.medicalhistory.ir#[🇺🇸]t.me/MoftConfig
 vless://55193d81-c11e-4af9-9215-c529175e3ef9@api.lunarmc.ir:8443?type=ws&path=%2Ftp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com%3Fed%3D2048&host=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=api.lunarmc.ir#[🇨🇦]t.me/MoftConfig
 vless://4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@104.17.148.22:8880?type=httpupgrade&host=www.speedtest.net.Tajrish-Rayaneh.ir.&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+
