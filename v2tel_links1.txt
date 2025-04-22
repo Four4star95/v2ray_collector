@@ -39576,3 +39576,4 @@ vless://8eabf204-384d-4ee0-8ff4-e97372ee1a4e@www.speedtest.net:2052?security=&ty
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.254:80?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir#[🏁]t.me/MoftConfig
 trojan://Aimer@130.250.137.63:2083?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 
+vless://b173012f-e00b-4195-9eae-d0fda47d277e@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
