@@ -40165,3 +40165,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ%3D%3D@194.124.250.4:8388#[🇳🇱]t
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@185.146.173.16:2052/?type=ws&encryption=none&host=digitalscientificresearchgroup.ir&path=%2FTM-%40AZARBAYJAB1%2F%3Fed%3D2560#[🇸🇪]t.me/MoftConfig
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096/?type=ws&encryption=none&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&path=%2F&security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#[🇺🇸]t.me/ConfigsHub
+vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hoZori.Ir#[🇨🇦]t.me/MoftConfig
+vless://def6e08c-b9ec-4257-86ef-475efaddd366@91.107.167.61:59248?security=reality&encryption=none&pbk=8Kv7EfgfL25rSlPhosakuzPleZ4wWXN90dlh4Ti6FhA&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇩🇪]t.me/MoftConfig
+vless://Parsashonam-225@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://def6e08c-b9ec-4257-86ef-475efaddd366@91.107.167.61:59248?security=reality&encryption=none&pbk=8Kv7EfgfL25rSlPhosakuzPleZ4wWXN90dlh4Ti6FhA&host=TELEGRAM%20%3A%20MARAMBASHI%20MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇩🇪]t.me/ConfigsHub
+vless://2c1adb56-660d-4a52-898a-e906778c2a75@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://Parsashonam-225@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/MoftConfig
+vless://Parsashonam-225@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
+vless://a91b0948-6283-4083-caac-aa445cc58908@snapp.ir.iraniantim.ir:80?security=reality&encryption=none&pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY&headerType=none&fp=chrome&spx=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN%3Fed%3D2048&type=tcp&sni=refersion.com#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2375#[🇺🇸]t.me/MoftConfig
+vless://Parsashonam-225@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#[🇺🇸]t.me/MoftConfig
