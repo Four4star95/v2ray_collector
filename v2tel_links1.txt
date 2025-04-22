@@ -39834,3 +39834,4 @@ vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.183.44.105:7594?security=realit
 vless://64fc5976-ee5a-4ba7-8f2e-c1e72330be20@mass4.459.pp.ua:37222?security=reality&sni=yahoo.com&fp=chrome&pbk=IIYFuwBndFXQRPNTslqnMw5tM_Tem7JnoNoO320oPGw&sid=a21fd878db21a498&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://19f752c6-a3ea-4e71-adb8-423456e2cab0@85.133.206.14:33912?security=none&type=ws&path=telegram:@summertimeus&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/MoftConfig
+vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&type=tcp#[🇮🇷]t.me/MoftConfig
