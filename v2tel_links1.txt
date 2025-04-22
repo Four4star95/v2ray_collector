@@ -40197,3 +40197,9 @@ vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@151.101.130.133:80?type=ws&host=Ele
 vless://223d408c-ed85-4c50-942a-b79e8a178a76@85.133.206.14:33912?security=none&type=ws&path=telegram:@summertimeus#[🇮🇷]t.me/MoftConfig
 vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.c.4.mashti.link.&type=ws#WS4-Irancell+%7C+%40ArV2ray
 trojan://dQUWbcwECl@74.176.59.185:443?security=tls&sni=automq3-proxy.automq-sg.com&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ%3D%3D@194.124.250.4:8388#[🇳🇱]t.me/MoftConfig
+vless://1990fd54-0195-4109-be9e-5ed5f6f8450b@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.138.134:443#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR0ppTg%3D%3D@45.86.66.16:8388#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR0ppTg%3D%3D@45.86.66.16:8388#[🏁]t.me/MoftConfig
