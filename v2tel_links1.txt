@@ -39835,3 +39835,10 @@ vless://64fc5976-ee5a-4ba7-8f2e-c1e72330be20@mass4.459.pp.ua:37222?security=real
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://19f752c6-a3ea-4e71-adb8-423456e2cab0@85.133.206.14:33912?security=none&type=ws&path=telegram:@summertimeus&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/MoftConfig
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&type=tcp#[🇮🇷]t.me/MoftConfig
+trojan://5453ae26-250d-4e79-b4ec-016baf806865@d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua:443/?type=ws&host=d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua&path=%2FOYzPAeaZdXUq2d6J3gc4aj&security=tls&sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&alpn=http%2F1.1&fp=chrome#⚜️Telegram:@IP_CF
+vless://94141394-bd82-40a8-a270-da7fca8af0f0@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVWRZRHE2ZzRlYnFqN0NE@74.177.138.134:443?outline=1&prefix=POST%20o2cf3f1o#⚜️Telegram:@IP_CF
+trojan://AXpQXM4vNh@141.227.160.167:1935/?type=tcp&security=tls&sni=x2swe-ovh.devefun.net#⚜️Telegram:@IP_CF
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#[🏁]t.me/MoftConfig
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.209.184:80?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws&sni=digitalscientificresearchgroup.ir#[🏁]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU0LjI2LjEzNC4xMDYiLCJwb3J0IjoiMTQxMjkiLCJpZCI6ImU3Nzk4ZTA5LTMwOTAtNDM2Ni1hZTgwLWYxOGFmZGFhYmY0ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1OSJ9
