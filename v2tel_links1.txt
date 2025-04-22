@@ -39538,3 +39538,5 @@ vless://27cbfd99-8afe-4f86-aaf8-e4d4af202eee@199.232.66.133:80?type=xhttp&host=j
 vless://27cbfd99-8afe-4f86-aaf8-e4d4af202eee@199.232.66.133:80?type=xhttp&host=joinbede_vmessorg.ir&path=%2F%40v%6de%73s%6frg----%40v%6de%73s%6frg-----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg----%40v%6de%73s%6frg%3Fed%3D2480#[🇺🇸]t.me/ConfigsHub
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@162.159.138.232:2086?security=none&type=ws&host=digitalscientificresearchgroup.ir#[🇨🇦]t.me/MoftConfig
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@182.213.59.227:27000?security=tls&sni=photosair.ir&type=ws&host=photosair.ir&path=%2Fbing#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.189.99.53:8880?encryption=none&security=none&type=grpc#[🇳🇱]t.me/ConfigsHub
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?encryption=none&security=none&type=tcp&headerType=none#[🇹🇷]t.me/ConfigsHub
