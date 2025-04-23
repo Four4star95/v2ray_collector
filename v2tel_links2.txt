@@ -18763,3 +18763,21 @@ trojan://telegram-id-vlessconfig@56.228.47.252:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@56.228.47.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪@MoftConfig
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTk0LjExLjE3OCIsInBvcnQiOiIyODk4NCIsImlkIjoiOWIyMzM1YWYtZjI0Yy00ODEwLTljMzQtOTU1NjhlYmQ1NzlkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZjA1ZGJkOC1mZTM4LTQ4OTktOGQ3YS03NjAxZjYzYWQ4NmI@free.2weradf.xyz:36213#[🏁]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@3.66.134.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.66.134.189:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@16.16.148.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://e89dc2da-c6a3-4c23-9669-a9f009b04e9c@128.140.43.250:8081?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=www.speedtest.net.a.1.salatinmaccv.ir.&type=ws#WS-Irancell+%7C+%40ArV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#[🇺🇸]t.me/ConfigsHub
+trojan://3828095943467868160@93.114.98.8:443/?type=tcp&security=tls&sni=supreme-loon.dolphin109.quest#⚜️Telegram:@IP_CF
+trojan://telegram-id-vlessconfig@16.16.148.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@jquery.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=cr77.medicalhistory.ir&fp=chrome&type=ws&sni=cr77.medicalhistory.ir#[🇨🇦]t.me/MoftConfig
+vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/ConfigsHub
+vless://%54%45%4C%45%47%52%41%4D%2D%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:1c1b:1051::1]:21614?security=&encryption=none&headerType=&type=tcp#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.77.89:443#⚜️Telegram:@IP_CF
+vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiIDUuOU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODU4MmFiNGEtc3ZjMXMwLXN6ZWdvZS0xMmhqOC5jbTUucDVwdi5jb20iLCJwb3J0IjoxNzIzMywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjVhY2M3YTdjLWQ3ZWEtMTFlYi04NjczLWYyM2M5MTY0Y2E1ZCJ9
+vless://03f7c539-4f5a-4d9c-84bf-815dda38bdcc@194.182.79.65:40359?mode=gun&security=&encryption=none&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E%3Fed%3D2048#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR0ppTg%3D%3D@45.86.66.16:8388#[🏁]t.me/ConfigsHub
+trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@ip.sb:443?path=%2Ftrojan-argo%3Fed%3D2560&security=tls&host=fwd-refuse-senators-brought.trycloudflare.com&type=ws&sni=fwd-refuse-senators-brought.trycloudflare.com#⚜️Telegram:@IP_CF
+vless://202cd0db-3822-4cd9-8f50-28e381080adb@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
