@@ -40939,3 +40939,4 @@ vless://944d8b74-7a64-4b07-a278-9f968e9ef99c@91.107.131.168:443?path=%2F&securit
 vless://6b6e7ff7-02e8-4800-981b-4a61acaa46b2@91.107.176.100:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=mw12.asalemaraghe.ir&fp=chrome&type=ws&sni=mw12.asalemaraghe.ir#[🇩🇪]t.me/MoftConfig
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.137.125:443?sni=edcca.ambercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWI0N2I5YS03N2ZjLTQzY2QtODdlYS05ZGZhMDAzZmEwMGU@free.2weradf.xyz:36471#[🏁]t.me/MoftConfig
+
