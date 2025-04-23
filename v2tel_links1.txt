@@ -40495,3 +40495,4 @@ trojan://telegram-id-privatevpns@51.44.231.150:22222?security=tls&alpn=http/1.1&
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.41.107:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.71:2096?security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&type=ws&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@27.50.49.61:2096?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYzQ2NzM0Y2NlODk4OWJk@45.92.11.72:26067#[🇩🇪]t.me/ConfigsHub
