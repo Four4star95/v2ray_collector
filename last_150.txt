@@ -1,3 +1,4 @@
+vless://c2406195-08e8-495a-aee7-8a524e768f07@54.37.7.94:443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=mXoYA71X3faWTOW2FF0-oCrvLcfP1VHo9T44awgiKBk&sid=f8d21b62b1#[🇬🇧]t.me/ConfigsHub
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?security=tls&sni=rakhsh.4972616e.xyz&type=ws&host=rakhsh.4972616e.xyz#[🏁]t.me/ConfigsHub
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.239:443?sni=digitalscientificresearchgroup.ir&type=ws&host=digitalscientificresearchgroup.ir&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
 vless://e716c78a-c031-4ee4-b32a-25d6475ed1f1@104.17.147.22:8880?security=none&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
@@ -129,7 +130,6 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&security=
 trojan://telegram-id-directvpn@52.208.132.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 vless://fafdf8bf-8d2d-5f84-a856-e959e26fd646@151.101.128.155:80?type=ws&host=KHOMEINI.IR.#[🇺🇸]t.me/MoftConfig
 vless://56e17359-beb8-43cd-b70b-bc21b135e2ae@188.212.97.71:20779?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@104.21.63.240:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#[🇨🇦]t.me/ConfigsHub
 vless://6c7459f6-665f-4a49-b15a-4eed6908c162@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://6bac8a91-972a-4ed9-8a53-71e58881d7a8@68.183.77.91:2096?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiI0NS4xNDUuMjI4LjkxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwiaWQiOiIyNDI2YjNkNS1mMzc3LTQ0Y2EtYTFkMi1jNTI3ZWY1MmM2N2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE2ODkyIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
