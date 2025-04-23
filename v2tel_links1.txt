@@ -40589,3 +40589,9 @@ vless://V2RAXX_@V2RAXX-channel.cataba.ir:15379?path=%2F%40V2RAXX-telegram%2C%40V
 trojan://telegram-id-vlessconfig@13.43.154.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@ip.sb:443/?type=ws&host=fwd-refuse-senators-brought.trycloudflare.com&path=%2Ftrojan-argo%3Fed%3D2560&security=tls&sni=fwd-refuse-senators-brought.trycloudflare.com#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@13.43.154.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.43.154.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@13.43.154.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇬🇧
+trojan://telegram-id-privatevpns@13.43.154.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇬🇧@MoftConfig
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.113.249:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.43.154.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://3828095943467868160@109.104.153.229:443/?type=tcp&security=tls&sni=exotic-wahoo.dolphin109.quest#⚜️Telegram:@IP_CF
