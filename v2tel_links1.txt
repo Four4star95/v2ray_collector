@@ -40943,3 +40943,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWI0N2I5YS03N2ZjLTQzY2QtODdlYS05ZGZhMDAzZmE
 vless://3b693310-416c-4648-9ad2-bd6073dc6948@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://1ce1af4b-ae81-498f-9e83-66ee70a242e1@www.speedtest.net:443?path=%2FJoin_Bade_Channel@JOKERRVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=379e948c.mori-56r.pages.dev&fp=randomized&type=ws&sni=379E948c.mORi-56r.PaGeS.Dev#[🇨🇦]t.me/ConfigsHub
 vless://1ce1af4b-ae81-498f-9e83-66ee70a242e1@www.speedtest.net:443?path=%2FJoin_Bade_Channel@JOKERRVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=379e948c.mori-56r.pages.dev&fp=randomized&type=ws&sni=379E948c.mORi-56r.PaGeS.Dev#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGYmx1UEFiYktlc2x6aHAxOWhjMUt1@89.185.84.185:443#🇬🇧 Великобритания
