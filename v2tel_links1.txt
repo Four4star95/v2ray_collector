@@ -40281,3 +40281,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjNjODNlNy05YjUzLTQ1OTctOTQyYS1iM2YzZjI5Njl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjNjODNlNy05YjUzLTQ1OTctOTQyYS1iM2YzZjI5NjlmYjQ@free.2weradf.xyz:36115#[🏁]t.me/MoftConfig
 vless://d9c956e3-7118-e7eb-50dc-19c53fc364fd@62.60.193.25:2030?type=ws&host=soft98.ir&path=/#[🇮🇷]t.me/ConfigsHub
 vless://229e6ed9-4ec3-43ea-94db-05cd79825f1f@151.101.3.8:80?security=none&type=xhttp&host=Jointovistav2ray.fun.&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjNjODNlNy05YjUzLTQ1OTctOTQyYS1iM2YzZjI5NjlmYjQ@free.2weradf.xyz:36731#[🏁]t.me/MoftConfig
+trojan://3828095943467868160@fit-bengal.dolphin109.quest:443?allowInsecure=1&sni=fit-bengal.dolphin109.quest#[🏁]t.me/MoftConfig
+vless://fa149110-3364-4b5b-b3b2-c703452fe1c0@151.101.66.133:80?type=ws&host=Elenaaaaaaaaa.ir#[🇺🇸]t.me/MoftConfig
+vless://a006d176-5f10-462c-a63d-adb79f9a64f4@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@162.159.152.2:2087?security=tls&sni=Tp350WdTiD.yAzAhRa1.InFo&type=ws&host=Tp350WdTiD.yAzAhRa1.InFo&path=/#[🇨🇦]t.me/MoftConfig
+vless://b9aa4c03-e068-471a-9b77-f7a3573d1745@95.211.62.200:80?security=tls&flow=-udp443&sni=refersion.com&fp=chrome#[🇳🇱]t.me/MoftConfig
+vmess://eyJhZGQiOiI0NS44Mi4yNTIuOTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzEzMjNiZGQtOGRlYy00ZjUyLTg0NDktNWFmMTFiOTAzMjJlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDMyNiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://93650af4-3f6d-40b8-8377-96413102c556@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+trojan://07381e41-41fb-484d-9dc7-37d5a4b566bd@sla.cn.964e995b760.gogodns.xin:34017?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig
+trojan://3828095943467868160@fit-bengal.dolphin109.quest:443?allowInsecure=1&sni=fit-bengal.dolphin109.quest#[🏁]t.me/ConfigsHub
+vless://64985b00-7f6f-44b4-9cd6-f95829abee0a@104.233.210.12:48007?security=tls&flow=xtls-rprx-vision-udp443&sni=yahoo.com&fp=chrome#[🇺🇸]t.me/MoftConfig
+vless://d3bd19bc-9a3b-45cc-8ff8-a76b4a3a1d68@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
