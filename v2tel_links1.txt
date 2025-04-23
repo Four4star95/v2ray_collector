@@ -40406,3 +40406,13 @@ trojan://Aimer@154.197.64.228:2083?allowInsecure=0&sni=epcca.ambercc.filegear-sg
 trojan://Aimer@154.197.64.228:2083?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 trojan://Aimer@154.197.64.248:8443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 
+vless://d3cdb9df-5bff-4bc2-9eed-d14ad549a724@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://telegram-id-vlessconfig@3.75.8.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://cfc29a51-129c-449f-fe2c-772401fe319b@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.75.8.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.75.8.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@3.75.8.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+vless://99578e88-bc64-479f-e498-050bbb70c4d1@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.75.8.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-privatevpns@3.75.8.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+vless://cfc29a51-129c-449f-fe2c-772401fe319b@uk.darkteam.vipt-t.info:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇬🇧]t.me/ConfigsHub
