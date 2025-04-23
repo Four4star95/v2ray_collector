@@ -40307,3 +40307,23 @@ vless://4085d45d-a304-4d0a-a0da-829103eaa180@104.17.147.22:2086?security=none&ty
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?security=tls&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=/&fp=chrome#[🇨🇦]t.me/ConfigsHub
 
 vless://caf769de-8857-4666-af09-683a6ac06b8a@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@104.18.156.119:443?security=tls&sni=cr77.medicalhistory.ir&type=ws&host=cr77.medicalhistory.ir&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/MoftConfig
+vless://84630ddd-b04a-4494-aa3a-b831a9873b81@cloudgetservice.mcloudservice.site:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=maxnetvipaP-us4.NetKh3.sItE&type=ws&sni=maxnetvipaP-us4.NetKh3.sItE#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MTUzNzQ4OS03ZGQ4LTQ1NzgtOTY2MC1kMWUzM2UyZTU4Mzc@free.2apzhfa.xyz:31213#[🏁]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.150.117.39:8880?security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MTUzNzQ4OS03ZGQ4LTQ1NzgtOTY2MC1kMWUzM2UyZTU4Mzc@free.2apzhfa.xyz:31213#[🏁]t.me/ConfigsHub
+vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.16.1:443?security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&type=ws&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#[🇨🇦]t.me/ConfigsHub
+vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?path=%2Fvless&security=&encryption=none&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3M2E5NjJiZDMyYTU4NDQ1@57.128.190.245:47419#⚜️Telegram:@IP_CF
+vless://d96ddab8-306d-4a6b-86d9-d8e427316075@162.159.195.139:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
+vless://5b36ec1a-a046-46c8-954b-9121cccbaf89@mass4.459.pp.ua:32763?security=reality&encryption=none&pbk=0eS3mQP0reX1lAEdCogRY2ZvPJCs9zTTo7CggIUFhyA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d58c9032d2a2e1ba#[🇩🇪]t.me/MoftConfig
+vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?security=reality&encryption=none&pbk=N3OhMYHjw0MGH7X93-6lec9iOMQHRUr-Uz-cGzQ32jQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#[🏁]t.me/MoftConfig
+vless://d96ddab8-306d-4a6b-86d9-d8e427316075@162.159.195.139:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/MoftConfig
+trojan://0212fab5-e93c-4904-b7a8-187fd535f354@3wsxcvbn.890617.xyz:443?path=%2FrFt8MpX4JNWO67qEaMINZ1&security=tls&alpn=http%2F1.1&host=3wsxcvbn.890617.xyz&fp=chrome&type=ws&sni=3wsxcvbn.890617.xyz#[🇨🇦]t.me/MoftConfig
+vless://99578e88-bc64-479f-e498-050bbb70c4d1@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇬🇧]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?security=none&type=ws&host=psycho.suex12.ir&path=/#[🇺🇸]t.me/ConfigsHub
+vless://2e7b1501-74a0-4f74-be84-559625aa3100@mass4.459.pp.ua:33117?security=reality&encryption=none&pbk=Uu1ZW6SsALHqdsTBDaSB0EyLfG4jXxJhPWnu9A1VqiE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86e10730d0e5a3#[🇩🇪]t.me/MoftConfig
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@199.34.228.47:443?path=%2F&security=tls&encryption=none&host=cr77.medicalhistory.ir&type=ws&sni=cr77.medicalhistory.ir#[🇺🇸]t.me/MoftConfig
+vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@104.18.156.119:443?security=tls&sni=cr77.medicalhistory.ir&type=ws&host=cr77.medicalhistory.ir&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.16.1:443?security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&type=ws&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.0:80?security=none&type=ws&host=psycho.suex12.ir&path=/#[🇺🇸]t.me/MoftConfig
