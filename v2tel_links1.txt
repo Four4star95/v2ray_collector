@@ -40613,3 +40613,32 @@ vless://c8898cfd-9927-4f36-b7bc-40de76076b80@213.219.215.89:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@4.158.72.166:443#[🇬🇧]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#⚜️Telegram:@IP_CF
 vless://45e2cfbb-762d-4531-a467-c5998a836bef@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+trojan://telegram-id-directvpn@54.155.66.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
+trojan://Aimer@154.212.46.70:443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://ee04c8b1-0031-4168-a92c-b2a12a748c77@142.93.231.14:51422?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/MoftConfig
+vless://de2d7b84-bd3c-4966-8a8b-a059bcc810bd@local.connectix-d1.info:44444?security=reality&sni=www.speedtest.net&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMS42NS4yMTYuMzUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzBlMDYxZjYtNzk2YS0xMWVlLThmMjYtZjIzYzkxM2M4ZDJiIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IjY4MWYwNDJjLXN2MnNnMC10MTVkdWMtMW5zZHAuaGsucDVwdi5jb20iLCJ0bHMiOiIifQ==
+vless://9755cc88-09d8-437f-bd89-d4a89915d9ae@162.159.153.222:2096?sni=keji.madcity.lol&type=ws&host=keji.madcity.lol&allowInsecure=1#[🇨🇦]t.me/MoftConfig
+vless://a7e0cb26-4d5e-454c-90f8-439c988b8aaa@104.17.147.22:8880?type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-directvpn@54.155.66.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://5cf6999c-e6e0-4781-bb9e-4452e654bc95@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://a9c53545-11b9-4373-ba83-0047947a5180@84.234.28.144:10?mode=auto&path=%2F&security=reality&encryption=none&pbk=QBr0SftwGBpVvwMezn62mSo45Q2JEkjsKxonz7BxAFE&fp=chrome&spx=/DRAGON&type=xhttp&sni=yahoo.com&sid=fd7b#[🏁]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@54.155.66.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇮🇪
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@a.nl.maviks.eu:443?security=reality&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTZiMWEwNWUwYmU4YjNhQDU3LjEyOC4xOTAuMTY3OjE0ODIy#⚜️Telegram:@IP_CF
+vless://696bf99b-d49b-4ecd-897f-3b2b7ab0845f@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.127.173.201:443?security=reality&sni=maviks.eu&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/MoftConfig
+vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?security=tls&flow=xtls-rprx-vision-udp443&sni=yapc-1.afshin.ir&fp=chrome&allowInsecure=1#[🏁]t.me/MoftConfig
+vless://e42c4986-b88d-49c7-bad9-092aba72828d@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.155.66.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪@MoftConfig
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@ru.maviks.eu:443?security=reality&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇷🇺]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.155.66.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@54.155.66.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇮🇪
+trojan://Aimer@108.165.152.113:443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
+vless://a9c53545-11b9-4373-ba83-0047947a5180@84.234.28.144:10?mode=auto&path=%2F&security=reality&encryption=none&pbk=QBr0SftwGBpVvwMezn62mSo45Q2JEkjsKxonz7BxAFE&fp=chrome&spx=/DRAGON&type=xhttp&sni=yahoo.com&sid=fd7b#[🏁]t.me/MoftConfig
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.9.157:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@167.68.4.58:443?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://93c79094-5886-4621-9609-a0b45cddecac@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://de2d7b84-bd3c-4966-8a8b-a059bcc810bd@local.connectix-d1.info:44444?security=reality&sni=www.speedtest.net&fp=randomized&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/MoftConfig
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@194.127.173.201:443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172/?POST%20#⚜️Telegram:@IP_CF
