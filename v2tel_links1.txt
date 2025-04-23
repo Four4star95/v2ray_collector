@@ -40350,3 +40350,4 @@ trojan://Aimer@154.197.64.166:2053?allowInsecure=0&sni=epccd.ambercc.filegear-sg
 trojan://Aimer@161.145.150.29:2083?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 vless://a60cac83-0d9f-4de1-9873-70be4d3cbf74@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=Www.speedtest.net.mahdijamkaran.online.&encryption=none#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@167.68.4.223:2096?allowInsecure=0&sni=epccd.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+
