@@ -40461,3 +40461,18 @@ trojan://dQUWbcwECl@74.176.59.185:443?allowInsecure=0&sni=automq3-proxy.automq-s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@3.36.57.145:1234#[🏁]t.me/MoftConfig
 trojan://d63b8dad-02ee-4477-8f58-693a715ddd4c@aafrtpfxr.aul01i9zjfegelp.5xfsur8v62.gosdk.xyz:34017/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#⚜️Telegram:@IP_CF
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.211.211:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-directvpn@51.44.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVWRZRHE2ZzRlYnFqN0NE@74.177.138.134:443#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@13.61.113.167:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.44.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-vlessconfig@51.44.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇨🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@51.44.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVWRZRHE2ZzRlYnFqN0NE@74.177.138.134:443#[🇬🇧]t.me/ConfigsHub
+vless://29dc7a46-5bd9-4dac-b3a8-59d83e06dc0a@157.180.30.213:49591?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@51.44.231.150:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://3e30012d-5bb2-4a8c-b576-c87c5f68169d@eq.lunarmc.ir:8443?type=ws&path=%2Ftp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com%3Fed%3D2048&host=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=eq.lunarmc.ir#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#[🇺🇸]t.me/MoftConfig
+vless://29dc7a46-5bd9-4dac-b3a8-59d83e06dc0a@157.180.30.213:49591?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://03f7c539-4f5a-4d9c-84bf-815dda38bdcc@194.182.79.65:40359?security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048#⚜️Telegram:@IP_CF
+trojan://telegram-id-vlessconfig@13.61.113.167:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
