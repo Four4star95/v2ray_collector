@@ -40572,3 +40572,13 @@ vless://6bac8a91-972a-4ed9-8a53-71e58881d7a8@68.183.77.91:2096?encryption=none&s
 vless://02331e9e-af70-4abb-b4e9-1a1b1e63df9a@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#⚜️Telegram:@IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.247:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nn.ylks0033.dpdns.org&type=ws&sni=nn.ylks0033.dpdns.org#⚜️Telegram:@IP_CF
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?encryption=none&security=none&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#[🇷🇺]t.me/ConfigsHub
+vless://542f0c58-1bec-41e3-8150-646872b33847@104.19.54.50:8080?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.svgspeedtest.net.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://V2RAXX_@V2RAXX-channel.cataba.ir:15379?path=%2F%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
+trojan://3828095943467868160@blessed-opossum.dolphin109.quest:443/?type=tcp&security=tls&sni=blessed-opossum.dolphin109.quest#⚜️Telegram:@IP_CF
+trojan://3828095943467868160@202.78.163.141:443/?type=tcp&security=tls&sni=sharp-bear.dolphin109.quest&fp=chrome#⚜️Telegram:@IP_CF
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@213.219.215.89:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#[🇷🇺]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VDJuVkIycno2N2VVb0ZHZVRiQWVY@81.19.141.45:443#🇩🇪 Германия
+trojan://3828095943467868160@202.78.163.146:443/?type=tcp&security=tls&sni=immense-goose.dolphin109.quest#⚜️Telegram:@IP_CF
+vless://ccfa3026-d3ea-4b23-bbce-4df28959eea4@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
+vless://V2RAXX_@V2RAXX-channel.cataba.ir:1234?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#[🇩🇪]t.me/ConfigsHub
