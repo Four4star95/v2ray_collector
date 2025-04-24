@@ -41206,3 +41206,9 @@ trojan://telegram-id-privatevpns@13.39.53.86:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.39.53.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://2c72029d-7cc5-4d88-93b0-6483a2f4f771@199.232.66.133:80?type=xhttp&host=Wedbaz.COM&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
 
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.184.159:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNDEuMTAxLjEyMS4zNCIsImFpZCI6MCwiaG9zdCI6IjE3NDM5MTk5Nzguc3BlZWQubGF4aGEuY2NjcC5mcmVlZmx5LnBwLnVhIiwiaWQiOiIzYmIzYzczMC1lMTA3LTQ5YzUtYTBiMi1iNTc2ZDFiMjZhNWUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjg0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://feb59a0f-fac3-4058-8369-f17b7221aa46@raynitro.holooserver.com:20878?security=&encryption=none&headerType=&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://feb59a0f-fac3-4058-8369-f17b7221aa46@raynitro.holooserver.com:20878?security=&encryption=none&headerType=&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://acf7d981-0608-4cb3-a08e-0ae8abf06db6@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=&encryption=none&host=google.com&type=ws#[🇩🇪]t.me/ConfigsHub
