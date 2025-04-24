@@ -41010,3 +41010,4 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@104.16.155.10:443?sni=xx.bgm2024.dp
 vmess://eyJ2IjoiMiIsInBzIjoiQEFyeWFuYW5ldF9ib3RcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0ZcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJhZGQiOiI5MS4xOTQuMTEuMTc4IiwicG9ydCI6IjI4OTg0IiwiaWQiOiI5YjIzMzVhZi1mMjRjLTQ4MTAtOWMzNC05NTU2OGViZDU3OWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://5b36ec1a-a046-46c8-954b-9121cccbaf89@185.85.241.196:32763?security=tls&flow=xtls-rprx-vision-udp443&sni=yahoo.com&fp=chrome#[🇩🇪]t.me/ConfigsHub
 
+vless://5f1915cb-9849-4f0c-b203-722b9272b2c7@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
