@@ -41422,3 +41422,14 @@ vless://Parsashonam-227@185.146.173.39:8880?path=%2F&security=none&encryption=no
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Y2U4MTc3NGY0ODk0ZjVh@51.161.80.68:47789#⚜️Telegram:@IP_CF
 vless://Parsashonam-227@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
 
+vless://2fb29953-6618-4fe2-a208-f17cf5ebac44@151.101.194.165:80?security=none&type=ws&host=namehmain.com&path=%2FTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%2CTELEGRAM-%40mainv2-ray%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWIzMTY4My1lNGMyLTQzNWQtYThlMy0wMGIyNGU5Y2EyMDc@free.2weradf.xyz:36115#[🏁]t.me/ConfigsHub
+vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.140.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://d143c8a9-3e41-4e4b-832b-1eddd02c249b@151.101.2.133:80?type=ws&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@13.37.140.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vmess://eyJ2IjoiMiIsInBzIjoiIDEuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiZjAwNjI3ZmItc3ZhNzQwLXN2OTk1aS14ejRsLmNtLnBsZWJhaS5uZXQiLCJwb3J0IjoiMTUyMjkiLCJ0eXBlIjoibm9uZSIsImlkIjoiOGMzZWY0YzItOTgwZC0xMWVmLWFkZDctZjIzYzkxM2M4ZDJiIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJmMDA2MjdmYi1zdmE3NDAtc3Y5OTVpLXh6NGwuY20ucGxlYmFpLm5ldCIsInRscyI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31311#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWIzMTY4My1lNGMyLTQzNWQtYThlMy0wMGIyNGU5Y2EyMDc@free.2weradf.xyz:36213#[🏁]t.me/ConfigsHub
+vless://f767acde-115a-41e0-b3b3-d158c15d7d60@104.17.148.22:8880?security=none&type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31471#[🏁]t.me/ConfigsHub
