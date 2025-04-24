@@ -41352,3 +41352,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGM
 trojan://telegram-id-directvpn@13.49.32.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-vlessconfig@13.49.32.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31641#[🏁]t.me/ConfigsHub
+
