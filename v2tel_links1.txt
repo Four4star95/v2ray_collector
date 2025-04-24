@@ -41489,3 +41489,24 @@ trojan://Aimer@108.165.152.130:2083/?type=ws&host=epccd.ambercc.filegear-sg.me&p
 trojan://Aimer@161.145.150.29:2083?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443-%40V2ray_Alpha&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@172.67.204.84:443?security=tls&encryption=none&host=delicate-shape-a1b0.visot77057.workers.dev&fp=chrome&type=ws&sni=delicate-shape-a1b0.visot77057.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.49.32.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪@MoftConfig
+vless://6b0cd658-ef76-42ff-aa0a-42afcd58e2a0@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://ad2eb371-8f75-4e61-8248-9d77e80d7862@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+trojan://telegram-id-privatevpns@51.21.163.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪@MoftConfig
+vless://319c978f-7361-4ade-a1f8-37f73f22a6a2@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://69543da4-9ac5-41e7-a95d-7154067ce209@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+trojan://telegram-id-privatevpns@63.34.99.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇮🇪@MoftConfig
+trojan://telegram-id-privatevpns@18.199.215.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@34.243.149.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪@MoftConfig
+vless://c71c3901-1129-4f4b-8e69-c4effcc01693@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://00eea7ad-36bd-4c61-b9df-0d19f336797f@173.245.59.132:8080?type=httpupgrade&host=evay-free.ysphs.top.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&security=none#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@13.37.140.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+vless://64770204-ce1f-4cee-8ca1-32f7b55bd872@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://fbc88393-8e76-47a0-ae03-a9e99c38ade8@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://5d0e6b25-c760-4e4a-a4ad-f3d9125f753a@172.82.67.36:11707?security=reality&encryption=none&pbk=pPNYO0OUg-_J40rCmDPYRNaJEKVJidy6U90R3Qscew0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4c#[🇺🇸]t.me/MoftConfig
+vless://12935883-28b0-4177-99f1-1891717de871@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+trojan://telegram-id-privatevpns@51.44.188.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+vmess://eyJhZGQiOiIxMDQuMjEuMjM4LjE2NiIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJwb3J0IjoyMDg2LCJpZCI6IjdkOTJmZmM5LTAyZTEtNDA4Ny04YTQ2LWNjNGQ3NjU2MDkxNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidzU4LjE2NDc0OC54eXoiLCJwYXRoIjoiZ2l0aHViLmNvbVwvQWx2aW45OTk5IiwidGxzIjoiIn0=
+vless://d0324125-032e-4f17-b48d-26ae0b6bf081@185.122.166.216:11590?security=reality&encryption=none&pbk=0NxhLNLvgD0NHroc2qx1CsXllFTOARjCMjwPPvU-yBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=ba37#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-privatevpns@18.196.84.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+vless://cf6b2e4e-da0b-44be-854f-039b5e4e0eb8@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
