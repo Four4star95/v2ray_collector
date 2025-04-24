@@ -41028,3 +41028,4 @@ vless://af8e7760-4993-4393-9db7-e84f05a06d21@104.18.20.20:443?path=%2Fpq%2Fus7&s
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.209:443?sni=xx.bgm2024.dpdns.org&type=ws&allowInsecure=1#[🇺🇸]t.me/MoftConfig
 vless://Parsashonam-226@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://ffca625c-6321-4411-b786-65cc8a907839@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQ2M2VlpXSE03MmlJeXFJeEFkUVQ4@77.83.246.74:443#🇵🇱 Польша
