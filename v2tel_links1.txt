@@ -41205,3 +41205,4 @@ vless://f71d027c-2e77-491a-adeb-2864a2e70574@23.88.44.129:1234?type=grpc&service
 trojan://telegram-id-privatevpns@13.39.53.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 trojan://telegram-id-directvpn@13.39.53.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://2c72029d-7cc5-4d88-93b0-6483a2f4f771@199.232.66.133:80?type=xhttp&host=Wedbaz.COM&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
+
