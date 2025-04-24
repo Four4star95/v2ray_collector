@@ -1,3 +1,8 @@
+vless://961c51ed-b463-47ed-bb6f-b57945d2373f@jooon.hajalii.com:21620?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇬🇧]t.me/ConfigsHub
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Yousefvip.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Ser2.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Serjio1.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?security=none&type=httpupgrade&headerType=&path=%2FGoodLuck%3Fed%3D2560&host=Ser2.serrjioo.ir#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206YXNkMTIyMw%3D%3D@210.0.244.137:42756#[🏁]t.me/ConfigsHub
 vless://f6a2bf82-98f8-464b-93d2-0294326838a6@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/MoftConfig
@@ -143,8 +148,3 @@ trojan://3828095943467868160@immense-goose.dolphin109.quest:443/?type=tcp&securi
 trojan://3828095943467868160@exotic-wahoo.dolphin109.quest:443/?type=tcp&security=tls&sni=exotic-wahoo.dolphin109.quest#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.57.227.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.57.227.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-vless://3301f93a-51da-44e1-b285-765baae18e32@o.soskom.ir:26528?mode=gun&security=reality&encryption=none&authority=&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/ConfigsHub
-trojan://Aimer@sage.ns.cloudflare.com:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
-trojan://3501515828cc7f64eca8af758a6b921f@notice.2513142.xyz:443/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#⚜️Telegram:@IP_CF
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.246.43.243:80?security=none&type=tcp#[🇺🇸]t.me/MoftConfig
-vless://3301f93a-51da-44e1-b285-765baae18e32@o.soskom.ir:26528?mode=gun&security=reality&encryption=none&authority=&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/MoftConfig
