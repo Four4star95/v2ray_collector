@@ -41071,3 +41071,10 @@ vless://39d4ce03-f896-48db-8d2e-c95daa4898e4@185.85.241.196:28697?security=tls&f
 vless://e614f1e9-7e21-4c7c-a605-79bda345cd0b@185.122.166.216:13402?security=reality&encryption=none&pbk=MG7Okfqg9oD5PDQ6qmlY16dL-xui60EYmVBQ5wzaOSA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=28#[🇺🇸]t.me/MoftConfig
 trojan://3828095943467868160@109.107.159.202:443?allowInsecure=0&sni=grateful-mako.dolphin109.quest#[🇬🇧]t.me/ConfigsHub
 trojan://6efc45ce-f96b-401e-8220-633d37ba92ba@183.240.116.252:27103?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGMxWQ%3D%3D@194.55.137.16:8388#[🇩🇪]t.me/ConfigsHub
+vless://8c14bb15-0e28-4723-81b7-928554790897@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.158.95.69:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1l5Tg%3D%3D@85.209.158.11:8388#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGMxWQ%3D%3D@194.55.137.16:8388#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.158.95.69:443#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1l5Tg%3D%3D@85.209.158.11:8388#[🇬🇧]t.me/ConfigsHub
