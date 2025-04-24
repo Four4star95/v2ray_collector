@@ -41528,3 +41528,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTF
 trojan://Aimer@167.68.5.248:2087?allowInsecure=1&sni=epccd.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOC4yMTguMjI4LjQ1IiwicG9ydCI6IjUyMDU5IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijg4OGNlNWU5LTZlM2EtNGI1Yy1iY2I3LWNlMTEyNWMwMmQ3OSIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vless://acf83d12-da08-4480-b79b-f484b96a852a@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#[🇹🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@80.92.204.106:9019#[🇩🇪]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-227@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@80.92.204.106:9019#[🇩🇪]t.me/MoftConfig
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-227@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-227@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net&allowInsecure=1&type=tcp&path=&host=x4ger-ionos.devefun.net#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiJjYjQxZTZmYi1zdjJzZzAtc3YydmRtLTFxdWR6LmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiY2I0MWU2ZmItc3Yyc2cwLXN2MnZkbS0xcXVkei5oay5wNXB2LmNvbSIsImlkIjoiYTYzYjBkNDQtZTI5MC0xMWVlLTkxZjYtZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net&allowInsecure=1&type=tcp&path=&host=x4ger-ionos.devefun.net#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#[🇹🇷]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-227@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#[🇺🇸]t.me/ConfigsHub
