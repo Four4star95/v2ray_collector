@@ -41342,3 +41342,13 @@ vless://2e7b1501-74a0-4f74-be84-559625aa3100@185.85.241.196:33117?security=reali
 vless://14353d8e-a07c-486b-a125-916da7d7f12f@194.182.79.116:25243?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&packetEncoding=xudp&encryption=none#[🏁]t.me/ConfigsHub
 vless://efc6f773-faa1-4adf-a0a4-6921a6c95406@194.182.79.175:35861?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&packetEncoding=xudp&encryption=none#[🏁]t.me/ConfigsHub
 vless://0b2ed97a-7e08-48b5-828f-8f4d5274fd51@172.232.49.22:443?security=reality&sni=test.salamrhbr.website&fp=chrome&pbk=mWAgFr9f7XHpYw5zk7LiYhPasyOhK-vAlqlf7iepL3I&sid=b2c46782098658&type=tcp&packetEncoding=xudp&encryption=none#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p232.panda004.net:61004#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31441#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31313#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31721#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31243#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.243.85:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31245#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.49.32.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-vlessconfig@13.49.32.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31641#[🏁]t.me/ConfigsHub
