@@ -1,3 +1,4 @@
+vless://d575779a-98d1-413d-861b-7e2dfcb5c7e0@jooon.hajalii.com:12406?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://961c51ed-b463-47ed-bb6f-b57945d2373f@jooon.hajalii.com:21620?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇬🇧]t.me/ConfigsHub
 vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Yousefvip.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -128,7 +129,6 @@ vless://ee04c8b1-0031-4168-a92c-b2a12a748c77@142.93.231.14:51422?security=none&e
 vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/ConfigsHub
 vless://ca9074b2-2442-43b8-c7ab-5440cb7f3ef7@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
 vless://9322430d-84fd-4fdf-808d-5c146fcde700@172.67.73.163:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#[🇨🇦]t.me/ConfigsHub
-vless://Parsashonam-226@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/ConfigsHub
 vless://496d513c-2df6-48a7-ab30-c432fb005cf3@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://61a86474-7ab7-4fe1-f56a-09b41223781e@www.speedtest.net:2083?path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=TKN.filmekade.ru&fp=chrome&type=ws&sni=TKN.filmekade.ru#[🇨🇦]t.me/ConfigsHub
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083?path=%2Fflow%3D-udp443flow%3D-udp443&security=tls&encryption=none&host=23-lsjfjwiposkfls.hc2021.cfd&type=ws&sni=23-lsjfjwiposkfls.hc2021.cfd#[🇨🇦]t.me/ConfigsHub
