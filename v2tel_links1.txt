@@ -41041,3 +41041,4 @@ trojan://74fa3b6c-e333-49f4-ab15-9549fc53cf42@sla.cn.964e995b760.gogodns.xin:466
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.78.63:443#[🏁]t.me/ConfigsHub
 trojan://BNr2EqVqfC3YtTNiwRXqhA@65.109.180.201:2095?security=none&type=tcp&headerType=&path=&host=#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJmXHUwNjQ4XHUwNjMzXHUwNjI3XHUwNjQ0IFx1MDYzM1x1MDYyN1x1MDYyOFx1MDY0Mlx1MDY0NyB8IEBBcnlhbmFuZXRfYm90XHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjEzOC4xNDAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqYWhma2poYS5jZmQiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://2fed07ed-cae1-4dba-947a-51070b1b0139@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
