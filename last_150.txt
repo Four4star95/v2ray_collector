@@ -1,3 +1,5 @@
+vless://d575779a-98d1-413d-861b-7e2dfcb5c7e0@jooon.hajalii.com:12406?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#[🇩🇪]t.me/ConfigsHub
+vless://961c51ed-b463-47ed-bb6f-b57945d2373f@jooon.hajalii.com:21620?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9db9cb88-d722-459d-8241-fd1d6d8f9688@198.244.193.109:13039?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#[🇬🇧]t.me/ConfigsHub
 vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Yousefvip.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://00da4e80-454a-4c96-a1f2-86989110f87a@ns.cloudflare.com:2052?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=Ser2.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
@@ -146,5 +148,3 @@ trojan://3828095943467868160@immense-goose.dolphin109.quest:443/?type=tcp&securi
 trojan://3828095943467868160@exotic-wahoo.dolphin109.quest:443/?type=tcp&security=tls&sni=exotic-wahoo.dolphin109.quest#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.57.227.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@52.57.227.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-vlessconfig@34.243.149.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇮🇪
-trojan://telegram-id-directvpn@34.243.149.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
