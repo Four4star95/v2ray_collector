@@ -41026,3 +41026,4 @@ vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.247.180.82:80?security=none&type
 vless://af8e7760-4993-4393-9db7-e84f05a06d21@104.18.20.20:443?path=%2Fpq%2Fus7&security=tls&encryption=none&host=us7.globals-download.com&fp=chrome&type=ws&sni=us7.globals-download.com#[🇨🇦]t.me/MoftConfig
 vless://af8e7760-4993-4393-9db7-e84f05a06d21@104.18.20.20:443?path=%2Fpq%2Fus7&security=tls&encryption=none&host=us7.globals-download.com&fp=chrome&type=ws&sni=us7.globals-download.com#[🇨🇦]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.209:443?sni=xx.bgm2024.dpdns.org&type=ws&allowInsecure=1#[🇺🇸]t.me/MoftConfig
+vless://Parsashonam-226@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
