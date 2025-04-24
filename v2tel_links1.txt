@@ -41519,3 +41519,11 @@ trojan://8264f515-90b6-4152-9830-7abc0ec215c6@193.57.136.137:443?security=tls&sn
 vless://42575d2a-3be1-498f-de6d-e33cb79c23a4@209.38.106.92:443?security=reality&encryption=none&pbk=1sfTNQI_9K4RZ-IR8aPOd20VhTE1Eh2iwvv6nBV7ZGk&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=safari&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&sni=vn98.tv#[🇳🇱]t.me/MoftConfig
 vless://bc9f5140-efe0-44c4-b777-644016ad4240@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
 trojan://462c1b1c-5556-4fed-a19c-a6e222306579@45.146.232.171:27002?security=tls&headerType=none&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTFjMTQ@free.2apzhfa.xyz:31371#[🏁]t.me/MoftConfig
+trojan://Aimer@167.68.5.248:2087?allowInsecure=1&sni=epccd.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTFjMTQ@free.2apzhfa.xyz:31243#[🏁]t.me/ConfigsHub
+trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTFjMTQ@free.2apzhfa.xyz:31243#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTFjMTQ@free.2apzhfa.xyz:31371#[🏁]t.me/ConfigsHub
+trojan://Aimer@167.68.5.248:2087?allowInsecure=1&sni=epccd.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
