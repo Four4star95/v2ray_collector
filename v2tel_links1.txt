@@ -41395,3 +41395,4 @@ trojan://telegram-id-directvpn@18.199.215.47:22222?security=tls&alpn=http/1.1&he
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.166.9.251:443#[🇬🇧]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.199.215.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-vlessconfig@51.21.163.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
+trojan://psycho@104.21.48.1:443?path=%2Ftr7m9KE73yqd6Htr2E%3Fed%3D2560&security=tls&alpn=http/1.1&host=psycho.suex12.ir&type=ws&sni=pSychO.sueX12.IR#[🇨🇦]t.me/ConfigsHub
