@@ -41080,3 +41080,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.158.95.69:443#[🇬�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1l5Tg%3D%3D@85.209.158.11:8388#[🇬🇧]t.me/ConfigsHub
 vless://441b1589-5407-4f99-bdfd-6bd821d07968@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
 vless://441b1589-5407-4f99-bdfd-6bd821d07968@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/MoftConfig
+vless://364883ce-76a4-43b0-9b9e-594ce8167cf8@128.140.5.200:2053?type=ws#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@210.96.92.11:12423?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIyLjU2LjEyNi4xMDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMmViM2VlMmEtN2JmOC00YjUwLTliOTMtMmQ0ODlkMmYzNDU2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzU3OSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://4befd844-b7a9-4992-94ae-fd0f2887fc75@104.21.32.1:8080?type=httpupgrade&host=website.acveo.ir#[🇨🇦]t.me/ConfigsHub
