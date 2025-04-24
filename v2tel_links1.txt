@@ -41434,3 +41434,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWIzMTY4My1lNGMyLTQzNWQtYThlMy0wMGIyNGU5Y2E
 vless://f767acde-115a-41e0-b3b3-d158c15d7d60@104.17.148.22:8880?security=none&type=ws&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDA3YmMyZi1kNDcxLTQ4ZDItYjJiNS01YmY5NDJhNGMyNTI@free.2apzhfa.xyz:31471#[🏁]t.me/ConfigsHub
 
+vless://00eea7ad-36bd-4c61-b9df-0d19f336797f@173.245.59.132:8080?type=httpupgrade&host=evay-free.ysphs.top.&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&security=none#[🇨🇦]t.me/ConfigsHub
