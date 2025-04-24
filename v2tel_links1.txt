@@ -41527,3 +41527,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTBiZDdhOS04Y2JlLTQzM2ItODdiNy1kYWViOTAzOTFjMTQ@free.2apzhfa.xyz:31371#[🏁]t.me/ConfigsHub
 trojan://Aimer@167.68.5.248:2087?allowInsecure=1&sni=epccd.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@pranab.ns.cloudflare.com:443?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOC4yMTguMjI4LjQ1IiwicG9ydCI6IjUyMDU5IiwidHlwZSI6Im5vbmUiLCJpZCI6Ijg4OGNlNWU5LTZlM2EtNGI1Yy1iY2I3LWNlMTEyNWMwMmQ3OSIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
