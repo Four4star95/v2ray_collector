@@ -41322,3 +41322,5 @@ vless://d0a811b0-a375-4ff4-9686-cd5d60e3b6bf@146.75.38.133:80?security=none&type
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.217:443?sni=sv.ylka.dpdns.org&type=ws&host=sv.ylka.dpdns.org&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://0ec588ee-71df-435e-b480-10ad6f00731c@172.67.202.125:8443?security=tls&sni=v2.lunarmc.ir&type=ws&fp=chrome&alpn=h3,h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@199.34.228.70:443?security=tls&sni=cr77.medicalhistory.ir&type=ws&host=cr77.medicalhistory.ir&path=/#[🇺🇸]t.me/ConfigsHub
+vless://78506637-dddb-4921-be10-89f97d9e5d7f@krg2jyul092d.librekit.com:25370?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=%40proprojec#[🇫🇮]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjEzOC4xNDAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJqYWhma2poYS5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJqYWhma2poYS5jZmQiLCJhbHBuIjoiIiwiZnAiOiIifQ==
