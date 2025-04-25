@@ -41641,3 +41641,4 @@ vless://b100093a-d056-4d61-b449-9dd3fb87004e@www.speedtest.net:2052?security=&ty
 trojan://2b961336-1eae-431a-b766-50576ccff88c@45.146.232.171:33506?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig
 vless://0ec588ee-71df-435e-b480-10ad6f00731c@104.21.82.137:8443?security=tls&sni=v2.lunarmc.ir&type=ws#[🇨🇦]t.me/MoftConfig
 vmess://eyJhZGQiOiIxY2NmNmFmZi1zdjJzZzAtc3Z4ZnFvLTFoZnl1LmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiMWNjZjZhZmYtc3Yyc2cwLXN2eGZxby0xaGZ5dS5oay5wNXB2LmNvbSIsImlkIjoiYWIwMTQ3ZTQtZTY3My0xMWVlLTgwNTgtZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+vless://e496652e-6b75-45ce-9a19-dc55a7c602e9@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
