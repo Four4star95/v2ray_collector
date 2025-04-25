@@ -41996,3 +41996,4 @@ vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?mode=gun&securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:8880?security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNmM2YzI2ZC0zOTY4LTQ3Y2YtYTBkYS0xMWMyZjlhMDE0NjE@free.2weradf.xyz:36173#[🏁]t.me/ConfigsHub
 
+trojan://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@172.67.214.21:443?path=%2FtvowuLtlha3zxRV9PS&security=tls&alpn=http%2F1.1&host=8fg.191268.xyz&fp=chrome&type=ws&sni=8fg.191268.xyz#⚜️Telegram:@IP_CF
