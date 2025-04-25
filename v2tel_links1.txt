@@ -41828,3 +41828,5 @@ vless://cbc190cb-6d53-4278-a61e-ac6cc552adf6@54.37.7.94:443?security=reality&sni
 vless://ba309d7d-0a20-465c-abe7-a2ae8aeae0f9@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.s.isvpython.online.&type=ws#[🇨🇦]t.me/MoftConfig
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@www.visaeurope.ch:2083?encryption=none&security=tls&sni=ex.sue.x10.mx&fp=chrome&type=ws&host=ex.sue.x10.mx&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@143.110.130.119:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgyNTgyNDNhNTc5YWNj@212.56.33.7:43311#⚜️Telegram:@IP_CF
+vless://c1b63b5d-3f78-4d87-b323-811ec38930b5@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
