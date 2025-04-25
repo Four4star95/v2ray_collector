@@ -41876,3 +41876,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaWk92M2pQRjk4WjZEMFhK@admin.c4.havij.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyUXM3YlFWZ2RJcGE1TnBZ@admin.c2.havij.co:443#[🇬🇧]t.me/ConfigsHub
 vless://d9d9d188-64be-4c40-af0a-b09ec6ab13bf@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 vless://f28b23ed-6eb2-da9a-c112-6918a83654a6@37.156.46.65:59838?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&host=Join_Bade_Channel@Nicotine_joker&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel@Nicotine_joker&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/MoftConfig
+trojan://Aimer@108.165.152.55:2096/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
