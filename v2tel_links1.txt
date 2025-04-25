@@ -41968,3 +41968,7 @@ vless://56092b40-121b-4c63-9074-7c914703e928@23.88.44.129:13438?security=none&ty
 vless://c97142a8-d6b1-4c83-8308-3be66e4502af@157.180.30.213:45800?security=none&type=ws&path=/@proprojec&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/ConfigsHub
 vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?security=none&type=grpc&serviceName=443vless&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdlFoV1YzOUdVVmp5YU95R2JzVWJJ@178.62.225.175:10119#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppejhrMnhyckg4bVJhWDFNRW90cHVk@140.99.164.11:41540#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.179.122:443#[🇬🇧]t.me/ConfigsHub
