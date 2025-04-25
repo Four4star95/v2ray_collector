@@ -41982,3 +41982,4 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.77.95.94:443#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidjYuaGVkdWlhbi5saW5rIiwicG9ydCI6IjMwODA2IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0Iiwic25pIjoiIiwiaG9zdCI6Im9jYmMuY29tIiwicGF0aCI6Ilwvb29vbyJ9
 trojan://telegram-id-directvpn@16.171.156.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://4998cb50-4f5c-455c-8245-3f1e7e6eae8a@185.122.166.216:59831?security=reality&encryption=none&pbk=znLj9Z-WFKmHWhzrEZ2OJWENDdVTgxRNN3MlH8tJbEs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=f186de#[🇺🇸]t.me/ConfigsHub
+
