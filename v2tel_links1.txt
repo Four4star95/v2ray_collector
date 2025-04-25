@@ -41889,3 +41889,16 @@ trojan://19b4d632-0d79-4702-bfc8-1179a7e7a885@45.146.232.171:43383?allowInsecure
 trojan://telegram-id-directvpn@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@104.21.220.87:443?path=%2F&security=tls&encryption=none&host=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&type=ws&sni=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-vlessconfig@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.236:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.redorg1.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:8880?type=grpc#[🇺🇸]t.me/MoftConfig
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.227:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.28:8880?type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.236:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇬🇧
+trojan://telegram-id-privatevpns@35.178.55.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇬🇧@MoftConfig
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.227:443?sni=edccs.aimercc.filegear-sg.me&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
+vless://bf4c45e7-2723-457d-8f81-6789c3f42439@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
+vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@void.crehistory.org:2096?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=void.crehistory.org#[🇨🇦]t.me/MoftConfig
