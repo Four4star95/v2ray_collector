@@ -42026,3 +42026,4 @@ vless://cbe0faab-a205-46ec-ac0b-f1011e855a51@154.16.16.171:21871?security=tls&sn
 vless://bc2a2e87-e34b-4126-91ce-e7bccdafc4d4@104.16.155.10:443?security=tls&sni=us.4056860.xyz&type=ws&host=us.4056860.xyz&alpn=h3%252Ch2%252Chttp%252F1.1&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
 vless://e64c466e-912d-4ee9-8d9a-02f560562f2b@104.21.75.193:80?type=ws&host=fl.likelike.ddns-ip.net#[🇨🇦]t.me/ConfigsHub
 vless://97ae82eb-071b-4008-85c2-c7342f6d96f2@51.89.119.99:11045?security=reality&sni=yahoo.com&type=grpc&serviceName=Tel%20%3A%20%40N%54_S%61fe&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&sid=20db1be5e1ab118a#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@167.68.5.248:2087?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#⚜️Telegram:@IP_CF
