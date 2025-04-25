@@ -41560,3 +41560,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgz
 trojan://78d4625c-4221-4496-ab62-729f0d05fa2c@sla.cn.964e995b760.gogodns.xin:43497?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/MoftConfig
 vless://d197d32d-962e-4d5a-a0f1-ca18e59c43a1@45.150.109.64:28982?security=reality&sni=fy-h3-frontier-a2z-com.customer.fastly.net&type=xhttp&path=%2Fmehdi%401404-marzx63wx%3Fed%3D2560&fp=randomized&pbk=VGULpliqwCC98vIUyB4olrmgUjGjRbgY6z3QxinkA2g&sid=2ddfc3d063c09388#[🇳🇱]t.me/ConfigsHub
 vless://d8357ddc-38da-4163-98be-6f3464604ca9@104.21.96.1:8080?type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+vless://08c2504c-b889-4d78-88ce-96cd742a08a2@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://3058e698-61fd-4d12-95bc-f1fe4c071643@zula.ir:443?path=%2FxVzTiAjXOMalQIj4%3Fed%3D8080&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=HOZorI.iR#[🇨🇦]t.me/ConfigsHub
