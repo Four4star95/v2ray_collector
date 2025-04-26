@@ -42573,3 +42573,4 @@ vless://3be1c0ed-e40d-467a-897e-147ed0d2e666@cdnfast.lunarmc.ir:443?path=%2F%40o
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.172.121:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@172.67.214.21:443?security=tls&sni=10e.191268.xyz&type=ws&host=10e.191268.xyz&path=%2FuDLWPKXENxF2ulPWRIwOavJd&fp=chrome&alpn=http%2F1.1#⚜️Telegram:@IP_CF
 
+vless://e6bfe350-3468-421d-9c47-8eb57521990e@157.180.75.119:8880?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel@Nicotine_joker&type=grpc&serviceName=%40%63%65%70%68%61%6c%6f%6e%5f%61%69%5f%62%6f%74#[🇫🇮]t.me/ConfigsHub
