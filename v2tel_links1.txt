@@ -42618,3 +42618,4 @@ vless://4587e98c-ec45-408e-b395-67923b6e9ded@172.65.149.239:443?security=tls&sni
 trojan://telegram-id-privatevpns@54.72.232.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇮🇪@MoftConfig
 vless://4587e98c-ec45-408e-b395-67923b6e9ded@172.65.149.239:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&fp=chrome&alpn=h3,h2#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.215.58.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪@MoftConfig
+
