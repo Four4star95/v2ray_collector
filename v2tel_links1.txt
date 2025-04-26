@@ -42510,3 +42510,6 @@ vless://3b3931d3-9a88-489c-89f3-72b883310811@huffingtonpost.es:80?mode=auto&path
 vless://a809b43e-a4b0-4506-af78-e4985da4a0f1@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
 trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@green2.cdntencentmusic.com:28504/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#⚜️Telegram:@IP_CF
 vless://05a51734-c239-488d-b5cf-0b4a58b55326@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZW1OSVVCakw%3D@85.234.65.227:26993#[🇳🇱]t.me/ConfigsHub
+trojan://851418c5-a1f0-453c-b8f8-24664990bdf8@220.130.58.136:28503/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTU2ODIzNjBjM2VkNDAx@38.114.114.84:11201#⚜️Telegram:@IP_CF
