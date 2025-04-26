@@ -42554,3 +42554,5 @@ vless://2d8f7808-c658-4dfc-8007-becae3176024@161.35.217.199:443?security=reality
 vless://5739a359-6539-42f0-8569-0ee7d1dcf480@www.speedtest.net:443?mode=auto&path=%2F%3F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=pro.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.196.15:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESDh2czRITm1pb2ZxZU82@admin.c2.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vless://d41bf778-df73-4cc6-9b88-7ef4bfe16014@hamrah12.gamefuc.ir:8443?type=ws&security=tls&path=/&host=ham12-dsadsaddsa-dsadsadsad.gameha9.ir&sni=ham12-dsadsaddsa-dsadsadsad.gameha9.ir#[🏁]t.me/ConfigsHub
+vless://7c30bf84-bd33-4b21-9abc-7f756ecf006b@website.acveo.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=website.acveo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
