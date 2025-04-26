@@ -42230,3 +42230,4 @@ ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766/?plugin=obfs-local%3Bobfs
 trojan://bf0b17f6-6873-473d-b8f1-12f55359c138@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43499?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 trojan://6a21647d-824a-41d3-82f9-12f52ea0ddbd@183.240.116.224:27202?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 vless://acbb8b71-58a0-4944-bea2-f5bdeddf7d8c@104.18.5.83:443?security=tls&sni=usb.mjjs.dpdns.org&type=ws&host=usb.mjjs.dpdns.org&path=/usb#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
