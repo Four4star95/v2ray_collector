@@ -42250,3 +42250,8 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.57.131:59483?security=auto&
 vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443/?type=ws&encryption=none&host=d5.medicaltreatment.ir&path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&sni=d5.medicaltreatment.ir&fp=chrome#[🇨🇦]t.me/ConfigsHub
 
 
+ss://YWVzLTI1Ni1nY206ZllFbVMwV3o%3D@109.104.154.201:30627#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206RkdVQ29zTWc%3D@54.220.29.22:33650#[🇮🇪]t.me/ConfigsHub
+vless://9ff05456-24c9-49bc-b062-3942aa224af1@www.speedtest.net:2086?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206b0ZrejFEcGs%3D@202.78.163.141:30770#[🇩🇪]t.me/ConfigsHub
+vless://ee781466-7a93-470f-bda5-42ec0f8b838e@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.s.isvpython.online.&type=ws#[🇨🇦]t.me/ConfigsHub
