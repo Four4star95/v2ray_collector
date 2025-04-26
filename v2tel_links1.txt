@@ -42320,3 +42320,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.154.13:8880?security=none&t
 vless://f5eae9c4-78ce-4443-93f0-583fdd372425@146.75.38.133:80?security=none&type=xhttp&host=joinbede_unlimiteddev.ir#[🇺🇸]t.me/ConfigsHub
 vless://f0f8ae10-e52f-4454-f5ac-55b4e25eeb73@64.227.35.202:443?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=tnDvChtpeNANGe52_QG3Jx6esgMTil1tcg7jlYPmoRY#[🇬🇧]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Nzk2RUE0M0MtMUE2My04QzUwLTM3NDUtRkQzOTQ2MTQ5RTRG@910281.chasel.sbs:21227#[🏁]t.me/ConfigsHub
+vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=%2F%3Fed%3D2048flow%3D-udp443&security=none&encryption=none&host=06.GDyA7g7K11.ZuLair.ORG.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638783525254922722.stockholm-shledrc-acad.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://0cb213fc-3698-43d6-9e0b-745a87487c39@18.176.56.126:17147/?type=ws&encryption=none&path=%2F&packetEncoding=xudp#[🏁]t.me/ConfigsHub
+vless://76aef603-4f69-4632-a5ac-be046f9de50b@194.182.79.114:26392?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
