@@ -42379,3 +42379,4 @@ vless://0823378f-7da8-4b9f-9e21-8192c45b2eac@www.speedtest.net:80?security=&type
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:2095?type=ws&host=workerr.hashdiler.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.232.54.31:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://733d96bc-1aa3-4ef4-be21-48eab746a643@104.20.18.168:443?security=tls&sni=collections-murder-abstracts-href.trycloudflare.com&type=ws&host=collections-murder-abstracts-href.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzcuMjIxLjEyNS4xNTkiLCJwb3J0IjoiMzM5NDAiLCJpZCI6IjM1M2UwNzg3LTcxYmMtNDQyZC05YzlkLTkwMmY5MDM1OWViNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEwNCJ9
