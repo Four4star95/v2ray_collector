@@ -42628,3 +42628,5 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://05164f74-27bf-4223-ba3f-f1eb070f9063@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=qUaINT-maGaZiNe.ONeeaT.Co.&type=ws#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNWYwMjYwMzMwYjAyZGMzQDU3LjEyOC43OS45MDo0MTg5OA==#⚜️Telegram:@IP_CF
 vless://9f8bf7f0-60c1-48f1-e8e9-9841a20868fe@49.13.215.155:19111?security=none&type=ws&path=/@proprojec#[🇩🇪]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMi4xODguMjA4LjIzMSIsInBvcnQiOiI1MTQ2MiIsImlkIjoiZGIxNDNmMTItMTFkYi00ZWVhLTlmNGYtY2E1ZDEwMjAxYjU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJCdng5M3JnMC5kaXZhcmNkbi5jb20iLCJwYXRoIjoiXC81NzE5YTIwMC1iZTY2LTRlMTQtYjAyOS1hZjAzNjc5MDgxYzkiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMTcifQ==
+vless://9f8bf7f0-60c1-48f1-e8e9-9841a20868fe@49.13.215.155:19111?security=none&type=ws&path=/@proprojec#[🇩🇪]t.me/MoftConfig
