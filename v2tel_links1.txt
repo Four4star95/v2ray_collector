@@ -42428,3 +42428,7 @@ vless://29a36c2e-53e7-4518-b431-1f7f5dccbe22@tgju.org:80?path=%2F%3Fed%3D2048&se
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.196.15:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ25Bbk9ZclRhc0JvU2ZWcXl5ME14@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
+vless://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?security=reality&encryption=none&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=db06#[🇩🇪]t.me/ConfigsHub
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#[🇩🇪]t.me/ConfigsHub
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#[🇨🇦]t.me/ConfigsHub
