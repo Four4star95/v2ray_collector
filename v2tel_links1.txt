@@ -43520,3 +43520,4 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.42.88.45:443?security=tls&sni=C
 vless://37923a01-14f0-40c2-a5dd-d0349ca27210@104.17.147.22:8080?type=ws&host=vihypercloud.academigroup.ir.#[🇨🇦]t.me/ConfigsHub
 trojan://6241d169-6708-45ee-a54a-dce1f88ef6ba@sla.cn.964e995b760.gogodns.xin:27408?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 trojan://1e0a3f8d-dd1a-49f5-9d78-70f191f70ca4@sla.cn.964e995b760.gogodns.xin:43396?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+
