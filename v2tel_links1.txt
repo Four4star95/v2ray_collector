@@ -43128,3 +43128,20 @@ ss://YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4=@18.141.233.166:443#[🏁]t.me/MoftConf
 vless://152bbf38-0d0f-42d6-a17c-d03b550c01f4@lqhn9g.de5.bbbbbbbbbbbb9.biz:5197?security=&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 vmess://eyJhZGQiOiI4NS4yMTUuMjI5LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnBuLnRlY2hieXRlaHViLmRlIiwiaWQiOiJmZjUwODVmOS03MTE0LTRhYjgtYTk4My1lMTEzMjQ3NWIxMjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI3Nzk3IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI4NS4yMTUuMjI5LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnBuLnRlY2hieXRlaHViLmRlIiwiaWQiOiI4NDdmYjg4OC0xNjgxLTRjZmUtYmVkYS02Y2IyMGNjMWI1MGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI3Nzk3IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://2d8f7808-c658-4dfc-8007-becae3176024@161.35.217.199:443?security=reality&encryption=none&pbk=MG_eg7c6ip99Y4BROHhxDsnKDHTpu-1hjKa6J1zjig4&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&sni=refersion.com#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
+vless://3cc092f9-2e19-4874-d12b-1e89dbbbb641@95.211.62.200:80?security=reality&encryption=none&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&sni=refersion.com#[🇳🇱]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-privatevpns@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESDh2czRITm1pb2ZxZU82@admin.c2.havij.co:443#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇸🇪@MoftConfig
+trojan://telegram-id-directvpn@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
+vless://f28b23ed-6eb2-da9a-c112-6918a83654a6@mehamboz.darkping.net:59838?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&host=TELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/MoftConfig
+trojan://telegram-id-privatevpns@13.51.141.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTlZKbW1BV1lEdGNQdzRw@admin.c2.havij.co:443#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeFU1MkNpZzUwOGFWbTd3@admin.c4.havij.co:443#[🇬🇧]t.me/MoftConfig
+vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://5739a359-6539-42f0-8569-0ee7d1dcf480@www.speedtest.net:443?mode=auto&path=%2F%3F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=pro.dgclix.ir&type=xhttp#[🇨🇦]t.me/MoftConfig
+vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/MoftConfig
