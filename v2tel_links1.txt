@@ -42693,3 +42693,5 @@ ss://YWVzLTI1Ni1nY206SnRMVEN4ZjY=@212.192.2.202:20008#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206SnRMVEN4ZjY=@212.192.2.202:20008#[🇳🇱]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇮]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTnJ6bXBxeGR5UU00Z3FiVHFzOTBZ@77.83.246.74:443#🇵🇱 Польша
+vless://3dca79e6-d19e-45f3-a5ea-5d9785ffee08@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://3dca79e6-d19e-45f3-a5ea-5d9785ffee08@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
