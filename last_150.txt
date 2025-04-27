@@ -1,3 +1,4 @@
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.18.62:443?security=tls&flow=-udp443-udp443-udp443&sni=147135011033.sec21org.com#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@52.208.132.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪@MoftConfig
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@zula.ir:443?path=%2Ftiger&security=tls&encryption=none&host=gbyij.liam-ajibshodbazam.info&type=ws&sni=gbyij.liam-ajibshodbazam.info#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-directvpn@52.208.132.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
@@ -146,5 +147,4 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@pk.saint.ydns.eu:443?security=reali
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjM1YTRmYi0xYzIzLTQ0NmQtOTljMi1lMzZmYWVlNmViMDg@free.2apzhfa.xyz:31371#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuNzkuMTIxLjI0MyIsInBvcnQiOjEwMDAyLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMzY5OWZhNzMtYWM1Yy00MWNhLThkNmUtZmU0Y2I3MGM3ZTAyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUxNTE1ZjgyZmZlZGYxQDU3LjEyOS42OC44MToxNjQ5OQ==#⚜️Telegram:@IP_CF
 vless://797fb0eb-5c8f-47d9-b9a2-05b960bb4cba@104.17.148.22:8880?security=none&type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
