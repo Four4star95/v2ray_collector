@@ -43039,3 +43039,6 @@ vless://c391d610-352e-48d7-8490-7e2c4d8cbcb2@104.16.143.237:443?security=tls&sni
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.148.22:8443?security=tls&sni=YqDaWy48R5.mAkEfOrLeSs.InFo&type=ws&host=YqDaWy48R5.mAkEfOrLeSs.InFo&path=/&alpn=h3h2#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTE1M2VjMy1hMjJiLTQxODAtODhhOS0yNzQ1ZDk2OTkzODc@free.2apzhfa.xyz:31115#[🏁]t.me/ConfigsHub
 vless://0fb03ca9-4a75-40d3-9fb9-0be1905f81d1@172.82.67.156:21589?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=puc3rXSP9pnRqNTtHzQFHrDyVmXKsZGIk4R_R98u8hQ&sid=984d848a#[🇺🇸]t.me/ConfigsHub
+vless://1d11813e-3c55-4984-8265-44a2b034b148@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2ZTdUR1VySjRkS3JHUmxvQUw4MTVY@77.73.66.95:32049#[🇷🇺]t.me/MoftConfig
+vless://%56%32%52%41%58%58@23.88.44.129:1234?mode=gun&type=grpc&serviceName=%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58#⚜️Telegram:@IP_CF
