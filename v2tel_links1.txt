@@ -43125,3 +43125,6 @@ ss://YWVzLTI1Ni1nY206TDlPaFRwRlc=@3.35.68.33:30327#[🏁]t.me/ConfigsHub
 vless://dd04f8ea-9e7f-4684-93f9-f796b67bb3c1@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4=@18.141.233.166:443#[🏁]t.me/MoftConfig
+vless://152bbf38-0d0f-42d6-a17c-d03b550c01f4@lqhn9g.de5.bbbbbbbbbbbb9.biz:5197?security=&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vmess://eyJhZGQiOiI4NS4yMTUuMjI5LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnBuLnRlY2hieXRlaHViLmRlIiwiaWQiOiJmZjUwODVmOS03MTE0LTRhYjgtYTk4My1lMTEzMjQ3NWIxMjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI3Nzk3IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI4NS4yMTUuMjI5LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnBuLnRlY2hieXRlaHViLmRlIiwiaWQiOiI4NDdmYjg4OC0xNjgxLTRjZmUtYmVkYS02Y2IyMGNjMWI1MGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI3Nzk3IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
