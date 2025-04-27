@@ -43449,3 +43449,12 @@ vmess://eyJhZGQiOiI0NS4xMi4xMTQuMTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 trojan://0cfd26c8-ece9-4c0a-a4e1-69e13f6669a6@sla.cn.964e995b760.gogodns.xin:46927/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=1#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@45.89.52.66:9005#[🇹🇷]t.me/ConfigsHub
 trojan://78d4625c-4221-4496-ab62-729f0d05fa2c@sla.cn.964e995b760.gogodns.xin:43497/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#[🏁]t.me/MoftConfig
+trojan://0cfd26c8-ece9-4c0a-a4e1-69e13f6669a6@sla.cn.964e995b760.gogodns.xin:46927/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=1#[🏁]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDMuMTUzLjEwNC42MiIsInBvcnQiOiI0NTExMyIsInR5cGUiOiJub25lIiwiaWQiOiI5N2NjMDMyMy1kZTUzLTRhNzUtZDY5ZC1jNmFjZGFjNWZkYzciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC85N2NjMDMyMyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@5.188.181.201:9037#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@5.188.181.201:9014#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031#[🏁]t.me/MoftConfig
+vless://ca1b0d9f-98bb-42c7-8587-384b15380c2f@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+trojan://78d4625c-4221-4496-ab62-729f0d05fa2c@sla.cn.964e995b760.gogodns.xin:43497/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=1#[🏁]t.me/MoftConfig
+trojan://klZqKyxq0H@57.128.165.173:1935/?type=tcp&security=tls&sni=x1-england-ovh-v2.devefun.net&allowInsecure=1#[🇬🇧]t.me/MoftConfig
