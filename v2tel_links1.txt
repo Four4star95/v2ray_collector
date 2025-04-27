@@ -43247,3 +43247,8 @@ vless://2cdc8de3-41f7-4fbf-9fd4-d6ac587c250a@www.speedtest.net:2052?security=&ty
 trojan://telegram-id-privatevpns@18.195.6.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://b2d66eb1-e172-4b97-950e-78ca675fb77c@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://e44bac54-e756-4f8a-94b4-0867f0bde75f@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OWQzZGEwMWZhYTU3NTQ4QDE1LjIwNC42Ny4xMDA6MTg3NDI=#⚜️Telegram:@IP_CF
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.47:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F&fp=chrome&alpn=h3%2Ch2#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNWQwYmFkOC02ZjBjLTQ0YjktYWM2Mi0yZjY3MmVmNTVjYmU@one.taki.wtf:10100#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjEyMjBjNy1lYzk5LTQzYTYtYjdhNi05ZmNhYTBiYzQ0MDQ@free.2apzhfa.xyz:31411#[🏁]t.me/ConfigsHub
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.8.211.26:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
