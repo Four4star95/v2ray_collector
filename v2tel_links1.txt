@@ -43434,3 +43434,9 @@ vless://99b419b9-de5f-4cea-a08a-beef402432be@213.21.245.83:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZ3Rya2Q2dUNBZVM@62.60.233.83:443/?outline=1#[🇹🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q0p6M0oxR1lsalE@88.151.192.57:443/?outline=1#[🏁]t.me/ConfigsHub
 
+vless://2d8f7808-c658-4dfc-8007-becae3176024@64.227.127.181:443?security=reality&sni=refersion.com&type=tcp&host=%2FBia_TELEGRAM%40MARAMBASHI_MARAMBASHI&fp=chrome&pbk=MG_eg7c6ip99Y4BROHhxDsnKDHTpu-1hjKa6J1zjig4#[🇩🇪]t.me/ConfigsHub
+trojan://40c9e3bb-68d1-4ec4-a562-0de9fea51102@sla.cn.964e995b760.gogodns.xin:46668?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzNS5jbi1kYi50b3AiLCJhaWQiOjAsImhvc3QiOiIxMDAtMjQwLTMzLTU4LnM1LmNuLWRiLnRvcCIsImlkIjoiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9kYWJhaS5pbjE3Mi42Ny4zMC4zNSIsInBvcnQiOjg4ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGE4MTVkOS1mZWViLTRjMGQtYjg3Yy02M2RkYzdkNTViMmU@free.2apzhfa.xyz:31245#[🏁]t.me/ConfigsHub
+vless://5877122b-f111-4c90-881c-e37364edf218@174.138.12.73:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
+trojan://684dd432-74bc-4c40-8d20-5c26a84725f8@45.146.232.172:42882?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
