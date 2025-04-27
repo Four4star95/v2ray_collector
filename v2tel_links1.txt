@@ -42839,3 +42839,17 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.52.18:59483?security=auto&t
 vless://6c6dcff8-113e-475d-e6dc-ee4f6456c3d3@104.17.147.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@45.89.52.66:9050#[🇹🇷]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@134.209.52.18:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206QnRIUmJRVlU%3D@103.106.231.55:9007#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206SnRMVEN4ZjY%3D@212.192.2.202:20008#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbzdIN3BmbW1xMG54TVJUU0JZRGo3@5.34.209.50:58919#[🏁]t.me/MoftConfig
+vless://44ae9a7d-b1be-4311-a532-4cfff170ae09@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.75.6:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.75.6:443#[🇬🇧]t.me/MoftConfig
+vless://98c4f064-b41e-4ef8-81fc-3069f6db21ba@www.speedtest.net:2086?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@172.166.80.19:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoWTR2eEk4WFkzWUpnaFJlNEdwMmcy@150.241.91.184:8724#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbzdIN3BmbW1xMG54TVJUU0JZRGo3@5.34.209.50:58919#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@172.166.80.19:443#[🇬🇧]t.me/MoftConfig
+vless://Parsashonam-228@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoWTR2eEk4WFkzWUpnaFJlNEdwMmcy@150.241.91.184:8724#[🇫🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206SnRMVEN4ZjY%3D@212.192.2.202:20008#[🇳🇱]t.me/ConfigsHub
