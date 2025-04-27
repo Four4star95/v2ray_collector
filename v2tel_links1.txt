@@ -42725,3 +42725,10 @@ trojan://Aimer@213.109.205.45:443/?type=ws&host=epcca.ambercc.filegear-sg.me&sec
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.17.148.22:8443/?type=ws&encryption=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-vlessconfig@63.177.205.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 
+ss://YWVzLTI1Ni1nY206NjdlT3lJclY%3D@103.106.229.195:11503#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UkptTGt6ZTE%3D@109.107.159.202:5075#[🇬🇧]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206NjdlT3lJclY%3D@103.106.229.195:11503#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UWl1QzJVaVk%3D@5.34.178.225:19360#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZW1OSVVCakw%3D@85.234.65.227:26993#[🇳🇱]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206b0ZrejFEcGs%3D@202.78.163.141:30770#[🇩🇪]t.me/MoftConfig
+vless://0e56b416-3253-4d23-8b52-44d3de6be97d@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
