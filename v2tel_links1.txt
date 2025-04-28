@@ -43601,3 +43601,11 @@ vless://telegram-id-ArV2ray1@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2
 trojan://pqlnPNu423@57.129.89.172:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q0p6M0oxR1lsalE%3D@88.151.192.57:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206WUhSUnRzbTNYK3gybWdsNzZ5WTl1aWRzT3duRWUzMC90eWJsUVUvaEd0VT0%3D@193.57.138.81:27082#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.43.40.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.103:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#[🏁]t.me/ConfigsHub
+vless://c6291225-434a-4671-81f9-0b848a06f843@www.parsvds.com:2096?path=%2F2096%2F%40V2RayyNGVpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=rEDzOnE.MirAcLehEaRTbIt.ICu&fp=randomized&type=ws&sni=rEDzOnE.MirAcLehEaRTbIt.ICu#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.43.40.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjVkOTU2MTU0N2U1ZTkyQDE1NC4xMi4yNDcuOTc6MTQ4NzE=#⚜️Telegram:@IP_CF
+trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&headerType=none&type=tcp&sni=x1-england-ovh-v2.devefun.net#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@13.43.40.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@13.43.40.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
