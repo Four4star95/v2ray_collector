@@ -43860,3 +43860,8 @@ vless://60a8f193-1814-4548-bea3-84394386bfc7@joinn.betterconnection.ir:443/?type
 vless://42e01274-fe04-4556-ad20-c028269b0d99@91.92.40.78:2070?security=none&type=tcp&host=%2FBia_TELEGRAM%40MARAMBASHI_MARAMBASHI#[🇸🇪]t.me/MoftConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Z0tYUjFha2dIVHhnZkd0dm8vRmN0U2o4bk9mTlVpeFppdFhFWkFnRXVLOD06UmhzL0ZNcE8rTnVFNnQ1ZTlaVG5WV29wbDRnUHNldGFSUktuNXRxYWFLND0@89.110.79.39:49634#[🇳🇱]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.115.76:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206NGZ0TEFiYW4%3D@103.106.229.111:11092#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VDFEMWU4d0pXTjZFZUhDYWU0RitjQT09@45.196.234.180:2525#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206VDFEMWU4d0pXTjZFZUhDYWU0RitjQT09@45.196.234.180:2525#[🏁]t.me/ConfigsHub
+vless://9e03749e-cbb8-4a4f-8094-7fb22220fe43@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#[🇺🇸]t.me/MoftConfig
