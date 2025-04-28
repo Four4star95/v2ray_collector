@@ -43954,3 +43954,7 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443/?type=tcp&encrypt
 vless://2d8f7808-c658-4dfc-8007-becae3176024@159.89.111.97:443/?type=tcp&encryption=none&sni=refersion.com&security=reality&pbk=MG_eg7c6ip99Y4BROHhxDsnKDHTpu-1hjKa6J1zjig4&sid=#[🇩🇪]t.me/MoftConfig
 trojan://Aimer@108.165.152.163:2087/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443/?type=ws&encryption=none&host=cr77.hedieh.dpdns.org&path=%2F&security=tls&sni=cr77.hedieh.dpdns.org#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#[🇺🇸]t.me/MoftConfig
+vmess://eyJhZGQiOiI0OS41MS4yMDAuMTIwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNlODVmMjRjLWMzNGQtNGRjMi1hZTJhLWM1ODVmN2I4YzRkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEzNjQ0IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXYkMwdFRoSUxtZnFCY3NsdDRrSFRn@89.185.84.185:443#[🇬🇧]t.me/MoftConfig
