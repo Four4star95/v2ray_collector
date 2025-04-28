@@ -43564,3 +43564,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGE4MTVkOS1mZWViLTRjMGQtYjg3Yy02M2RkYzdkNTV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmJiZTNjOTg4MDNkOTRmQDE3Ni4xMjYuODcuNzk6MTk5MTM=#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGE4MTVkOS1mZWViLTRjMGQtYjg3Yy02M2RkYzdkNTViMmU@free.2apzhfa.xyz:31271#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGE4MTVkOS1mZWViLTRjMGQtYjg3Yy02M2RkYzdkNTViMmU@free.2apzhfa.xyz:31441#[🏁]t.me/ConfigsHub
+vless://42e01274-fe04-4556-ad20-c028269b0d99@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
