@@ -43565,3 +43565,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmJiZTNjOTg4MDNkOTRmQDE3Ni4xMjYuODcuNzk6MTk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGE4MTVkOS1mZWViLTRjMGQtYjg3Yy02M2RkYzdkNTViMmU@free.2apzhfa.xyz:31271#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGE4MTVkOS1mZWViLTRjMGQtYjg3Yy02M2RkYzdkNTViMmU@free.2apzhfa.xyz:31441#[🏁]t.me/ConfigsHub
 vless://42e01274-fe04-4556-ad20-c028269b0d99@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+vless://99a4ba37-9d67-4e46-8057-a6bce2185396@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiczEuZGItbGluazAyLnRvcCIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2RhYmFpLmluMTcyLjY0LjkuMjA4IiwiaG9zdCI6IjEwMC0yMjMtNzEtMTY2LnMxLmRiLWxpbmswMi50b3AiLCJ0bHMiOiIifQ==
+vless://cb4560ba-ae96-4f8d-b6ec-ae4d1f0bf7c4@104.21.48.1:8080?type=httpupgrade&host=docs.acveo.ir&path=%2FMTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://cb4560ba-ae96-4f8d-b6ec-ae4d1f0bf7c4@104.17.147.22:8080?security=none&type=httpupgrade&host=docs.acveo.ir&path=%2FMTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://7d2165ec-f135-435a-a962-1350b29a6c90@104.21.64.1:8080?security=none&type=httpupgrade&host=api.acveo.ir#[🇨🇦]t.me/ConfigsHub
