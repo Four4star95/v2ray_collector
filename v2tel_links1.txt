@@ -44139,3 +44139,15 @@ trojan://telegram-id-directvpn@15.236.100.91:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.236.100.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://3ba4559e-7703-4354-ab33-be9d3ed5e637@64.227.77.203:443?security=none&encryption=none&host=%2FTELEGRAM_JOin_BEDE_JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://74ff0b00-aa8d-405e-a9cb-dc55a1966c60@213.21.245.83:443?security=reality&encryption=none&pbk=MU_w-1GJgJnJOTH6V8RTct92ar9doPeHcJm58FGAqhM&host=%2FTELEGRAM_JOin_BEDE_JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN-jokerrvpn-JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=tgju.org&sid=ea#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.111.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@35.181.111.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6dVhmakl1TjdidlhnaHpC@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vless://telegram-id-ArV2ray1@151.101.64.155:80?type=ws&host=mard.ankaboti.com.&path=/-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry?ed%3D2048&security=none#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodmFTQk1sYWRtUzBRT053@admin.c4.havij.co:443#[🇬🇧]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#[🇺🇸]t.me/ConfigsHub
+vless://3ba4559e-7703-4354-ab33-be9d3ed5e637@64.227.77.203:443?security=none&encryption=none&host=%2FJoin_Bade_Channel%40Nicotine_joker&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.111.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJ2IjoiMiIsInBzIjoiIDQuOU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYzkwNjFmODItc3ZjMXMwLXN5OTRmMS0xbmM2bS5jbTUucDVwdi5jb20iLCJwb3J0IjoxNzIzMSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6Ijg1ZDQ1MGIyLTFjMmItMTFmMC04YTdiLWYyM2M5MTNjOGQyYiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSkp1TVV1NHRMMHlFaHZm@admin.c2.havij.co:443#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.111.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://74ff0b00-aa8d-405e-a9cb-dc55a1966c60@213.21.245.83:443?security=reality&encryption=none&pbk=MU_w-1GJgJnJOTH6V8RTct92ar9doPeHcJm58FGAqhM&host=%2FJoin_Bade_Channel%40Nicotine_joker&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40Nicotine_joker&type=tcp&sni=tgju.org&sid=ea#[🇳🇱]t.me/ConfigsHub
