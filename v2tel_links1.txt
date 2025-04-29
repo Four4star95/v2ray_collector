@@ -44204,3 +44204,19 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYzg4NjE4NzY3NWVkMWY2@67.220.74.3:15711#[�
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.130.233:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.78.189:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.220.183:59483?encryption=none&security=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.132.79.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+vless://f2a7dfa5-c1d2-4f39-a5cf-fa641fe33b81@docs.acveo.ir:8080?encryption=none&security=none&type=httpupgrade&host=docs.acveo.ir&path=%2FMTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://8a87217b-59bc-4dad-90f9-7d368ec77d09@irancellman.friedtop.ir:2086?encryption=none&security=reality&sni=www.cdn77.com&fp=chrome&pbk=KkfRRyKAlTUZLEyeUwfoXdcqHU3vLz34sJmVcy7uYls&spx=%2F&type=grpc&authority=&serviceName=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&mode=gun#[🏁]t.me/ConfigsHub
+vless://ca31298e-d1d9-4ebe-ea75-ac19209ce79e@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=www.speedtest.net.Friedtop.iR.&path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.21.86:59483?encryption=none&security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.132.79.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://847dbf20-4163-434d-83b8-86dd8bc13d7b@194.182.79.247:13479?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&mode=gun#[🏁]t.me/ConfigsHub
+trojan://7cbeb900-1939-11f0-ae81-1239d0255272@51.38.65.155:443?security=tls&sni=tgju.org&allowInsecure=1&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
+vless://b8243b8a-dece-432f-8b4d-88696594cbf8@49.12.243.80:1300?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+vless://25dad544-f470-460c-a3f7-0dca4bd90168@172.82.67.154:53938?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=9C3BPgYGPsyQMqV0dWY4c_j-g22zq0dx3MjSp0-Dnjw&sid=fc9a6350400b&type=tcp&headerType=none#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@18.132.79.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.122.159:59483?encryption=none&security=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.132.79.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+vless://ac5ef6ff-4df5-4615-8e8b-3819497f5776@138.199.232.232:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=direct.psnapptapsi.ir&fp=chrome&pbk=15VSj5bGCGemmifDA6IfLCz8deqBcvaI7SRZFd2bUBQ&sid=ec7d25&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+trojan://99a5a140-1939-11f0-9b24-1239d0255272@51.38.65.155:443?security=tls&sni=tgju.org&allowInsecure=1&type=tcp&headerType=none#[🇬🇧]t.me/ConfigsHub
