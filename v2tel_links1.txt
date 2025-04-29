@@ -44246,3 +44246,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYjU3OWYxZjRlZDA3MjViQDUxLjc1LjY2LjIwMjoyMTg
 vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?security=tls&sni=pqh35v6.hiddendom.shop&type=grpc&host=pqh35v6.hiddendom.shop&alpn=h2#[🇨🇦]t.me/ConfigsHub
 vless://1dd34d7e-101a-4f39-86ed-71df862d5a13@104.19.223.79:443?security=tls&sni=638814719962912529.athens-pnthprx-aaaaa.info&type=ws&host=638814719962912529.athens-pnthprx-aaaaa.info&path=/qvmmvmws#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-vlessconfig@52.209.57.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇮🇪
+trojan://telegram-id-vlessconfig@54.75.23.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇮🇪
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.252.20:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@54.75.23.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.227.99.217:2096?security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&type=ws&host=ScGiYaSk.rOcKsToNeY.InFo#[🇳🇱]t.me/ConfigsHub
+vless://5de37875-7b21-4066-a9ff-e33ee683c032@49.12.225.140:443?security=reality&flow=xtls-rprx-vision&sni=tgju.org&type=tcp&fp=chrome&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&sid=105e89ba3d2a1c3b#[🇩🇪]t.me/ConfigsHub
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.2:1001?security=reality&sni=telewebion.com&type=tcp&path=/&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#[🇺🇸]t.me/ConfigsHub
+vless://35fcfcfd-001e-45c6-9111-913767b12d06@104.21.80.1:8443?security=tls&sni=mas41.459.pp.ua&type=ws&host=mas41.459.pp.ua&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub

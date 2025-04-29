@@ -1,3 +1,5 @@
+vless://2b22bfbd-553e-4735-9728-e74cdd2391db@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cFIxMWpOQ0U%3D@212.192.2.253:3059#[🇳🇱]t.me/ConfigsHub
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@www.visaeurope.ch:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ex.sue.x10.mx&fp=chrome&type=ws&sni=ex.sue.x10.mx#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4%3D@44.204.173.8:443#[🇺🇸]t.me/MoftConfig
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@pk.saint.ydns.eu:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]t.me/MoftConfig
@@ -145,6 +147,4 @@ vless://9279a169-0e59-44ad-8575-b869dc9cb14d@www.speedtest.net:8880?path=%2FChan
 trojan://telegram-id-directvpn@54.75.23.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.75.23.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 vless://c961826f-17af-42b1-a393-676df1f02039@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@54.75.23.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-vlessconfig@54.75.23.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇮🇪
 vless://f4a7ae51-ea2d-49d0-a649-fd586bd38788@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/ConfigsHub
