@@ -44192,3 +44192,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k@77.91.103.73:443#[🇫🇮]
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@172.67.73.163:8080?type=ws&host=M4.nF9JZ2st7N.zULAiR.ORG.#[🇨🇦]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@217.163.76.97:443?sni=vx.bgm2024.dpdns.org&type=ws&host=vx.bgm2024.dpdns.org&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
 vless://c1336832-2433-4955-8444-5a6c80d6c116@154.16.16.171:49361?type=ws&path=%2F&host=&security=none#[🇳🇱]t.me/ConfigsHub
+vless://1bc63b1b-5d65-4230-b6bd-84c141eb1da5@website.acveo.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=website.acveo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.220.183:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://7cbeb900-1939-11f0-ae81-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.252.20:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://99a5a140-1939-11f0-9b24-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.122.159:59483?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.21.86:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+trojan://537702e0-1939-11f0-8a8b-1239d0255272@51.38.65.155:443/?type=tcp&security=tls&sni=tgju.org&allowInsecure=1#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYzg4NjE4NzY3NWVkMWY2@67.220.74.3:15711#[🇺🇸]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.130.233:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.78.189:59483?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
