@@ -44344,3 +44344,11 @@ vless://e126aa58-e1b6-453b-850e-47fad2d290f2@188.34.201.88:16072?mode=gun&securi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjhiYTE2ZmQ1NWIwYzEzQDk0LjcyLjEyMC4xMDQ6MjYyMjI=#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.198.121:443#[🇬🇧]t.me/ConfigsHub
 vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?path=telegram%3A%40summertimeus&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@116.202.177.63:443?security=tls&sni=gift-4101664.FaraSorat.Net&type=ws&host=Nuremberg1.FaraSorat.net&path=%2FpV67LRFs428xHke56mDQ#[🇩🇪]t.me/ConfigsHub
+vless://e4d0c041-facf-42e8-bd0b-5260161e07f0@104.21.23.63:8880?security=none&type=ws&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@172.66.47.63:80?sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://a1b65f27-b279-442e-aef0-2b60bc5bddb1@104.26.15.85:80?security=none&type=ws&host=FrIghTened-miRrOR.onEeat.Co.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.17.6:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@68.183.161.121:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.151.74:443?security=tls&sni=147135010072.sec21org.com&type=tcp&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://2a3582f7-017e-45c5-8546-ed58417890f2@104.17.148.22:2086?security=none&type=httpupgrade&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2086#[🇨🇦]t.me/ConfigsHub
