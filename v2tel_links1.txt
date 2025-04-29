@@ -44172,3 +44172,13 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880/?type=grpc&encryption=none#[🏁]t.me/ConfigsHub
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443/?type=tcp&encryption=none&security=tls&sni=147135001178.sec22org.com&fp=chrome#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@35.176.132.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@35.176.132.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.176.132.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.176.132.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://79aef98c-024c-4825-a1e1-73a28ab46598@134.209.243.64:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDMuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0Ijo0NDMsImlkIjoiNDdlYWIwZGUtOTdmOS00OWJlLWYyZjMtMmU0ZWIxNzI2OGU2IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsInBhdGgiOiJcL2FhIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0=
+vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=www.speedtest.net.b.3.salatinmaccv.ir.&type=ws#WS3-Irancell+%7C+%40ArV2ray
+vless://ac5ef6ff-4df5-4615-8e8b-3819497f5776@138.199.232.232:443?security=reality&encryption=none&pbk=15VSj5bGCGemmifDA6IfLCz8deqBcvaI7SRZFd2bUBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct.psnapptapsi.ir&sid=ec7d25#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.140.221:443#[🇬🇧]t.me/ConfigsHub
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[🇺🇸]t.me/ConfigsHub
