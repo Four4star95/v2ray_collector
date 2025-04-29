@@ -44331,3 +44331,16 @@ vless://9279a169-0e59-44ad-8575-b869dc9cb14d@104.17.147.22:8880?security=none&ty
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.67.254:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://14dbb720-c685-4c28-b09c-98d015090b8f@joinn.betterconnection.ir:443/?type=tcp&security=none#[🇳🇱]t.me/ConfigsHub
 vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@172.166.85.43:443#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://4d33149e-7356-489c-a874-953c519bd30e@188.245.32.66:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@37.156.46.65:31548?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/ConfigsHub
+vless://74ea433d-b19b-4989-a533-c5e2aa1135be@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://5c43f10d-1824-4f3b-accb-d13116929a69@www.speedtest.net:443?mode=auto&security=tls&encryption=none&host=camel.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://e126aa58-e1b6-453b-850e-47fad2d290f2@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=/---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---&type=grpc#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjhiYTE2ZmQ1NWIwYzEzQDk0LjcyLjEyMC4xMDQ6MjYyMjI=#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.198.121:443#[🇬🇧]t.me/ConfigsHub
+vless://d2bdf18d-dadc-427f-9b0b-5e68fdd00521@85.133.206.14:33912?path=telegram%3A%40summertimeus&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
