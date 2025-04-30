@@ -20392,3 +20392,29 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&sni=
 vless://2f80871f-a96f-40c6-a186-4a34d788f574@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.68.51:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
 vless://55520747-311e-4015-83ce-be46e2060ce3@198.41.209.70:443?security=tls&sni=vx.bgm2024.dpdns.org&type=ws&host=vx.bgm2024.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.27ms
+vless://75f66308-eb61-418f-a0f0-3fe8d6158999@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/MoftConfig
+vless://Parsashonam-229@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
+vless://Parsashonam-230@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇬🇧]t.me/MoftConfig
+vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@37.156.46.65:31548?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/ConfigsHub
+vless://c9b0c62c-5287-4619-a963-6d635a933b73@178.63.228.220:443?security=tls&sni=fauxid.com&type=grpc&fp=chrome#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-vlessconfig@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+vless://b3c4cae6-29d5-4208-8688-904a9fbfd077@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://8da92ec3-a1f5-4bd1-9d5c-062f1cfb018c@zula.ir:2053?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=team.infinitespd.com#[🇨🇦]t.me/MoftConfig
+vless://d4978c89-0958-4185-b08a-15d85c1f6666@51.89.119.99:26528?security=reality&encryption=none&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-privatevpns@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://750efb8a-de80-44a6-b2c8-3babbe120fef@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/MoftConfig
+vless://862a9a5b-4c3d-4548-bc56-90751a5ff13a@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@18.193.176.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.c.3.salatinmaccv.ir.&type=ws#WS5-Irancell+%7C+%40ArV2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmJNZDJ5Ym5kamVBNUl4WjM1SGFs@194.87.45.189:443#🇪🇸 Испания
+vless://638390db-8a74-4248-8e29-7cb7cc9ae781@164.132.28.224:2086?security=reality&encryption=none&pbk=3bHSMuyPGoNyE14MnDMmQMO-eRTCwoMg2hcPPvwEjEo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=21#[🇫🇷]t.me/ConfigsHub
+vless://fe99e59d-4745-43f4-935a-bdc9efd10cc8@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://c627fe1e-eca4-49bd-80be-dd8acf9c72fe@192.248.188.192:22597?security=reality&encryption=none&pbk=A-VPwVXBa-snP3hUVMzlUMS-Nw8hNKNix9B87imHlm0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=dash.bunny.net&sid=f1acb3dc#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#[🏁]t.me/MoftConfig
