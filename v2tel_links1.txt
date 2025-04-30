@@ -44523,3 +44523,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFiMjcyYS01ODRmLTRiNmYtOTNlMi1iNDhkZTE1YjI
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#[🇷🇺]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.68.51:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 
+vless://9ff6c2ca-58de-4e75-8ebe-eae193481d0f@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
