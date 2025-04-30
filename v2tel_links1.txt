@@ -45180,3 +45180,9 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#[🏁]t.me/Conf
 vless://0c561336-b0c7-4b18-96d1-863240a224ab@152.70.232.251:58474?security=tls&sni=chou3.pages.dev&type=ws&host=chou3.pages.dev&allowInsecure=0#[🏁]t.me/MoftConfig
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#[🇨🇦]t.me/MoftConfig
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=grpc#[🇫🇮]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTcwYzJmZjg3M2M0YzM0@157.173.123.197:20361#[🇩🇪]t.me/MoftConfig
+vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&encryption=none&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&host=Join_Bade_Channel@Nicotine_joker&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel@Nicotine_joker%3Fed%3D2048&type=tcp&sni=refersion.com#[🇳🇱]t.me/MoftConfig
+vless://e7639e42-17b3-4b1f-e61d-133273faf2bf@95.211.62.200:80?security=reality&encryption=none&pbk=gBu0b2U7Ioy6CUHd1nGl6am7KrS8LHcDD_c1SDg9qXo&host=Join_Bade_Channel@Nicotine_joker&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel@Nicotine_joker%3Fed%3D2048&type=tcp&sni=refersion.com#[🇳🇱]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=grpc#[🇺🇸]t.me/MoftConfig
