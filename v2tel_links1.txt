@@ -45221,3 +45221,6 @@ trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net&allowI
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079#[🏁]t.me/MoftConfig
 vless://0423c5e6-f6e6-44dd-8d36-deb353462dd6@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@45.89.52.66:9042#[🇹🇷]t.me/MoftConfig
+vless://e7c1b4d1-8c99-432b-9967-ed7946ebc844@dns1.arashiphone.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=WWW.adabefarsi.eu.&fp=chrome&type=ws&sni=WWW.adabefarsi.eu.#[🇨🇷]t.me/ConfigsHub
+vless://e7c1b4d1-8c99-432b-9967-ed7946ebc844@dns2.arashiphone.com:2087?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=FTP.adabefarsi.eu.&fp=chrome&type=ws&sni=FTP.adabefarsi.eu.#[🇨🇦]t.me/ConfigsHub
+vless://e7c1b4d1-8c99-432b-9967-ed7946ebc844@dns3.arashiphone.com:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=wWW.speedtest.net.wWW.debian.org.www.speedtest.net.2.speedtest.pc.pl&type=ws#[🇨🇦]t.me/ConfigsHub
