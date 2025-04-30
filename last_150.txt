@@ -1,3 +1,4 @@
+trojan://telegram-id-v2rayvpnchannel@18.195.6.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.73ms
 vless://2a492b16-e2da-4d87-aa2d-e63a58df4a84@194.182.79.247:13479/?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:38.39ms
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096/?encryption=none&security=tls&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM&type=ws&alpn=h3h2&host=D6rVkPfEgS.aAaZzZaAa-8129.CoM&path=/#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.8ms
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:8443?encryption=none&security=tls&sni=Qq31UsKhFg.AaAzZzAaA-8129.cOm&type=ws&alpn=h3h2&host=Qq31UsKhFg.AaAzZzAaA-8129.cOm&path=/#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:15.8ms
@@ -114,7 +115,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGYyYjhlYS03Yzc0LTRjMjctYmIxNi1iZDA5M2ZhMTF
 vless://75f66308-eb61-418f-a0f0-3fe8d6158999@151.101.66.228:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGYyYjhlYS03Yzc0LTRjMjctYmIxNi1iZDA5M2ZhMTFhYWM@free.2weradf.xyz:36722#[🏁]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.148.22:2096?security=tls&sni=Y2aZ6f5747.HoMeEaSeStOrEs.CoM&type=ws&host=Y2aZ6f5747.HoMeEaSeStOrEs.CoM&path=/&alpn=h3h2#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#[🏁]t.me/ConfigsHub
 vless://1d5e1a16-607a-45d5-a27a-2d4e764addb6@104.21.82.137:443?security=tls&sni=cdnfast.lunarmc.ir.&type=ws&host=cdnfast.lunarmc.ir.&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://f2a7dfa5-c1d2-4f39-a5cf-fa641fe33b81@104.21.96.1:8080?security=none&type=httpupgrade&host=docs.acveo.ir#[🇨🇦]t.me/ConfigsHub
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.19.48.236:443?sni=vx.bgm2024.dpdns.org&type=ws&host=vx.bgm2024.dpdns.org&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
