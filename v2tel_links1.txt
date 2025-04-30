@@ -44583,3 +44583,7 @@ vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=&encrypt
 vless://fe99e59d-4745-43f4-935a-bdc9efd10cc8@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
 vless://fe99e59d-4745-43f4-935a-bdc9efd10cc8@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmJNZDJ5Ym5kamVBNUl4WjM1SGFs@194.87.45.189:443#🇪🇸 Испания
+vless://c9b0c62c-5287-4619-a963-6d635a933b73@178.63.228.220:443?security=tls&sni=fauxid.com&type=grpc&fp=chrome#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#[🏁]t.me/MoftConfig
+vless://c9b0c62c-5287-4619-a963-6d635a933b73@178.63.228.220:443?security=tls&sni=fauxid.com&type=grpc&fp=chrome#[🇩🇪]t.me/ConfigsHub
