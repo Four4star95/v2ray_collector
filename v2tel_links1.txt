@@ -44844,3 +44844,9 @@ vless://c20edc65-9a39-4045-8f96-65a7ae5ab035@45.131.4.5:8080?security=none&type=
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.19.48.236:443?sni=vx.bgm2024.dpdns.org&type=ws&allowInsecure=1#[🇨🇦]t.me/MoftConfig
 vless://4629295b-ca20-4c6a-8c70-87ffe3ca2272@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/MoftConfig
 
+vless://274fc521-1b7a-43ce-a425-2f1a34a7ca6d@172.82.67.156:57355?security=reality&encryption=none&pbk=d-G52RaxhX8PN553Oa8wBPu7XG25_6lO-aThcOqNby4&headerType=none&fp=chrome&spx=%2FBia_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=34548d#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-privatevpns@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://0070dec0-2ed6-4fd4-a904-b56d27153b74@194.182.79.158:23721?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+trojan://telegram-id-directvpn@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
