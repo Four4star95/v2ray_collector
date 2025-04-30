@@ -44850,3 +44850,10 @@ trojan://telegram-id-directvpn@35.179.189.29:22222?security=tls&alpn=http/1.1&he
 vless://0070dec0-2ed6-4fd4-a904-b56d27153b74@194.182.79.158:23721?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
 trojan://telegram-id-vlessconfig@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
 trojan://telegram-id-directvpn@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇬🇧@MoftConfig
+vless://7adcc0f2-e658-41de-a132-b5c66c34b2bc@91.107.180.49:443?security=reality&encryption=none&pbk=ViD5yelmczDvvpxSUuCp1OvDea1zgWvTwvdrkngX7BE&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=tgju.org&sid=1242e11f31#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEaDdWYUFDSUR1dnJDOUlUNlVwS1Rh@194.87.45.189:443#🇪🇸 Испания
+vless://7adcc0f2-e658-41de-a132-b5c66c34b2bc@91.107.180.49:443?security=reality&encryption=none&pbk=ViD5yelmczDvvpxSUuCp1OvDea1zgWvTwvdrkngX7BE&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=tgju.org&sid=1242e11f31#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-directvpn@35.179.189.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
