@@ -44580,3 +44580,6 @@ vless://8da92ec3-a1f5-4bd1-9d5c-062f1cfb018c@zula.ir:2053?mode=auto&path=%2F&sec
 vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?security=&encryption=none&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://7320522d-56c1-4e35-9fa7-88a151d76828@104.21.4.189:2086?security=&encryption=none&host=07fd36f0-yuv2ray3131331456346534643.cocefob714.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://fe99e59d-4745-43f4-935a-bdc9efd10cc8@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://fe99e59d-4745-43f4-935a-bdc9efd10cc8@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZmJNZDJ5Ym5kamVBNUl4WjM1SGFs@194.87.45.189:443#🇪🇸 Испания
