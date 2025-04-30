@@ -44587,3 +44587,4 @@ vless://c9b0c62c-5287-4619-a963-6d635a933b73@178.63.228.220:443?security=tls&sni
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#[🏁]t.me/MoftConfig
 vless://c9b0c62c-5287-4619-a963-6d635a933b73@178.63.228.220:443?security=tls&sni=fauxid.com&type=grpc&fp=chrome#[🇩🇪]t.me/ConfigsHub
+vless://b3c4cae6-29d5-4208-8688-904a9fbfd077@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
