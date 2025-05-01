@@ -45892,3 +45892,5 @@ trojan://1a8EBLaDBL@ru2.asc-sam.ir:443?mode=auto&path=%2F%40NoForcedHeaven%40NoF
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&host=BIA_TELEGRAM_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=api.chandplus.com#⚜️Telegram:@IP_CF
 
 
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:26800#[🏁]t.me/ConfigsHub
