@@ -45829,3 +45829,6 @@ vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.96.1:80/?type=ws&encryption=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzlmMGIxN2NiOGIxZDRm@38.242.242.14:26177#[🇩🇪]t.me/MoftConfig
 vless://86dcd2a4-935e-4a4c-8325-ccac2e1c60db@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lop.isvpython.online.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.workers.dev:443?security=tls&sni=little-frog-caa9v.ferawi7897.workers.dev&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=little-frog-caa9v.ferawi7897.workers.dev&path=%2F%3Fed%3D2560&fragment=1,40-60,30-50,tlshello#[🇨🇦]t.me/ConfigsHub
+vless://bffceece-a818-45d2-ad04-eb819eec8f78@france.gamingbazirani.ir:600?security=tls&type=tcp&headerType=&path=&host=&sni=marzban.negintel.xyz&fp=#[🇫🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206NjVmNzE1ZDEtZDE0My00ZDFlLTkzMjItMDNhMGFiNTdmZDg4@194.246.114.54:8443#[🏁]t.me/ConfigsHub
+vless://bffceece-a818-45d2-ad04-eb819eec8f78@finland.gamingbazirani.ir:600?security=tls&type=tcp&headerType=&path=&host=&sni=marzban.negintel.xyz&fp=#[🇫🇮]t.me/ConfigsHub
