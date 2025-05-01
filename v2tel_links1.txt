@@ -45787,3 +45787,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?security=tls&sni=v
 vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇬🇧]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjBhZThkYjNkMjc4NTI2@57.128.190.238:18992#[🇬🇧]t.me/ConfigsHub
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?path=%2F&security=none&encryption=none&host=worker-late-feather-d436.wedome3486.workers.DEV&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1-england-ovh-v2.devefun.net#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjBhZThkYjNkMjc4NTI2@57.128.190.238:18992#[🇬🇧]t.me/MoftConfig
