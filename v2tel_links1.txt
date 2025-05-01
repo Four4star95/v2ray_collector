@@ -45567,3 +45567,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk%3D@89.185.84.14:443#[🇬�
 vless://e7365652-4f1e-4cdf-b946-21733c9e7731@104.24.174.219:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fly-z4h.pages.dev&fp=random&type=ws&sni=fly-z4h.pages.dev#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk%3D@89.185.84.14:443#[🇬🇧]t.me/MoftConfig
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ZqFsGsMr.cAfUnEaR.InFo&fp=chrome&type=ws&sni=ZqFsGsMr.cAfUnEaR.InFo#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJY0VCTWgzMjFhTFhqYUt3akx4eHQ3@77.83.246.74:443#🇵🇱 Польша
+vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.193.168:2134?security=reality&sni=chess.com&type=tcp&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA#[🇫🇮]t.me/ConfigsHub
