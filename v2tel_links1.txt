@@ -45674,3 +45674,5 @@ vless://ca416683-b48c-4ae2-bcd6-d00316bfdef9@104.18.8.74:443?security=tls&sni=en
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@52.76.110.129:20001?sni=miku.mikuru.ip-ddns.com&type=ws&allowInsecure=1#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:258.54ms
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@37.27.193.168:1524?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:13.7ms
 vless://d9dbea61-3aaa-4466-8997-568dd159853e@83.147.18.150:443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&sid=0126b9#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:66.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEb0hTdDJsb1dscU80dHJFQlBtSTRn@homa.cybsecguru.com:55551#[🇸🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEb0hTdDJsb1dscU80dHJFQlBtSTRn@homa.cybsecguru.com:55551#[🇸🇪]t.me/ConfigsHub
