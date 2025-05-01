@@ -45352,3 +45352,4 @@ trojan://Aimer@172.66.206.60:2087?allowInsecure=0&sni=epccf.ambercc.filegear-sg.
 trojan://Aimer@103.116.7.103:2083?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@103.116.7.133:2083?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@155.46.213.38:2083?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://531a668d-eb3f-4c5a-9095-ce9dce83092b@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
