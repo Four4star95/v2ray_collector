@@ -45915,3 +45915,5 @@ vless://woxq0i9q2c@45.150.174.74:443?security=tls&alpn=http%2F1.1&encryption=non
 vless://3dgvdi6tnx@45.150.174.76:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Join_Bade_Channel@JOKERRVPN&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=3dgvdi6tnx-4515017476-direct.rahavard365.co#[🇩🇪]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTIuODMuMjE3IiwicG9ydCI6IjMwMDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
+vless://d9471598-bdfb-44f4-bc92-6589dac48fb2@104.21.112.1:8080?security=none&type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&host=x1-sweden-ovh-v2.devefun.net&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#⚜️Telegram:@IP_CF
