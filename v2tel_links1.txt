@@ -45832,3 +45832,13 @@ trojan://136f49cf-b30c-4f9c-b7ce-4319ac87cdbe@little-frog-caa9v.ferawi7897.worke
 vless://bffceece-a818-45d2-ad04-eb819eec8f78@france.gamingbazirani.ir:600?security=tls&type=tcp&headerType=&path=&host=&sni=marzban.negintel.xyz&fp=#[🇫🇷]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206NjVmNzE1ZDEtZDE0My00ZDFlLTkzMjItMDNhMGFiNTdmZDg4@194.246.114.54:8443#[🏁]t.me/ConfigsHub
 vless://bffceece-a818-45d2-ad04-eb819eec8f78@finland.gamingbazirani.ir:600?security=tls&type=tcp&headerType=&path=&host=&sni=marzban.negintel.xyz&fp=#[🇫🇮]t.me/ConfigsHub
+vless://727807ba-bd1e-4659-b5aa-68c45ece54e8@157.180.79.133:40387?security=none&encryption=none&host=185.147.176.6&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://ccbd413f-4aa0-4b36-8fd8-68f5ddb8b404@145.239.86.241:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
+vless://690e09cb-dd0a-48ee-aaf0-398fd1d127bc@104.24.219.219:443?security=tls&encryption=none&host=vpn.6662221.xyz&type=ws&sni=vpn.6662221.xyz#[🇨🇦]t.me/ConfigsHub
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.8.211.230:443?security=tls&encryption=none&host=CxNiMjJz.cAfUnEaR.InFo&type=ws&sni=CxNiMjJz.cAfUnEaR.InFo#[🏁]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.165:2096?path=%2F&security=tls&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.15.95:443#[🇬🇧]t.me/MoftConfig
+vless://637b631a-b512-4106-a5b7-9f3efd836e14@185.235.196.122:4001?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.148.22:2096?path=%2F&security=tls&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#[🇨🇦]t.me/ConfigsHub
