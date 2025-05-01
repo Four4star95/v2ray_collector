@@ -45564,3 +45564,6 @@ vless://3a9b0631-07be-4d49-8acc-f1ff84a70c05@www.speedtest.net:8880?path=%2FChan
 vless://be8cdd47-8c62-4c4b-ba61-1ad19c469a4c@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://e7365652-4f1e-4cdf-b946-21733c9e7731@104.24.174.219:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fly-z4h.pages.dev&fp=random&type=ws&sni=fly-z4h.pages.dev#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk%3D@89.185.84.14:443#[🇬🇧]t.me/ConfigsHub
+vless://e7365652-4f1e-4cdf-b946-21733c9e7731@104.24.174.219:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fly-z4h.pages.dev&fp=random&type=ws&sni=fly-z4h.pages.dev#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk%3D@89.185.84.14:443#[🇬🇧]t.me/MoftConfig
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ZqFsGsMr.cAfUnEaR.InFo&fp=chrome&type=ws&sni=ZqFsGsMr.cAfUnEaR.InFo#[🇨🇦]t.me/MoftConfig
