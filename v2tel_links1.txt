@@ -45701,3 +45701,4 @@ vless://5985a6e3-1ed7-48bb-871d-6a432870642a@www.speedtest.net:8880?path=%2FChan
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#[🇹🇷]t.me/MoftConfig
+
