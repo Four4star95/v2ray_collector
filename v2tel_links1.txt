@@ -45318,3 +45318,4 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.165:2096/?type=ws&encryp
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?security=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.165:2096/?type=ws&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F&security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#[🇺🇸]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.192:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/MoftConfig
+vless://47585158-266f-4107-8a55-8700450a7af7@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
