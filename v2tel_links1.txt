@@ -45559,3 +45559,8 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.174:2096?security=tls&sn
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@211.114.180.156:12383?sni=edcch.ambercc.filegear-sg.me&type=ws&allowInsecure=1#[🏁]t.me/MoftConfig
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@144.24.243.207:443?security=tls&flow=-udp443-udp443&sni=147135004002.sec20org.com&fp=chrome#[🏁]t.me/MoftConfig
 vless://d639630d-d32b-43bb-802f-a79b0b19eda9@104.26.15.16:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpn&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/MoftConfig
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=ZqFsGsMr.cAfUnEaR.InFo&fp=chrome&type=ws&sni=ZqFsGsMr.cAfUnEaR.InFo#[🇨🇦]t.me/ConfigsHub
+vless://3a9b0631-07be-4d49-8acc-f1ff84a70c05@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
+vless://be8cdd47-8c62-4c4b-ba61-1ad19c469a4c@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://e7365652-4f1e-4cdf-b946-21733c9e7731@104.24.174.219:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fly-z4h.pages.dev&fp=random&type=ws&sni=fly-z4h.pages.dev#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk%3D@89.185.84.14:443#[🇬🇧]t.me/ConfigsHub
