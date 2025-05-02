@@ -45937,3 +45937,5 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.64.148.138:8443?security=tls&al
 trojan://vpn@89.191.234.182:2025?path=%2F&security=none&host=vkvd127.mycdn.me&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:8443?path=%2F&security=tls&encryption=none&host=CiR346yL3b.DeRaKhT.iNfO&type=ws&sni=CiR346yL3b.DeRaKhT.iNfO#[🇨🇦]t.me/ConfigsHub
 
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.157:443?security=tls&sni=147135004002.sec20org.com&type=raw#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OWFjMjI1YS1kOTM1LTRjNjAtYWY4Mi1mZTUwNTMzZDE0ODA@free.2weradf.xyz:36171#[🏁]t.me/ConfigsHub
