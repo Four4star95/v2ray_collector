@@ -46018,3 +46018,7 @@ vless://82b4207c-33ad-44ab-9397-59eab5d80ddb@2393123233.torob.com.tr:6793?securi
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.117.253:59483?security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@162.159.7.226:443?security=tls&sni=d4.medicaldream.ir&type=ws&host=d4.medicaldream.ir&path=/&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://c08cf810-201d-4493-8037-dca85f06499f@sar.nightlegend805.xyz:443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
