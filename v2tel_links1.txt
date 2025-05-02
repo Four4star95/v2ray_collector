@@ -46327,3 +46327,18 @@ trojan://telegram-id-vlessconfig@13.60.151.163:22222?security=tls&alpn=http/1.1&
 vless://74c52335-e151-4868-b7c9-10425f3fbf49@www.speedtest.net:8080?path=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android%3Fed%3D2048&security=&encryption=none&host=www.speedtest.net.yas-nowin.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-vlessconfig@3.73.237.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 trojan://telegram-id-directvpn@3.73.237.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@56.228.72.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪@MoftConfig
+vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?type=tcp&host=FergalVpnMod.com#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjcyZTBiOS0yZDg4LTQzZjgtYjY5Mi1jNTYzOWU5N2JiN2Q@free.2weradf.xyz:36511#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWY0YWIyNy0yMTlhLTQxYzgtYjI5YS0xNWJjN2FiNDI4YTQ@free.2apzhfa.xyz:31211#[🏁]t.me/MoftConfig
+vless://d62e1f62-5e5c-4837-9a23-97970c18ba17@104.26.14.85:80?security=none&type=ws&host=cleAR-DaRknesS.OnEeat.cO.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@18.184.137.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWY0YWIyNy0yMTlhLTQxYzgtYjI5YS0xNWJjN2FiNDI4YTQ@free.2apzhfa.xyz:31211#[🏁]t.me/ConfigsHub
+trojan://telegram-id-vlessconfig@18.193.90.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHM3BXZWJBaUVKNFJTd1FOcnpBdnJz@89.185.84.185:443#🇬🇧 Великобритания
+trojan://telegram-id-privatevpns@18.193.90.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjcyZTBiOS0yZDg4LTQzZjgtYjY5Mi1jNTYzOWU5N2JiN2Q@free.2weradf.xyz:36511#[🏁]t.me/ConfigsHub
+vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?type=tcp&host=FergalVpnMod.com#[🇳🇱]t.me/MoftConfig
+trojan://telegram-id-vlessconfig@56.228.72.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
+trojan://telegram-id-privatevpns@18.184.137.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+vless://d62e1f62-5e5c-4837-9a23-97970c18ba17@104.26.14.85:80?security=none&type=ws&host=cleAR-DaRknesS.OnEeat.cO.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
