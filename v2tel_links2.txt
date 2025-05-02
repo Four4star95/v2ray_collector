@@ -21071,3 +21071,4 @@ vless://842c9c57-cdbb-4e77-86d7-357ec862fb80@www.zula.ir:8880?path=%2FChannel---
 vless://179bf49d-41ea-416f-aa00-fb06d5d9e0af@173.245.59.132:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.98.5:443/?type=tcp&encryption=none&security=tls&sni=147135010072.sec21org.com&fp=chrome#[🇺🇸]t.me/MoftConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#[🇨🇦]t.me/MoftConfig
+vmess://eyJhZGQiOiJkMmFkMzU0NS1zdjB4czAtdDdibzJ0LTFwc213LmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiZDJhZDM1NDUtc3YweHMwLXQ3Ym8ydC0xcHNtdy5oay5wNXB2LmNvbSIsImlkIjoiNDJiYjZkMzYtOTdjNy0xMWVlLWJlN2YtZjIzYzkxNjRjYTVkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
