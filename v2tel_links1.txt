@@ -45947,3 +45947,7 @@ vless://39984db4-f2e5-43c0-918e-665caf48a96c@194.182.79.218:19608?mode=gun&secur
 vless://ca8fbe4e-9743-4307-8956-852aa8abca84@194.182.79.252:10785?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMy42NC4xNDAiLCJwb3J0IjoiNDEzNyIsInR5cGUiOiJub25lIiwiaWQiOiIwMzAxMDc1NC1mYWYwLTExZWYtYTdjNC1mMjNjOTMxM2IxNzciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vless://32d9ac6e-7a25-46bf-a8db-e889a734c4c5@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@135.84.64.77:2096?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@108.165.152.14:2096?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://Aimer@188.164.159.138:2083?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
