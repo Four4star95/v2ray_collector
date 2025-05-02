@@ -45951,3 +45951,5 @@ trojan://Aimer@135.84.64.77:2096?allowInsecure=0&sni=epcch.ambercc.filegear-sg.m
 trojan://Aimer@108.165.152.14:2096?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
 trojan://Aimer@188.164.159.138:2083?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+vless://de6b3795-3d5a-406a-aeab-7f8782362864@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTg5OTcwOWRiNzZjNmZkQDQ1LjguMTMyLjYxOjQ3MzQy#⚜️Telegram:@IP_CF
