@@ -1,3 +1,4 @@
+vless://c961826f-17af-42b1-a393-676df1f02039@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://f4a7ae51-ea2d-49d0-a649-fd586bd38788@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGYyYjhlYS03Yzc0LTRjMjctYmIxNi1iZDA5M2ZhMTFhYWM@free.2weradf.xyz:36171#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGYyYjhlYS03Yzc0LTRjMjctYmIxNi1iZDA5M2ZhMTFhYWM@free.2weradf.xyz:36173#[🏁]t.me/ConfigsHub
@@ -107,7 +108,6 @@ vless://fd7d926a-6ed0-4781-b4f0-fcce7da728d0@104.17.148.22:2086?security=none&ty
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?security=tls&sni=vp21.hiddendom.shop&type=grpc&host=vp21.hiddendom.shop&alpn=h2#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OWFjMjI1YS1kOTM1LTRjNjAtYWY4Mi1mZTUwNTMzZDE0ODA@free.2weradf.xyz:36143#[🏁]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ1VqbnZHa2J2VjdObkNMaVpjRGVQMlQyRjF2S1U3VkdSa1NWWkVuNG5zU2RSNDlZSlpvVENDQ3hDdGR6elJUUExoajVNakJFUUVvc2I0V1MxUlNXYkhNeDFTcWJjcTE%3D@5.231.63.169:40934#[🇫🇷]t.me/ConfigsHub
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.64.1:80/?type=ws&encryption=none&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#[🇨🇦]t.me/MoftConfig
 vless://188876dd-3e2d-4aa6-9541-9434e20d2425@whatismyipaddress.com:443/?type=ws&encryption=none&host=638814719962909909.athens-pnthprx-aaaaa.info&path=%2Fkjrwzaws&security=tls&sni=638814719962909909.athens-pnthprx-aaaaa.info&fp=chrome#[🇨🇦]t.me/MoftConfig
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096/?type=ws&encryption=none&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&fp=chrome#[🏁]t.me/MoftConfig
