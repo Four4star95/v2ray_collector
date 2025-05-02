@@ -46458,3 +46458,4 @@ vless://179bf49d-41ea-416f-aa00-fb06d5d9e0af@173.245.59.132:8080?path=%2F%3Fed%3
 vless://842c9c57-cdbb-4e77-86d7-357ec862fb80@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://842c9c57-cdbb-4e77-86d7-357ec862fb80@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/MoftConfig
 vless://179bf49d-41ea-416f-aa00-fb06d5d9e0af@173.245.59.132:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+
