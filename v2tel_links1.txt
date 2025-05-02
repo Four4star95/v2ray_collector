@@ -46507,3 +46507,4 @@ vless://f907364a-debd-4904-83d2-774b28f664eb@185.79.158.141:8088?type=tcp&header
 
 
 trojan://psycho@104.21.96.1:443?security=tls&type=ws&sni=pSYcho.sUeX12.IR&path=/trv9KENu5FqbFAtPFq?ed=2560&host=psycho.suex12.ir#⚜️Telegram:@IP_CF
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?allowInsecure=0&sni=cr7.traneh.dpdns.org&type=ws&host=cr7.traneh.dpdns.org&path=/sinavm-sinavm/?ed=2560security=tls#⚜️Telegram:@IP_CF
