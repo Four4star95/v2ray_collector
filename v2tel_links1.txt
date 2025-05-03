@@ -46696,3 +46696,4 @@ vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@speedtest.net:80?path=%2Folem%2Fws%
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.128.50:59483?type=grpc&security=reality&encryption=none&flow=&sni=&fp=&pbk=&sid=&spx=&alpn=h2#[🇺🇸]t.me/ConfigsHub
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.64.1:80?path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#⚜️Telegram:@IP_CF
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://14ac0d31-2ae5-439a-9ac4-b9bbc9d2f78a@95.164.35.169:32756?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776&type=tcp&headerType=none#⚜️Telegram:@IP_CF
