@@ -47041,3 +47041,17 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@66.81.247.18:443?security=tls&sni=p
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.161.209:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
 vless://3e62b87c-58e0-4ae2-80bc-cfdc00e5f0de@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?encryption=none&security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNzNiN2ZiNzFiM2Q3ZGI5@109.199.100.128:49891#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvTjRmUjI1U3dPQmo2TEZoM1dNd2I3@147.45.70.120:7374#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q1VLb3MzclljOWlycDNLeEFCYXIw@195.26.227.4:25421#[🇳🇱]t.me/ConfigsHub
+vless://b5bc4d4a-4144-4e72-a0da-e2eea82e8698@188.245.64.17:8443?security=reality&encryption=none&pbk=lcirRCa4Qa_yc1_A8CImRj-zBeREqSsqQyLzgz4xjWo&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=7f88c3fe4b#[🇩🇪]t.me/ConfigsHub
+vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?path=%2Fvless%23%40V2ray_Alpha&security=none&encryption=none&host=sPeedtest2.sbs.br.vless.sitespeedtest.net&type=ws#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYaHJteUtFNkY5QlFDaW9naWdKMUlE@77.110.106.74:31465#[🇫🇷]t.me/MoftConfig
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.142.120.97:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=CxNiMjJz.cAfUnEaR.InFo&fp=chrome&type=ws&sni=CxNiMjJz.cAfUnEaR.InFo#[🏁]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%20Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%20Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://81091c1d-1228-4124-9977-cbc56e18562b@104.17.148.22:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Lo.vipmehspd.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+trojan://99a5a140-1939-11f0-9b24-1239d0255272@51.38.65.155:443?security=tls&headerType=none&type=tcp&sni=tgju.org#[🇬🇧]t.me/MoftConfig
+vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@151.101.66.219:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇨🇦]t.me/ConfigsHub
