@@ -47039,3 +47039,5 @@ vless://88b485d4-1e39-43cf-80ae-e3118549ba03@104.26.14.85:80?security=none&type=
 vless://401374e6-df77-41fb-f638-dad8184f175b@66.81.247.18:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@66.81.247.18:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#[🇺🇸]t.me/MoftConfig
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.161.209:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/MoftConfig
+vless://3e62b87c-58e0-4ae2-80bc-cfdc00e5f0de@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?encryption=none&security=tls&sni=ir.akcovufun.ir&type=ws&host=ir.akcovufun.ir&path=%2F#[🇨🇦]t.me/MoftConfig
