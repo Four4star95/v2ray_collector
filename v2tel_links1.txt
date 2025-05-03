@@ -47173,3 +47173,10 @@ vless://d1306a65-2a35-48f8-8e9d-68fb69704ab3@198.244.193.109:13039?mode=gun&secu
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.112.1:80?path=%2FTel-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws&sni=masaleini.mahsaamini.dpdns.org#⚜️Telegram:@IP_CF
 vless://d4bc5118-7158-4755-ad3b-b0b54072bdbb@website.acveo.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=website.acveo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.125:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/MoftConfig
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#[🇨🇦]t.me/MoftConfig
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#[🇬🇧]t.me/ConfigsHub
+trojan://74260671232757400@game-seagull.shiner427.skin:443?allowInsecure=0&sni=game-seagull.shiner427.skin#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYwZmM2MS0zNDJmLTRlMGUtYTA3OS02ZDMzZTIwYTY2MTc@free.2apzhfa.xyz:31271#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NDYwZmM2MS0zNDJmLTRlMGUtYTA3OS02ZDMzZTIwYTY2MTc@free.2apzhfa.xyz:31173#[🏁]t.me/ConfigsHub
+vless://d4bc5118-7158-4755-ad3b-b0b54072bdbb@website.acveo.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=website.acveo.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.83:1001?security=reality&sni=telewebion.com&type=tcp&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#[🇺🇸]t.me/ConfigsHub
