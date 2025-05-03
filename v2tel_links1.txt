@@ -47200,3 +47200,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638815663764116347.lisbon-shledrc-a
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.83:1001?security=reality&sni=telewebion.com&type=tcp&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.19ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.22ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638815663764120181.lisbon-shledrc-acbs.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.71ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.24.31:443#⚜️Telegram:@IP_CF
+vless://02c0a435-b281-a9b3-8108-8713da0eb66f@1conf.top:8880?type=tcp&headerType=http&path=/&security=none#⚜️Telegram:@IP_CF
