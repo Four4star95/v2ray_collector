@@ -46601,3 +46601,11 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.148.106.65:8443?encryption=none
 vless://eb965440-671d-4903-8909-fa8d0cbdba4e@www.speedtest.net:443?encryption=none&security=tls&type=xhttp&host=actions.dgclix.ir&path=%2F&mode=auto#[🇨🇦]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.220:8443?encryption=none&security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F#[🏁]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.208.155:8443?encryption=none&security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F#[🏁]t.me/ConfigsHub
+trojan://Aimer@45.67.215.217:2087?allowInsecure=0&sni=epccg.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.6.244:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=/&fp=chrome&alpn=h2,http/1.1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.199.191.145:443#[🏁]t.me/ConfigsHub
+trojan://Aimer@77.232.140.7:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇦🇪]t.me/ConfigsHub
+trojan://Aimer@108.165.152.239:8443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://Aimer@27.50.49.37:2053?allowInsecure=0&sni=epccg.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@108.165.152.0:8443?allowInsecure=0&sni=epccg.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://Aimer@92.53.190.161:2087?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
