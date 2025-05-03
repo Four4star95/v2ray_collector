@@ -21144,3 +21144,26 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGZjMTYwZmZkNjEyYzc1QDEwMC40Mi4xODIuMjE6MTk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDE5NGI4YTk5NTNlNmUxQDE4NS4yMDkuMjI5LjI6NDI5Nzk=#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@15.237.241.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://Aimer@5.182.84.66:2083?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://telegram-id-ArV2ray1@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=www.speedtest.net.a.5.salatinmaccv.ir.&type=ws#WS2-Irancell+%7C+%40ArV2ray
+vless://8e8b7769-90d1-4cf0-8b64-158213cd1b65@151.101.3.9:80?security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=%2FTelegram%40viturey%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+vless://eb965440-671d-4903-8909-fa8d0cbdba4e@www.speedtest.net:443?mode=auto&security=tls&encryption=none&host=actions.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+trojan://psycho@104.21.96.1:443?security=tls&type=ws&sni=pSYcho.sUeX12.IR&path=/trv9KENu5FqbFAtPFq?ed=2560&host=psycho.suex12.ir#⚜️Telegram:@IP_CF
+vless://37f1363a-e041-8ccd-d27f-e542a4a2def5@37.156.46.65:48740?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/ConfigsHub
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.98:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://da88c983-3e08-4edc-86bc-bd4607958e0d@51.89.119.99:11045?security=reality&sni=o.soskom.ir&type=grpc&serviceName=Tel&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiIDUuNE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQxLjEwMS4xMjEuMTI3IiwicG9ydCI6MjA1MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMzgxY2I2ZDEtNmFkNC00OTA5LTg0OTQtYjhkNzg2Y2Y3OGNlIiwic25pIjoiIiwiaG9zdCI6IjE3NDQwMDc1Nzguc3BlZWQubWFtaGEuY2NjcC5mcmVlZmx5LnBwLnVhIiwicGF0aCI6IlwvIn0=
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443/?type=tcp&encryption=none&security=tls&sni=147135004002.sec20org.com#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMjUyOTEyNTVkYjBjY2Jm@38.54.97.247:21303#[🏁]t.me/ConfigsHub
+trojan://Mojtaba-shieldheart@104.16.211.9:8443?path=%2F%3Fed%3D2560&security=tls&host=broken-bread-6ba6.shieldheart4.workers.dev&fp=randomized&type=ws&sni=broken-bread-6ba6.shieldheart4.workers.dev#⚜️Telegram:@IP_CF
+vless://53249200-30ff-436f-a032-0bb00605f8f9@104.21.35.247:443/?type=ws&encryption=none&host=3edcvb.huangshang2030.dpdns.org&path=%2FMgovppNO6WZwOCU5JqXZxjQ5ILc&security=tls&sni=3edcvb.huangshang2030.dpdns.org&alpn=http%2F1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://f97af38a-5d88-4f69-b5f9-da254ff23b22@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSG16dFFDNnkweXNTeFNhYnFSZzRH@91.194.160.151:1235#[🏁]t.me/ConfigsHub
+trojan://51a668c6-d1bb-4e7e-aca3-125349f779fd@45.146.232.171:43592/?type=tcp&security=tls&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+vless://285f0586-fea5-4158-87aa-d9f750a14a87@104.17.147.22:2087?security=tls&sni=mynewsite.lotus-sanat.ir&type=httpupgrade&host=mynewsite.lotus-sanat.ir&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjcyNGY0Njk1ODRmZjA4QDE1NC45MC42Mi4xNDU6MjA3NTg=#⚜️Telegram:@IP_CF
+vless://fd7a61bd-6c35-47f9-a19e-c023cc7b82c5@172.67.220.3:2096?security=tls&sni=cpuhot.boshrachoice.ir&type=ws&path=%2FJOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___JOIN___TEL___%40One_Shop_Official___%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://25dad544-f470-460c-a3f7-0dca4bd90168@172.82.67.154:53938/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=9C3BPgYGPsyQMqV0dWY4c_j-g22zq0dx3MjSp0-Dnjw&sid=fc9a6350400b#[🇺🇸]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU0LjI2LjEzNC4xMDYiLCJwb3J0IjoiMTQxMjkiLCJpZCI6ImU3Nzk4ZTA5LTMwOTAtNDM2Ni1hZTgwLWYxOGFmZGFhYmY0ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1OSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
