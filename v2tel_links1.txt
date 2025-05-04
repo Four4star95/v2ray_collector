@@ -47369,3 +47369,15 @@ trojan://Aimer@211.114.180.156:12383?allowInsecure=0&sni=epcch.ambercc.filegear-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31571#[🏁]t.me/ConfigsHub
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&host=BIA_TELEGRAM_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=api.chandplus.com#[🇫🇮]t.me/MoftConfig
+vless://dfd1b822-3c92-47b9-aba2-8cb28d074655@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31511#[🏁]t.me/MoftConfig
+trojan://Aimer@5.182.85.28:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇷🇺]t.me/MoftConfig
+vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=none&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@67.220.95.102:3306#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@211.114.180.156:12383?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@67.220.95.102:3306#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31571#[🏁]t.me/MoftConfig
+vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=none&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=reality&encryption=none&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇩🇪]t.me/MoftConfig
+vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vmess://eyJhZGQiOiIxNzQuMTM2LjIwNC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmFlYzlhZGItZDZiOS00NjVhLWY1MzEtZDBhMzgxNDRjZjZjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMTYxMSIsInBzIjoiW/Cfh7rwn4e4XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==

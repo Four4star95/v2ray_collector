@@ -1,3 +1,9 @@
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.193.130:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
+vless://42a2c432-9a33-4199-8492-a707c95e30e9@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTFkZjQ4Mi0zMzRmLTQyNWYtOGI3My0wOTE0YzY5MDc5OGE@free.2weradf.xyz:36441#[🏁]t.me/MoftConfig
+vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@89.44.9.252:443?security=tls&sni=gift-4101664.FaraSorat.Net&type=ws&host=Paris1.FaraSorat.net&path=/pV67LRFs428xHke56mDQ#[🇫🇷]t.me/MoftConfig
+vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://14e51f2d-be1d-43c6-a7bf-565d9f22d90f@vista.kavehsanaatco.site:24530?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇩🇪]t.me/ConfigsHub
 vless://4629295b-ca20-4c6a-8c70-87ffe3ca2272@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://f156531d-094f-48be-9ca4-b6362c4a88e1@85.133.206.14:33912?path=telegram%3A%40summertimeus&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://862a9a5b-4c3d-4548-bc56-90751a5ff13a@91.92.40.78:2070?security=none&encryption=none&headerType=none&type=tcp#[🇸🇪]t.me/ConfigsHub
@@ -141,10 +147,4 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.34.190:59483?security=auto&t
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.152.53:443?sni=cz.ylks0033.dpdns.org&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@188.114.98.39:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 vless://28ba9ed6-8ec8-4570-9912-5f55923a214d@172.67.73.163:8880?security=none&type=ws&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#[🇨🇦]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31571#[🏁]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31511#[🏁]t.me/MoftConfig
-vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
-trojan://Aimer@211.114.180.156:12383?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
-vless://dfd1b822-3c92-47b9-aba2-8cb28d074655@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
 vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222?security=&encryption=none&host=divarcdn.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
-trojan://Aimer@5.182.85.28:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇷🇺]t.me/MoftConfig
