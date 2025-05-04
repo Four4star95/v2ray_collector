@@ -47318,3 +47318,8 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.152.53:443?sni=cz.ylks0033.
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.12.31.0:2087?encryption=none&security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.3ms
 vless://a444440a-3c21-4f66-8223-30fe64d7ab52@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://a444440a-3c21-4f66-8223-30fe64d7ab52@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@108.165.152.91:2083?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://12345678@198.62.62.4:443/?type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev&security=tls&sni=7bdfb97a.ikl.pages.dev#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0V05iVmFBbEJlb2docTZ6RFpIdGJa@45.129.185.97:4443#⚜️Telegram:@IP_CF
+trojan://7d2e5374-809e-4a9e-b7c3-7b24842695e1@183.2.150.90:27101?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443/?type=ws&encryption=none&host=d1.medicaldream.ir&path=%2F&security=tls&sni=d1.medicaldream.ir#[🇨🇦]t.me/ConfigsHub
