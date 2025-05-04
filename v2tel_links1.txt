@@ -47267,3 +47267,4 @@ trojan://99a5a140-1939-11f0-9b24-1239d0255272@51.38.65.155:443?allowInsecure=0#[
 vless://bc3cb742-5b70-40ec-9d14-b4e3ebe7b0c0@clientproo.xyz:443?security=&encryption=none&headerType=&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://bc3cb742-5b70-40ec-9d14-b4e3ebe7b0c0@clientproo.xyz:443?security=&encryption=none&headerType=&type=tcp#[🇳🇱]t.me/MoftConfig
 vless://647fec88-969c-4b35-a267-bfc7447e441b@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://elq81vd5ue@elq81vd5ue-4515017478-direct.rahavard365.co:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=elq81vd5ue-4515017478-direct.rahavard365.co#[🇩🇪]t.me/MoftConfig
