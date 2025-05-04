@@ -48097,3 +48097,9 @@ vless://beca86b4-1a33-7c3b-a2a0-d3022a1440de@104.16.127.23:2086?security=none&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuem5YNUViQzlXb1ZibUdIc3Nrb3dK@77.83.246.74:443#🇵🇱 Польша
 trojan://telegram-id-vlessconfig@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇨🇵
 trojan://telegram-id-privatevpns@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+vless://beca86b4-1a33-7c3b-a2a0-d3022a1440de@104.16.127.23:2086?security=none&type=httpupgrade&host=DarkShield.ge.wowshops.ir.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?security=tls&sni=test.gamebestir0.ir&type=grpc&fp=chrome&alpn=h2#[🇫🇮]t.me/MoftConfig
+vless://19b6cf33-4a45-4cda-a30a-36b4727a992c@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@104.24.235.113:443?security=tls&sni=serv00-b49.pages.dev&type=ws&host=serv00-b49.pages.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://26ed493b-64fc-46d2-99a8-ee5d392da3b8@173.245.59.132:80?security=none&type=httpupgrade&host=v2ngfast.nanvrfood.ir.#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36145#[🏁]t.me/MoftConfig
