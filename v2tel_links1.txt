@@ -47323,3 +47323,18 @@ trojan://12345678@198.62.62.4:443/?type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0V05iVmFBbEJlb2docTZ6RFpIdGJa@45.129.185.97:4443#⚜️Telegram:@IP_CF
 trojan://7d2e5374-809e-4a9e-b7c3-7b24842695e1@183.2.150.90:27101?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443/?type=ws&encryption=none&host=d1.medicaldream.ir&path=%2F&security=tls&sni=d1.medicaldream.ir#[🇨🇦]t.me/ConfigsHub
+vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443/?type=ws&encryption=none&host=d1.medicaldream.ir&path=%2F&security=tls&sni=d1.medicaldream.ir#[🇨🇦]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.57:2087/?type=ws&encryption=none&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2Fflow%3D-udp443&security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://1c44abd9-77dc-4d3e-b929-2fa4ce151013@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://Aimer@27.50.49.156:2096/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.194:8880/?type=grpc&encryption=none#[🇳🇱]t.me/MoftConfig
+trojan://Aimer@92.243.74.239:8443/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@27.50.49.224:8443/?type=ws&host=tyep.esslh.filegear-sg.me&path=%2F&security=tls&sni=tyep.esslh.filegear-sg.me#[🏁]t.me/MoftConfig
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@103.116.7.248:443/?type=ws&encryption=none&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed&security=tls&sni=edcch.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@192.200.160.15:8443/?type=ws&host=epccf.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@103.116.7.248:443/?type=ws&encryption=none&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed&security=tls&sni=edcch.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://12345678@198.62.62.4:443/?type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev&security=tls&sni=7bdfb97a.ikl.pages.dev#[🇺🇸]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.57:2087/?type=ws&encryption=none&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2Fflow%3D-udp443&security=tls&sni=23-lsjfjwiposkfls.hc2021.cfd&fp=chrome#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@192.200.160.15:8443/?type=ws&host=epccf.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.194:8880/?type=grpc&encryption=none#[🇳🇱]t.me/ConfigsHub
+trojan://Aimer@27.50.49.156:2096/?type=ws&host=epcch.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
