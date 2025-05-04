@@ -47361,3 +47361,11 @@ vless://doogrlsuwa@45.150.174.77:443?security=tls&alpn=http%2F1.1&encryption=non
 vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#[🏁]t.me/MoftConfig
 vless://432e43e1-473c-4c94-acf3-21896ff047ee@173.245.59.132:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=none&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&fp=chrome&type=ws&sni=ir.akcovufun.ir#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTE0NTBiNDc0NTRmZDJjQDIxMi41Ni40Mi4yMTM6NDc3OTc=#⚜️Telegram:@IP_CF
+trojan://Aimer@5.182.85.28:443?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#[🇷🇺]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31511#[🏁]t.me/ConfigsHub
+trojan://Aimer@211.114.180.156:12383?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDMwNjY2NS05ZTNlLTQ5ODktYjk2MC0zM2Y2MGQwZGRiNmQ@free.2apzhfa.xyz:31571#[🏁]t.me/ConfigsHub
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&host=BIA_TELEGRAM_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=api.chandplus.com#[🇫🇮]t.me/MoftConfig
