@@ -47718,3 +47718,7 @@ vless://428287e2-0a51-42d5-89a5-d07f5f10a481@Fastly-ip.iraniantim.ir:80?security
 trojan://62ee553b-0b15-41d6-bc8d-df6c0f0926da@45.146.232.172:27001?allowInsecure=1&sni=q08m.vgraxiw73s.hasyaf.cn#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:209.23ms
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&encryption=none&host=varzesh3.com%2F%3FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Farrāshband🅿️ping:102.87ms
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#👉🆔@MoftConfig📡🇵🇰®️Pakistan©️Karachi🅿️ping:151.68ms
+vless://a86ee227-1873-46c4-b31e-72e72dcc023c@54.37.79.80:3333/?type=tcp&security=reality&pbk=6Egz-Xf23MSrsfs1bvOtsRFRicSurq6gZopZlpsaXBQ&fp=chrome&sni=refersion.com&sid=977e&spx=%2Fwww.speedtest.net%2Frun#[🇩🇪]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?path=V2ray_Gl&security=none&encryption=none&host=masaleini.mahsaamini.dpdns#[🇨🇦]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?path=V2ray_Gl&security=none&encryption=none&host=masaleini.mahsaamini.dpdns#[🇨🇦]t.me/MoftConfig
+vless://a86ee227-1873-46c4-b31e-72e72dcc023c@54.37.79.80:3333/?type=tcp&security=reality&pbk=6Egz-Xf23MSrsfs1bvOtsRFRicSurq6gZopZlpsaXBQ&fp=chrome&sni=refersion.com&sid=977e&spx=%2Fwww.speedtest.net%2Frun#[🇩🇪]t.me/MoftConfig
