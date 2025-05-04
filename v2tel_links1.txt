@@ -47397,3 +47397,4 @@ trojan://telegram-id-privatevpns@51.44.151.171:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4REZsN1hoeGpmb2pXT1oxRXlWejc2@81.19.141.45:443#🇩🇪 Германия
 trojan://telegram-id-privatevpns@35.178.114.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇬🇧@MoftConfig
 trojan://telegram-id-privatevpns@18.200.164.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇮🇪@MoftConfig
+vless://7d5a9596-0dea-4ad7-8de5-18605a0cad39@54.37.79.80:2222/?type=tcp&path=%2F&host=divarcdn.ir&headerType=http&security=none#[🇩🇪]t.me/MoftConfig
