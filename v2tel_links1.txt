@@ -48402,3 +48402,5 @@ vless://b88eac8d-cd0c-4350-96d1-0c02c78893d3@93.127.180.140:443?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTYyOWU5Yy1jMTAxLTQzMmYtYTg1NS1kOTExOTJlZDdmNjI@free.2apzhfa.xyz:31211#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.23:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.112.193.115:443#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUmxTVmlod0dlcFlUSUoxYmd5TFAy@195.133.193.170:60896/?S6_outline=1#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRlhWWGxHNnY0TmhHTXl4alFxUVFn@193.124.46.196:53024/?S4_outline=1#[🇩🇪]t.me/ConfigsHub
