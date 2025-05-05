@@ -48346,3 +48346,6 @@ vless://4299375c-7193-3fe9-f78c-09f79676a40a@37.156.46.65:31548/?type=tcp&encryp
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#[🏁]t.me/MoftConfig
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443/?type=ws&encryption=none&host=ru01.abvpn.ru&path=%2Fwebsocket&security=tls&sni=ru01.abvpn.ru&fp=chrome#[🇷🇺]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#[🇳🇱]t.me/MoftConfig
+trojan://07300b55-b834-41d8-a13a-fc6c65ffdfdf@125.94.45.119:27401?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#⚜️Telegram:@IP_CF
+vless://3fed8b80-2248-46df-9d1e-229ce4c975e1@blog.acveo.ir:8080?path=%2FTelegram-----MTMVPN----Telegram-----MTMVPN----Telegram-----MTMVPN----Telegram-----MTMVPN----Telegram-----MTMVPN%3Fed%3D2048&security=none&encryption=none&host=blog.acveo.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://3fed8b80-2248-46df-9d1e-229ce4c975e1@blog.acveo.ir:8080?path=%2FTelegram-----MTMVPN----Telegram-----MTMVPN----Telegram-----MTMVPN----Telegram-----MTMVPN----Telegram-----MTMVPN%3Fed%3D2048&security=none&encryption=none&host=blog.acveo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
