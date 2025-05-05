@@ -1,5 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#[🇺🇸]t.me/MoftConfig
-vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.128.64:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622/?type=tcp&encryption=none#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k@77.91.103.73:443#[🇫🇮]t.me/MoftConfig
 vless://46e486d3-0545-50cc-91da-b1f06b98a33a@git-scm.com:443/?type=ws&encryption=none&host=lu-1-ssm.rayan-dns.dpdns.org&path=%2Fvless&security=tls&sni=lu-1-ssm.rayan-dns.dpdns.org&fp=chrome#[🇨🇦]t.me/MoftConfig
@@ -148,3 +146,5 @@ vless://e42b967f-7d1e-4760-bd6c-2d41a766a76f@tor5.vpntype.dev:443?security=tls&e
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36213#[🏁]t.me/MoftConfig
 vless://db3e522a-5846-4be7-b197-14cd48e20e6d@104.16.143.237:443?path=%2FTelegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&security=tls&encryption=none&host=COLLECTION.EiNETWORK.NEWS&fp=random&type=ws&sni=COLLECTION.EiNETWORK.NEWS#[🇨🇦]t.me/ConfigsHub
 vless://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.171.212:2087/?type=ws&encryption=none&host=ball.757718.xyz&path=%2F%3Fed%3D2560&security=tls&sni=ball.757718.xyz#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQk5oWGgxMlhJZUpUN0J6VUMzeVRG@h110vpnch.outlinekeys.net:4248#[🏁]t.me/ConfigsHub
+vless://4653a69d-4c97-4b63-85cb-4ed2be9ce2ea@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
