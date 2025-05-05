@@ -48628,3 +48628,5 @@ vless://0c45cd4d-cd75-423f-886e-1c13dd732681@www.speedtest.net:80?security=&type
 
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OWRjNDBkZGVlMGY2ZmY4QDE2Mi4xOS4xNTUuMTQwOjI2NDEw#⚜️Telegram:@IP_CF
+vless://59a846f5-4aba-4dd6-b89d-1244acd247c1@151.101.64.155:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#[🇨🇦]t.me/ConfigsHub
