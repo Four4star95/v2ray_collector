@@ -1,3 +1,4 @@
+vless://028b8bdf-5831-4dc6-92c4-030ac151f587@172.67.73.163:80?security=none&type=ws&host=CLEAR-heADED-DAy.oNeeAt.Co.&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:15.92ms
 vless://bffceece-a818-45d2-ad04-eb819eec8f78@217.182.93.104:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#👉🆔@MoftConfig📡🇫🇷®️France©️Roubaix🅿️ping:40.8ms
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.0.189:443#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seoul🅿️ping:270.22ms
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&security=tls&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:19.32ms
@@ -145,6 +146,5 @@ vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@website.acveo.ir:8080?path=%2Fteleg
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZWNhYmNhNS01ZWY5LTQ2N2QtYTkwZi00MTYxOTliZjJhMGQ@free.2apzhfa.xyz:31741#[🏁]t.me/ConfigsHub
 trojan://920f0c70-63e1-4538-8ac1-3aebb2df2ae9@45.146.232.172:43586?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.45:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZWNhYmNhNS01ZWY5LTQ2N2QtYTkwZi00MTYxOTliZjJhMGQ@free.2apzhfa.xyz:31113#[🏁]t.me/ConfigsHub
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.60.247.99:443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b&alpn=h2#[🇸🇪]t.me/ConfigsHub
