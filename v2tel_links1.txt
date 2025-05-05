@@ -48300,3 +48300,7 @@ vless://629fc5ad-153e-41aa-b398-175e3c00867f@91.92.40.78:2070/?type=tcp&security
 vless://d40d2de3-e389-4bdd-8f8b-1d1de97ca664@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.36.55.55:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#[🇬🇧]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.59.218.169:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#[🇷🇺]t.me/ConfigsHub
+vless://a0603305-9110-44ba-a5b5-2aa1457a6d3e@65.109.212.145:8880?security=reality&encryption=none&pbk=p54VFGd1CPXd5Vht5YHrmnOuO-uWPpxqUIpxCvYVnCs&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=tgju.org&sid=01e2#[🇫🇮]t.me/ConfigsHub
+vless://4b7ddce2-42a2-6435-20b7-6762c63d75f3@37.156.46.65:48740?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/ConfigsHub
+vless://2118755b-d056-46aa-9349-b0a220dee1ed@www.speedtest.net:443?mode=auto&security=tls&encryption=none&host=test2025.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.189:8880?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
