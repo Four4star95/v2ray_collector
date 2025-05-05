@@ -1,3 +1,5 @@
+vless://588f094b-431b-422c-b80b-007945037072@5.182.86.128:443/?type=ws&encryption=none&host=nl07.abvpn.ru&path=%2Fwebsocket&security=tls&sni=nl07.abvpn.ru&fp=chrome#[🇳🇱]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#[🇺🇸]t.me/MoftConfig
 vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.128.64:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622/?type=tcp&encryption=none#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k@77.91.103.73:443#[🇫🇮]t.me/MoftConfig
@@ -128,7 +130,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY
 vless://0f7f55fe-262d-5cc6-a59e-8dd512791a98@151.101.130.228:443?security=tls&sni=davidlab.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.j.z.x.jjjjjjjjj.netspeedtest.net.sewzx.iuyal.ir&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.252:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=/&fp=chrome&alpn=h3,h2#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36175#[🏁]t.me/ConfigsHub
-vless://0b872dc1-d11c-4a33-8c30-370cb42faafa@194.182.79.252:10785?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#⚜️Telegram:@IP_CF
 vless://5bc909ae-3ca6-418b-b1f5-663394a5e6ad@188.245.251.244:2086?security=reality&sni=www.cdn77.com&type=grpc&fp=chrome&pbk=ztgCu_qsyNxw3VqnH9u9e3Soore9jRiquei7p66mBAc#[🇩🇪]t.me/ConfigsHub
 vless://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@104.21.64.1:443?security=tls&sni=8op.191262.xyz&type=ws&host=8op.191262.xyz&path=%2F4U4Is3KKzxRV9PS&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://d657aea9-ccd3-40a3-9502-d3a89af69062@104.17.147.22:2052?security=none&type=ws&host=www.spEedtest.net.snApfoodsupPort.onlIne.&path=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
@@ -147,4 +148,3 @@ vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?path=%2F%3Fed&s
 vless://e42b967f-7d1e-4760-bd6c-2d41a766a76f@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36213#[🏁]t.me/MoftConfig
 vless://db3e522a-5846-4be7-b197-14cd48e20e6d@104.16.143.237:443?path=%2FTelegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&security=tls&encryption=none&host=COLLECTION.EiNETWORK.NEWS&fp=random&type=ws&sni=COLLECTION.EiNETWORK.NEWS#[🇨🇦]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjoiMzY2MDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
