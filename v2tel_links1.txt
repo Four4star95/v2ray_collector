@@ -48295,3 +48295,8 @@ vless://2118755b-d056-46aa-9349-b0a220dee1ed@www.speedtest.net:443?mode=auto&pat
 vless://2118755b-d056-46aa-9349-b0a220dee1ed@www.speedtest.net:443?mode=auto&path=%2F&security=tls&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=test2025.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.220.216:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:153.8ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.223.194:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:154.61ms
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@104.16.41.28:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&security=tls&encryption=none&host=d5.medicaltreatment.ir&fp=chrome&type=ws&sni=d5.medicaltreatment.ir#[🇨🇦]t.me/MoftConfig
+vless://629fc5ad-153e-41aa-b398-175e3c00867f@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/MoftConfig
+vless://d40d2de3-e389-4bdd-8f8b-1d1de97ca664@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@194.36.55.55:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#[🇬🇧]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@185.59.218.169:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome&type=ws&sni=QtRkJtLt27.pRiMeXaD.OrG#[🇷🇺]t.me/ConfigsHub
