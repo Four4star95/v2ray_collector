@@ -48736,3 +48736,4 @@ vless://08111b5d-1eb3-4178-b8d1-6c4c22a8fe89@91.107.180.49:443?type=tcp&security
 
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.45:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=%2F&fp=chrome&alpn=h3%2Ch2#[🏁]t.me/ConfigsHub
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQxLjEwMS4xMTQuMCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIwYWQ0ZTU4MS0yMzFiLTQ2NzYtYWQ3NS1kOGQyZGIxMDM3OTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9zMTUuaHRtbCIsImhvc3QiOiIzNTc1NjU3ODQ3OTQ5OTIwMjUwNDI1MTkyOTIzNDgzNzEuczE1LmNoaWJhYmEuZmlsZWdlYXItc2cubWUiLCJ0bHMiOiIifQ==
