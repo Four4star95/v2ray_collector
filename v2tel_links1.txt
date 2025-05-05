@@ -48386,3 +48386,6 @@ vless://b5771afb-4d33-4782-82cb-f8558bf5aaf3@www.speedtest.net:80?path=%2F%40Shh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#[🏁]t.me/MoftConfig
 vless://7ee58835-5a08-48c1-b80e-9fbbb81f8432@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ2R3VDhWSmpqOGxjWklRQTBJSXht@77.83.246.74:443#[🏁]t.me/ConfigsHub
+vless://588f094b-431b-422c-b80b-007945037072@lv01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#[🏁]t.me/ConfigsHub
+vless://telegram-id-ArV2ray2@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS7-All+%7C+%40ArV2ray
+vless://700ac1a7-0c09-49ba-8db3-a9f63bdacec2@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Usa.vipmehspd.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
