@@ -1,3 +1,4 @@
+vless://bd3b011a-403f-4006-9c2c-2d49d6f25acd@162.159.128.64:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622/?type=tcp&encryption=none#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k@77.91.103.73:443#[🇫🇮]t.me/MoftConfig
 vless://46e486d3-0545-50cc-91da-b1f06b98a33a@git-scm.com:443/?type=ws&encryption=none&host=lu-1-ssm.rayan-dns.dpdns.org&path=%2Fvless&security=tls&sni=lu-1-ssm.rayan-dns.dpdns.org&fp=chrome#[🇨🇦]t.me/MoftConfig
@@ -131,7 +132,6 @@ vless://5bc909ae-3ca6-418b-b1f5-663394a5e6ad@188.245.251.244:2086?security=reali
 vless://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@104.21.64.1:443?security=tls&sni=8op.191262.xyz&type=ws&host=8op.191262.xyz&path=%2F4U4Is3KKzxRV9PS&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://d657aea9-ccd3-40a3-9502-d3a89af69062@104.17.147.22:2052?security=none&type=ws&host=www.spEedtest.net.snApfoodsupPort.onlIne.&path=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://56c565c9-6360-40b5-9e74-e7636c0eeb57@212.80.10.34:5222?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
-vless://1fd2fe1c-c27d-44c3-b4bd-59839964ba82@151.101.64.155:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://588f094b-431b-422c-b80b-007945037072@usa01.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=usa01.abvpn.ru&fp=chrome&type=ws&sni=usa01.abvpn.ru#[🇺🇸]t.me/ConfigsHub
 vless://6351a164-aa3e-4702-9b7f-8f12328854c5@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.124:8880?security=&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
