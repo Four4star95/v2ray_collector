@@ -48762,3 +48762,4 @@ trojan://pqlnPNu423@57.129.89.172:1935/?type=tcp&security=tls&sni=x1-germany-ovh
 vless://2d317da5-47c5-4db4-933f-16d1094668db@42.2.54.195:20550?security=tls&flow=xtls-rprx-vision-udp443&sni=www.paypal.com&fp=chrome#[🏁]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&type=ws&host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&path=%2F#[🇺🇸]t.me/ConfigsHub
 
+vless://96ea1af6-5b5e-42c3-8ccf-ea1143cde029@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
