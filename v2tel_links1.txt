@@ -48757,3 +48757,4 @@ vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087/?type=ws&encrypt
 vless://6453293c-512f-4862-979b-f65f4a3dd3ff@104.24.163.64:443/?type=ws&encryption=none&host=66.sgfc.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=66.sgfc.dpdns.org&fp=random#[🇨🇦]t.me/ConfigsHub
 vless://588f094b-431b-422c-b80b-007945037072@de09.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&host=de09.abvpn.ru&fp=chrome&type=ws&sni=de09.abvpn.ru#[🇩🇪]t.me/ConfigsHub
 
+trojan://pqlnPNu423@57.129.89.172:1935/?type=tcp&security=tls&sni=x1-germany-ovh-v2.devefun.net#⚜️Telegram:@IP_CF
