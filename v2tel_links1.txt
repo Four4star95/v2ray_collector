@@ -48879,3 +48879,4 @@ vless://97fd6fe3-169e-4f6b-a708-f4f28facab58@speedtest.net:80?type=xhttp&mode=au
 vless://ed37ff5d-e19f-49a6-b32f-8165af757495@173.245.59.132:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
 vless://f3130b95-9ee8-4c6e-b0c4-50606dd0e9f2@104.24.141.216:2083?security=tls&sni=go-79m.pages.dev&type=ws&host=go-79m.pages.dev&allowInsecure=0#[🇨🇦]t.me/MoftConfig
 vless://telegram-id-ArV2ray2@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#[🇨🇦]t.me/MoftConfig
+
