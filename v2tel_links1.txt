@@ -48740,3 +48740,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQx
 
 vless://4661af3d-8813-4744-93b4-539ef9c8029f@104.26.15.85:80?security=none&type=ws&host=ChIRPY-APPOInTMEnT.ONeEaT.cO.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://ad5e479a-d0f6-4809-902c-e74f5404336c@74.220.23.227:2030?security=reality&sni=refersion.com&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#[🇬🇧]t.me/ConfigsHub
+
