@@ -49433,3 +49433,4 @@ vless://6f16f28d-8248-4736-b748-9c0a43ebbc04@tor5.vpntype.dev:443?security=tls&e
 vless://9dca0400-cb85-4328-88f3-6e765c9a2e82@104.24.7.206:443?security=tls&sni=cf.breakday.top&type=ws&host=cf.breakday.top&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@strut-brisk-scope.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjIxLjY0LjEiLCJwb3J0IjoiMjA5NiIsImlkIjoiOGY3OGU3MDktMmM1Zi00YzE5LTlmNDQtYjViNWY4MGFiNzRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImNjMmQxLjk4ODk4OC5zaG9wIiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoiY2MyZDEuOTg4OTg4LnNob3AiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeTNCdXAyVlRNN0RQMFpEZFA5ZFFJ@194.87.45.189:443#🇪🇸 Испания
