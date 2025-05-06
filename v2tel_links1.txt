@@ -48907,3 +48907,14 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.246.132:443?security=tls&sni
 vless://9d5f5880-607c-44f0-8130-0138f7c28ef0@65.109.212.145:2087?security=reality&sni=www.cdn77.com&fp=chrome&pbk=1U1zqwf4AAdw62b-IWQ2ZCBlaS-FhQvKJBV3jD6gajk&sid=afe96c&type=tcp&packetEncoding=xudp&encryption=none#[🇫🇮]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZk14RHNrVmtzUGxHcGF0S0NSOWpG@77.83.246.74:443#🇵🇱 Польша
 vless://5389571a-da53-47b1-9ea1-06eaab48f07f@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.246.132:443?security=tls&sni=vless10-9sc.pages.dev&type=ws&host=vless10-9sc.pages.dev&alpn=h3&allowInsecure=0#[🇨🇦]t.me/MoftConfig
+vless://2281311a-86d5-4b98-b2d3-ca0710c4d963@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome&allowInsecure=0#[🇺🇸]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880?sni=23-lsjfjwiposkfls.hc2021.cfd&type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&allowInsecure=0#[🇺🇸]t.me/MoftConfig
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.45:2096?security=tls&sni=JpHzJdVn23.bLuEvIa.oRg&type=ws&host=JpHzJdVn23.bLuEvIa.oRg&path=/&fp=chrome&alpn=h3,h2#[🏁]t.me/MoftConfig
+vless://8edae61f-5940-4abe-a30e-570dcdec8e18@104.18.6.36:8443?sni=testvless2-ah2.pages.dev&type=ws&host=testvless2-ah2.pages.dev&allowInsecure=0#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.229.98:80?security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=/TM@AZAFBAYJAB1#[🇨🇦]t.me/MoftConfig
+vless://2ee2c33b-cc0f-4ea1-b287-5870f3ee3951@104.27.125.158:443?sni=jp1.xn--ghqu5fm27b67w.com&type=ws&host=jp1.xn--ghqu5fm27b67w.com&allowInsecure=0#[🇨🇦]t.me/MoftConfig
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoiam9pbnNoby50YWJsaWdoLnNwYWNlLiIsImlkIjoiNjIzNTliZWYtZWU4ZS00NTcwLTljMTAtMGFlYWQ1NmM0ZWJmIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL0BpcnZwbm4/ZWRcdTAwM2QyMDUyIiwicG9ydCI6Ijg4ODAiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://c29363d7-3346-4660-a713-255ddf821340@sa2.nightlegend805.xyz:19810?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://39a2588a-2980-4ae6-a32e-63fb3456daef@104.24.240.115:2053?security=tls&sni=xpvip168.eu.org&type=ws&host=xpvip168.eu.org&path=%2F%3Fed%3D2560security%3Dtls#[🇨🇦]t.me/MoftConfig
