@@ -48796,3 +48796,8 @@ vless://97dda572-7ff0-4609-8388-c82be57bc6a9@178.62.44.40:8440?security=reality&
 vmess://eyJ2IjoiMiIsInBzIjoiIDUuM01CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYjNlMWE1Nzctc3ZqZ2cwLXQxYm5qcS0xa3J0Yi5jdS5wbGViYWkubmV0IiwicG9ydCI6NTIyOSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjYwZjZiNGM0LTlkNzAtMTFlZC1hNGQyLWYyM2M5MTY0Y2E1ZCJ9
 vless://08111b5d-1eb3-4178-b8d1-6c4c22a8fe89@V2RayMizban2.iranigamepars.ir:443?security=reality&encryption=none&pbk=oDHdhbvtMCXmEpcRuxDLJsRxzs79FnfwPOgJrdkeOmE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4f#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://fa0ebd45-fadc-4f0e-b191-ccf73f5aefb4@104.21.38.48:443?security=tls&sni=C1F.HUanGdi2031.DPdns.orG&type=ws&host=c1f.huangdi2031.dpdns.org&path=%2FhD9Bsvo2iASdyMAdtxLQhzLw&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?type=grpc#[🇫🇷]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://2a5acce7-f3e2-4755-8811-4a4250553986@104.26.14.85:80?security=none&type=ws&host=MEssY-mEANinG.oneeaT.cO.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.241.46:59483?security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
