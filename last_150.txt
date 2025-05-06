@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0anU4NzNldnBqZWFBaThacTEyWW9SSFdwNjNvNWV4ZG5aNzFhVWcxWUVDaGlQVGMySGthc1loVUJ4Uno3VUdpNEs2Y0xyc0dhVTZiNDRINFFhNmY0Y0puM3pCcDJjblg=@185.5.38.111:55988#👉🆔@MoftConfig📡🇳🇴®️Norway©️Oslo🅿️ping:43.68ms
 vless://f4ed5ab6-8c23-43dd-8a74-dc71c7d53008@151.101.2.219:80?security=none&type=ws&host=foffmelo.com#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.85ms
 vless://dd8c7f7c-764f-4df8-8f4c-0996f2466979@farsidutch.nl:57459?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.93ms
 vless://e872a768-33c9-4b5a-b04a-aabce97fb1ef@64.227.77.203:443?security=none&type=tcp&host=Join_Bade_Channel%40JOKERRVPN#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.31ms
@@ -145,6 +146,5 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.219.25:59483?security=auto&
 vless://9d5f5880-607c-44f0-8130-0138f7c28ef0@fn.ir.iranigamepars.ir:2087?type=tcp&security=reality&fp=chrome&sni=www.cdn77.com&pbk=1U1zqwf4AAdw62b-IWQ2ZCBlaS-FhQvKJBV3jD6gajk&sid=afe96c&spx=/#[🇫🇮]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@68.183.167.19:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.192.140:443?security=tls&sni=edcch.ambercc.filegear-sg.me&type=ws&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#[🇨🇦]t.me/ConfigsHub
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@147.78.140.148:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.135.101:59483?security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:2096?security=tls&sni=RwQfYqAh14.tRaViQo.oRg&type=ws&host=RwQfYqAh14.tRaViQo.oRg&path=%2F&fp=chrome#[🇨🇦]t.me/ConfigsHub
