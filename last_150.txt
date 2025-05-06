@@ -1,3 +1,4 @@
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&security=tls&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:19.32ms
 vless://82b4207c-33ad-44ab-9397-59eab5d80ddb@2393123233.torob.com.tr:6793?security=&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:14.04ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.242.230.29:443?security=tls&sni=pqh44v2.hiddendom.shop&type=grpc&host=pqh44v2.hiddendom.shop&alpn=h2#[🇳🇱]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@vps.200566.xyz:30332#👉🆔@MoftConfig📡🇹🇼®️Taiwan©️Taipei🅿️ping:287.91ms
@@ -136,7 +137,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGMmJSeGJkdmdWck5zaU9mZ1hPdllp@77.83.246.74:4
 vless://9e1f303f-be18-4892-b697-a8cf546f371d@o.soskom.ir:26528?mode=gun&security=reality&encryption=none&authority=&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/ConfigsHub
 vless://e237e89c-08cd-4de0-ad33-383009f2459b@83.147.18.150:443?security=reality&encryption=none&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=snapp.ir&sid=0126b9#[🇬🇧]t.me/ConfigsHub
 vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@website.acveo.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=website.acveo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZWNhYmNhNS01ZWY5LTQ2N2QtYTkwZi00MTYxOTliZjJhMGQ@free.2apzhfa.xyz:31741#[🏁]t.me/ConfigsHub
 trojan://920f0c70-63e1-4538-8ac1-3aebb2df2ae9@45.146.232.172:43586?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZWNhYmNhNS01ZWY5LTQ2N2QtYTkwZi00MTYxOTliZjJhMGQ@free.2apzhfa.xyz:31113#[🏁]t.me/ConfigsHub
