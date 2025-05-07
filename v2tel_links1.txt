@@ -49486,3 +49486,7 @@ vless://629fc5ad-153e-41aa-b398-175e3c00867f@91.92.40.78:2070/?type=tcp&security
 trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@tro-de01.gproxy.gratis:443?security=tls&sni=tro-de01.gproxy.gratis&alpn=h2&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#[🇩🇪]t.me/ConfigsHub
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@172.67.69.216:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.chimigi.sIte.&type=ws#[🇨🇦]t.me/ConfigsHub
 
+trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&headerType=none&type=tcp&sni=x1-sweden-ovh-v2.devefun.net#[🇸🇪]t.me/ConfigsHub
+vless://d03a3480-7441-45a2-beac-eadfb9a6714d@holand2.speedgloobalontop.ir:1983?security=reality&encryption=none&pbk=4PTi0kHTkABFYGzjfKeG2SdXZc5nkmo2WJeojJwf7HI&host=www.youtub.com&headerType=none&fp=chrome&type=tcp&sni=colorlib.com#[🇳🇱]t.me/ConfigsHub
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-Telegram-mtmvpn---Telegram-mtmvpn&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#⚜️Telegram:@IP_CF
+vless://telegram-id-ArV2ray3@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#[🇨🇦]t.me/ConfigsHub
