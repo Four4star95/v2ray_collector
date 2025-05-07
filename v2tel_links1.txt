@@ -49482,3 +49482,5 @@ trojan://Aimer@27.50.48.126:2083/?type=ws&host=tyep.esslh.filegear-sg.me&path=%2
 vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@95.211.62.200:80?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10&type=tcp&headerType=none#[🇳🇱]t.me/ConfigsHub
 trojan://trojan@104.18.2.150:443?security=tls&sni=main.xicun.us.kg&fp=chrome&type=ws&host=main.xicun.us.kg&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 trojan://b6200af42ccadea353f5b5856dd20d70@120.233.128.68:39001?allowInsecure=0#⚜️Telegram:@IP_CF
+vless://629fc5ad-153e-41aa-b398-175e3c00867f@91.92.40.78:2070/?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
+trojan://c1451ff5-d32c-48a4-914c-188985a3d5d7@tro-de01.gproxy.gratis:443?security=tls&sni=tro-de01.gproxy.gratis&alpn=h2&fp=chrome&allowInsecure=1&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#[🇩🇪]t.me/ConfigsHub
