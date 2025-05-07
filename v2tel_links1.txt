@@ -49578,3 +49578,4 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.65.106.183:59483?security=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTg5NjM5Ni1mZWQ5LTQxOWUtYjIzYS05YTY5N2YzODMxZjQ@free.2apzhfa.xyz:31671#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTg5NjM5Ni1mZWQ5LTQxOWUtYjIzYS05YTY5N2YzODMxZjQ@free.2apzhfa.xyz:31113#[🏁]t.me/ConfigsHub
 
+vless://7f32ff89-0195-497a-9a1e-474c53a08668@7dy3b6.de2.bbbbbbbbbbbb9.biz:9690?security=none&path=%2F&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
