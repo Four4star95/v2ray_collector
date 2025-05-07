@@ -1,3 +1,5 @@
+vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443/?type=ws&encryption=none&host=66.sgfc.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=66.sgfc.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@91.193.59.187:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.192:8880/?type=grpc&encryption=none#[🇳🇱]t.me/ConfigsHub
 trojan://er668@kfjdi.pages.dev:443/?type=ws&security=tls#[🇨🇦]t.me/ConfigsHub
@@ -146,5 +148,3 @@ vless://ca48571a-403f-44b9-b2a6-e17c36d7cacc@172.67.144.126:443?security=tls&sni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQ3pIckszcmpTUzBUdlJ1NnU5cGNk@87.251.79.34:20684#[🇺🇸]t.me/ConfigsHub
 trojan://redfree8@104.17.147.22:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&host=ipsychO.SUEx12.Ir&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/ConfigsHub
 vless://a7a53229-01fd-4b23-a0bc-35f9dcc747f8@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=www.speedtest.net.mozdfree.buzz.&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://de313cba-239c-4411-9e2d-bc1a3519fc9d@www.zula.ir:8443?path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=wipok.musics-fa.ru&fp=chrome&type=ws&sni=wipok.musics-fa.ru#[🇨🇦]t.me/ConfigsHub
-vless://3fafa6c0-7f0a-4149-bd8f-05fa19e11be7@57.129.55.24:21147?security=&encryption=none&headerType=&type=tcp#[🇩🇪]t.me/ConfigsHub
