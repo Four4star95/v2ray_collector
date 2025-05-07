@@ -49803,3 +49803,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWEzYmZlYy1iYTkyLTRjZDYtOWI0MS00NjgyNTg1N2I
 vless://1865a948-c6da-45f7-b39e-6a365bbaafc0@151.101.64.155:80?path=%2FTelegram----V2ray_Gl----V2ray_Gl----V2ray_Gl---V2ray_Gl---V2ray_Gl---V2ray_Gl%3Fed%3D2048&security=none&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://6d76c8bd-2a42-4e1e-9601-878260ff04ed@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/MoftConfig
 vless://dbf9ab15-d45c-424f-a7b1-28286548a7e3@104.17.147.22:2095?security=none&type=httpupgrade&host=Usa.vipmehspd.ir.&path=%2F%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+
