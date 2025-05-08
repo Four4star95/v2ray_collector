@@ -50408,3 +50408,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDcyYzVlMjQxYWVjZmI3@217.77.3.42:40410#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGIyNGQwNGRhMzJkZDQ0@57.128.190.214:49065#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWEzNDllY2NkNzE0ODY3@212.56.33.5:41591#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZGE1YzdhZTU1NjI2MWE1@212.56.42.208:28281#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEb0hTdDJsb1dscU80dHJFQlBtSTRn@81.227.245.27:55551#[🇸🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.140.80:443#[🇬🇧]t.me/ConfigsHub
+vless://telegram-id-ArV2ray4@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://bfb967e1-d0b8-4782-947b-70a05cbf0efb@142.93.231.14:12509?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
