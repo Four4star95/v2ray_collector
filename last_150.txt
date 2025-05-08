@@ -1,12 +1,3 @@
-vless://378d5714-5101-4740-85eb-f42b59ee763d@194.182.79.46:14888/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
-vless://428287e2-0a51-42d5-89a5-d07f5f10a481@91.193.59.187:8080?security=none&type=httpupgrade&host=DE-sNaPp.aCaDeMiGrOuP.ir.#[🇬🇧]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.192:8880/?type=grpc&encryption=none#[🇳🇱]t.me/ConfigsHub
-trojan://er668@kfjdi.pages.dev:443/?type=ws&security=tls#[🇨🇦]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880/?type=grpc&encryption=none#[🇩🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#[🇫🇮]t.me/MoftConfig
-vless://91d8e2d2-f67f-4b18-896f-5c443ac4fc4f@142.93.231.14:59572?security=none&type=ws&path=%2F#[🇳🇱]t.me/ConfigsHub
-vless://d5e4bac0-3777-5c82-8482-0784f5a7f79c@151.101.66.228:443?security=tls&sni=fishlab.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.a.s.z.rrrrrrr.net.speedtest.net.razxkl.ir&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
-vless://7a41da9d-ccad-4bf1-80ec-c3532122726d@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://fbb84ab6-fffa-4115-9155-809e531398ad@174.138.119.91:80?security=none&type=tcp&host=fast.com&path=/&headerType=http#[🇺🇸]t.me/ConfigsHub
 vless://d4bc5118-7158-4755-ad3b-b0b54072bdbb@104.21.32.1:8080?security=none&type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-%69pV2Ry-telegram-%69pV2Ry-telegram-%69pV2Ry%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36171#[🏁]t.me/ConfigsHub
@@ -148,3 +139,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQ3pIckszcmpTUzBUdlJ1NnU5cGNk@87.251.79.34:2
 trojan://redfree8@104.17.147.22:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&host=ipsychO.SUEx12.Ir&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/ConfigsHub
 vless://a7a53229-01fd-4b23-a0bc-35f9dcc747f8@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=www.speedtest.net.mozdfree.buzz.&encryption=none#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJN0ZVakpqZkk3TWJSYlB0NGtsNmpv@151.236.4.99:8443#[🇩🇪]t.me/ConfigsHub
+vless://b04a24aa-394e-5278-8202-dc480ae6f49b@86.38.214.22:2052?security=none&encryption=none&host=sPeedtest2.sbs.sg.vless.sitespeedtest.net&type=ws#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Istanbul🅿️ping:49.18ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFR1FvZGNOU3BPdTVxdEhocUNDZEk1@89.185.84.185:443#🇬🇧 Великобритания
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.198:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=japan.freenods-8d6.workers.dev&type=ws&sni=japan.freenods-8d6.workers.dev#👉🆔@MoftConfig📡🇺🇸®️United States©️Redwood City🅿️ping:49.49ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.217.161:443?security=tls&encryption=none&type=grpc&sni=pqh44v2.hiddendom.shop#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:50.26ms
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@103.116.7.60:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=japan.freenods-8d6.workers.dev&type=ws&sni=japan.freenods-8d6.workers.dev#👉🆔@MoftConfig📡🇺🇸®️United States©️Redwood City🅿️ping:49.05ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Chicago🅿️ping:155.33ms
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@193.9.49.147:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=NuWoLcZn28.qUiCkOrA.OrG&fp=chrome&type=ws&sni=NuWoLcZn28.qUiCkOrA.OrG#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:48.82ms
+trojan://Aimer@46.254.93.211:2053?path=%2F&security=tls&host=epcch.ambercc.filegear-sg.me&type=ws&sni=epcch.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇮🇩®️Indonesia©️Medan🅿️ping:50.37ms
+trojan://Aimer@135.84.64.36:2083?path=%2F&security=tls&host=epcch.ambercc.filegear-sg.me&type=ws&sni=epcch.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Atlanta🅿️ping:48.08ms
