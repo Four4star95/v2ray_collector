@@ -50390,3 +50390,4 @@ vless://8d00fea9-be60-4f1d-9e31-e10128a9689c@151.101.194.219:80?security=none&ty
 vless://daffcac3-5d76-4fb4-8dc5-c4401de5f45f@157.180.75.119:8880?security=none&type=grpc&serviceName=%40cephalon_ai_bot#[🇫🇮]t.me/ConfigsHub
 vless://03c93f49-d573-4889-a4bb-187047c5a314@172.67.158.146:443?security=tls&sni=m7rtTYu.777169.xyz&type=ws&host=m7rttyu.777169.xyz&path=%2FbstMMelSTch7YcAPgiEbt&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://f749fb32-8cd6-4e05-a25d-937c6f1a435d@104.17.148.22:2086?security=none&type=httpupgrade&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzZiNDc4YmNiM2I0OWFkQDE5My4xMDguMTE3LjE1NjoxMzU1Mw==#⚜️Telegram:@IP_CF
