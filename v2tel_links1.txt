@@ -50391,3 +50391,13 @@ vless://daffcac3-5d76-4fb4-8dc5-c4401de5f45f@157.180.75.119:8880?security=none&t
 vless://03c93f49-d573-4889-a4bb-187047c5a314@172.67.158.146:443?security=tls&sni=m7rtTYu.777169.xyz&type=ws&host=m7rttyu.777169.xyz&path=%2FbstMMelSTch7YcAPgiEbt&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
 vless://f749fb32-8cd6-4e05-a25d-937c6f1a435d@104.17.148.22:2086?security=none&type=httpupgrade&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f2.isvpy.ir.#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzZiNDc4YmNiM2I0OWFkQDE5My4xMDguMTE3LjE1NjoxMzU1Mw==#⚜️Telegram:@IP_CF
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.228:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=myphotograpicpicture.ir#[🏁]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@159.246.55.244:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=myphotograpicpicture.ir#[🇺🇸]t.me/ConfigsHub
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880/?type=ws&encryption=none&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2F#[🇺🇸]t.me/ConfigsHub
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.218.15.250:2083/?type=ws&encryption=none&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edccj.ambercc.filegear-sg.me&alpn=h3&fp=random#[🏁]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.132:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=myphotograpicpicture.ir#[🇬🇧]t.me/ConfigsHub
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@duke.ns.cloudflare.com:443/?type=ws&encryption=none&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&alpn=h3&fp=random#[🇨🇦]t.me/ConfigsHub
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@lynn.ns.cloudflare.com:443/?type=ws&encryption=none&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&alpn=h3&fp=random#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@27.50.49.74:2087/?type=ws&host=epccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epccj.ambercc.filegear-sg.me&alpn=h3&fp=randomized#[🏁]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.12.30.141:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=myphotograpicpicture.ir#[🇬🇧]t.me/ConfigsHub
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚜️Telegram:@IP_CF
