@@ -22429,3 +22429,13 @@ vless://5fb982aa-c10a-4230-989a-c1b5664d9737@176.9.243.164:600?security=tls&sni=
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=%2FRiuadVWEiFmFyL3C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:98.03ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.203.88:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/MoftConfig
+vless://65d40d33-2bac-4df9-9820-e8754cb8aeb2@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+vmess://eyJhZGQiOiI2MDEyNjlkMi1zdjB4czAtc3kxYTB5LTFpeW92LmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiNjAxMjY5ZDItc3YweHMwLXN5MWEweS0xaXlvdi5oay5wNXB2LmNvbSIsImlkIjoiMzM2Mjk4NzAtZTU3ZS0xMWVjLWJiNzQtZjIzYzkxNjRjYTVkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+vless://740b2fbe-6d3a-4061-ad0f-b5c5486dc92d@cdn.getasa.ir:443?path=%2Fwp-admin&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=cdn.getasa.ir#[🇫🇮]t.me/ConfigsHub
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚜️Telegram:@IP_CF
+vless://Parsashonam-233@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206aVVxRjkwVnVybjZCREFrODdERzgvSWhYTGpxaGhSSGFlNWZiR0pQaENJVT0@193.227.240.37:39705#[🇷🇺]t.me/ConfigsHub
+vless://Parsashonam-233@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.54.26:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@63.176.54.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YzZiNDc4YmNiM2I0OWFkQDE5My4xMDguMTE3LjE1NjoxMzU1Mw==#⚜️Telegram:@IP_CF
