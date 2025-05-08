@@ -50363,3 +50363,4 @@ vless://bafee052-dd5e-45af-a627-c3734c4e359e@5.75.196.237:13065?security=none&en
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?security=tls&sni=de02.abvpn.ru&type=ws&path=/websocket&host=de02.abvpn.ru&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.206.33:443#[🇬🇧]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇬🇧]t.me/ConfigsHub
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚜️Telegram:@IP_CF
