@@ -50029,3 +50029,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@62.133.63.21:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbnk0TGc1OTE4aWNENDJ5ZlRDVFdJ@62.133.63.21:65262#[🇹🇷]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇩🇪]t.me/MoftConfig
+vless://6aa6e7a4-0a40-4762-9423-d49f69cd5fa5@france.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇫🇷]t.me/ConfigsHub
+vless://6aa6e7a4-0a40-4762-9423-d49f69cd5fa5@france.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇫🇷]t.me/MoftConfig
