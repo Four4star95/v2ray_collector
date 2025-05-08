@@ -1,3 +1,4 @@
+vless://fbb84ab6-fffa-4115-9155-809e531398ad@174.138.119.91:80?security=none&type=tcp&host=fast.com&path=/&headerType=http#[🇺🇸]t.me/ConfigsHub
 vless://d4bc5118-7158-4755-ad3b-b0b54072bdbb@104.21.32.1:8080?security=none&type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-%69pV2Ry-telegram-%69pV2Ry-telegram-%69pV2Ry%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36171#[🏁]t.me/ConfigsHub
 vless://a94e8f17-5d02-478a-8800-6c60aed19724@104.24.196.20:2086?type=httpupgrade&host=www.speedtest.net.icEnIc.ir.&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
@@ -22,7 +23,6 @@ vless://dc6f405f-9d5e-41b0-8b6b-fbee3318edc8@194.182.79.112:16875?security=&encr
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?path=%2F%3Fed&security=tls&encryption=none&host=miku.mikuru.ip-ddns.com&type=ws&sni=miku.mikuru.ip-ddns.com#[🇬🇧]t.me/ConfigsHub
 vless://e42b967f-7d1e-4760-bd6c-2d41a766a76f@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MGFjNmEyYi0wYmI1LTQ3MjktOTZjZS0zYTVmNWU3ODY3Nzc@free.2weradf.xyz:36213#[🏁]t.me/MoftConfig
-vless://db3e522a-5846-4be7-b197-14cd48e20e6d@104.16.143.237:443?path=%2FTelegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram&security=tls&encryption=none&host=COLLECTION.EiNETWORK.NEWS&fp=random&type=ws&sni=COLLECTION.EiNETWORK.NEWS#[🇨🇦]t.me/ConfigsHub
 vless://4f3662cc-c677-43d7-a5cc-ecc21dd286c3@104.24.171.212:2087/?type=ws&encryption=none&host=ball.757718.xyz&path=%2F%3Fed%3D2560&security=tls&sni=ball.757718.xyz#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQk5oWGgxMlhJZUpUN0J6VUMzeVRG@h110vpnch.outlinekeys.net:4248#[🏁]t.me/ConfigsHub
 vless://428287e2-0a51-42d5-89a5-d07f5f10a481@Fastly-ip.iraniantim.ir:80?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=taxi.ir#[🇨🇦]t.me/MoftConfig
