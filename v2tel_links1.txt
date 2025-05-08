@@ -50113,3 +50113,8 @@ vless://6d76c8bd-2a42-4e1e-9601-878260ff04ed@64.227.77.203:443?type=tcp&headerTy
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?type=tcp&headerType=none&host=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=nacho-rerun-crepe.stark-industries.solutions#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@admin.c4.havij.co:443?type=tcp#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aW10a1oyQXhvQjdBVm5I@admin.c4.havij.co:443?type=tcp#[🇬🇧]t.me/ConfigsHub
+vless://bafee052-dd5e-45af-a627-c3734c4e359e@5.75.196.237:13065?security=&encryption=none&headerType=&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://65d40d33-2bac-4df9-9820-e8754cb8aeb2@151.101.64.155:80?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=JOINBEDE-VPNCUSTOMIZE.IR&type=ws#[🇨🇦]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?encryption=none&security=none&type=grpc#[🏁]t.me/MoftConfig
+vless://bafee052-dd5e-45af-a627-c3734c4e359e@5.75.196.237:13065?security=&encryption=none&headerType=&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://9cf1d08d-defd-4b1d-abb7-839889f9a18e@app.digimobile.top:33120?type=kcp&headerType=wireguard&seed=eFLoW7WEho&security=none#[🏁]t.me/MoftConfig
