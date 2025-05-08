@@ -50463,3 +50463,7 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-233@Zmaoz.Faculty.Ucdavis.Edu:80?path=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWkhjQkRaZVkzZDd1RXVkQk04T0xV@77.110.102.235:64864#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTWk3aWdxWG1LSHY0M0ZYN1J5TlJ6@77.110.106.74:31465#[🇫🇷]t.me/ConfigsHub
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-233@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://ca927399-2d1e-4547-86a1-8fab0235d1ed@91.107.167.56:443?security=reality&encryption=none&pbk=rYRZBYA4lA4ht8pS9lPBPht335pmdW40BPO9aMHQkSo&host=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&sni=tgju.org&sid=be#[🇩🇪]t.me/ConfigsHub
+vless://9fcbdb12-db5b-4698-ae0e-ed80fdf1887c@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024%2F%3F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=none&encryption=none&host=Ws.speedtest.Spdnet.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eFoxNUJUempvRmllYkcz@admin.c2.havij.co:443#[🇬🇧]t.me/ConfigsHub
+vless://2084deb2-fb34-4fd5-9f74-f6e2c5360206@168.119.248.187:8880?mode=auto&security=reality&encryption=none&pbk=C8T_rENHVHgvklynPdF0oVbovX6rFi_6tA3MwI6vMn4&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=xhttp&sni=www.stackoverflow.com&sid=8c6a044199a51b22#[🇩🇪]t.me/ConfigsHub
