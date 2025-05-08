@@ -49865,3 +49865,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWEzYmZlYy1iYTkyLTRjZDYtOWI0MS00NjgyNTg1N2I
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053/?type=ws&encryption=none&host=ir.akcovufun.ir&path=%2F&security=tls&sni=ir.akcovufun.ir&fp=chrome#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:48.6ms
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443/?type=tcp&encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Fredericksburg🅿️ping:180.96ms
 vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?path=%2FTM%40AZAFBAYJAB1flow%3D-udp443&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:49.38ms
+vless://4132069a-fa63-4e23-86a3-d2350f66d8a4@104.16.157.108:8080?security=none&type=httpupgrade&host=mahdiserver.nanvrfood.ir.&path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+vless://56f0935e-bd53-4d5a-ac0e-3971d9563e05@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWEzYmZlYy1iYTkyLTRjZDYtOWI0MS00NjgyNTg1N2I5MTQ@free.2apzhfa.xyz:31441#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWEzYmZlYy1iYTkyLTRjZDYtOWI0MS00NjgyNTg1N2I5MTQ@free.2apzhfa.xyz:31313#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWEzYmZlYy1iYTkyLTRjZDYtOWI0MS00NjgyNTg1N2I5MTQ@free.2apzhfa.xyz:31313#[🏁]t.me/MoftConfig
