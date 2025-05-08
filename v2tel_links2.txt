@@ -22401,3 +22401,31 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@170.114.45.216:443?path=%2FfJBvsL0u
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYTBlOGY5NC03NDNiLTQ3NTktYjBjZi1jYjY4MGNiMDk5YWI@free.2weradf.xyz:36441#[🏁]t.me/MoftConfig
 vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@95.211.62.200:80?security=reality&sni=refersion.com&fp=chrome&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10&type=tcp&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIPCfjYogRGFpbHlWMnJ5IiwiYWRkIjoiMTUuMjA0LjI1NC4yNDYiLCJwb3J0Ijo0NDMsImlkIjoiZTNmNGZjZjYtZTg4ZS00MGVjLWIzN2YtNzA1NzNkYTU0YTZkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiQkxBemUtdXNhLTI0Ni5WbmV0eC1TZXJ2RVIuc0l0RSIsInBhdGgiOiJcL2xpbmt2d3MiLCJ0bHMiOiJ0bHMifQ==Daily
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:93.1ms
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTM%40AZAFBAYJAB1&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#[🇨🇦]t.me/MoftConfig
+vless://4b132e2b-24b1-418b-90e9-a11b619a799b@172.67.170.132:443?security=tls&sni=m1swxrt.777236.xyz&type=ws&host=m1swxrt.777236.xyz&path=/6pC5ZWNjJLlDlbpi&fp=chrome&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MTg3NDI5ZWNjODczZWQyQDE1Ny4xNzMuMTIzLjU6MjY3MjQ=#⚜️Telegram:@IP_CF
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/MoftConfig
+vless://0dbfc7df-73ce-4e9c-9ed3-71f80bbe0be3@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:47.84ms
+vless://f930b8c3-084b-4f3e-a4e4-9ef0c2dccc85@104.26.15.85:80?security=none&type=ws&host=thoUghtfuL-PraCTICe.oNEEAT.CO.#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@222.114.124.22:35559?allowInsecure=0&sni=epccj.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJhN2IwYWUxZS01Mzc2LTQ0NDEtYWJjNC00NWRiNDA5M2U4ODkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJNYXhORXR2aXAtdXNhMS5NQVhuRXRjTE9VRHNFUnZJQ2UuQ09NIiwicGF0aCI6IlwvbGlua3dzP2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ==
+vless://8af53b69-6686-4cf0-9718-e0ab124ec82b@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔@MoftConfig📡🇮🇱®️Israel©️Petah Tikva🅿️ping:130.67ms
+vless://09123053-aa01-4233-b67b-49f613d4cb5d@49.13.174.239:1287?type=tcp#[🇩🇪]t.me/MoftConfig
+vless://6d76c8bd-2a42-4e1e-9601-878260ff04ed@64.227.77.203:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://b30a50bc-0f63-422d-bbd6-8c790c0abb4d@172.67.172.91:443?security=tls&sni=m8yyjkll.457.pp.ua&type=grpc&serviceName=32FkuhQhA2EwK9tqh&fp=chrome&alpn=h2#[🇨🇦]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇩🇪®️Germany©️Falkenstein🅿️ping:76.13ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRTBVaGdEd3lUWlduOGdWbWtxNzNt@77.83.246.74:443#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:78.22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYTBlOGY5NC03NDNiLTQ3NTktYjBjZi1jYjY4MGNiMDk5YWI@free.2weradf.xyz:36611#[🏁]t.me/MoftConfig
+vless://0d083787-080d-4eaa-a741-e78c8fcd9547@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#⚜️Telegram:@IP_CF
+vless://telegram-id-ArV2ray4@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#WS3-All+%7C+%40ArV2ray
+vless://daffcac3-5d76-4fb4-8dc5-c4401de5f45f@157.180.75.119:8880?type=grpc&mode=gun&serviceName=@cephalon_ai_bot&authority=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:89.3ms
+vless://8ce85898-b865-4d10-a5a1-2638e7940e2c@104.16.157.108:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=none&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://0dbfc7df-73ce-4e9c-9ed3-71f80bbe0be3@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560flow%3D-udp443flow%3D-udp443&security=tls&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:93.1ms
+vless://5fb982aa-c10a-4230-989a-c1b5664d9737@176.9.243.164:600?security=tls&sni=marzban.negintel.xyz&type=tcp&host=/Join_Bade_Channel@JOKERRVPN#[🇩🇪]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.96.1:443?path=%2FRiuadVWEiFmFyL3C%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=iPsyCHO.SUEx12.iR#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:98.03ms
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.203.88:59483?security=none&type=grpc#[🇺🇸]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&encryption=none&host=ipsychO.SUEx12.Ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/MoftConfig
