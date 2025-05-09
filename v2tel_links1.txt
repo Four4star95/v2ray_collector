@@ -51494,3 +51494,10 @@ vless://a54f31b2-36ed-4a93-903f-381f7105418b@162.159.153.241:443?sni=241888.xyz&
 vless://a0141f76-4fb8-40a5-a404-926cf2dff73a@74.220.23.227:2030?security=tls&sni=refersion.com&type=grpc#[🇬🇧]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/MoftConfig
 ss://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?security=tls&sni=ByRhHePn14.bLuEvIa.oRg&type=ws&host=ByRhHePn14.bLuEvIa.oRg&path=%2F#[🇨🇦]t.me/MoftConfig
+vless://2084deb2-fb34-4fd5-9f74-f6e2c5360206@168.119.248.187:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&sni=ms.sodogodping.ir&sid=c7f175a94bd79f8d#⚜️Telegram:@IP_CF
+trojan://telegram-id-vlessconfig@15.237.241.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇨🇵
+trojan://telegram-id-vlessconfig@3.127.213.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+trojan://telegram-id-vlessconfig@18.194.237.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXMExYYXZ0UXhoTm1aNUdQemtrZ2JH@81.19.141.45:443#🇩🇪 Германия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmZnRnlWU0czbkxQRnZjY0lqOHRU@77.83.246.74:443#🇵🇱 Польша
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRTBVaGdEd3lUWlduOGdWbWtxNzNt@77.83.246.74:443#🇵🇱 Польша
