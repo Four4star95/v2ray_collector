@@ -1,3 +1,9 @@
+vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443/?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:48.75ms
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.120.94.23:2087/?type=ws&encryption=none&host=edcch.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edcch.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Boston (Fort Point)🅿️ping:47.53ms
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&host=edcck.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&packetEncoding=xudp#[🏁]t.me/ConfigsHub
+vless://2ee2c33b-cc0f-4ea1-b287-5870f3ee3951@104.18.20.69:443?sni=us5s.pqvip.top&type=ws&host=us5s.pqvip.top&allowInsecure=0#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:47.51ms
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.76.75:8880/?type=ws&encryption=none&host=23-lsjfjwiposkfls.hc2021.cfd#👉🆔@MoftConfig📡🇺🇸®️United States©️Las Vegas🅿️ping:48.31ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:81.82ms
 vless://c7901322-0574-4069-a1a3-32a5d2785320@142.93.231.14:25611/?type=ws&encryption=none&path=%2F&packetEncoding=xudp#[🇳🇱]t.me/ConfigsHub
 vless://5c87a3a5-d2c4-4cd9-878e-07e307b386d6@139.59.181.80:9200/?type=ws&encryption=none&host=mot.majusti.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=mot.majusti.dpdns.org&alpn=h3&fp=random#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Newton Abbot🅿️ping:79.44ms
 vless://16003d11-87d6-4912-91ec-34f82fc28e4d@139.162.108.193:15493/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=bnyccN-N4Yh5Wf7Ir4teJfqC1Pi6h1ORbZTtnxoxGFg&sid=30#[🏁]t.me/ConfigsHub
@@ -137,14 +143,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?security=none&type=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔@MoftConfig📡🇨🇦®️Canada©️Pointe-Claire🅿️ping:148.1ms
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bring-glove-shine.stark-industries.solutions:443?security=tls&path=%2Fvpnowl&headerType=none&type=tcp#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:69.01ms
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@38.180.15.138:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMDQuMjEuNjQuMSIsImFpZCI6MCwiaG9zdCI6ImNjMmQ0Ljk4ODk4OC5zaG9wIiwiaWQiOiI4Zjc4ZTcwOS0yYzVmLTRjMTktOWY0NC1iNWI1ZjgwYWI3NGMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjIwNTMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#[🇷🇺]t.me/ConfigsHub
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@44.31.62.2:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
-vless://a0141f76-4fb8-40a5-a404-926cf2dff73a@ns7.esfahansiman.com:2030?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=refersion.com&sid=7fe29733#[🇬🇧]t.me/ConfigsHub
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@80.211.194.250:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.80.111.26:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http%2F1.1&fp=chrome#[🇩🇪]t.me/ConfigsHub
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.51:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#[🏁]t.me/ConfigsHub
-vless://9b7645aa-91f4-4f6d-98d9-c22f4ce8784f@151.101.1.91:80?security=none&type=ws&host=trickshow.silaber.net&fp=chrome&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@46.8.224.211:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇫🇷]t.me/ConfigsHub
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@5.61.35.27:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇩🇪]t.me/ConfigsHub
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.159:443?sni=hl.ylka.dpdns.org&type=ws&host=hl.ylka.dpdns.org&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
