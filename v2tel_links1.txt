@@ -51039,3 +51039,8 @@ trojan://telegram-id-privatevpns@3.254.246.221:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@3.254.246.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.254.246.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇮🇪
 vless://14642369-4803-4549-abeb-343c2f5a8a7b@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://Parsashonam-233@zmaoz.faculty.ucdavis.edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&encryption=none&host=Parsashonam-DE.ir&type=ws#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRdWw2QWwxdDlpSklKbE1iZFNmTkdh@62.210.88.22:443#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#[🇳🇱]t.me/ConfigsHub
+vless://8247c690-5157-58f2-a7a2-21a78377bd98@141.101.122.211:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=none&encryption=none&host=sPeedtest2.sbs.us.vless.sitespeedtest.net&type=ws#[🇬🇧]t.me/MoftConfig
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF
