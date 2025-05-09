@@ -50614,3 +50614,9 @@ vless://0870a931-b121-1278-f010-b140a958a300@semyn.projectyuz.com:2082?security=
 vless://09747c66-0d01-4e13-9ef8-d97133035b36@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
 vless://09747c66-0d01-4e13-9ef8-d97133035b36@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWQ5ZDliYi0yMTRkLTQ0NGQtYWIxYS0wODEyNzM3ZGMxZDc@free.2weradf.xyz:36215#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKbFpUWnl6OVFxNmRBeFF1d1JNRlVO@77.83.246.74:443#🇵🇱 Польша
+vless://f1e2b609-8c1f-4455-a6df-0ce2dbff9eb9@134.209.82.20:443?security=tls&flow=xtls-rprx-vision-udp443&sni=Ne1.tak30zanjan.ir&fp=chrome#[🇳🇱]t.me/MoftConfig
+vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.24.34.42:2053?sni=www.pjw5.top&type=ws&host=www.pjw5.top#[🇨🇦]t.me/MoftConfig
+vless://c838cef5-1365-4a8c-b1a4-3fbb40cf2f0e@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWQ5ZDliYi0yMTRkLTQ0NGQtYWIxYS0wODEyNzM3ZGMxZDc@free.2weradf.xyz:36215#[🏁]t.me/MoftConfig
