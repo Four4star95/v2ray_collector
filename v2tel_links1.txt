@@ -51503,3 +51503,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmZnRnlWU0czbkxQRnZjY0lqOHRU@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRTBVaGdEd3lUWlduOGdWbWtxNzNt@77.83.246.74:443#🇵🇱 Польша
 
 
+vless://59147d51-08fe-4a07-b284-7eb12a15a351@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Usa.vipmehspd.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
