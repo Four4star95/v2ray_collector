@@ -50786,3 +50786,15 @@ vless://aabc2dd9-17cb-4e53-9e56-d71df0433a66@162.159.20.126:80?path=%2F%40V2ngFa
 vless://b9df7fd9-0cb0-46f9-b09b-eb1006e35bc8@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
 trojan://Aimer@176.124.223.133:2096/?type=ws&host=epccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epccj.ambercc.filegear-sg.me&alpn=h3&fp=randomized#⚜️Telegram:@IP_CF
 vless://b9df7fd9-0cb0-46f9-b09b-eb1006e35bc8@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://65e74c34-090a-4de6-a030-2de6f84bf433@speedtest.net:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWQ5ZDliYi0yMTRkLTQ0NGQtYWIxYS0wODEyNzM3ZGMxZDc@free.2weradf.xyz:36311#[🏁]t.me/MoftConfig
+vless://0842c5c0-8730-44c7-bbe4-58ab3b02455f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oUTRAgEOus-PERcentaGE.OneEAt.Co.&type=ws#⚜️Telegram:@IP_CF
+trojan://Aimer@59.27.236.245:50003?allowInsecure=0&sni=epccj.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWQ5ZDliYi0yMTRkLTQ0NGQtYWIxYS0wODEyNzM3ZGMxZDc@free.2weradf.xyz:36243#[🏁]t.me/ConfigsHub
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@45.131.208.62:2087?security=tls&sni=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp4011KzOr.ScOrPiOnBiGpLaY.oRg&alpn=h2%2Chttp/1.1#[🏁]t.me/MoftConfig
+vless://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:55298?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome#[🏁]t.me/ConfigsHub
+vless://c77f7459-48f7-4a80-9c98-35b54f4df50d@95.164.35.169:32756?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=0w3vKmbzpqRs-4Kz9W0ECUfFKRXfzR5Oy1tqXPZ6als&sid=8852e484a776#[🏁]t.me/MoftConfig
+vless://02ba5abf-f15a-43be-bb7b-fda4550f79ff@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://bafee052-dd5e-45af-a627-c3734c4e359e@5.75.196.237:13065?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWQ5ZDliYi0yMTRkLTQ0NGQtYWIxYS0wODEyNzM3ZGMxZDc@free.2weradf.xyz:36243#[🏁]t.me/MoftConfig
+vless://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:55298?security=tls&flow=xtls-rprx-vision-udp443&sni=www.yahoo.com&fp=chrome#[🏁]t.me/MoftConfig
