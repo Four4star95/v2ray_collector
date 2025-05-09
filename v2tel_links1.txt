@@ -51175,3 +51175,9 @@ trojan://telegram-id-directvpn@3.78.101.232:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.78.101.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.51:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#[🏁]t.me/ConfigsHub
 
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@198.46.215.183:50964?security=tls&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?security=none&sni=pqh36v7.economy36top.shop&type=grpc&host=pqh36v7.economy36top.shop#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MTFMNkdORmh6RzdHNmR0NFA1NzFP@77.110.102.235:64864#[🇳🇱]t.me/ConfigsHub
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?security=tls&sni=cr77.hedieh.dpdns.org&type=ws&host=cr77.hedieh.dpdns.org&path=/#[🇨🇦]t.me/ConfigsHub
+vless://1b61e34e-9376-4b62-856e-1c5d044582b0@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#[🇨🇦]t.me/ConfigsHub
