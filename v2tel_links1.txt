@@ -51569,3 +51569,4 @@ ss://9e8c4793-f653-4839-9b8b-852496ef0e27@194.182.79.7:19123?mode=gun&security=n
 trojan://redfree8@104.17.147.22:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&host=ipsychO.SUEx12.Ir&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/ConfigsHub
 trojan://redfree8@104.17.147.22:443?path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560&security=tls&host=ipsychO.SUEx12.Ir&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/MoftConfig
 vmess://eyJhZGQiOiIwYWZhMmI0Ny1zdjB4czAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20iLCJhaWQiOjIsImhvc3QiOiIwYWZhMmI0Ny1zdjB4czAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20iLCJpZCI6ImNmODllMDY0LTVjNzctMTFlYi1iZDNhLWYyM2M5MTY0Y2E1ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
+
