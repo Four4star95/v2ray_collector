@@ -52201,3 +52201,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.24.229.98:80?path=%2FTM%40AZAFB
 vless://534948ca-cf21-4447-91b7-3396c751cdaf@77.110.116.150:30722?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&security=none&encryption=none&host=www.speedtest.net.a.7.salatinmaccv.ir.&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VloxTDZVNjBrbHRvd0NYWVR0d21Z@91.108.245.111:23600#[🇩🇪]t.me/MoftConfig
+vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?path=%2Fwebsocket%3F%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=nl08.abvpn.ru&type=ws&sni=nl08.abvpn.ru#[🇳🇱]t.me/MoftConfig
+vless://588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?path=%2Fwebsocket%3F%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=nl08.abvpn.ru&type=ws&sni=nl08.abvpn.ru#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.117.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇸🇪
+trojan://telegram-id-privatevpns@13.51.117.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@13.51.117.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
