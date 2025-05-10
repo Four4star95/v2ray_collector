@@ -51953,3 +51953,9 @@ vless://9d39e59c-e53b-48d5-82a6-8e0fc299fd10@syd5.vpntype.dev:443?security=tls&e
 vless://0343e230-5132-4e98-844e-b42ad1a6a273@172.67.71.122:2087?sni=nptian.xiaotianvpn.sbs&type=ws&host=nptian.xiaotianvpn.sbs#[🇨🇦]t.me/MoftConfig
 vless://ae20b743-9c67-4ba9-86f5-116a4a838b12@198.41.209.70:443?sni=aq.oldcloud.online&type=ws&host=aq.oldcloud.online#[🇨🇦]t.me/MoftConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh35v8.gym35fit.shop#[🇺🇸]t.me/MoftConfig
+vless://d41c3a84-0dcc-45fd-8b8d-0552197ae314@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
+vless://d41c3a84-0dcc-45fd-8b8d-0552197ae314@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/ConfigsHub
+vless://d41c3a84-0dcc-45fd-8b8d-0552197ae314@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT0FFakxkQkRmUGM%3D@194.87.216.79:443#[🇳🇱]t.me/MoftConfig
+vless://d41c3a84-0dcc-45fd-8b8d-0552197ae314@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxT0FFakxkQkRmUGM%3D@194.87.216.79:443#[🇳🇱]t.me/ConfigsHub
