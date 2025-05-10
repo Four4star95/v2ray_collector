@@ -52208,3 +52208,8 @@ trojan://telegram-id-privatevpns@13.51.117.245:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@13.51.117.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080?type=tcp#[🇳🇱]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.61.114.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://2018e932-cc6b-49f7-9101-19f1326627bf@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://0f8fac4e-4d6c-4f6c-8bc6-22a3c065ba6f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DAngeRouS-contacT.oNEeat.Co.&type=ws#⚜️Telegram:@IP_CF
+vless://d62993f2-f2b7-410d-b56d-2cef2e971038@3.115.82.155:443?security=tls&flow=xtls-rprx-vision-udp443&sni=tv.apple.com&fp=chrome#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080?type=tcp#[🇳🇱]t.me/MoftConfig
+vless://67cfeb93-6137-ad87-da6c-e589edade6af@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
