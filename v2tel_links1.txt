@@ -52064,3 +52064,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MTFMNkdORmh6RzdHNmR0NFA1NzFP@77.110.102.235
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Y0lwTlNBMm04NlI1Zm1HWVVyS2dl@45.95.232.236:4248#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#[🇫🇮]t.me/MoftConfig
 
+vless://03369b90-0017-47e7-b5d4-127010c9de36@speedtest.net:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇨🇦]t.me/MoftConfig
+vless://e4851038-d1d4-49e3-a309-7ceb52b6c116@zula.ir:443?path=%2FAIfU2Y&security=tls&encryption=none&host=lmn1746782403494.lmn17699.info&type=ws&sni=lmn1746782403494.lmn17699.info#[🇨🇦]t.me/ConfigsHub
+vless://19ec57e5-b5ce-46d0-9e11-f127addc5c60@zula.ir:443?path=%2FiojE9r&security=tls&encryption=none&host=lmn1746782406879.lmn17724.info&type=ws&sni=lmn1746782406879.lmn17724.info#[🇨🇦]t.me/MoftConfig
+vless://21e0218f-70eb-47b5-8478-9838ce08fe67@zula.ir:443?path=%2FJgHL2i&security=tls&alpn=h2http%2F1.1&encryption=none&host=lmn1746782403494.lmn17713.info&type=ws&sni=lmn1746782403494.lmn17713.info#[🇨🇦]t.me/ConfigsHub
+vless://df14dd38-b51d-4e62-8e04-f81ec70e94b4@104.16.157.108:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=none&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://e4851038-d1d4-49e3-a309-7ceb52b6c116@zula.ir:443?path=%2FAIfU2Y&security=tls&encryption=none&host=lmn1746782403494.lmn17699.info&type=ws&sni=lmn1746782403494.lmn17699.info#[🇨🇦]t.me/MoftConfig
+vless://21e0218f-70eb-47b5-8478-9838ce08fe67@zula.ir:443?path=%2FJgHL2i&security=tls&alpn=h2http%2F1.1&encryption=none&host=lmn1746782403494.lmn17713.info&type=ws&sni=lmn1746782403494.lmn17713.info#[🇨🇦]t.me/MoftConfig
+vless://19ec57e5-b5ce-46d0-9e11-f127addc5c60@zula.ir:443?path=%2FiojE9r&security=tls&encryption=none&host=lmn1746782406879.lmn17724.info&type=ws&sni=lmn1746782406879.lmn17724.info#[🇨🇦]t.me/ConfigsHub
+vless://03369b90-0017-47e7-b5d4-127010c9de36@speedtest.net:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇨🇦]t.me/ConfigsHub
