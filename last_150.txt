@@ -1,3 +1,4 @@
+vless://59a97ff0-435c-42e7-ba2c-c17d597c17cd@88.198.101.94:443?security=reality&sni=stackoverflow.com&type=grpc&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&fp=chrome&pbk=Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw&sid=05a6d4aa5e314637&alpn=h2#👉🆔@MoftConfig📡🇩🇪®️Germany©️Falkenstein🅿️ping:75.31ms
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.5.252:8443?security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=/&fp=chrome#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:47.73ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.53.74:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:194.33ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.230.48:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:194.37ms
@@ -128,7 +129,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@Freakconfig138.usechar
 vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@104.21.96.1:443?security=tls&sni=osi.speedx3net.ir&type=httpupgrade&path=%2F#[🇨🇦]t.me/MoftConfig
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v6.car25benz.shop:8880/?type=grpc&encryption=none#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@176.103.53.105:989#👉🆔@MoftConfig📡🇺🇦®️Ukraine©️Kyiv🅿️ping:44.53ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPN0M3UVF4allXNEUxTDRZbDZMeWVY@194.87.45.189:443#[🏁]t.me/ConfigsHub
 vless://291c27a5-34d2-4081-83cc-2196cd208148@support.zoom.us:8080?security=&encryption=none&host=xrr.rtxconfigz.xyz&type=ws&flow=none#👉🆔@MoftConfig📡🇺🇸®️United States©️San Jose (Downtown San Jose)🅿️ping:8.85ms
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@188.42.88.49:8443?encryption=none&security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=%2F#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:8.76ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZWt6SVZKd2JrMWY@147.45.177.65:443#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:109.83ms
