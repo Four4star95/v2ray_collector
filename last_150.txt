@@ -1,3 +1,6 @@
+vless://5543ae5c-c24f-405a-9266-597cbc43c818@213.210.55.72:24443?security=tls&sni=miku.mikuru.ip-ddns.com&type=ws&host=miku.mikuru.ip-ddns.com&path=%2F%3Fed#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:78.11ms
+vless://6aa6e7a4-0a40-4762-9423-d49f69cd5fa5@france.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#👉🆔@MoftConfig📡🇫🇷®️France©️Roubaix🅿️ping:76.81ms
+vless://e27e4404-b32a-4a80-af23-9094e8c81286@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:47.63ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=none&sni=pqh32v6.film32western.shop&type=grpc&host=pqh32v6.film32western.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:139.27ms
 vless://f939e99b-5f02-41cc-ae7a-b09289a3d160@194.182.79.209:18411?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:89.3ms
 vless://4661af3d-8813-4744-93b4-539ef9c8029f@104.26.14.85:80?security=none&type=ws&host=ChIRPY-APPOInTMEnT.ONeEaT.cO.&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:56.89ms
@@ -145,6 +148,3 @@ vless://d03a3480-7441-45a2-beac-eadfb9a6714d@holand2.speedgloobalontop.ir:1983?s
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.214.21:443?security=tls&sni=5re.191268.xyz&alpn=http%2F1.1&fp=chrome&type=ws&host=5re.191268.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.01ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.0ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:13.7ms
-trojan://telegram-id-directvpn@52.47.159.179:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.159.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-trojan://telegram-id-directvpn@52.47.159.179:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
