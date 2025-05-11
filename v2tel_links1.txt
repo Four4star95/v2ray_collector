@@ -53422,3 +53422,4 @@ vless://4ee35122-2e2d-4013-a1ba-e2d333d191fc@v2raymizban2.iranigamepars.ir:443?t
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?encryption=none&security=reality&sni=cdnjs.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&headerType=none#[🏁]t.me/MoftConfig
 trojan://ca48571a-403f-44b9-b2a6-e17c36d7cacc@104.21.80.1:443?security=tls&sni=10r.iran1912.dpdns.org&alpn=http%2F1.1&type=ws&path=%2FVEP415T5mby2DulPWRIwOavJd#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@219.76.13.177:443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+
