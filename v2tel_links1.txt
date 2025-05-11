@@ -53050,3 +53050,4 @@ trojan://telegram-id-privatevpns@3.74.18.33:22222?security=tls&alpn=http/1.1&hea
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.18.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-privatevpns@3.74.18.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 vless://c0d18f01-0438-4210-b530-8783b085bbca@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+
