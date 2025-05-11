@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔@MoftConfig📡🇨🇦®️Canada©️Pointe-Claire🅿️ping:148.1ms
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bring-glove-shine.stark-industries.solutions:443?security=tls&path=%2Fvpnowl&headerType=none&type=tcp#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:69.01ms
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@38.180.15.138:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@44.31.62.2:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
@@ -140,7 +141,6 @@ vmess://eyJ2IjoyLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjUxLjc5
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?allowInsecure=0&sni=m2rrrty.777219.xyz&ws=1&wspath=%2FduJhdsnTCbijwHNYeMcCs9#[🇨🇦]t.me/MoftConfig
 vless://d2d622b2-66d0-4a89-a02f-40885ee01409@65.108.92.15:1010?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA#[🇫🇮]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWUZvVlkxMnpqRm15RmdFSkhYcFJH@77.83.246.74:443#🇵🇱 Польша
-vless://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?path=%2FIKLitbwX0RSt1mktNrT&security=tls&alpn=http%2F1.1&encryption=none&host=xxse.huangshang.dpdns.org&fp=chrome&type=ws&sni=XXSe.hUaNGsHaNg.DpdNS.org#⚜️Telegram:@IP_CF
 vless://c5ae1b4e-d736-4b60-a63b-038d2501db85@104.17.148.22:80?security=none&type=ws&host=Www.speedtest.net.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGUxMjBmNy1lZWU4LTQ2NjUtODc5Ny1kYmRmNzg2Y2VmMzc@free.2apzhfa.xyz:31571#[🏁]t.me/MoftConfig
 vless://91cc74ec-cf42-420c-966c-3d938368fec3@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
