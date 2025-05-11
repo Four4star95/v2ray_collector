@@ -1,6 +1,3 @@
-vless://4f3f7db1-f416-473e-8321-b2cec71c04ab@mas10xyz.890602.xyz:443/?type=ws&encryption=none&host=mas10xyz.890602.xyz&path=%2FYzFLmzNIEQsAmceLxv94lPbgMw&security=tls&sni=MAs10xyZ.890602.XyZ&alpn=http%2F1.1&fp=chrome#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:91.49ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:62.95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#👉🆔@MoftConfig📡🇨🇦®️Canada©️Pointe-Claire🅿️ping:148.1ms
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bring-glove-shine.stark-industries.solutions:443?security=tls&path=%2Fvpnowl&headerType=none&type=tcp#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:69.01ms
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@38.180.15.138:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@44.31.62.2:80/?type=ws&encryption=none&host=vv.cscfwoker.fun&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
@@ -148,3 +145,6 @@ vless://c5ae1b4e-d736-4b60-a63b-038d2501db85@104.17.148.22:80?security=none&type
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGUxMjBmNy1lZWU4LTQ2NjUtODc5Ny1kYmRmNzg2Y2VmMzc@free.2apzhfa.xyz:31571#[🏁]t.me/MoftConfig
 vless://91cc74ec-cf42-420c-966c-3d938368fec3@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZGUxMjBmNy1lZWU4LTQ2NjUtODc5Ny1kYmRmNzg2Y2VmMzc@free.2apzhfa.xyz:31441#[🏁]t.me/MoftConfig
+vless://147601e0-acc7-4d7b-8273-d4e66bc12ad4@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://6a661094-42fc-423c-8bb8-cd05acfc2e66@152.42.186.51:443?security=tls&sni=aka.ms&type=tcp&fp=chrome#[🏁]t.me/MoftConfig
+trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?allowInsecure=0&sni=6667.HUAnGSHanG.dpdNs.orG&ws=1&wspath=%2FTomYJoQX0RSt1mktNrT#[🇨🇦]t.me/MoftConfig
