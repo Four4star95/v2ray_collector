@@ -53061,3 +53061,7 @@ vless://7847b06e-942e-41a4-b4dc-0abfba0c8eaa@95.164.46.153:600?security=tls&sni=
 vless://996b9cc8-4c09-405f-a1cc-8ec682749fe0@5.78.49.49:8880?security=tls&sni=wimehrab.musics-fa.ru&type=grpc&serviceName=wimehrab.musics-fa.ru&fp=chrome&alpn=h2,http/1.1#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:443?path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560%2F%3F%40Selinc&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipsycho.suex12.ir&fp=randomized&type=ws&sni=ipsychO.SUEx12.Ir#[🇨🇦]t.me/ConfigsHub
 vless://7847b06e-942e-41a4-b4dc-0abfba0c8eaa@45.129.185.212:600?security=tls&sni=marzban.negintel.xyz&type=tcp#[🏁]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?path=%2FfJBvsL0uR2MtzRig&security=tls&encryption=none&host=mypHOtoGRAPICpIctUre.iR&fp=chrome&type=ws&sni=mypHOtoGRAPICpIctUre.iR#[🇬🇧]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?path=%2FfJBvsL0uR2MtzRig&security=tls&encryption=none&host=mypHOtoGRAPICpIctUre.iR&fp=chrome&type=ws&sni=mypHOtoGRAPICpIctUre.iR#[🇬🇧]t.me/MoftConfig
+vless://ByXlKm2WJ0X24z@chi.rvpn.online:443?security=reality&encryption=none&pbk=ScOkyHXgsIChMCQvnSoyYdlOjMtVJXj9rN4u85CKU3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=23c10f07#[🇺🇸]t.me/ConfigsHub
+vless://ByXlKm2WJ0X24z@chi.rvpn.online:443?security=reality&encryption=none&pbk=ScOkyHXgsIChMCQvnSoyYdlOjMtVJXj9rN4u85CKU3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=23c10f07#[🇺🇸]t.me/MoftConfig
