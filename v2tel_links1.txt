@@ -53944,3 +53944,10 @@ vless://26979b4d-1ff8-4c8f-940e-5eb4c116c8f7@93.127.180.140:443?security=reality
 vless://aa8d5ad8-3e43-4e16-8668-4d5dcca7b6e3@157.180.75.119:8880?mode=gun&security=none&encryption=none&authority=JOKERRVPN%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=%40cephalon_ai_bot#[🇫🇮]t.me/MoftConfig
 vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=Www.speedtest.net.c.5.salatinmaccv.ir.&type=ws#WS5-Irancell+%7C+%40ArV2ray
 vless://7b0f240f-db1f-4660-b7f5-65612612769f@157.180.75.119:8080?mode=auto&path=%2Fcephalon&security=reality&encryption=none&pbk=6evIKHcL0ZpiQwQcmajz1PlIaS1DdLKFn-mEQGBbFU8&host=tgju.org&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=xhttp&sni=tgju.org&sid=5586#[🇫🇮]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPN0M3UVF4allXNEUxTDRZbDZMeWVY@194.87.45.189:443#🇪🇸 Испания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36241#[🏁]t.me/MoftConfig
+vless://09397c54-d6a1-4416-98dc-1e09a4ebbc75@185.193.158.10:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#[🇳🇱]t.me/ConfigsHub
+vless://c97f46a6-b9f2-4e2f-a353-786f275dbf55@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://09397c54-d6a1-4416-98dc-1e09a4ebbc75@185.193.158.10:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36271#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36211#[🏁]t.me/MoftConfig
