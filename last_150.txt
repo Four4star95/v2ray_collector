@@ -1,3 +1,4 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:16.05ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:25.34ms
 vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@32892393.web-manage.com.tr:2134?security=reality&type=tcp&headerType=none&path=&host=&sni=chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&sid=#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:19.19ms
 trojan://ujTdl1LNb7@p5.punchline.ir:24883?type=xhttp&path=%2Fv2raybluecrystal&host=&mode=auto&security=reality&pbk=bfo1AdofjSr34t-tP-ZzBrDXeMG_V59Mo1Pdjr7h-wc&fp=chrome&sni=www.microsoft.com&sid=9009&spx=%2F#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.5ms
@@ -74,7 +75,6 @@ vless://fcc65a17-2587-4af5-98ad-f1ea0471ac0f@157.180.23.58:2052?security=reality
 vless://d42b94f1-f412-462a-860f-0375e03521a3@151.101.3.8:80?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=VISTAPCV3RAY.free.ir&type=ws#[🇺🇸]t.me/MoftConfig
 vless://fe75b904-7a0c-4a1c-b22a-e5f1399fe7be@190.93.246.224:2083/?type=ws&encryption=none&host=agstick.eu.org&security=tls&sni=agstick.eu.org#👉🆔@MoftConfig📡🇨🇷®️Costa Rica©️Pozos🅿️ping:14.94ms
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@178.22.31.18:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=27cfa05000c23cc4#[🏁]t.me/ConfigsHub
-vless://2bb5e4f9-35c5-45aa-8f84-b81ac8da330d@104.21.32.1:443?path=%2F&security=tls&encryption=none&type=httpupgrade&sni=osi.speedx3net.ir#[🇨🇦]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v3.economy36top.shop#[🇺🇸]t.me/ConfigsHub
 vless://f5ff5249-d54a-45ea-82ae-88344a5a4164@186.190.211.121:2053?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=Tico.floorshoping22.com#[🇬🇧]t.me/ConfigsHub
 vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@95.217.22.47:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pot2.floorshoping22.com#[🇫🇮]t.me/ConfigsHub
