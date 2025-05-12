@@ -54747,3 +54747,4 @@ trojan://telegram-id-privatevpns@35.158.198.205:22222?security=tls&alpn=http/1.1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.198.205:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@35.158.198.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://b45f03e2-8edd-4793-a1ea-10a9994642f8@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
+
