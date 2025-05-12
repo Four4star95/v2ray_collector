@@ -54284,3 +54284,12 @@ trojan://telegram-id-privatevpns@35.156.70.183:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@35.156.70.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://6fc7f1fd-d742-4541-ab55-e8e062d78062@p8n5b65s8931.contigolibre.com:39428?mode=gun&security=reality&encryption=none&pbk=R8trsGCaT7H2OoxlSox6mwLLBk9XJrRQPCQnU-YHr2M&fp=chrome&spx=%2F&type=grpc&serviceName=%40drakvpn&sni=yahoo.com&sid=79e06983#[🇩🇪]t.me/ConfigsHub
 vless://9e6cee2f-9b41-4589-b920-a474ed572dba@p8n5b65s8931.contigolibre.com:33274?path=%2F%40drakvpn&security=none&encryption=none&type=ws#[🇩🇪]t.me/MoftConfig
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.65.68:59483?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://4ee35122-2e2d-4013-a1ba-e2d333d191fc@91.107.180.49:443?security=reality&encryption=none&pbk=kPhGi7d7Tjk1Qcq1ShOmeEFLwRI-p4tMHt3s7PTJCn4&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=6f9a31#[🇩🇪]t.me/ConfigsHub
+vless://c453bcf4-c255-4393-89e4-63f294de8617@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.16.69:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=postac.floorshoping22.com#[🇫🇮]t.me/MoftConfig
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.197.213.213:59483?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.27.8.25:80?path=Telegram%40ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇫🇮]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.27.8.25:80?path=Telegram%40ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇫🇮]t.me/MoftConfig
+vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?security=reality&encryption=none&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo&headerType=none&fp=chrome&spx=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=tcp&sni=refersion.com#[🇩🇪]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.165.8:59483?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#[🇺🇸]t.me/ConfigsHub
