@@ -55554,3 +55554,6 @@ vmess://eyJhZGQiOiJhNGU5YzVmNC1zdjB4czAtc3YzN2dtLTgxbnYuaGsucDVwdi5jb20iLCJhaWQi
 vless://47db63e9-f99a-4913-a6dc-84f83128dfb1@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 vmess://eyJhZGQiOiJkdjQuNzg5OTAwLnh5eiIsImFpZCI6MCwiaG9zdCI6ImR2NC43ODk5MDAueHl6IiwiaWQiOiIwYzhmM2UyOS00ZWM5LTRiYTYtYTZlZi00NDg3ODczZjVkMDUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzBjOGYzZTI5LTRlYzktNGJhNi1hNmVmLTQ0ODc4NzNmNWQwNS12bSIsInBvcnQiOjIwOTYsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiZHY0Ljc4OTkwMC54eXoifQ==
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeDR5cG5TMzJObXUyZ1lSVUVncGYx@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4%3D@195.123.213.12:31348#[🏁]t.me/ConfigsHub
+vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#[🇷🇺]t.me/ConfigsHub
