@@ -55585,3 +55585,4 @@ vless://56652249-2e67-4429-b86c-3df8b838ad85@tgju.org:8080?security=none&encrypt
 
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQnJ0czVBdTRHTTlhcjdiVE55WkV1@85.208.139.69:63861#⚜️Telegram:@IP_CF
+trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?path=%2FTomYJoQX0RSt1mktNrT&security=tls&alpn=http%2F1.1&host=6667.huangshang.dpdns.org&fp=chrome&type=ws&sni=6667.HUAnGSHanG.dpdNs.orG#⚜️Telegram:@IP_CF
