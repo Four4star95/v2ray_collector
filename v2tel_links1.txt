@@ -55197,3 +55197,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-a
 vless://4cc8f4a5-89f8-49ff-a0c9-f3000064b7e2@tabriz-website.thorav.ir:443?security=reality&encryption=none&pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&fp=qq&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=b1417d#[🇩🇪]t.me/MoftConfig
 vless://17d7913a-da39-4e09-8634-8734679a19ae@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#[🇺🇸]t.me/MoftConfig
 vless://ae87cc2d-6515-4362-ac79-b15cee8db1bb@syd5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇦🇺%20Australia
+vless://e1d1697d-1476-4c3f-9a69-776940149c51@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://56b5f6c6-d36d-47d1-8e04-6eb9c46fce22@b.vahidvpn.com.tr:36105?encryption=none&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&type=tcp&headerType=none#[🇫🇷]t.me/ConfigsHub
