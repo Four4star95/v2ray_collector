@@ -55211,3 +55211,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?encryption=none&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.18:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/MoftConfig
 
 vless://eaf402c7-ba38-4ba1-b17b-7a644bfe63c0@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
+vless://5b8615fa-e430-4cec-8b3a-57a93e6cf441@104.16.157.108:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://07c2dc63-3c0d-473a-8fbe-9c4f42496ead@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://07c2dc63-3c0d-473a-8fbe-9c4f42496ead@www.speedtest.net:2052?security=&type=ws&path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&host=www.spEedtest.net.snApfoodsupPort.onlIne.&encryption=none#[🇨🇦]t.me/MoftConfig
