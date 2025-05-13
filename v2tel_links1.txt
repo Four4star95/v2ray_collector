@@ -55231,3 +55231,4 @@ vless://de370689-142f-45c5-b99e-3f5f956ee0a8@direct-uk.bitnetsmart.pro:9035?mode
 trojan://telegram-id-privatevpns@54.93.66.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
 trojan://telegram-id-directvpn@54.93.66.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#⚜️Telegram:@IP_CF
+vless://762cacbb-4397-4808-80a1-c12ab58d3ba5@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
