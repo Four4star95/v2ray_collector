@@ -55584,3 +55584,4 @@ vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.13.149:443?path=%2F&security
 vless://56652249-2e67-4429-b86c-3df8b838ad85@tgju.org:8080?security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#[🇨🇦]t.me/ConfigsHub
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQnJ0czVBdTRHTTlhcjdiVE55WkV1@85.208.139.69:63861#⚜️Telegram:@IP_CF
