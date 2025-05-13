@@ -55230,3 +55230,4 @@ vless://9855c8f3-e55a-4db8-eb14-aeca86c0fb12@151.101.64.155:80?path=%2FWedBaZtel
 vless://de370689-142f-45c5-b99e-3f5f956ee0a8@direct-uk.bitnetsmart.pro:9035?mode=gun&security=reality&encryption=none&pbk=9j_bc1qKJYkR2V1sGbt_fxTdImlKpd4Y9n2OVQn-lGY&fp=chrome&type=grpc&serviceName=BITNET&sni=wwww.refersion.com&sid=93ddf2d2c5d8c56b#[🇬🇧]t.me/MoftConfig
 trojan://telegram-id-privatevpns@54.93.66.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
 trojan://telegram-id-directvpn@54.93.66.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#⚜️Telegram:@IP_CF
