@@ -55878,3 +55878,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcHlFcVA1d2JVb0d4NnJrMDFaOGFl@212.113.106.76
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#[🇳🇱]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206TGJzSHFkelNGa254ZGR6dg%3D%3D@85.239.60.43:8388#[🇬🇧]t.me/MoftConfig
 vless://c58d9474-0ee6-4398-ab3a-880ef82d5bf7@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://c58d9474-0ee6-4398-ab3a-880ef82d5bf7@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://39afdd8e-456d-4afb-9f13-fd0981624230@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://4de73a98-0f31-4d2c-b845-fcb7a2bbe9bb@134.209.205.173:4000?mode=auto&path=%2F&security=reality&encryption=none&pbk=WvWpvjm0ynTr6YCICH5TmTEKicAq0JNGEZDWZvApgRM&fp=chrome&spx=%2F&type=xhttp&sni=zula.ir&sid=d9ed58fe#[🇳🇱]t.me/MoftConfig
+vless://4de73a98-0f31-4d2c-b845-fcb7a2bbe9bb@134.209.205.173:4000?mode=auto&path=%2F&security=reality&encryption=none&pbk=WvWpvjm0ynTr6YCICH5TmTEKicAq0JNGEZDWZvApgRM&fp=chrome&spx=%2F&type=xhttp&sni=zula.ir&sid=d9ed58fe#[🇳🇱]t.me/ConfigsHub
