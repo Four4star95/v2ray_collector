@@ -55871,3 +55871,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.133.0:22224?type=ws&security=t
 vless://cadd5cbf-8b22-42e9-9584-73dc0fbe36bb@speedtest.net:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-directvpn@3.79.133.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
 vless://cadd5cbf-8b22-42e9-9584-73dc0fbe36bb@speedtest.net:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
+vless://ac7c0236-a50b-4df6-b453-511853f7c5a2@104.16.157.108:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ%3D%3D@ss.sps1.sbs:20#[🇷🇺]t.me/MoftConfig
+vless://ac7c0236-a50b-4df6-b453-511853f7c5a2@104.16.157.108:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcHlFcVA1d2JVb0d4NnJrMDFaOGFl@212.113.106.76:29149#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#[🇳🇱]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206TGJzSHFkelNGa254ZGR6dg%3D%3D@85.239.60.43:8388#[🇬🇧]t.me/MoftConfig
+vless://c58d9474-0ee6-4398-ab3a-880ef82d5bf7@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
