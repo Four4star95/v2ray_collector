@@ -55849,3 +55849,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#👉
 vless://09017df7-ddb8-4c21-9e95-f4be1f36daf5@Shiraz-Website.acveo.ir:443?mode=gun&security=reality&encryption=none&pbk=pWvBPhxqJjzAUrKKHI9rQtokKAHGtSLHZ_wrl-ArERg&fp=qq&spx=%2F&type=grpc&serviceName=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=www.cdn77.com&sid=76#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.31ms
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443?allowInsecure=1&sni=nl.ylka.dpdns.org&type=ws&path=/?ed=2560security=tls#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.98ms
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmanJiQnAydmdwQjVrTFJGMXI3M09y@77.83.246.74:443#🇵🇱 Польша
+vless://46eb7747-99a6-485c-8266-6b5c0a31f0b9@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
