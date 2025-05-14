@@ -56317,3 +56317,4 @@ vless://005a0678-9847-4954-83ef-2d253a88b7f8@194.182.79.113:26468?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.98ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&authority=JOKERRVPN&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:52.32ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:33.09ms
+vless://6e93a59a-63aa-4539-a710-33b2368be3bf@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
