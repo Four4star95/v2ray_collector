@@ -55924,3 +55924,4 @@ vless://a0bf4979-b135-4396-c2b3-e492911dbda4@speedtest.net:80?encryption=none&se
 vless://a0bf4979-b135-4396-c2b3-e492911dbda4@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇬🇧]t.me/ConfigsHub
 vless://76fbf88a-f7d3-4b3a-b6f4-1fdfc569f0de@parspack.com:2052?type=ws&path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560&host=mosiv2.eliii.mosiv2.mosiv2.www.speedtest.net.mosiv2.mosic7.info.&security=none#[🇨🇦]t.me/ConfigsHub
 vless://6f6adc8f-1dbb-4bde-af84-a30d71032d2f@V2RayMizban.iranigamepars.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.cdn77.com&fp=chrome&pbk=TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c&sid=7e39db0c#[🇳🇱]t.me/ConfigsHub
+vless://09c16d72-ad3c-43de-adda-a911ce9c0aaf@tgju.org:8080?path=%2Fmelo&security=&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#[🇨🇦]t.me/ConfigsHub
