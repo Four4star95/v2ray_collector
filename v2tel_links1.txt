@@ -56470,3 +56470,11 @@ vless://93c002a1-da2f-41d4-a589-8a1c9f998ea2@151.101.64.155:80?path=%2F-LiV2ry%4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://1792f052-6399-465c-8497-ed28d6dff638@65.109.212.145:36716?security=reality&encryption=none&pbk=JbRBBeUXey0AAabQ4oLo7cp8YyBP_SX18gvU0CRuOiM&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FJoin_Bade_Channel%40JOKERRVPN&type=tcp&sni=www.cdn77.com&sid=b65d#⚜️Telegram:@IP_CF
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE%3D@45.128.151.67:31348#[🏁]t.me/MoftConfig
+vless://93cf17d3-2ffd-486b-9ea8-31ead0086137@94.130.187.47:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=s.sarzamiiinahang.ir#[🇩🇪]t.me/ConfigsHub
+vless://dd1e77b6-5131-5854-8232-d3f7bcbe0e95@85.209.194.2:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.ca.vless.sitespeedtest.net&type=ws#[🇷🇺]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ%3D%3D@62.109.21.178:20#[🇷🇺]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA%3D%3D@92.119.199.33:443#[🇬🇧]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#[🏁]t.me/ConfigsHub
+vless://52b33345-f01a-45c6-b157-f00b9664b730@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#[🇹🇷]t.me/MoftConfig
