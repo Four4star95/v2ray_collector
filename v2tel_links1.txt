@@ -56127,3 +56127,6 @@ vless://a65e7e72-f822-4370-a3e3-8750f5297d1a@sin5.vpntype.dev:443?security=tls&e
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.198.5:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:153.72ms
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.89.137.223:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:154.72ms
 vless://eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&encryption=none&pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct.pdownloaddigikala.ir&sid=1d13151ce1#👉🆔@MoftConfig📡🇩🇪®️Germany©️Falkenstein🅿️ping:34.68ms
+vless://ae4529d9-ef3c-4a49-8716-f1c070a46d34@65.109.212.139:54037?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/MoftConfig
+vless://ae4529d9-ef3c-4a49-8716-f1c070a46d34@65.109.212.139:54037?type=tcp&path=%2F&host=divarcdn.com&headerType=http&security=none#[🇫🇮]t.me/ConfigsHub
+vless://ae4529d9-ef3c-4a49-8716-f1c070a46d34@65.109.212.139:54037?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
