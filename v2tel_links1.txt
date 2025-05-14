@@ -55715,3 +55715,15 @@ vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?path=%2F&secur
 vless://8e5f3840-b1a3-4a10-b1be-8899d3f4c28c@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMDEwUGpzbzhMcXNuNzFFWmZONGtE@89.185.84.185:443#🇬🇧 Великобритания
 vless://Parsashonam-236@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiIDIuM01CXC9zfDExJXxEaXNuZXl8WW91dC4uLlx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjJiYmI3MWFjLXN2ZHdnMC1zdzBuYmotMWFuaG0uY201LnA1cHYuY29tIiwicG9ydCI6MTcyMzMsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiIzZjU4ZDNmZS1mNGVhLTExZWItODY3My1mMjNjOTE2NGNhNWQifQ==
+vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#[🇨🇦]t.me/MoftConfig
+vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.193.4:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#[🇨🇦]t.me/MoftConfig
+vless://f2ab5930-b3d2-56f1-b78d-05ab292a6ff0@www.speedtest.net:2052?path=%2Fvless&security=&encryption=none&host=sPeedtest2.sbs.nl.v2vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638826619453662634.hamedan-drc-dcraae.info:8880?security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
+trojan://Aimer@104.16.158.152:443?sni=epcca.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://774a64d3-fedf-4585-b557-d4541cc5ccfb@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://ac7623cc-cb2a-4e26-839a-580c8f080b74@downloadha.com.iraniantim.ir:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=taxi.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://1792f052-6399-465c-8497-ed28d6dff638@65.109.212.145:36716?security=reality&encryption=none&pbk=JbRBBeUXey0AAabQ4oLo7cp8YyBP_SX18gvU0CRuOiM&headerType=none&fp=chrome&type=tcp&sni=www.cdn77.com&sid=b65d#[🇫🇮]t.me/MoftConfig
+vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.16.222.67:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#[🇨🇦]t.me/MoftConfig
+vless://4f3f7db1-f416-473e-8321-b2cec71c04ab@mas10xyz.890602.xyz:443?path=%2FYzFLmzNIEQsAmceLxv94lPbgMw&security=tls&encryption=none&host=mas10xyz.890602.xyz&fp=chrome&type=ws&sni=MAs10xyZ.890602.XyZ#[🇨🇦]t.me/MoftConfig
+vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@162.159.152.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#[🇨🇦]t.me/MoftConfig
