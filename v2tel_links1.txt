@@ -56671,3 +56671,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQnJ0czVBdTRHTTlhcjdiVE55WkV1@85.208.139.69:
 
 vless://7b84283a-096c-4475-b7ce-97cc39fdc39c@xs.srvice.shop:20?type=tcp&security=none#[🇩🇪]t.me/ConfigsHub
 vless://7b84283a-096c-4475-b7ce-97cc39fdc39c@xs.srvice.shop:20?type=tcp&security=none#[🇩🇪]t.me/MoftConfig
+vless://9eabf870-5c70-4f28-b149-93606fccc8e1@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
