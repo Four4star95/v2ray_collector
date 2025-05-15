@@ -57433,3 +57433,4 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.207.247.149:443?security=tls&flo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYTYxYjZiZi0xZTQ1LTRhZjctOTg2OC02Y2JkMDk0YWY1NWE@free.2weradf.xyz:36271#[🏁]t.me/ConfigsHub
 vless://9b955889-fd52-43f7-893b-842b38ba8a1e@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYTYxYjZiZi0xZTQ1LTRhZjctOTg2OC02Y2JkMDk0YWY1NWE@free.2weradf.xyz:36611#[🏁]t.me/ConfigsHub
+
