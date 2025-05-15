@@ -1,3 +1,5 @@
+vless://e2d909b7-60b3-4edc-8dcc-7c05c8fc1e2f@104.21.69.44:8880?type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.9ms
+vless://c0f1cac3-5df2-4ee9-8b60-d5f9c58634a9@Tabriz-Website.thorav.ir:443?mode=gun&security=reality&encryption=none&pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&fp=qq&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=b1417d#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.24ms
 vless://09397c54-d6a1-4416-98dc-1e09a4ebbc75@91.238.82.241:8443?security=reality&flow=xtls-rprx-vision&sni=maviks.eu&type=tcp&fp=chrome&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main West)🅿️ping:30.35ms
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?encryption=none&security=none&type=ws&host=QW.VU6d72nt9y.zULaiR.orG.&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MVhxcTZUTlJOeE1Ickw3MGprVDly@212.113.106.76:29149#👉🆔@MoftConfig📡🇦🇹®️Austria©️Vienna🅿️ping:32.32ms
@@ -145,6 +147,4 @@ vless://b46b893e-d038-48f4-f9df-1a4958943f04@api.digimobile.top:46830?type=kcp&h
 vless://d889b4c8-dab9-4b0c-932b-e4071c727308@172.67.220.93:443?path=%2Fs9mtnLBjERPwvxRA&security=tls&alpn=http%2F1.1&encryption=none&host=m6dfg.777219.xyz&fp=chrome&type=ws&sni=M6dFg.777219.XYZ#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇷]t.me/ConfigsHub
 vless://3b8b27e9-ecf5-47b3-b776-2ad65fd4d014@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
-vmess://eyJhZGQiOiJ4YzEzMi5tZWl6aWJhNTU2Ni5jb20iLCJhaWQiOjAsImhvc3QiOiJ4YzEzMi5tZWl6aWJhNTU2Ni5jb20iLCJpZCI6IjI4YjMzYzg1LTNlMTQtNDMyMy1lZDUwLWQ2ZTRkNGQ3NzNhOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvMjhiMzNjODUiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieGMxMzIubWVpemliYTU1NjYuY29tIn0=
-vless://184ff6c4-9bba-4248-a58e-0b779f394d95@149.28.64.34:8080?type=ws&security=none&path=%2F#⚜️Telegram:@IP_CF
 vless://54cc28af-7887-4c0b-9520-9ed6dcc83f65@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
