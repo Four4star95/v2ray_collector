@@ -56751,3 +56751,4 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&mode=gun&a
 vless://c6e3e1bb-f2fd-441b-89a8-3278a79d01af@speedtest.net:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYmtaZGQyRjhuRVVwNG82TTNGQTFN@64.227.144.190:50690#⚜️Telegram:@IP_CF
 vless://c6e3e1bb-f2fd-441b-89a8-3278a79d01af@speedtest.net:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.193.222:443#⚜️Telegram:@IP_CF
