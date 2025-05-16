@@ -57479,3 +57479,4 @@ vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.159:8880?security=none&t
 trojan://408e7148-df67-11ed-8e13-f23c91cfbbc9@18c36079-swb8g0-swwhoz-1me9w.cu.plebai.net:15229?allowInsecure=1&sni=18c36079-swb8g0-swwhoz-1me9w.cu.plebai.net#[🏁]t.me/MoftConfig
 trojan://408e7148-df67-11ed-8e13-f23c91cfbbc9@18c36079-swb8g0-swwhoz-1me9w.cu.plebai.net:15229?allowInsecure=1&sni=18c36079-swb8g0-swwhoz-1me9w.cu.plebai.net#[🏁]t.me/ConfigsHub
 vless://b12624a6-25d0-484d-8725-3eca4544d522@188.245.120.39:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇩🇪]t.me/ConfigsHub
+
