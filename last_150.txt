@@ -1,3 +1,6 @@
+trojan://redfree8@104.17.147.22:443?security=tls&sni=ipsychO.SUEx12.Ir&type=ws&host=ipsychO.SUEx12.Ir&path=%2Ftrre5IzbZ9IZZMddtw%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔@MoftConfig📡🇵🇱®️Poland©️Kolonia Opacz🅿️ping:78.74ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.8ms
 vless://bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&encryption=none&pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9b28132c703433#👉🆔@MoftConfig📡🇩🇪®️Germany©️Falkenstein🅿️ping:34.53ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.83ms
 vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@154.92.9.2:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=txmt.conetcdata.dpdns.org#👉🆔@MoftConfig📡🇨🇾®️Cyprus©️Nicosia🅿️ping:8.62ms
@@ -144,7 +147,4 @@ vless://7e82278c-40cb-4b63-b29c-db0de34134bc@fi.ircloudmarket.com:443?security=r
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#[🇫🇮]t.me/MoftConfig
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.237%3A443#[🇬🇧]t.me/MoftConfig
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.80.21.221:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#[🇺🇸]t.me/MoftConfig
-vless://eb08f587-94c5-4a9d-78b1-0a2ce1302fff@91.107.167.211:5580?type=grpc&serviceName=BetForward&authority=&security=reality&pbk=gPkWFYUL3EuIK_5cr-BnqS7ZgXko_Jh6_bvAc5XaNX0&fp=chrome&sni=refersion.com&sid=93be1fc9&spx=%2F#[🇩🇪]t.me/MoftConfig
-vless://685214a5-d9a2-40a5-ae75-a10bbc4334f0@77.90.11.28:443?security=reality&encryption=none&pbk=ampnaChEHEYr1TDX5A17QMBa_l0LnK3jWNDxVw31Kls&host=---%40iroconfig---%40iroconfig---%40iroconfig---%40Iroconfig---%40iroconfig&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=cb#[🇩🇪]t.me/MoftConfig
 vless://685214a5-d9a2-40a5-ae75-a10bbc4334f0@77.90.11.28:443?security=reality&encryption=none&pbk=ampnaChEHEYr1TDX5A17QMBa_l0LnK3jWNDxVw31Kls&host=---%40iroconfig---%40iroconfig---%40iroconfig---%40Iroconfig---%40iroconfig&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=cb#[🇩🇪]t.me/ConfigsHub
-vless://4d91916f-a7fd-419b-8b90-640bb8d4b5f2@188.114.97.1:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA&security=tls&encryption=none&alpn=http/1.1&host=myphotograpicpicture.ir&fp=randomized&type=ws&sni=MYPhoTOgrapICPictURe.IR#[🇨🇦]t.me/ConfigsHub
