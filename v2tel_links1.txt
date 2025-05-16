@@ -57481,3 +57481,5 @@ trojan://408e7148-df67-11ed-8e13-f23c91cfbbc9@18c36079-swb8g0-swwhoz-1me9w.cu.pl
 vless://b12624a6-25d0-484d-8725-3eca4544d522@188.245.120.39:1520?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇩🇪]t.me/ConfigsHub
 
 
+vless://698d9d3a-45ad-48ed-ea48-cab94e72943e@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#[🇩🇪]t.me/ConfigsHub
+vless://8f90a6aa-3c05-49a0-ee0c-e7dad131f89e@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
