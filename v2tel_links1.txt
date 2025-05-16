@@ -57511,3 +57511,18 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d4b5f2@188.114.97.1:443?path=%2FE4FqomT5e0
 vless://61d3c15c-cca6-401f-bfd8-2c2979af481a@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/MoftConfig
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b5f2@188.114.97.1:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA&security=tls&encryption=none&alpn=http/1.1&host=myphotograpicpicture.ir&fp=randomized&type=ws&sni=MYPhoTOgrapICPictURe.IR#[🇨🇦]t.me/MoftConfig
 vmess://eyJhZGQiOiJmci52bWVzcy5jb21ucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyLnZtZXNzLmNvbW5wbWpzLmNvbSIsImlkIjoiNzA4MzU4YTUtOGM5YS01NWI4LWE1MjEtNzNiOGQ3YjYzZDNiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjIwOTYiLCJwcyI6Ilvwn4er8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJub25lIiwic25pIjoiZnIudm1lc3MuY29tbnBtanMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://992f0604-c052-4ef3-8572-735145b96451@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+trojan://Aimer@108.165.152.91:2083?allowInsecure=0&sni=epccx.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
+trojan://Aimer@108.165.152.91:2083?allowInsecure=0&sni=epccx.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+trojan://Aimer@103.116.7.133:2083?allowInsecure=0&sni=epccx.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?allowInsecure=0&sni=hk-13-568.flztjc.net#[🏁]t.me/MoftConfig
+trojan://Aimer@108.165.152.29:2096?allowInsecure=0&sni=epccc.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
+trojan://Aimer@103.116.7.235:443?allowInsecure=0&sni=epccc.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://06598714-00e6-4ecd-8cd7-86ee999cf599@162.159.138.52:8080?security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@108.165.152.1:2087?allowInsecure=0&sni=epccx.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
+vless://06598714-00e6-4ecd-8cd7-86ee999cf599@162.159.138.52:8080?security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@108.165.152.29:2096?allowInsecure=0&sni=epccc.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206TlBPQTRXWUlEMldGOE40RQ@8tv68qhq.slashdevslashnetslashtun.net:15016#[🏁]t.me/MoftConfig
+trojan://Aimer@103.116.7.133:2083?allowInsecure=0&sni=epccx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@108.165.152.1:2087?allowInsecure=0&sni=epccx.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQVZYNVEyZUw5aFJ5OVdlRHdsbjV0@194.87.45.189:443#🇪🇸 Испания
