@@ -58934,3 +58934,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80?security=none&encryp
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.211:80?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.107.152:80?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.171:80?security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://5c3946b9-c868-4bff-adf5-a1235c51c6af@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
