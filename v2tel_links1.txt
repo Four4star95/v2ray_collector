@@ -59827,3 +59827,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTelegram%40Selinc&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:16.94ms
 
 vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&type=grpc#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjY3ZTIxNC00Yzg5LTQ3ZTMtOGE0ZS1jYTg4ZGEyNGUwYzM@free.2weradf.xyz:36721#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjY3ZTIxNC00Yzg5LTQ3ZTMtOGE0ZS1jYTg4ZGEyNGUwYzM@free.2weradf.xyz:36721#[🏁]t.me/MoftConfig
+vless://cf16c818-1d06-44ff-9c59-88f8127b611a@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
