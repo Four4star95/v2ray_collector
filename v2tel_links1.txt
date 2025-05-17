@@ -58966,3 +58966,11 @@ trojan://telegram-id-directvpn@3.125.76.226:22223?security=tls&alpn=http/1.1&hea
 vless://Parsashonam-238@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
 vless://afe85230-2362-456f-8058-118873b3e552@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.209:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#[🇺🇸]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#[🇷🇺]t.me/ConfigsHub
+vless://e792ea19-00ba-43e0-be65-737b62352896@212.95.33.206:39439?security=reality&sni=yahoo.com&type=grpc&serviceName=TEL%20%3B%20%40v2ray-store&fp=chrome&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&sid=1f#[🇩🇪]t.me/ConfigsHub
+vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@162.159.192.31:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
+vless://1af92323-d6bd-47b7-b115-72b7c1c0e156@104.17.21.157:8080?path=%2F%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR-%40MaHDiSeRVeR%3Fed%3D2048&security=&encryption=none&host=selllv2rayng.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.89.91:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#[🇳🇱]t.me/ConfigsHub
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.207.180.2:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
+vless://e792ea19-00ba-43e0-be65-737b62352896@212.95.33.206:39439?security=reality&sni=yahoo.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&sid=1f#[🇩🇪]t.me/ConfigsHub
