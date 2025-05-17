@@ -58691,3 +58691,4 @@ vless://a0bf4979-b135-4396-c2b3-e492911dbda4@speedtest.net:80?path=%2Folem%2Fws%
 vless://9d03a5b2-1c81-45ce-9321-0a412c9c4f8d@tor5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇨🇦%20Canada
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.24:80?type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#[🏁]t.me/MoftConfig
 vless://1866e2fd-4076-4f9f-8329-6184599d7288@212.95.33.206:26528?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@67.220.95.102:9101#⚜️Telegram:@IP_CF
