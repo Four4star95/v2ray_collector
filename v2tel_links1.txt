@@ -58959,3 +58959,8 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.152:80?security=none&sn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.24.57.20:8880?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed#[🇺🇸]t.me/ConfigsHub
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.20:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#[🏁]t.me/ConfigsHub
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@52.90.225.40:443?security=tls&flow=xtls-rprx-vision-udp443&sni=zula.ir&fp=chrome&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.125.76.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.76.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-privatevpns@3.125.76.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.125.76.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://Parsashonam-238@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
