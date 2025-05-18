@@ -60164,3 +60164,12 @@ vless://76e80a6d-9865-4e56-842f-ba62c0fa91c3@167.235.28.81:6893?security=none&en
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?path=%2Fproxyip&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#⚜️Telegram:@IP_CF
 vless://76e80a6d-9865-4e56-842f-ba62c0fa91c3@167.235.28.81:2226?security=none&encryption=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.120.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#[🇫🇷]t.me/ConfigsHub
+vless://94b7bd2b-f373-4c5b-9892-5e16fde812bf@49.13.237.7:1520?type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇩🇪]t.me/ConfigsHub
+vless://a04bf405-6f67-4b00-af4b-4649b2ec646f@178.23.190.216:4434?security=reality&flow=xtls-rprx-vision&sni=teamdocs.su&type=tcp&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#[🇳🇱]t.me/ConfigsHub
+vless://9ffa6da8-26dc-435c-884b-32662e7ffe7e@104.18.14.19:8880?security=none&type=ws&host=0314.hiyasta2.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.128:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🏁]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v3.nature27.shop:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇺🇸]t.me/ConfigsHub
+vless://fce503a4-9486-48e7-f970-c34f2ed0bcde@104.17.148.22:2082?security=none&type=ws&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.#[🇨🇦]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.14:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🇺🇸]t.me/ConfigsHub
+vless://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=XCdvFRTtt.fREEvpnATM.dPDNS.oRg&type=ws&host=xcdvfrttt.freevpnatm.dpdns.org&path=%2FprUFeqTNsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
