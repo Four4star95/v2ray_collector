@@ -60157,3 +60157,9 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.178:80?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.158:80?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🇺🇸]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.246:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🏁]t.me/ConfigsHub
 vless://097e2594-dbbb-4a36-a5c7-6b8c8893c611@104.18.26.94:80?encryption=none&security=none&type=ws&headertype=none&host=esetsecuritylicense.wixel67553.workers.dev&path=JOIN-FILTERK0SH%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.93.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://76e80a6d-9865-4e56-842f-ba62c0fa91c3@167.235.28.81:1717?security=none&encryption=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.159.93.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://76e80a6d-9865-4e56-842f-ba62c0fa91c3@167.235.28.81:6893?security=none&encryption=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?path=%2Fproxyip&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#⚜️Telegram:@IP_CF
+vless://76e80a6d-9865-4e56-842f-ba62c0fa91c3@167.235.28.81:2226?security=none&encryption=none&host=%2FJoin_Bade_Channel%40JOKERRVPN&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
