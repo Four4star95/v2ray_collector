@@ -59967,3 +59967,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.17:8880?type=ws&host=yd.
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.17:8880?type=ws&host=yd.laoyoutiao.link&path=Telegram🇨🇳#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.15ms
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.80.108.160:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#👉🆔@MoftConfig📡🇪🇪®️Estonia©️Tallinn (Kesklinna linnaosa)🅿️ping:7.95ms
 trojan://a07cebde-351d-4ad3-8045-3cd0aa3f586c@mg7.gy6688.xyz:443?security=tls&headerType=&type=tcp&sni=mg7.gy6688.xyz#👉🆔@MoftConfig📡🇺🇸®️United States©️Santa Clara🅿️ping:155.31ms
+trojan://12345678@198.62.62.4:443?path=%2F7bdfb97a.ikl.pages.dev&security=tls&host=7bdfb97a.ikl.pages.dev&type=ws&sni=7bdfb97a.ikl.pages.dev#⚜️Telegram:@IP_CF
+vless://6e3309a0-19ca-46f9-9267-6f8ae35193a4@vrp2.vidasuniversity.ir:8443?security=none&type=tcp&headerType=http&path=%2F&host=google.com#[🇮🇷]t.me/ConfigsHub
