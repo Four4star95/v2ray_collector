@@ -59970,3 +59970,10 @@ trojan://a07cebde-351d-4ad3-8045-3cd0aa3f586c@mg7.gy6688.xyz:443?security=tls&he
 trojan://12345678@198.62.62.4:443?path=%2F7bdfb97a.ikl.pages.dev&security=tls&host=7bdfb97a.ikl.pages.dev&type=ws&sni=7bdfb97a.ikl.pages.dev#⚜️Telegram:@IP_CF
 vless://6e3309a0-19ca-46f9-9267-6f8ae35193a4@vrp2.vidasuniversity.ir:8443?security=none&type=tcp&headerType=http&path=%2F&host=google.com#[🇮🇷]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuMTQ3LjIwMS4yMzEiLCJwb3J0IjoiMjAwMzEiLCJ0eXBlIjoibm9uZSIsImlkIjoiMWNjNTlhM2EtOTYyNS00MGY3LWIwZTYtZTIzMzI4NmFlODJkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vless://b9ae5aa9-ae7f-4cc4-8287-b4cb502b010e@104.16.243.239:443?sni=workers.0115.eu.org&type=ws&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@56.228.78.101:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?path=%2Fproxyip&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.120.242.252:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?allowInsecure=1&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D45.67.215.234%3A443#[🇷🇺]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206TzM2M1dQNjhKMzNDT0lFWA@ti3hyra4.slashdevslashnetslashtun.net:16009#[🏁]t.me/ConfigsHub
+trojan://a07cebde-351d-4ad3-8045-3cd0aa3f586c@mg7.gy6688.xyz:443?security=tls&headerType=&type=tcp&sni=mg7.gy6688.xyz#⚜️Telegram:@IP_CF
