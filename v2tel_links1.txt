@@ -60005,3 +60005,13 @@ vless://89f3d070-f727-46d3-995e-3f8c6bd59558@104.21.10.89:443?encryption=none&se
 
 vless://Telegram-MTMVPN@Shiraz-Website.acveo.ir:443?mode=gun&security=reality&encryption=none&pbk=pWvBPhxqJjzAUrKKHI9rQtokKAHGtSLHZ_wrl-ArERg&fp=qq&spx=%2F&type=grpc&serviceName=Telegram-channel-mtmvpn-Telegram-channel-mtmvpn-Telegram-channel-mtmvpn-Telegram-channel-mtmvpn-Telegram-channel-mtmvpn-Telegram-channel-mtmvpn-Telegram-channel-mtmvpn-Telegram-channel-mtmvpn&sni=www.cdn77.com&sid=76#[🇩🇪]t.me/ConfigsHub
 vless://b6c7a0c3-3026-49d7-b7af-ac3c768bfead@speedtest.net:80?mode=auto&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=&encryption=none&host=jointo_vmessorg.ir&type=xhttp#[🇺🇸]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.44:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.175.187:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.151:8880?sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#[🏁]t.me/ConfigsHub
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.17.102.95:443?sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#[🏁]t.me/ConfigsHub
+vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:443?sni=azadnet05.pages.dev&type=ws&host=azadnet05.pages.dev&allowInsecure=0#[🇨🇦]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.17:8880?type=ws&host=yd.laoyoutiao.link&path=Telegram#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.193.175.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.134:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#[🏁]t.me/ConfigsHub
