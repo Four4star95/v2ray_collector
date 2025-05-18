@@ -60061,3 +60061,4 @@ vless://c94af54c-72b5-4d77-8288-28f2d87ba679@104.17.21.157:8080?path=%2F%40MaHDi
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&type=ws#⚜️Telegram:@IP_CF
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@23.227.60.7:443?encryption=none&security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&headertype=none&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=Path%2FTelegram@proxy_mtm%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.26.108.247:443#[🇬🇧]t.me/ConfigsHub
+
