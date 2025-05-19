@@ -60592,3 +60592,4 @@ vless://438f9559-1671-45cf-9d2c-338fe6766acf@support.zoom.us:80?allowInsecure=1&
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?allowInsecure=1&sni=ppal03-ppal03.letiwe3303.workers.dev&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNzA5ZjcyYi0zY2YzLTQ5ODYtYjdiMy04NDk5ZjAzNzA0ODc=@free.2weradf.xyz:36113#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNzA5ZjcyYi0zY2YzLTQ5ODYtYjdiMy04NDk5ZjAzNzA0ODc=@free.2weradf.xyz:36271#[🏁]t.me/ConfigsHub
+
