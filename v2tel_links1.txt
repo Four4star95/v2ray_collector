@@ -60839,3 +60839,5 @@ vless://2ce757b2-2844-4368-ac62-34470c2c201d@172.67.204.84:8880?security=none&ty
 
 
 
+vless://2ce757b2-2844-4368-ac62-34470c2c201d@104.21.69.44:8880?security=none&type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTdjMmFiZi1mZTRmLTRhYmUtODk4My00ZTNjOGY5NGFkZDc@free.2weradf.xyz:36731#[🏁]t.me/ConfigsHub
