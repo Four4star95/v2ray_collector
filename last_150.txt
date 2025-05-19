@@ -1,3 +1,4 @@
+vless://346c4519-a921-4757-a661-bd0f1ca7808a@14.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=t.me#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:200.44ms
 vless://346c4519-a921-4757-a661-bd0f1ca7808a@14.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.zoom.us#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:200.44ms
 vless://438f9559-1671-45cf-9d2c-338fe6766acf@partner.zoom.us:80?path=%2F&security=none&encryption=none&host=14.sahanwickramasinghe.shop&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.92ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.11ms
@@ -80,7 +81,6 @@ vless://%56%32%52%41%58%58@195.201.112.179:6666?mode=gun&type=grpc&serviceName=%
 trojan://telegram-id-privatevpns@18.159.93.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.159.93.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Guro-dong🅿️ping:295.31ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:267.97ms
 vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.24:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:269.82ms
