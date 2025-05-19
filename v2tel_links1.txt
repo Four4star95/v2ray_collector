@@ -60776,3 +60776,5 @@ vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@162.159.48.84:443?security=tls&sni=
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.102.112:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://83d0965d-d983-478b-ba71-1f457b6f3595@91.107.152.74:42262?mode=auto&path=%2Fmtnproxy&security=reality&encryption=none&pbk=x80R4CbE1btCxtuqGKzwVN6npsQuumLluSBnj-SedWg&fp=chrome&spx=%2F&type=xhttp&sni=par30games.net&sid=2390#[🇩🇪]t.me/ConfigsHub
 vless://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#⚜️Telegram:@IP_CF
+vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052&security=none&encryption=none&host=uk.gamingbazirani.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇩🇪]t.me/ConfigsHub
