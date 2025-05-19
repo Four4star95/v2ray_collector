@@ -1,3 +1,7 @@
+vless://346c4519-a921-4757-a661-bd0f1ca7808a@14.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.zoom.us#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:200.44ms
+vless://438f9559-1671-45cf-9d2c-338fe6766acf@partner.zoom.us:80?path=%2F&security=none&encryption=none&host=14.sahanwickramasinghe.shop&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.92ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.11ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.networkpro.net&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:8.82ms
 vless://346c4519-a921-4757-a661-bd0f1ca7808a@14.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=www.netflix.com#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:200.44ms
 vless://c7673498-52fd-4678-bfbd-0f73b9bbd5de@infos21.novintec99.ir:21337?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/ConfigsHub
 vless://c7673498-52fd-4678-bfbd-0f73b9bbd5de@info876.novintecc.org:21338?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/ConfigsHub
@@ -144,7 +148,3 @@ vless://c3708323-48fe-49c2-aaef-84d0a4cd12ff@170.114.45.159:443?encryption=none&
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&headertype=none&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.186:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.28:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#[🇳🇱]t.me/ConfigsHub
-trojan://telegram-id-directvpn@16.16.8.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@16.16.8.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@16.16.8.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.8.137:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇸🇪
