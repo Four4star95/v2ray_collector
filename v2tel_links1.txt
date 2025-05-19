@@ -60805,3 +60805,8 @@ vless://0d53bc23-3e4a-48b3-b94b-271649e29735@Tabriz-Website.thorav.ir:443?mode=g
 trojan://telegram-id-directvpn@13.37.134.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASH#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZiamhha2ZqYS5kYTU2NjU4d2Zqa2FsZmthLmthYmVkY2hhcmIuc2FndG96ZW5kZWdpLjg1ODU4NTY5Njk2OS5zaXJwaXJ0aXJzaGlybWlya2hpcmxpcm9pci50YXZha29sYmVraG9kYS5iYXZhc2lyLmN5b3UuIiwiaWQiOiJhMWJhMWMwOS01MGI2LTRjMjktYTU0NC1hOWMzYzBkZTU5MWIiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvQGlydnBubj9lZFx1MDAzZDIwNTIiLCJwb3J0IjoiODg4MCIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.36:443?security=tls&sni=0229.patterdeng.pp.ua&type=ws&path=%2F%3Fed#[🏁]t.me/ConfigsHub
+vless://2bf79887-6392-4af3-91a7-9115067bf06e@194.87.129.222:2053?type=ws&path=/#[🇹🇷]t.me/ConfigsHub
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#[🏁]t.me/ConfigsHub
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@185.59.218.128:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#[🇷🇺]t.me/ConfigsHub
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@45.81.58.235:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#[🇺🇸]t.me/ConfigsHub
