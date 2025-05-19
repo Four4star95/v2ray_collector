@@ -60794,3 +60794,9 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.70.200:443?sni=xv6.jpmj.dpdn
 vless://236b64ca-e4c7-40ad-a49a-d3a8937b9b9b@WWW.SPEEDTEST.NET:2052?path=%2F%3Fed%3D2052%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=uk.gamingbazirani.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://8a2676d0-3b83-4074-9761-0f6e7fcc589a@104.26.0.117:2052?type=ws&host=wWw.SpeedtesT.net.mAzMaznet.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?mode=gun&security=none&encryption=none&authority=%2FJoin_Bade_Channel%40JOKERRVPN&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.249.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.249.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjMwLjc2LjIxOCIsInBvcnQiOjQ1OTM5LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMjY4ZmU1OTQtY2QzNS00MDM4LThiYzEtMTA4NmFkYTI3ZmU4In0=
