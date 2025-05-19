@@ -60628,3 +60628,4 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:1125#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#[🇩🇪]t.me/ConfigsHub
 vless://891e9fe4-9165-42ec-d714-e2d80f491e2b@57.129.13.51:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=de.demandio.se#[🇩🇪]t.me/ConfigsHub
+vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=grpc&encryption=none#⚜️Telegram:@IP_CF
