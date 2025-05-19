@@ -60647,3 +60647,4 @@ vless://b79fb561-43ec-4edd-b509-b6eac49ec12b@www.speedtest.net:80?path=%2F%40Shh
 vless://7000ab48-3a58-44bf-8a18-0af339a14eb3@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeedeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNzA5ZjcyYi0zY2YzLTQ5ODYtYjdiMy04NDk5ZjAzNzA0ODc=@free.2weradf.xyz:36641#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A#[🏁]t.me/ConfigsHub
+vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?path=%2F&security=tls&encryption=none&host=GrOupYOUNeS.PAGes.DEV&fp=chrome&type=ws&sni=GrOupYOUNeS.PAGes.DEV#[🇨🇦]t.me/ConfigsHub
