@@ -1,3 +1,4 @@
+vless://c7673498-52fd-4678-bfbd-0f73b9bbd5de@info876.novintecc.org:21338?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/ConfigsHub
 vless://438f9559-1671-45cf-9d2c-338fe6766acf@support.zoom.us:80?path=%2F&security=none&encryption=none&host=14.sahanwickramasinghe.shop&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Jose (Downtown San Jose)🅿️ping:8.84ms
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.28ms
 vless://346c4519-a921-4757-a661-bd0f1ca7808a@14.sahanwickramasinghe.shop:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=epicgames.com#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:200.44ms
@@ -146,5 +147,4 @@ vless://bd5ac6f9-6883-48df-db52-dd8f9587dac0@www.speedtest.net:8080?path=/Telegr
 trojan://telegram-id-directvpn@35.180.5.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.180.5.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://15eabfb4-3465-4b5b-a0ad-3fa88a4ae005@5.181.187.123:45101?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&path=&host=&sni=t.me&fp=chrome&pbk=ubK8xQYhwjyr8vc-vm4ITg7zaX07l745gRBqeT7QIA8&sid=2ffb83f30b7ae51d#[🇩🇪]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?path=Telegram%3A&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.networkpro.net&type=ws#[🇺🇸]t.me/ConfigsHub
