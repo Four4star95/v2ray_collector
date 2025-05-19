@@ -60755,3 +60755,7 @@ trojan://telegram-id-directvpn@63.178.35.184:22223?security=tls&alpn=http/1.1&he
 vless://d40fb0c8-3967-4094-8cfe-854d4b18f0ce@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.178.35.184:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.35.184:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@95.211.27.188:39948?type=tcp&host=divarcdn.com&headerType=http#[🇳🇱]t.me/ConfigsHub
+trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443?allowInsecure=0&sni=EEeEee4.hUAngSHANG2030.dPdNS.org#[🇨🇦]t.me/ConfigsHub
+vless://a5053089-8d6e-0ef9-8d09-aebb94f33aff@51.195.35.2:5234?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#[🇩🇪]t.me/ConfigsHub
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.150.115.122:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#[🏁]t.me/ConfigsHub
