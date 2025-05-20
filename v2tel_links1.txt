@@ -60894,3 +60894,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSk5iQjF6VUlGcjA2Qnd1a0oxRVQw@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#⚜️Telegram:@IP_CF
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@95.38.38.226:21000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidGsuaHpsdC50a2RkbnMueHl6IiwicG9ydCI6IjIyNjQxIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiOThlOTZjOWYtNGJiMy0zOWQ0LTlhMmMtZmFjMDQyNTdmN2M3Iiwic25pIjoienhqcC1hLnRrb25nLmNjIiwiaG9zdCI6Inp4anAtYS50a29uZy5jYyIsInBhdGgiOiJcLyJ9
