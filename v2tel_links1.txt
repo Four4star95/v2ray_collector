@@ -60880,3 +60880,4 @@ trojan://Aimer@108.165.152.55:2096?allowInsecure=0&sni=epccn.ambercc.filegear-sg
 trojan://Aimer@45.67.214.41:2083?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
 trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.139:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
+trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?path=%2Fl6lvY4hFZriQDBimbKYmPIggy&security=tls&alpn=http%2F1.1&host=b9uujhyt.890604.dpdns.org&fp=chrome&type=ws&sni=b9uujhyt.890604.dpdns.org#[🇨🇦]t.me/ConfigsHub
