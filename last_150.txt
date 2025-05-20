@@ -1,3 +1,4 @@
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.83.92:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=fp%3Dchrome&security=tls&sni=0229.patterdeng.pp.ua#[🇨🇦]t.me/MoftConfig
 vless://856619cc-b73b-452e-879d-843514750ae3@58.152.30.232:13110/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=81S2EvMMDSLwy-6VHSQIb051Ym33YWB8Bqui2P0npns&sid=#[🏁]t.me/ConfigsHub
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@104.24.152.190:443/?type=ws&encryption=none&host=what.zhonghuoxing.top&path=%2F&security=tls&sni=what.zhonghuoxing.top&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.83.92:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=fp%3Dchrome&security=tls&sni=0229.patterdeng.pp.ua#[🇨🇦]t.me/ConfigsHub
@@ -147,4 +148,3 @@ vless://44a6e3f3-a45b-446c-8c84-4fd753a4f62d@104.21.64.1:2052?encryption=none&se
 vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:2086?encryption=none&security=none&type=ws&headertype=none&host=0110.wdpkomyt.workers.dev&path=%2Ftelegram@V2ray_Alpha%2F%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
 vless://9d4f6cfb-c921-4bde-ae0a-61781848d940@www.visa.com:8080?encryption=none&security=none&type=ws&headertype=none&host=0225.axpsivp.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.24.51:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:50.17ms
-vless://0660df5b-f14f-4b1d-98b7-ac1f66dc78fe@162.159.20.126:80?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
