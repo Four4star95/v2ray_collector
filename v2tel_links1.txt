@@ -61388,3 +61388,4 @@ vless://e0c579e5-d86f-426b-bbee-f815821a34c3@azadnet-2.azadnet-team.workers.dev:
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.211.86:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
 vless://e3e38519-b056-4dc5-a6c2-462dab71c8ea@84.47.235.218:33585?security=none&encryption=none&host=chess.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://896ace0d-5a43-45c6-9d1c-ed1d3437cbae@speedtest.net:80?type=xhttp&mode=auto&host=jointo_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE@154.83.90.11:51103#⚜️Telegram:@IP_CF
