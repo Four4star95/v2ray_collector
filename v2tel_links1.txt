@@ -61450,3 +61450,6 @@ vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?mode=gun&secur
 vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?security=tls&sni=fr.vless.comnpmjs.com&type=grpc&serviceName=vless-grpc#[🇫🇷]t.me/ConfigsHub
 vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@netherland.gamingbazirani.ir:600?security=tls&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇳🇱]t.me/ConfigsHub
 
+vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://d8b02f41-6388-4ed8-bcab-949454880482@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSjF3T2FXUDBHVGRtd040VTRKNVRM@91.108.245.111:23600#[🇩🇪]t.me/ConfigsHub
