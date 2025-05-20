@@ -60841,3 +60841,9 @@ vless://2ce757b2-2844-4368-ac62-34470c2c201d@172.67.204.84:8880?security=none&ty
 
 vless://2ce757b2-2844-4368-ac62-34470c2c201d@104.21.69.44:8880?security=none&type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTdjMmFiZi1mZTRmLTRhYmUtODk4My00ZTNjOGY5NGFkZDc@free.2weradf.xyz:36731#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzZS52bWVzcy5jb21ucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlLnZtZXNzLmNvbW5wbWpzLmNvbSIsImlkIjoiZDk1NWNmNzUtNTIwNi01YmQ0LWJlZmYtM2I5Y2U2ZGI2N2IwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzI0RPTlQtRk9SR0VULVRPLVNVUFBPUlQtU1NITUFYLkNPTS1UTy1LRUVQLVRISVMtU0VSVkVSLUFMSVZFIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZS52bWVzcy5jb21ucG1qcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuMTk2LjIzNC4xMzUiLCJwb3J0IjoiMjk3MTQiLCJ0eXBlIjoibm9uZSIsImlkIjoiMjYzMTJhYTctMTNhOC00MGM5LTljMzctZGEwY2RmYzJkMjI1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=%2F&security=tls&sni=0229.patterdeng.pp.ua#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#[🇩🇪]t.me/ConfigsHub
+trojan://tg-fq521free@216.24.57.30:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#[🇺🇸]t.me/ConfigsHub
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.244:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls&security=tls&sni=0229.patterdeng.pp.ua#[🏁]t.me/ConfigsHub
