@@ -61441,3 +61441,6 @@ vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?path=%2FTelegram
 vless://2c19a4ac-eeae-575b-ac7e-92a14fb4acde@171.22.124.42:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://96ae2f29-3479-4dce-84e5-24fe691d1a7a@140.248.128.69:443?path=%2FChannel----VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws&sni=Channel-VPNCUSTOMIZE#[🇺🇸]t.me/ConfigsHub
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v6.cinema33.shop#[🇺🇸]t.me/ConfigsHub
