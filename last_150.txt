@@ -1,3 +1,4 @@
+vless://856619cc-b73b-452e-879d-843514750ae3@58.152.30.232:13110/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=81S2EvMMDSLwy-6VHSQIb051Ym33YWB8Bqui2P0npns&sid=#[🏁]t.me/ConfigsHub
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@104.24.152.190:443/?type=ws&encryption=none&host=what.zhonghuoxing.top&path=%2F&security=tls&sni=what.zhonghuoxing.top&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@104.18.83.92:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=fp%3Dchrome&security=tls&sni=0229.patterdeng.pp.ua#[🇨🇦]t.me/ConfigsHub
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#[🇺🇸]t.me/ConfigsHub
@@ -130,7 +131,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.8:8880?encryption=none&secu
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&headertype=none&host=still-smoke-881e-ppal03.cabit21569.workers.dev#[🇨🇦]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.15ms
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.24.51:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:50.11ms
-vless://4e6d606c-d74c-4c74-ab2d-2f1c4278fc39@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#👉🆔@MoftConfig📡🇨🇦®️Canada©️Pointe-Claire🅿️ping:106.18ms
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.194.228:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.networkpro.net&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.8ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:37.74ms
