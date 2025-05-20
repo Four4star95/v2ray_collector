@@ -60864,3 +60864,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.154.33:38388#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q5NjU=@free.2apzhfa.xyz:31113#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#[🇳🇱]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.49.13.19:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5498#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c=@nl1.outline-vpn.top:443#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRzhzaldzU1d3djl1bDZYMGJPMHJD@91.236.230.200:24542#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52.195.228.139:2377#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MzczODE2NTQ2R1Y1VThCeFoxTDQ=@nl1.outline-vpn.top:443#[🇳🇱]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#[🇺🇸]t.me/ConfigsHub
+vless://f93a51bf-7f24-4166-bbc1-9525acd25949@188.245.32.66:26745?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#[🇩🇪]t.me/ConfigsHub
