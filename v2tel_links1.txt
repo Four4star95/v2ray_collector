@@ -61444,3 +61444,8 @@ vless://96ae2f29-3479-4dce-84e5-24fe691d1a7a@140.248.128.69:443?path=%2FChannel-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v6.cinema33.shop#[🇺🇸]t.me/ConfigsHub
+vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@germany.gamingbazirani.ir:600?security=tls&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇩🇪]t.me/ConfigsHub
+vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=foffmelo.com&type=ws#[🇳🇱]t.me/ConfigsHub
+vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?mode=gun&security=reality&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&type=grpc&sni=yahoo.com&sid=09#[🇩🇪]t.me/ConfigsHub
+vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?security=tls&sni=fr.vless.comnpmjs.com&type=grpc&serviceName=vless-grpc#[🇫🇷]t.me/ConfigsHub
+vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@netherland.gamingbazirani.ir:600?security=tls&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇳🇱]t.me/ConfigsHub
