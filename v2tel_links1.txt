@@ -60847,3 +60847,5 @@ vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443/?type=ws&encrypti
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#[🇩🇪]t.me/ConfigsHub
 trojan://tg-fq521free@216.24.57.30:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#[🇺🇸]t.me/ConfigsHub
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.133.35.244:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls&security=tls&sni=0229.patterdeng.pp.ua#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiIDMuM01CXC9zfE9wZW5haXxHZW1pbmlcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJhZGQiOiJ2MjkuaGVkdWlhbi5saW5rIiwicG9ydCI6MzA4MjksImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImhvc3QiOiJvY2JjLmNvbSIsInBhdGgiOiJcL29vb28ifQ==
+trojan://telegram-id-directvpn@13.39.152.74:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
