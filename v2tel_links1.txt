@@ -60916,3 +60916,12 @@ vless://522af137-d625-4974-ae1e-911a980e3844@ns.cloudflare.com:2052?path=%2FGood
 trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?security=tls&sni=XXXcddDe.IRaN2035.dpdNs.orG&alpn=http%2F1.1&fp=chrome&type=ws&host=xxxcddde.iran2035.dpdns.org&path=%2FbdtuD5eD7Q29WxRG8DqNAB#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.49.13.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://522af137-d625-4974-ae1e-911a980e3844@ns.cloudflare.com:8080?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=turkiye.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.237.148.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://c3ca1fa4-3022-4806-8072-9d744bb554c6@www.zula.ir:8880?path=%2FChannel----V2ray_Gl----V2ray_Gl----V2ray_Gl---V2ray_Gl---V2ray_Gl---V2ray_Gl%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.netty.ip-ddns.com.&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjMzZTM%3D@192.53.172.74:30013#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.148.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://c838deae-0725-45fc-9169-cd13bbbb929c@ww.speedmeter.life:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.148.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.148.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://c838deae-0725-45fc-9169-cd13bbbb929c@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#[🇮🇳]t.me/ConfigsHub
