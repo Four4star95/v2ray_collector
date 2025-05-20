@@ -61325,3 +61325,9 @@ vless://96ae2f29-3479-4dce-84e5-24fe691d1a7a@140.248.128.69:443?path=%2FTelegram
 vless://ef9b0057-71f3-45e1-9327-eed6c28ed199@77.90.11.28:443?mode=gun&security=reality&encryption=none&pbk=9KshaxGU7VAx0ktyPkVhkb0O1PIT5oTPPl6QobVF1m8&fp=chrome&spx=%2F&type=grpc&sni=refersion.com&sid=279d#👉🆔@MoftConfig📡🇩🇪®️Germany©️Bad Soden am Taunus (Neuenhain)🅿️ping:27.33ms
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:32.93ms
 ss://YWVzLTEyOC1nY206MmI3Mjc1ZTktOGE4MS00NGY3LTg2ZGItYWVjNWFjZDQyYzhl@43.100.4.54:65535#👉🆔@MoftConfig📡🇨🇳®️China©️Beijing🅿️ping:256.95ms
+vmess://eyJhZGQiOiIxODUuMTY3Ljk5LjI1MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZGVlMjcwYi0yYzg4LTRkMDMtOTM2YS1hZDM1Nzk3NzdmZmYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJb8J+Hs/Cfh7FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://YWVzLTI1Ni1nY206TjIzRkRVNjVFR0hGTDZPWQ@ti3hyra4.slashdevslashnetslashtun.net:18012#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#[🇮🇳]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.164:8080#[🇺🇸]t.me/ConfigsHub
