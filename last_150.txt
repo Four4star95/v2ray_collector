@@ -1,3 +1,4 @@
+vless://7ec4816b-4f10-47e7-9d7b-d55e1d86ed2c@91.107.241.231:2083/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.whatsapp.com&fp=randomized&security=reality&pbk=a6zyALTLMps9JFOeGiTgdiAwGdO0Qu9buLSwMZ9cpww&sid=42e28b4179d2a0df#[🇩🇪]t.me/MoftConfig
 vless://550b20ed-22c9-4406-858e-0b621c6d0ccc@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.193.175.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.193.175.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
@@ -131,7 +132,6 @@ vless://f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?path=%2F&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.140:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=sk.laoyoutiao.link&type=ws&sni=sk.laoyoutiao.link#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.12ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.46ms
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=raw&headertype=none#👉🆔@MoftConfig📡🇺🇸®️United States©️Reston🅿️ping:156.38ms
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.132:2375#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:104.88ms
 vless://4e6d606c-d74c-4c74-ab2d-2f1c4278fc39@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.12ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.92ms
