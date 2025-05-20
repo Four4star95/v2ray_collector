@@ -61455,3 +61455,8 @@ vless://d8b02f41-6388-4ed8-bcab-949454880482@151.101.64.155:80?path=%2F-LiV2ry%4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSjF3T2FXUDBHVGRtd040VTRKNVRM@91.108.245.111:23600#[🇩🇪]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 
+vless://10d4737f-494a-45f0-b0c2-d18f99041d4a@Tabriz-Website.thorav.ir:443?security=reality&encryption=none&pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&fp=qq&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=b1417d#⚜️Telegram:@IP_CF
+vless://96ae2f29-3479-4dce-84e5-24fe691d1a7a@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.persiancampel.iR&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDcyYWM1MC1iOTlkLTQ1NTYtYjhjMS1iNTBmNGJiMWMyMmQ@free.2apzhfa.xyz:31175#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo=@107.181.151.147:43669#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NGEycmZpeG9waGRqZmZhOEtWQTRBYQ==@45.158.171.146:8080#[🇳🇱]t.me/ConfigsHub
