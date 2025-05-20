@@ -1,3 +1,4 @@
+vless://c7673498-52fd-4678-bfbd-0f73b9bbd5de@infos21.novintec99.ir:21337?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/ConfigsHub
 vless://c7673498-52fd-4678-bfbd-0f73b9bbd5de@info876.novintecc.org:21338?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🏁]t.me/ConfigsHub
 vless://438f9559-1671-45cf-9d2c-338fe6766acf@support.zoom.us:80?path=%2F&security=none&encryption=none&host=14.sahanwickramasinghe.shop&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Jose (Downtown San Jose)🅿️ping:8.84ms
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.28ms
@@ -146,5 +147,4 @@ trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443?path=%2FbdtuD5eD7
 vless://f518c131-2ce2-47a2-8a2b-33da420d9a83@151.101.2.219:80?security=none&type=xhttp&host=jointo_vistav2ray.ir&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480#[🇺🇸]t.me/ConfigsHub
 trojan://Aimer@154.197.64.164:2053?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.182.85.150:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#[🇷🇺]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNy44NC41MyIsInBvcnQiOiI1NTAwMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 trojan://Aimer@162.120.94.23:2087?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
