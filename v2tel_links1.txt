@@ -61657,3 +61657,5 @@ vless://6ab56172-1454-4039-ab34-6ccb8edbc8ef@89.208.106.238:30113?type=xhttp&pat
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.opingservers.ir#[🇨🇦]t.me/ConfigsHub
 vless://ea286109-d20f-415e-849e-4af20ab04b65@51.81.37.5:443?encryption=none&security=tls&sni=147135001195.sec22org.com&fp=chrome&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtcG9seTEzMDU6UU1lS1d1cTJ0WGJaT25PTGlHL1dBUFNoWW5JQWZxRkw5bE1jUkFMRytzUT0%3D@185.112.83.224:27315#[🇷🇺]t.me/ConfigsHub
+vless://ab005154-eb0a-4aa6-b9a5-9505da3ff584@7kohqr.de5.bbbbbbbbbbbb9.biz:5294?security=none&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@213.109.205.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=0#[🇷🇺]t.me/ConfigsHub
