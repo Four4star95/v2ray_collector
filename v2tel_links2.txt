@@ -25804,3 +25804,8 @@ vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@WWW.SPEEDTEST.NET:2052?path=%2F%3Fe
 vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.184.146.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://e3e38519-b056-4dc5-a6c2-462dab71c8ea@84.47.235.218:33585?security=none&encryption=none&host=chess.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.150:2096?path=%2F&security=tls&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&type=ws&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#[🇺🇸]t.me/ConfigsHub
+vless://26b63e3a-60f9-4630-b180-fde6c4339602@140.248.128.69:443?path=%2FChannel----VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws&sni=Channel-VPNCUSTOMIZE#[🇺🇸]t.me/ConfigsHub
+vless://26b63e3a-60f9-4630-b180-fde6c4339602@www.zula.ir:8880?path=%2FChannel----VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.vpncustomize.iran.ir.arvancloud.ir.www.speedtest.net.persiancampel.iR&fp=randomized&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://telegram-id-ArV2ray7@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=7N71aSdPzU.sOuBlOtIk.InFo&type=ws&sni=7N71aSdPzU.sOuBlOtIk.InFo#[🇨🇦]t.me/ConfigsHub
