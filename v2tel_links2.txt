@@ -25772,3 +25772,14 @@ vless://387620fc-e932-4767-abeb-b16953c3b256@infoo297001.novintecc.org:21332?sec
 trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&alpn=http%2F1.1&host=t.taipei108.dpdns.org&fp=chrome&type=ws&sni=T.taipEi108.Dpdns.Org#⚜️Telegram:@IP_CF
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@www.gov.se:443?path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&alpn=h3&host=icecream.955850.xyz&fp=randomized&type=ws&sni=icecream.955850.xyz#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.66.191:443#⚜️Telegram:@IP_CF
+vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxMDQuMjEuMzIuMSIsImFpZCI6MCwiaG9zdCI6InJhazJkMS43NzcyNjkueHl6IiwiaWQiOiI5OTYwMTZmNy1kYTg5LTQ1ZjEtYjNiNC01NTViYzc5OWVkODYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjIwNTMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoicmFrMmQxLjc3NzI2OS54eXoifQ==
+vless://d88cb569-d30d-472f-950b-9ff6afd17b16@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
+vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTc1MzUzZWUyZjRlZmI2@212.56.32.228:47712#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?path=Telegram%3A&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://65343a27-de9d-4b0c-ab0a-562309c94d2b@157.180.81.95:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇮]t.me/ConfigsHub
+vless://e607e472-cee3-4ea7-c731-4a041a961a05@5.75.194.94:8880?mode=gun&security=&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwiYWlkIjowLCJob3N0IjoibUF4TkV0VmlwLXVTQS1WcDQubkVUS2gzLnNJdEUiLCJpZCI6ImFkMmJjYTRkLWJlOWUtNGFjMi1iMmVkLTRjODFhYmI0MjQyZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImNsb3VkZ2V0c2VydmljZS5tY2xvdWRzZXJ2aWNlLnNpdGUifQ==
