@@ -61608,3 +61608,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?mode=gun&security=none&encryption=none&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.121:8880?mode=gun&security=none&encryption=none&authority=/--V2RAYNPLUS--V2RAYNPLUS--V2RAYNPLUS&type=grpc#[🇳🇱]t.me/ConfigsHub
+vless://f84851c7-9d3a-44e0-b0ca-ea6b5610d595@cip-1.toxi-speed.ru:2768?security=none&type=tcp&headerType=http&path=%2F&host=fararu.com#[🇮🇷]t.me/ConfigsHub
+trojan://xtAM6MiBkpmKz2vi0EEmAA@net-1.toxi-speed.ir:2059?security=none&type=tcp&headerType=&path=&host=#[🇩🇪]t.me/ConfigsHub
+trojan://xtAM6MiBkpmKz2vi0EEmAA@net-1.toxi-speed.ir:2051?security=none&type=tcp&headerType=http&path=%2F&host=fararu.com#[🇩🇪]t.me/ConfigsHub
