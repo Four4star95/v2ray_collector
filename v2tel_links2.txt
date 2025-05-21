@@ -25769,3 +25769,6 @@ vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@germany.gamingbazirani.ir:600?secur
 vless://387620fc-e932-4767-abeb-b16953c3b256@ovhinfo01.novintec99.ir:21332?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇩🇪]t.me/ConfigsHub
 vless://387620fc-e932-4767-abeb-b16953c3b256@info7394.novintecc.org:21332?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇳🇱]t.me/ConfigsHub
 vless://387620fc-e932-4767-abeb-b16953c3b256@infoo297001.novintecc.org:21332?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#[🇳🇱]t.me/ConfigsHub
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&alpn=http%2F1.1&host=t.taipei108.dpdns.org&fp=chrome&type=ws&sni=T.taipEi108.Dpdns.Org#⚜️Telegram:@IP_CF
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@www.gov.se:443?path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&alpn=h3&host=icecream.955850.xyz&fp=randomized&type=ws&sni=icecream.955850.xyz#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.66.191:443#⚜️Telegram:@IP_CF
