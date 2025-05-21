@@ -61679,3 +61679,7 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443?encryption=none&s
 vless://e83ae325-e11c-45b7-901e-37cb7d312471@www.speedtest.net:80?path=%2F%49SVvpn%3Fed%3D2048&security=&encryption=none=/%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40Telegram-|-%40TEHRANARGO-|-%40TEHRANARGO&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.g7.isvpy.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.114:443?encryption=none&security=tls&sni=vkvd127.mycdn.me&alpn=http%2F1.1&fp=chrome&type=ws&headertype=none&host=ayeqehnn.kopoly.info&path=%2F#[🇳🇱]t.me/ConfigsHub
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.162.133:443?encryption=none&security=tls&sni=147135004002.sec20org.com&alpn=h2%2Chttp%2F1.1&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
+vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&type=ws&headertype=none&host=pq-brazil1.09vpn.com&path=%2Fvless%2F#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#[🇺🇸]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.21:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#[🇺🇸]t.me/ConfigsHub
+vless://0b8dcade-717e-47dd-9805-810fef0ee2c5@ger1.swaparoo.org:19102/?type=tcp&security=reality&pbk=3dXfMbaHTVhcHeX_V4nDepTFiv3V2B1d87iBTCtS5ng&fp=chrome&sni=deepl.com&sid=6511b6d9c6ac&spx=%2F#[🇩🇪]t.me/ConfigsHub
