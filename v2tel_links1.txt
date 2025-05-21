@@ -61648,3 +61648,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZWIyYmM5ZC1iYjhjLTQwODEtYmZjYy03ZWFhZmZjMjV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZWIyYmM5ZC1iYjhjLTQwODEtYmZjYy03ZWFhZmZjMjVhODM@free.2apzhfa.xyz:31141#[🏁]t.me/ConfigsHub
 trojan://8ec8325a-efa4-11ef-a7bb-f23c9164ca5d@69108338-swo740-sy4o80-fha8.cu.plebai.net:15229?allowInsecure=0&sni=69108338-swo740-sy4o80-fha8.cu.plebai.net#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZWIyYmM5ZC1iYjhjLTQwODEtYmZjYy03ZWFhZmZjMjVhODM@free.2apzhfa.xyz:31641#[🏁]t.me/ConfigsHub
+vless://3a6d2cc9-a464-4ebc-9b14-cd53ae8c3e65@3982390233.torob.com.tr:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=www.chess.com#[🇩🇪]t.me/ConfigsHub
