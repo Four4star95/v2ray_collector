@@ -61634,3 +61634,7 @@ vless://ae1aa488-3e65-43f2-bf05-e959c9c89285@hajlab.ucdavis.edu:80?security=&typ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjIxLjExMi4xIiwicG9ydCI6IjIwNTMiLCJ0eXBlIjoiYXV0byIsImlkIjoiOTk2MDE2ZjctZGE4OS00NWYxLWIzYjQtNTU1YmM3OTllZDg2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6InJhazJkMS43NzcyNjkueHl6IiwidGxzIjoidGxzIn0=
 vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@netherland.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#⚜️Telegram:@IP_CF
 
+trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?path=%2FduJhdsnTCbijwHNYeMcCs9&security=tls&host=m2rrrty.777219.xyz&type=ws&sni=m2rrrty.777219.xyz#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.245.64:443#[🇬🇧]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.185:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://b072d14f-133d-4f9f-e3d8-1185e6a00533@151.101.192.155:80?path=%2FTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%2CTELEGRAM-%40JOKERRVPN%3Fed%3D2048&security=none&encryption=none&host=JOKERRVPN.com&type=ws#[🇺🇸]t.me/ConfigsHub
