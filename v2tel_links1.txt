@@ -62990,3 +62990,6 @@ vless://606a7bd8-9b6b-4f32-98d9-2ba911be6559@104.17.147.22:2095?security=none&ty
 vless://ec6f55c4-8f7b-4dc6-b179-b6e7a07a23ad@104.17.225.171:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZTFlZjUzZS1lMTMwLTQ3Y2EtOGJkNy0zNDVjZDY1ODk1YzI@free.2apzhfa.xyz:31441#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.148.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://c1d62244-2d63-46ac-975e-234e78dc3f1b@151.101.64.155:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#[🇨🇦]t.me/ConfigsHub
+vless://7e458bd8-ed76-6d70-2938-cb33adc09206@185.176.24.24:443?mode=auto&path=%2Fxhttp&security=tls&encryption=none&host=ct.otds.nyc.mn&fp=chrome&type=xhttp&sni=ct.otds.nyc.mn#[🇳🇱]t.me/ConfigsHub
+vless://c1d62244-2d63-46ac-975e-234e78dc3f1b@140.248.128.69:443/?type=ws&encryption=none&flow=&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048&security=tls&sni=Channel-VPNCUSTOMIZE.ir&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
