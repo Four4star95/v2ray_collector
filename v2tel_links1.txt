@@ -62256,3 +62256,24 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.76:80?path=Telegram%3A%40v
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.24ms
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:177.75ms
 vless://0b193b9c-6ad3-41a2-83c0-d3de9b86b70e@www.zula.ir:8443?path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=frbn.musics-fa.ru&fp=chrome&type=ws&sni=frbn.musics-fa.ru#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.85ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.93ms
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.15.136:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0118.kznyoum2.workers.dev&type=ws#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.64ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.06ms
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.15.136:2052?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0118.kznyoum2.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.73ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.27ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.75ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.205:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.55ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#👉🆔@MoftConfig📡🇷🇺®️Russia©️Obruchevo🅿️ping:50.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.34ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/MoftConfig
