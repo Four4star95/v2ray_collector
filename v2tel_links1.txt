@@ -63260,3 +63260,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?mode=gun&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#👉🆔@MoftConfig📡🇺🇦®️Ukraine©️Kyiv🅿️ping:44.87ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k%3D@77.91.103.73:443#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:29.67ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:141.39ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s14.opswebhosting.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s14.opswebhosting.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.27ms
