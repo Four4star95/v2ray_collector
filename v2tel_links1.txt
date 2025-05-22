@@ -63089,3 +63089,4 @@ vless://0b8dcade-717e-47dd-9805-810fef0ee2c5@ger1.swaparoo.org:19102?security=re
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.02ms
 vless://c6ebff0f-7786-4bff-bdfc-d0557bf4b152@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=foffmelo.com&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:8.31ms
 vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#👉🆔@MoftConfig📡🇩🇪®️Germany©️Falkenstein🅿️ping:34.65ms
+
