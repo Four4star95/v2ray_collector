@@ -62277,3 +62277,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#👉🆔@MoftConfig📡🇷🇺®️Russia©️Obruchevo🅿️ping:50.23ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.34ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.56:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/MoftConfig
+vless://ed365608-a36d-4372-8e07-0c6073b1d9ef@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://16469e4a-64f8-49ef-940e-61321f443b31@4quma2.de5.bbbbbbbbbbbb9.biz:5294?security=&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg%3D@147.45.116.44:443#[🏁]t.me/MoftConfig
+vless://16469e4a-64f8-49ef-940e-61321f443b31@4quma2.de5.bbbbbbbbbbbb9.biz:5294?security=&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
