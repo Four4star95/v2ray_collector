@@ -63355,3 +63355,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=Telegram%F0%
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:29.06ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE%3D@185.39.207.60:443#👉🆔@MoftConfig📡🇬🇷®️Greece©️Thessaloniki🅿️ping:61.7ms
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:30.42ms
+vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?encryption=none&security=tls&sni=ul-uae2.09vpn.com&type=ws&headertype=none&path=%2Fvless%2F#[🇹🇷]t.me/MoftConfig
+vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?encryption=none&security=tls&sni=ul-uae2.09vpn.com&type=ws&headertype=none&path=%2Fvless%2F#[🇹🇷]t.me/ConfigsHub
+vless://45c3ceef-af58-45ba-83e9-6fad74dbb663@104.17.147.22:2083?security=tls&sni=iVZ693ye8o0Lmp70Bd7vr407Bwm2iB8r.kicige4119.WORKErS.deV&type=ws&host=ivz693ye8o0lmp70bd7vr407bwm2ib8r.kicige4119.workers.dev&path=%2FTXEWPV1cdVvX7c1v&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
