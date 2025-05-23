@@ -63706,3 +63706,6 @@ vless://4c8a9557-92c5-4a36-879b-9a40592a5731@149.28.127.127:8880?security=&encry
 vless://3ac9b0e2-0708-4a5e-981b-14570b1a984a@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?type=ws&host=mihanwebhost.iri&path=/vless&security=none#[🇳🇱]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&mode=gun&security=none#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjRkMmYyMy00YjMxLTQ5OTMtYmJjOC1hODEwNjY5YzIxYzM@free.2apzhfa.xyz:31141#[🏁]t.me/ConfigsHub
+vless://acd71a14-6f45-4451-b150-daa59dcbe36a@116.203.140.209:1615?security=reality&encryption=none&pbk=hGWQLRX3fXhy649AM9QbmRBlDs4DU-trXDal_F5pCjI&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=f387eb8185414508#[🇩🇪]t.me/ConfigsHub
+vless://f5060a9c-3bc0-3564-2dc6-f6f81e71d879@37.156.46.44:31458?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]t.me/ConfigsHub
