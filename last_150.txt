@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?type=grpc&mode=gun&security=none#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:23.01ms
 vless://387620fc-e932-4767-abeb-b16953c3b256@infoo297001.novintecc.org:21332?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:36.32ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:29.49ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:9.27ms
@@ -147,4 +148,3 @@ vless://%56%32%52%41%58%58----@195.201.112.179:6666?mode=gun&type=grpc&serviceNa
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.02ms
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.42ms
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=&encryption=none&host=divarcdn.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Ataşehir🅿️ping:65.64ms
-trojan://telegram-id-directvpn@15.236.27.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
