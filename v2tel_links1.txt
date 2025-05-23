@@ -64166,3 +64166,7 @@ vless://3554a8e1-1c36-4717-bc2b-c29663d63d28@194.182.79.147:35628?mode=gun&secur
 trojan://telegram-id-directvpn@15.237.205.185:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://675537c4-5916-446f-b90d-15f64f3ccf67@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&encryption=none&host=s3.cdn.hulkirani.shop&type=ws&sni=mydigipay.com#[🇮🇷]t.me/MoftConfig
 vless://e6bf4686-6eab-4758-a2ad-7d7753a6b8dd@167.172.139.120:27574?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=8fenCkVI_5b27dy4XGdBYB6zaTxvIbSJDF2WQ5lifCY&sid=1fb3b1ce2106e73d&spx=%2F&type=xhttp&path=%2F27574%2Fgrizzlyvpn&mode=auto#👉🆔@MoftConfig📡🇺🇸®️United States©️North Bergen🅿️ping:93.97ms
+vless://c7b3d8ea-8c6e-4091-b87e-5876b715b9b3@94.130.225.156:38795?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vmess://eyJhZGQiOiI5NC4xMzAuMjI1LjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZjYyYmNjMy1lOGNkLTRhOTctODlkMi01MWEzOTY0NDEzMWIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU2OTk3IiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://5585e301-33c4-454c-99fb-3bf82eed48f4@188.34.201.88:24871?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VW5UMGRmWFRBTWE3VzREajJRdGtEbFlpZ1liOWJhZk9OWC9JZ3YxN2FNPQ%3D%3D@94.130.225.156:33148#[🇩🇪]t.me/ConfigsHub
