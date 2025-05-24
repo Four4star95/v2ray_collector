@@ -65509,3 +65509,4 @@ vless://666c8b48-72b8-43bb-8482-b7ba47008a1a@uk.iranigamebaz.ir:17297?mode=auto&
 vless://666c8b48-72b8-43bb-8482-b7ba47008a1a@france.iranigamebaz.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#[🇫🇷]t.me/MoftConfig
 vless://111c2c6f-d6f8-4c84-a1fe-201fffcb40db@dataxshop.ir:8080?security=&encryption=none&type=grpc#⚜️Telegram:@IP_CF
 vless://666c8b48-72b8-43bb-8482-b7ba47008a1a@germany.ggping.xyz:3993?path=%3Fed%3D2084&security=tls&encryption=none&fp=chrome&type=ws&sni=marzban.negintel.xyz#[🇩🇪]t.me/MoftConfig
+
