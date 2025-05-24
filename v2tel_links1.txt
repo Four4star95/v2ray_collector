@@ -65422,3 +65422,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.221.160.29:8880/?type=ws&encryp
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.3ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇷®️Costa Rica©️Pozos🅿️ping:8.83ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.118:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.32ms
+
