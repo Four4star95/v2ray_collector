@@ -65447,3 +65447,14 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.148.177:443?sni=xv6.jpmj.dpd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU@144.126.146.38:30100#⚜️Telegram:@IP_CF
 vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?type=tcp&security=none&headerType=http&path=/&host=#[🇮🇷]t.me/MoftConfig
 vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@95.211.27.205:2010?security=reality&encryption=none&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&host=mci.ir%2F%3FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&headerType=none&fp=firefox&spx=%2FCopy-az-chahnnel-JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=31e7200536a1ad45#[🇳🇱]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.29:6697#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM@107.191.63.241:30665#[🇫🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZFo2M0RzVjlYeHNsTnBha0gyNTF0@194.87.45.189:443#🇪🇸 Испания
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.29:7306#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@192.200.160.15:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me&allowInsecure=1#[🇺🇸]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#[🏁]t.me/MoftConfig
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#[🇬🇧]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.29:6697#[🇺🇸]t.me/MoftConfig
+trojan://dongtaiwang.com@trojan2.free4444.xyz:443/?type=tcp&security=tls&sni=trojan2.free4444.xyz#[🇺🇸]t.me/MoftConfig
+vmess://eyJhZGQiOiI2Ni45NC4xMTQuMTIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5YjlkZWEzLTU4NjgtNDc3Zi1lNTRkLTJjOGYxMjRmNjQ3ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTM1MDMiLCJwcyI6Ilvwn4e68J+HuF10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
