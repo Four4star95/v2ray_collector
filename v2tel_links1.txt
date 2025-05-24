@@ -65320,3 +65320,23 @@ vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?security=none&e
 vless://111c2c6f-d6f8-4c84-a1fe-201fffcb40db@dataxshop.ir:8080?security=&encryption=none&type=grpc#[🇹🇷]t.me/MoftConfig
 vless://2dae986a-04ce-4588-a6e2-652ac921c091@fergalvpnmod.sbs:443?mode=gun&security=&encryption=none&authority=telegram%3Afergalvpnmod&type=grpc&serviceName=telegram%3Afergalvpnmod#[🇩🇪]t.me/ConfigsHub
 vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@de28.spaceify.eu:25720?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.64ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir#👉🆔@MoftConfig📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:8.41ms
+vless://f56c315c-a8a6-4f15-b8e0-fcc2afe13b29@172.67.24.121:443?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=tls&encryption=none&host=abrarvan1.com&fp=qq&type=ws&sni=abrarvan1.com#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:21.44ms
+vless://7455dc11-4417-49f2-9d99-4269394ec40d@1xult.hifromir1.site:2053?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.57ms
+vless://62f10cd5-54c8-4c1d-a3fc-f035379558b9@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=www.link.ir-sub.fun&fp=chrome&type=ws&sni=mydigipay.com#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:97.12ms
+vless://2dae986a-04ce-4588-a6e2-652ac921c091@fergalvpnmod.sbs:443?mode=gun&security=&encryption=none&authority=telegram%3Afergalvpnmod&type=grpc&serviceName=telegram%3Afergalvpnmod#👉🆔@MoftConfig📡🇩🇪®️Germany©️Steinheim am Albuch🅿️ping:28.66ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.240:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%3A#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.42ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.98ms
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.47:5498#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:104.68ms
+vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@129.150.63.206:25250?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:178.67ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.networkpro.net&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.18ms
+vless://chan3l%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.68ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:296.03ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#👉🆔@MoftConfig📡🇵🇹®️Portugal©️Lisbon🅿️ping:67.43ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.38:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:283.28ms
+vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@216.230.233.49:25536?security=reality&encryption=none&pbk=ydfJ-qHuqDCqmGnFbRwzqYT7gA9mWoh0gtYvMzt8OmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apps.apple.com&sid=fc3d#👉🆔@MoftConfig📡🇺🇸®️United States©️Houston (Northside/Northline)🅿️ping:139.02ms
+vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Düsseldorf🅿️ping:24.05ms
+vless://1ebefa01-716a-5bd4-9ae1-48d6bd8fff13@41.216.182.162:2052?mode=gun&security=&encryption=none&type=grpc&serviceName=vless-grpc#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.67ms
+vless://1f7a87e7-c52b-40a5-8f70-04cb6c2eb286@Shiraz-Website.thorav.ir:2087?type=grpc&serviceName=&authority=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=reality&pbk=PxdRM9vmg1ZX5PjB0T-jTX0Nt4w-nIpS1zJIC5vkcBo&fp=chrome&sni=www.cdn77.com&sid=8973a5&spx=%2F#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.48ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.82ms
