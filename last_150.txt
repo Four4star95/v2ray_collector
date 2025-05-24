@@ -1,3 +1,5 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇷🇺®️Russia©️Novosibirsk🅿️ping:8.64ms
+vless://3554a8e1-1c36-4717-bc2b-c29663d63d28@194.182.79.147:35628?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://3554a8e1-1c36-4717-bc2b-c29663d63d28@194.182.79.147:35628?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
 vless://f212c509-a73d-4501-a10d-71d9c9bc95b8@194.182.79.56:26432?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
@@ -127,7 +129,6 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.67.29:8880?sni=hk.laoyoutiao
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@184.174.80.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇺🇸®️United States©️Wilmington🅿️ping:8.18ms
 vless://4679efd2-1467-4392-b8c1-39df418b6ce1@104.31.16.9:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3%2Ch2&host=steep-pine-3b0b.facic63646.workers.dev&fp=chrome&type=ws&sni=steep-pine-3b0b.facic63646.workers.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.74ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZW9UdGptR3hRQ3RPSmVyTXFlU0ZO@81.19.141.45:443#🇩🇪 Германия
-vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:1717?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=1717vless#⚜️Telegram:@IP_CF
 trojan://4cDgyx33xaypDCIFaOj84Snjy3g9XpulOI3FF0CaaTSyY3ElCOeYKx8eCeN7zRRZnCu2A@61.221.48.98:28331?allowInsecure=1#👉🆔@MoftConfig📡🇹🇼®️Taiwan©️Taipei🅿️ping:302.29ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:263.36ms
 vless://23651a65-bef3-431a-b040-5e8c158a9867@95.38.38.226:27000?security=none&encryption=none&host=irna.alibaba.ir.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
@@ -146,5 +147,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:299.39ms
 vless://7455dc11-4417-49f2-9d99-4269394ec40d@1xult.hifromir1.site:2053?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.59ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Istanbul🅿️ping:62.86ms
-trojan://RlzoEILU@36.151.251.60:28296?allowInsecure=1&sni=cdn.egvra.cn#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206S0M0MU1NWVZBWDgzR0RKMA%3D%3D@185.186.79.135:20028#👉🆔@MoftConfig📡🇩🇰®️Denmark©️Copenhagen🅿️ping:18.34ms
