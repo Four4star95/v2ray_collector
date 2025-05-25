@@ -65926,3 +65926,4 @@ vless://b600c587-757c-478f-832a-c26eb2fd0bc7@Karaj-Website.thorav.ir:2087/?type=
 vless://b2ad404f-bb34-469a-988b-5940354e796b@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://04efb928-b9ac-4514-81a8-f80a4ce7fc7f@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOW45RXNPbkRDY0lidHEzd3pDUkRu@81.19.141.45:443#🇩🇪 Германия
+vless://09a5ff31-f245-432d-bffd-8eda890c7f68@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#[🇩🇪]t.me/MoftConfig
