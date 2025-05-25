@@ -65799,3 +65799,5 @@ trojan://RlzoEILU@36.151.251.59:44907?allowInsecure=1&sni=cdn.egvra.cn#[🏁]t.m
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.12.75.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#[🇷🇺]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.42.95:443#⚜️Telegram:@IP_CF
 
+ss://YWVzLTI1Ni1nY206TjIzRkRVNjVFR0hGTDZPWQ==@ti3hyra4.slashdevslashnetslashtun.net:18012#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q5NjU=@free.2apzhfa.xyz:31471#[🏁]t.me/ConfigsHub
