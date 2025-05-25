@@ -65744,3 +65744,7 @@ trojan://telegram-id-directvpn@63.178.35.184:22223?allowInsecure=0&sni=trojan.bu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODQ3MWRkNS0xYzVmLTQ0NDgtYmE5ZS0wYzRhMWExNzgyYjI@free.2apzhfa.xyz:31471#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODQ3MWRkNS0xYzVmLTQ0NDgtYmE5ZS0wYzRhMWExNzgyYjI@free.2apzhfa.xyz:31611#[🏁]t.me/ConfigsHub
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.126:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#[🏁]t.me/ConfigsHub
+vless://3834a452-778b-42d5-be27-b12236597a0d@91.206.71.202:443/?type=ws&encryption=none&flow=&host=ir-ddos.com&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048&security=tls&sni=ir-ddos.com&allowInsecure=1#[🇳🇱]t.me/MoftConfig
+vless://3834a452-778b-42d5-be27-b12236597a0d@ufc.ru:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#[🇨🇦]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNS4xODIuMzcuMjMxIiwicG9ydCI6IjQ5NjY0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0In0=
+vless://ec33b404-4be2-4e33-ad79-976a00185082@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=http%2F1.1&encryption=none&host=cdn.www.ir-sub.fun&fp=chrome&type=ws&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
