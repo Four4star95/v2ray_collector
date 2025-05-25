@@ -65949,3 +65949,5 @@ trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&s
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@91.206.71.202:443?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE%3Fed&security=tls&encryption=none&host=ir-ddos.com&type=ws&sni=ir-ddos.com#[🇳🇱]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/MoftConfig
+vless://2ec77e68-99e5-2322-f5c1-7add941b0e7a@server2.cofegraphic.ir:2050?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://2ec77e68-99e5-2322-f5c1-7add941b0e7a@server2.cofegraphic.ir:2050?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
