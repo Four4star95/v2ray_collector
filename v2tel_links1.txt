@@ -65984,3 +65984,4 @@ vless://8953473f-0cf3-4ba7-8648-55b03f61a70a@lon5.vpntype.dev:443?security=tls&e
 trojan://Aimer@172.64.33.73:2096?sni=epcch.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:51103#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36411#[🏁]t.me/MoftConfig
+
