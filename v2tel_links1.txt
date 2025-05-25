@@ -65930,3 +65930,17 @@ vless://09a5ff31-f245-432d-bffd-8eda890c7f68@tify-binex-join.espikernajafi.ir:66
 trojan://Aimer@104.19.39.28:443?sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://e12b7061-dbd4-4cf2-9ae9-7bf3cbce174a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/MoftConfig
 vless://e12b7061-dbd4-4cf2-9ae9-7bf3cbce174a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjUyOTdmMjIwM2I=@103.140.136.76:443#[🏁]t.me/MoftConfig
+vless://ac8a603b-81a3-4011-b11d-0d1e05664c7a@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Ws.speedtest.a.Spdnet.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://Aimer@154.197.64.173:2053?sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@92.243.74.115:443?sni=epccg.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+vless://148cfb6d-e6c1-46a1-bf83-15f5d4052eca@upstream.lonup.org:55100?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36171#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36171#[🏁]t.me/MoftConfig
+trojan://Aimer@92.243.74.115:443?sni=epccg.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+vless://ac8a603b-81a3-4011-b11d-0d1e05664c7a@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Ws.speedtest.a.Spdnet.ir&type=ws#[🇺🇸]t.me/MoftConfig
+trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@154.197.64.173:2053?sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
+vless://38c24107-7e04-4246-92c6-eeab7c83a810@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjUyOTdmMjIwM2I=@103.140.136.76:443#[🏁]t.me/ConfigsHub
