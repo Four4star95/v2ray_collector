@@ -65839,3 +65839,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.253:8880/?type=ws&encrypti
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%40vpnAndroid2%2F%3Fed%3D2560#[🇬🇧]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.122:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560fp%3Dchrome#[🏁]t.me/ConfigsHub
+trojan://Aimer@173.245.59.202:2083?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36111#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODQ3MWRkNS0xYzVmLTQ0NDgtYmE5ZS0wYzRhMWExNzgyYjI@free.2apzhfa.xyz:31243#[🏁]t.me/ConfigsHub
+vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@172.67.75.162:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
+trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?security=tls&type=ws&sni=5ttt.191288.xyz&path=/BFBuPh4SuxTxCwkqKrjE&host=5ttt.191288.xyz#[🇨🇦]t.me/ConfigsHub
