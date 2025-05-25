@@ -65777,3 +65777,10 @@ vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?path=%
 vless://2cc7f7ce-282a-4498-9e51-dd0f64b01f4a@167.235.28.81:6893?type=tcp#[🇩🇪]t.me/MoftConfig
 vless://e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&security=none&encryption=none&authority=%2F%40&type=grpc#[🇩🇪]t.me/MoftConfig
 trojan://Aimer@192.0.54.7:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.148.22:80?mode=auto&path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=mother764.dgclix.ir&type=xhttp#[🇨🇦]t.me/MoftConfig
+vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.148.22:80?mode=auto&path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=mother764.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUWG1CVlRERlJqMGtoTjk4dUh1TTJn@194.87.45.189:443#🇪🇸 Испания
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiI0OTEyMSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.147.22:80?mode=auto&path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=mother764.dgclix.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
+vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.147.22:80?mode=auto&path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=none&encryption=none&host=mother764.dgclix.ir&type=xhttp#[🇨🇦]t.me/MoftConfig
+vless://91140646-4ee6-40d4-8103-69f79c8aebb5@159.223.28.7:443?mode=gun&security=none&encryption=none&authority=telegram%3Afergalvpnmod&type=grpc&serviceName=telegram%3Afergalvpnmod#[🇩🇪]t.me/ConfigsHub
