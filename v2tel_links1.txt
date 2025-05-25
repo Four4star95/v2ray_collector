@@ -65944,3 +65944,5 @@ trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&s
 trojan://Aimer@154.197.64.173:2053?sni=epccf.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
 vless://38c24107-7e04-4246-92c6-eeab7c83a810@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYjUyOTdmMjIwM2I=@103.140.136.76:443#[🏁]t.me/ConfigsHub
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@91.206.71.202:443?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE%3Fed&security=tls&encryption=none&host=ir-ddos.com&type=ws&sni=ir-ddos.com#[🇳🇱]t.me/ConfigsHub
+trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#⚜️Telegram:@IP_CF
