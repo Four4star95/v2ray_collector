@@ -65966,3 +65966,9 @@ trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.107:2377#[🇺🇸]t.me/MoftConfig
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.132:8880?security=none&encryption=none&host=sk.laoyoutiao.link&type=ws&sni=sk.laoyoutiao.link#[🇬🇧]t.me/MoftConfig
 vless://fe80271a-8d6b-4718-b1d6-a4104d5c0655@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.33:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/MoftConfig
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.19.54.50:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.18.250.33:80?path=Telegram%F0%9F%87%AE%F0%9F%87%B7Channel%20id%3A%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.19.54.50:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=harmony-427.pages.dev&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZW9UdGptR3hRQ3RPSmVyTXFlU0ZO@81.19.141.45:443#🇩🇪 Германия
