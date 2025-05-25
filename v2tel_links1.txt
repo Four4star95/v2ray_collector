@@ -65795,3 +65795,5 @@ vless://3834a452-778b-42d5-be27-b12236597a0d@ufc.ru:80?path=%2FVPNCUSTOMIZE--VPN
 vless://ec33b404-4be2-4e33-ad79-976a00185082@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&encryption=none&alpn=http/1.1&host=cdn.www.ir-sub.fun&fp=chrome&type=ws&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
 trojan://Aimer@192.0.54.7:443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.250.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+trojan://RlzoEILU@36.151.251.59:44907?allowInsecure=1&sni=cdn.egvra.cn#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.12.75.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#[🇷🇺]t.me/ConfigsHub
