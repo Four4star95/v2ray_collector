@@ -1,3 +1,4 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.14ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?encryption=none&security=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:60.35ms
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:33.22ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.178:8880?encryption=none&security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
@@ -114,7 +115,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880/?type=ws&encrypti
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://e2d82258-fc6b-40e7-a292-d8991d9d2ec0@lunavopershian.adas.monster:38290?type=xhttp&path=%2Fshahin2001&host=&mode=auto&security=reality&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&fp=chrome&sni=lunavopershiansni369871.adas.monster&sid=e559dd&spx=%2F#[🇩🇪]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.243.83.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.64.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.61:8880/?type=ws&encryption=none&host=yd.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://e2d82258-fc6b-40e7-a292-d8991d9d2ec0@lunavopershian.adas.monster:38290?type=xhttp&path=%2Fshahin2001&host=&mode=auto&security=reality&pbk=YwovOka4bw_cog0WRI_245U9NC4I26TaGxhAKfGSskM&fp=chrome&sni=lunavopershiansni369871.adas.monster&sid=e559dd&spx=%2F#[🇩🇪]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.177:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%3A#[🇩🇪]t.me/ConfigsHub
