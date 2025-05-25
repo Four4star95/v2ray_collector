@@ -65598,3 +65598,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880/?type=ws&encrypti
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.181.197.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@193.9.49.158:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%3A#[🇩🇪]t.me/ConfigsHub
+vless://4f862a13-5f13-44c4-8f28-313099d92843@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+ss://YWVzLTI1Ni1nY206TjIzRkRVNjVFR0hGTDZPWQ@ti3hyra4.slashdevslashnetslashtun.net:18012#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGE2NTVmNC0zNWUwLTRhMTctYmRjZC1hMWNlNmY3Y2NlOTE@free.2weradf.xyz:36141#[🏁]t.me/ConfigsHub
+trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGE2NTVmNC0zNWUwLTRhMTctYmRjZC1hMWNlNmY3Y2NlOTE@free.2weradf.xyz:36141#[🏁]t.me/MoftConfig
+vless://dc4c6780-9315-494b-9a49-34ae12fb1c84@ns8.esfahansiman.com:1210?mode=gun&security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&sni=ubuntu.com&sid=7fe29733#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE2LjE1NS4xMCIsInBvcnQiOiIyMDg2IiwidHlwZSI6Im5vbmUiLCJpZCI6ImMyMWI5NzJhLWJjOTItNGY4Yy04ZTZhLTY4NjgwMDFmN2Y4OCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsImhvc3QiOiJlcmZwdXM5NjJpdnNiOHB3cmkubG92ZWJhaXBpYW8uY29tIiwidGxzIjoiIn0=
+trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&sni=epccv.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
