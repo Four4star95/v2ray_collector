@@ -65626,3 +65626,13 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.29:8880?path=%2FTelegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.193.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.193.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSkU0WDVUWXdGTnJsZTRyR0JaQndO@89.185.84.185:443#🇬🇧 Великобритания
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.10:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#[🇬🇧]t.me/MoftConfig
+trojan://Aimer@5.182.85.189:2096?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#[🇷🇺]t.me/MoftConfig
+vless://add9aa8b-90f7-454b-ba40-5648d09077e4@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODQ3MWRkNS0xYzVmLTQ0NDgtYmE5ZS0wYzRhMWExNzgyYjI@free.2apzhfa.xyz:31411#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/MoftConfig
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.203.29:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws#[🏁]t.me/MoftConfig
