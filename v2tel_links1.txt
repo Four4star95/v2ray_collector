@@ -65879,3 +65879,10 @@ vless://797755cb-bd76-4b11-8d57-9ce427e67441@194.182.79.41:48615?mode=gun&securi
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@ufc.ru:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#[🇺🇸]t.me/ConfigsHub
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@ufc.ru:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#[🇨🇦]t.me/ConfigsHub
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@91.206.71.202:443/?type=ws&encryption=none&flow=&host=ir-ddos.com&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048&security=tls&sni=ir-ddos.com&allowInsecure=1#[🇳🇱]t.me/ConfigsHub
+vless://fc8512a3-4a9a-463a-a9d8-9679998a5a69@104.24.196.20:2086?path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=wwW.speedtesT.net.eLectrolUxxv.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+trojan://Aimer@188.164.159.220:2083?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36115#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTbmJRV01LcERxTGk1RDlnZ1FCc1Y4@174.138.17.254:52252#[🏁]t.me/ConfigsHub
+trojan://Aimer@47.79.84.167:443?sni=epccc.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q5NjU=@free.2apzhfa.xyz:31245#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmZmNGFiMi1jZWNlLTRiNWUtYmViOC1kMjc3YjVhNWZhNzU@free.2weradf.xyz:36722#[🏁]t.me/ConfigsHub
