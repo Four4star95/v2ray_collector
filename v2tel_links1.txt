@@ -65686,3 +65686,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.81.58.29:8880/?type=ws&encryptio
 vless://02fae33c-3137-48f6-abeb-8fd8c7aa5001@116.203.149.50:33274/?type=ws&encryption=none&path=%2F%40drakvpn#[🇩🇪]t.me/MoftConfig
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.238:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🇬🇧]t.me/MoftConfig
 vless://9f444e9c-b631-4423-a266-574516c75054@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@5.182.85.189:2096?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
