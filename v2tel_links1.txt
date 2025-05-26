@@ -66491,3 +66491,9 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYWVYZFJNUUszS3NHT3BsUUU5ZG1u@77.83.246.74:443#🇵🇱 Польша
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#👉🆔@MoftConfig📡🇵🇱®️Poland©️Warsaw🅿️ping:46.76ms
 vless://ac8a603b-81a3-4011-b11d-0d1e05664c7a@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Ws.speedtest.a.Spdnet.ir&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.04ms
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.96.1:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=@bypass_filter%2F%3Fed%3D100#[🇨🇦]t.me/MoftConfig
+vless://30c11b97-0f02-4e56-a5bf-d7daa79724ce@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vless://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?encryption=none&security=tls&sni=mydigipay.com&type=ws&host=mrpooya10.sbs&path=%2FJoin:@CyberSoldiersST#[🇮🇷]t.me/MoftConfig
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#[🏁]t.me/MoftConfig
+vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.23.149:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#[🇨🇦]t.me/MoftConfig
+vless://db655400-3b76-5530-a13b-b908b691484b@138.124.31.187:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=fr.vless.comnpmjs.com#[🇫🇷]t.me/ConfigsHub
