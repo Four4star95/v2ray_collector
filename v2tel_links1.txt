@@ -66270,3 +66270,5 @@ trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?path=%2FBFBuPh4
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/ConfigsHub
 vless://82a8ab9d-d980-4f53-9b91-15bb99b27cdb@142.93.231.14:32651?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.222.97:443#[🇬🇧]t.me/ConfigsHub
+vless://d66e0084-c2cd-4eba-e803-7d842b1bf075@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D%23%3Fed%3D512&security=none&encryption=none&host=foffmelo.com&type=ws#[🇬🇧]t.me/MoftConfig
+vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@146.19.143.150:4768?security=reality&flow=xtls-rprx-vision&sni=yandex.com&type=tcp&fp=chrome&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#[🏁]t.me/MoftConfig
