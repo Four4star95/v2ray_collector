@@ -66474,3 +66474,20 @@ vless://TELEGRAM-NUFiLTER@theatlantic.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegra
 vless://945923e1-062f-4fd3-9b75-1dadfb58e331@104.17.21.157:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=selllv2rayng.nanvrfood.ir.&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.29ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@131.145.124.17:443#[🇬🇧]t.me/MoftConfig
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjIzLjEzNS4xNTYuMTY4IiwicG9ydCI6IjIzOTQxIiwiaWQiOiJhY2M2NTBiNi1iNDFmLTRhNzYtYjNlMy02ODdlMTFmZmNhNmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#👉🆔@MoftConfig📡🇸🇰®️Slovakia©️Bratislava🅿️ping:49.01ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSThUVzVRWHNFRVhscHZmU2xQOTZD@138.124.184.70:34868#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:102.39ms
+ss://YWVzLTI1Ni1nY206S0M0MU1NWVZBWDgzR0RKMA%3D%3D@185.186.79.135:20028#👉🆔@MoftConfig📡🇩🇰®️Denmark©️Copenhagen🅿️ping:16.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.69ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:8.56ms
+ss://YWVzLTI1Ni1nY206SFlRTVdVMFVKQkdSWlNCMg@185.126.237.58:20027#👉🆔@MoftConfig📡🇷🇴®️Romania©️Bucharest🅿️ping:52.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.85ms
+vless://891e9fe4-9165-42ec-d714-e2d80f491e2b@57.129.13.51:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=de.demandio.se#👉🆔@MoftConfig📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:34.09ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇷🇺®️Russia©️Novosibirsk🅿️ping:8.28ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:8.16ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:32.8ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:267.03ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=&sni=pqh24v3.hiddendom.shop#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:19.09ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:266.96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYWVYZFJNUUszS3NHT3BsUUU5ZG1u@77.83.246.74:443#🇵🇱 Польша
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#👉🆔@MoftConfig📡🇵🇱®️Poland©️Warsaw🅿️ping:46.76ms
+vless://ac8a603b-81a3-4011-b11d-0d1e05664c7a@151.101.3.8:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Ws.speedtest.a.Spdnet.ir&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.04ms
