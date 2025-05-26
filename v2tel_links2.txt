@@ -27089,3 +27089,22 @@ trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#⚜️Telegra
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#[🇫🇷]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/MoftConfig
 trojan://Aimer@162.159.142.25:443?sni=epccf.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@199.34.230.9:8443?sni=epccx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&host=test-a23.pages.dev#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@162.159.128.172:443?sni=epccg.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@162.159.138.207:443?type=ws&sni=epcca.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36411#[🏁]t.me/MoftConfig
+vless://b02135e4-68d5-4f03-944e-06874e4d0598@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidjMyLmhlZHVpYW4ubGluayIsInBvcnQiOiIzMDgzMiIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9vb29vIiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9
+trojan://123456@104.25.165.83:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@104.21.37.106:443?sni=epcch.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGJlMDZlYS0wNmZiLTQ3OWItYTZmMS05MjliN2MwMWQxZWE=@154.83.90.11:51103#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36145#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q5NjU=@free.2apzhfa.xyz:31671#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#[🇬🇧]t.me/MoftConfig
+trojan://Aimer@172.64.33.73:2096?sni=epcch.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36571#[🏁]t.me/MoftConfig
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.206:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#[🇬🇧]t.me/MoftConfig
+vless://8953473f-0cf3-4ba7-8648-55b03f61a70a@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://vs6f8hvt@104.17.246.203:2053?security=tls&type=ws&sni=trojan.cchappy.eu.org&host=trojan.cchappy.eu.org#[🇨🇦]t.me/MoftConfig
