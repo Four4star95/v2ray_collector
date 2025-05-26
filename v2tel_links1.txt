@@ -66265,3 +66265,6 @@ vmess://eyJhZGQiOiIxNDIuMTMyLjE4NS4xNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://6bf9e169-2b20-4240-9bc7-a866a5e512ab@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bDhvSE1BRThmbkpjR283QTJEa1M2@194.87.45.189:443#[🏁]t.me/MoftConfig
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?path=%2FBFBuPh4SuxTxCwkqKrjE&security=tls&host=5ttt.191288.xyz&type=ws&sni=5ttt.191288.xyz#[🇨🇦]t.me/ConfigsHub
+trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443?path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&security=tls&alpn=http%2F1.1&host=m5rtyu.999658.xyz&fp=chrome&type=ws&sni=m5rtyu.999658.xyz#[🇨🇦]t.me/MoftConfig
+trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?path=%2FBFBuPh4SuxTxCwkqKrjE&security=tls&host=5ttt.191288.xyz&type=ws&sni=5ttt.191288.xyz#[🇨🇦]t.me/MoftConfig
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/ConfigsHub
