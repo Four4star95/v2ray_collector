@@ -66085,3 +66085,6 @@ vless://43a9c16e-5874-4a3a-8d09-b2d4a3d2d446@hon5.vpntype.dev:443?security=tls&e
 vless://19744009-f344-4e25-a480-a9122bc1af9e@78.47.203.133:8787?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 trojan://Aimer@154.197.64.206:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://19744009-f344-4e25-a480-a9122bc1af9e@78.47.203.133:8787?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://3d200d2e-d988-4041-a975-b770045dee11@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@108.165.152.113:443?sni=epccd.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://3d200d2e-d988-4041-a975-b770045dee11@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
