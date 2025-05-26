@@ -66268,3 +66268,5 @@ trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?path=%2FBFBuPh4
 trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443?path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&security=tls&alpn=http%2F1.1&host=m5rtyu.999658.xyz&fp=chrome&type=ws&sni=m5rtyu.999658.xyz#[🇨🇦]t.me/MoftConfig
 trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?path=%2FBFBuPh4SuxTxCwkqKrjE&security=tls&host=5ttt.191288.xyz&type=ws&sni=5ttt.191288.xyz#[🇨🇦]t.me/MoftConfig
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#[🇺🇸]t.me/ConfigsHub
+vless://82a8ab9d-d980-4f53-9b91-15bb99b27cdb@142.93.231.14:32651?mode=gun&security=none&encryption=none&type=grpc#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.222.97:443#[🇬🇧]t.me/ConfigsHub
