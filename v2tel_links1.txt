@@ -66264,3 +66264,4 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955
 vmess://eyJhZGQiOiIxNDIuMTMyLjE4NS4xNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzg2ZDMxNWEtOTVmYy00NGVlLTk1MzYtNGM1ZWQxYTQ1NmNlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTY3OSIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://6bf9e169-2b20-4240-9bc7-a866a5e512ab@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bDhvSE1BRThmbkpjR283QTJEa1M2@194.87.45.189:443#[🏁]t.me/MoftConfig
+trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?path=%2FBFBuPh4SuxTxCwkqKrjE&security=tls&host=5ttt.191288.xyz&type=ws&sni=5ttt.191288.xyz#[🇨🇦]t.me/ConfigsHub
