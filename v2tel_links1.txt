@@ -66394,3 +66394,11 @@ vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?path=%2FCPI&secur
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:30.81ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔@MoftConfig📡🇨🇦®️Canada©️Beauharnois🅿️ping:154.93ms
 ss://YWVzLTI1Ni1nY206SFlRTVdVMFVKQkdSWlNCMg@185.126.237.58:20027#👉🆔@MoftConfig📡🇷🇴®️Romania©️Bucharest🅿️ping:51.98ms
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.73.242.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.242.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-privatevpns@3.73.242.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.73.242.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJhZGQiOiJjYzQyNGRlNC1zd2QzNDAtc3dwM2YzLTF0ZXVjLmhnYzEudGNwYmJyLm5ldCIsImFpZCI6MCwiaG9zdCI6ImNjNDI0ZGU0LXN3ZDM0MC1zd3AzZjMtMXRldWMuaGdjMS50Y3BiYnIubmV0IiwiaWQiOiJhNWE4MWEzNC1mMjU3LTExZWYtYmE4Mi1mMjNjOTEzYzhkMmIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+trojan://telegram-id-directvpn@3.73.242.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.242.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
