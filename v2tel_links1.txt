@@ -66056,3 +66056,9 @@ vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?encryption=n
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?encryption=none&security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI#[🇨🇦]t.me/MoftConfig
 trojan://AACY9aXaD0ZDyuyOBzD3Onl2ICw6anBE8l3SRl38RCSDpw7FpYzcRj7NeaFSpR5qx85Su@13.114.65.253:443?security=tls&headerType=none&type=tcp&sni=forward.meijireform.com#⚜️Telegram:@IP_CF
 vless://5844d627-e5b9-474e-942a-415c95e968f1@104.17.148.22:80?encryption=none&security=none&type=xhttp&host=mother764.dgclix.ir&path=%2F%3FBIA_CHANEL%40MARAMBASHI_MARAMBASHI&mode=auto#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMzZUUGFiMXVoS2NzOUlKQmY5bjFJ@81.19.141.45:443#🇩🇪 Германия
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇳🇱]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇷🇺]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@188.42.88.201:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇳🇱]t.me/ConfigsHub
