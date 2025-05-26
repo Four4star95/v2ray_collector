@@ -66101,3 +66101,14 @@ trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&type=ws&sni=NOp
 trojan://Aimer@172.64.35.168:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@108.162.195.127:443?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@67.226.221.3:80?sni=epccz.ambercc.filegear-sg.me&allowInsecure=0#[🇺🇸]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.105.229:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://cb96954f-a486-4b20-a120-0815f9764b25@beta.nilistore.fun:911?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.123.105.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.123.105.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.123.105.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuTWF6U3hkMnJMQ2ZKZFdJblNCdlRX@194.87.45.189:443#🇪🇸 Испания
+trojan://telegram-id-directvpn@3.123.105.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.123.105.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.105.229:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+trojan://telegram-id-privatevpns@3.123.105.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+vless://cb96954f-a486-4b20-a120-0815f9764b25@beta.nilistore.fun:911?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
