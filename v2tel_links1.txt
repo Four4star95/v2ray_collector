@@ -66373,3 +66373,24 @@ vless://b1829a50-1d91-4c6e-b2aa-4234cdffb812@151.101.128.155:80?security=none&ty
 vless://fe844ed2-85a6-40f8-897a-c4a41072bcc2@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.vegaskala.com.&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwQ0ZmbERnTm41Qzg5SU1BOG10OWNn@62.60.234.92:53579#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WkVZckIyNWVMcGlMaEIyN3U3Y3VMRG9STDZqaFpNZkN4cnNyTXZPeGNTMkVNR2J2V2lKZEsyaXRpV1VIQVE9@pl1.gamechat.click:443#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️New Barnet🅿️ping:47.01ms
+vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:21.21ms
+trojan://telegram-id-directvpn@18.184.243.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://9e9c5301-6ddf-41c7-837d-489d3b8ba4af@speedtest.net:80?flow=&type=xhttp&host=jointo_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&extra=&security=none#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.69ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:264.54ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqf1v8.fomula1race.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.37ms
+vless://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?path=%2F&security=tls&encryption=none&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&type=ws&sni=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:270.63ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:46.69ms
+vless://9ae18aa0-8887-4913-a35a-9f014d58d100@104.21.42.56:443?path=%2F&security=tls&encryption=none&host=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev&type=ws&sni=gzwfgglclokmx5vvazjcideqec5c2vofss4nvs0rkuytvnkrdyawwc6hnimovos.958dtd.workers.Dev#[🇨🇦]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.81ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh26v3.sport26tennis.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySzRkVEZuNUVuRVdLNmlwWnBtMTVmTk11UHcxTEpRalNLUUJoV25LMnF4SmJjVks3bXcybUFWWWRyaU4yZE5rMmh2blJFaEw1eVdueTJ6TmhqRjFGWktKU2JHdXRYSkg%3D@94.156.79.244:40934#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Meppel🅿️ping:32.65ms
+vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=none&encryption=none&host=mihanwebhost.iri&type=ws#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:57.25ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#⚜️Telegram:@IP_CF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:31.27ms
+vless://5e802e1a-3c82-41ec-aaca-f6371b8b86a5@160.153.0.11:2083?path=%2FCPI&security=tls&encryption=none&host=fraG2.MAhSAAmINI.cC&type=ws&sni=fraG2.MAhSAAmINI.cC#[🇺🇸]t.me/MoftConfig
+vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:30.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔@MoftConfig📡🇨🇦®️Canada©️Beauharnois🅿️ping:154.93ms
+ss://YWVzLTI1Ni1nY206SFlRTVdVMFVKQkdSWlNCMg@185.126.237.58:20027#👉🆔@MoftConfig📡🇷🇴®️Romania©️Bucharest🅿️ping:51.98ms
