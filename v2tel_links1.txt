@@ -66082,3 +66082,6 @@ trojan://gIRrGnuuNm@188.42.88.144:2096?security=tls&sni=aa.v2jey.fun&type=ws&hos
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q5NjU=@free.2apzhfa.xyz:31371#[🏁]t.me/MoftConfig
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@91.206.71.202:443?path=%2FV2ray_Gl--V2ray_Gl--V2ray_Gl--V2ray_Gl--V2ray_Gl%3Fed&security=tls&encryption=none&host=ir-ddos.com&type=ws&sni=ir-ddos.com#[🇳🇱]t.me/ConfigsHub
 vless://43a9c16e-5874-4a3a-8d09-b2d4a3d2d446@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://19744009-f344-4e25-a480-a9122bc1af9e@78.47.203.133:8787?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+trojan://Aimer@154.197.64.206:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://19744009-f344-4e25-a480-a9122bc1af9e@78.47.203.133:8787?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
