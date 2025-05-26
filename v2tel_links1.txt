@@ -65988,3 +65988,25 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0Yjg
 
 
 
+trojan://Aimer@199.34.230.9:8443?sni=epccx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidjMyLmhlZHVpYW4ubGluayIsInBvcnQiOiIzMDgzMiIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9vb29vIiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9
+vless://b02135e4-68d5-4f03-944e-06874e4d0598@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+ss://YWVzLTI1Ni1nY206VFRZMDdXTTM3TkVYQ1BRQg==@156.231.104.22:18012#[🏁]t.me/MoftConfig
+trojan://ksCDo3aEam@172.67.141.68:443?security=tls&type=ws&sni=tabnak.itn24.ir&path=/51759/@M3HDIO1&host=tabnak.itn24.ir#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@20.243.85.49:10443?sni=epccc.ambercc.filegear-sg.me#[🏁]t.me/MoftConfig
+trojan://Aimer@172.66.46.66:443?sni=epcca.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@125.227.86.47:2377#[🏁]t.me/MoftConfig
+vless://77878b21-2730-4372-9114-5d32af533a22@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MTc1ZDljYS0zYjU0LTQ3YTUtYWE0MS0zY2E2MGYyM2Q5NjU=@free.2apzhfa.xyz:31641#[🏁]t.me/MoftConfig
+trojan://0212fab5-e93c-4904-b7a8-187fd535f354@172.67.159.56:443?security=tls&type=ws&sni=3wsxcvbn.890617.xyz&path=/rFt8MpX4JNWO67qEaMINZ1&host=3wsxcvbn.890617.xyz#[🇨🇦]t.me/MoftConfig
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36721#[🏁]t.me/MoftConfig
+trojan://Aimer@104.17.127.213:443?sni=epccf.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
+trojan://Aimer@172.64.33.73:2096?sni=epcch.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://28152e63-1e25-40b0-9273-1f6e1eaeaa31@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODQ3MWRkNS0xYzVmLTQ0NDgtYmE5ZS0wYzRhMWExNzgyYjI@free.2apzhfa.xyz:31245#[🏁]t.me/MoftConfig
+ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE=@218.237.185.230:4652#[🏁]t.me/MoftConfig
+vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.83.2.44:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36243#[🏁]t.me/MoftConfig
+vless://52fd6729-0bf8-47da-b23b-7e3a22603e6a@151.101.130.133:80?type=ws&host=Channel-ELiV2.RAY.neT&path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzQyZWVhYi1kOTU1LTRjMjktOGIxMi0yYzEzYmI0YjgyMGE=@free.2weradf.xyz:36741#[🏁]t.me/MoftConfig

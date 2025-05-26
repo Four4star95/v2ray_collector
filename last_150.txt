@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOHJPbmFWLTNrd3d1VTR5bTI5Yndn@homa.cybsecguru.com:55558?type=tcp#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:9.59ms
+vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087?security=tls&sni=hi.univermap.site&type=ws&host=hi.univermap.site&fp=chrome#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:13.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOHJPbmFWLTNrd3d1VTR5bTI5Yndn@homa.cybsecguru.com:55553?type=tcp#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:9.31ms
 vless://3eeb6e39-bd2a-4245-9bb4-ea6e66d9d56e@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeedeeeeee.ir&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.77ms
 vless://33004932-debf-43e2-ba19-59a47b627b66@a1jmsgke.namak.fun:52638?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online%2Cgharar.ir%2Cigap.net#[🇮🇷]t.me/ConfigsHub
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.17.148.22:2052?encryption=none&security=none&type=ws&host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&path=%2FTelegram%40FreeIranWeb%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
@@ -139,10 +142,7 @@ trojan://telegram-id-privatevpns@52.58.118.168:22222?security=tls&alpn=http/1.1&
 vless://df8b1eef-ece7-4e28-b416-800b9ae88c45@49.13.60.152:684?mode=gun&security=none&encryption=none&type=grpc&serviceName=iran.bonyadedocker.ir#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.65.90.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
 trojan://bpb-trojan@23.227.60.8:443?security=tls&type=tcp&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev#[🇨🇦]t.me/MoftConfig
-trojan://Aimer@199.34.230.9:8443?sni=epccx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 trojan://Aimer@162.159.138.207:443?type=ws&sni=epcca.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
-vless://b02135e4-68d5-4f03-944e-06874e4d0598@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidjMyLmhlZHVpYW4ubGluayIsInBvcnQiOiIzMDgzMiIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9vb29vIiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9
 trojan://123456@104.25.165.83:8443?security=tls&type=ws&sni=top-azx.pages.dev&host=top-azx.pages.dev#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@104.21.37.106:443?sni=epcch.ambercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.149:443#[🇬🇧]t.me/MoftConfig
