@@ -66261,3 +66261,6 @@ vless://c05d6d23-b67b-4f00-ad57-a754a222ea83@2.irancella.blog:2089?security=real
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRUJhbFVsa3paN0dGRUpBTWY1UDM4@77.83.246.74:443#🇵🇱 Польша
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955850.xyz&allowInsecure=1#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxNDIuMTMyLjE4NS4xNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzg2ZDMxNWEtOTVmYy00NGVlLTk1MzYtNGM1ZWQxYTQ1NmNlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTY3OSIsInBzIjoiW/Cfh6nwn4eqXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://6bf9e169-2b20-4240-9bc7-a866a5e512ab@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bDhvSE1BRThmbkpjR283QTJEa1M2@194.87.45.189:443#[🏁]t.me/MoftConfig
