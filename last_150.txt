@@ -1,3 +1,4 @@
+vless://15c365b7-baa5-496b-bee9-da685e7d3b2e@SagBanD-DowNloaDmoviE720P.DownLoadfIlmiRoOnI.Ir:1000?security=reality&encryption=none&pbk=POrgW6IKSeQ7ZUY1TDT7s7zmX1oJIc4mYYjweldtWTs&headerType=none&fp=chrome&type=tcp&sni=mail.neptanc.ro&sid=cf75d69093db2f96#[🇩🇪]t.me/MoftConfig
 trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@172.67.163.102:443?sni=sDFgHU.931.pP.ua#[🇨🇦]t.me/MoftConfig
 vless://3a66ddcc-e281-4375-90e6-7cb2009d2f49@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://1d8b0381-7096-4da5-ba04-c3a5efd0b548@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#[🇨🇦]t.me/MoftConfig
@@ -138,7 +139,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#👉🆔@MoftConfig�
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.68:443#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.15ms
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#👉🆔@MoftConfig📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:10.52ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Zurich🅿️ping:47.1ms
-trojan://telegram-id-directvpn@13.38.223.72:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.160:443#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:113.37ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:147.06ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver🅿️ping:168.87ms
