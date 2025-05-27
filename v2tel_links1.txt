@@ -67372,3 +67372,24 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:50.63ms
 vless://SVNTEAM@public.misvn.ir:443?security=reality&encryption=none&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org#👉🆔@MoftConfig📡🇩🇪®️Germany©️Falkenstein🅿️ping:36.41ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:42.4ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?encryption=none&security=none&type=grpc&headertype=none&mode=gun#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:36.02ms
+vless://09e84d36-de75-4bad-9960-a84d6f1eab9b@ufc.ru:80?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=JOIN-ELiV2RAY.IR&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.46ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&sni=pqh35v4.gym35fit.shop&type=grpc&host=pqh35v4.gym35fit.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.24ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjIuMTQ2LjIzMy42NiIsInBvcnQiOiIxNTgyOCIsImlkIjoiOGI5Y2YzZGMtYzI4Mi00MjRmLWE1OTAtYzQ1YzlhMzZkM2Y5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:50.46ms
+vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@172.67.217.31:443?encryption=none&security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Meppel🅿️ping:30.21ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://be64bbdb-6c82-4f66-8639-f2c9033211f0@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6…#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.0ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:50.63ms
+vless://09e84d36-de75-4bad-9960-a84d6f1eab9b@91.206.71.202:443/?type=ws&encryption=none&flow=&host=ir-ddos.com&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048&security=tls&sni=ir-ddos.com&allowInsecure=1#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Vilnius🅿️ping:9.13ms
+vless://09e84d36-de75-4bad-9960-a84d6f1eab9b@ufc.ru:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.46ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:64.38ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:38.09ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.12ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.98:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.41ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.62ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:46.7ms
+vless://09e84d36-de75-4bad-9960-a84d6f1eab9b@ufc.ru:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.83ms
