@@ -67677,3 +67677,5 @@ vless://c23462c4-986a-402e-80f8-dce5e1e893c0@e.nl.cdn.maviks.eu:443?path=%2FpLmd
 vless://ce13ba27-6ef1-4eb0-8aa5-b7215ea71848@185.143.233.120:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cloud.sappcode.ir&fp=chrome&type=ws&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
 vless://c23462c4-986a-402e-80f8-dce5e1e893c0@d.nl.cdn.maviks.eu:443?path=%2FMaGLM25tSikPTFr75Q0Yri&security=tls&encryption=none&host=cdn.maviks.eu&fp=chrome&type=httpupgrade&sni=cdn.maviks.eu#[🇬🇧]t.me/ConfigsHub
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.pronetwork.com#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.63.250:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.69.63.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
