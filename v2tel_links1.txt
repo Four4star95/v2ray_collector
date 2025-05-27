@@ -67680,3 +67680,11 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.63.250:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@3.69.63.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@162.55.185.143:22000?mode=gun&security=reality&encryption=none&pbk=f8YkaG5qTpO4VrwZAXriDsuhM_OB1vEtcq_XQ3Y040A&fp=random&type=grpc&serviceName=Tok&sni=refersion.com&sid=a14a0330c8ede1cd#[🇩🇪]t.me/ConfigsHub
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@172.66.47.152:8443?path=%2F8FZhz1YWLM7hxUM3%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87aE4b92.bESTTTTTiVPn.PAGEs.DeV#[🇨🇦]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.119:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#[🏁]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#[🏁]t.me/ConfigsHub
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@87ae4b92.bestttttivpn.pages.dev:8443?path=%2FbEKAVD5VfOednxo6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87Ae4B92.BEstTtttIVpN.paGEs.DEV#[🇨🇦]t.me/ConfigsHub
+vless://71b0a2f6-77eb-457c-b060-13de21b976c9@140.248.75.255:443?path=%2FTelegram-NetPie&security=tls&encryption=none&host=netpie.com&type=ws&sni=netpie.com#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206MWFhMjNlY2VmZWJhNjY2OQ%3D%3D@194.87.196.7:2029#[🇷🇺]t.me/ConfigsHub
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@172.66.44.104:8443?path=%2Fg7gLAgweCiEhLgds%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87AE4B92.BeStTTtTIvpn.pAgES.DeV#[🇨🇦]t.me/ConfigsHub
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@www.speedtest.net:8443?path=%2FsZAoEt48NytZGQPJ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87AE4b92.besTtTttIVPn.PAGeS.dEv#[🇨🇦]t.me/ConfigsHub
