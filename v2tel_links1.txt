@@ -67672,3 +67672,8 @@ vless://8dd76336-74cf-4e95-e236-1d5a9b27d17b@188.34.164.75:6666?mode=gun&securit
 vless://1ec47646-4cd2-4e1d-b55f-bf933f405195@104.19.54.50:8080?type=ws&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&security=none#[🇨🇦]t.me/ConfigsHub
 
 vless://ce13ba27-6ef1-4eb0-8aa5-b7215ea71848@185.143.233.120:443?type=ws&path=%2F&host=cloud.sappcode.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com#[🇨🇦]t.me/ConfigsHub
+vless://c23462c4-986a-402e-80f8-dce5e1e893c0@e.nl.cdn.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#[🇬🇧]t.me/ConfigsHub
+vless://ce13ba27-6ef1-4eb0-8aa5-b7215ea71848@185.143.233.120:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cloud.sappcode.ir&fp=chrome&type=ws&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
+vless://c23462c4-986a-402e-80f8-dce5e1e893c0@d.nl.cdn.maviks.eu:443?path=%2FMaGLM25tSikPTFr75Q0Yri&security=tls&encryption=none&host=cdn.maviks.eu&fp=chrome&type=httpupgrade&sni=cdn.maviks.eu#[🇬🇧]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.pronetwork.com#[🇨🇦]t.me/ConfigsHub
