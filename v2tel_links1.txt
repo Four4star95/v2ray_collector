@@ -68171,3 +68171,24 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTELEGRAM%40
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:22.13ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️New Barnet🅿️ping:41.9ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Bursa🅿️ping:22.12ms
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=%2Fwebsocket%3Fed%3D2048-%40ShadowProxy66&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#👉🆔@MoftConfig📡🇱🇻®️Latvia©️Riga🅿️ping:15.48ms
+vless://883afa8d-6cc5-4580-b8c7-3b8f5b195892@p8.punchline.ir:20775?type=xhttp&path=%2Fv2raybluecrystal&host=&mode=auto&security=reality&pbk=JV8xe6kiRR1Ev0QRzjERfqiUOs1VrqC31fZtbnvcZHM&fp=chrome&sni=www.microsoft.com&sid=c7dbe2302e63ac44&spx=%2F#[🇳🇱]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:22.04ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.4:8880?path=Telegram%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.62ms
+vless://7455dc11-4417-49f2-9d99-4269394ec40d@157.245.23.165:2053?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:27.33ms
+vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&security=tls&encryption=none&host=ir.akcovufun.ir&type=ws&sni=ir.akcovufun.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.76ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:45.88ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.66.228:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v03.networkpro.net&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:8.66ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Bursa🅿️ping:21.41ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=none&sni=pqh27v5.nature27.shop&type=grpc&host=pqh27v5.nature27.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.15ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:36.31ms
+vless://1821e8ff-ef32-4e22-8b6a-37aaa7760e80@65.109.198.214:19720?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:14.55ms
+vless://945923e1-062f-4fd3-9b75-1dadfb58e331@104.17.21.157:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=selllv2rayng.nanvrfood.ir.&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.2ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=none&sni=pqh33v1.cinema33.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.11ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&sni=pqf1v5.fomula1race.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.48ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh36v5.economy36top.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.01ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇨🇷®️Costa Rica©️Pozos🅿️ping:8.27ms
+vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:13.97ms
+vless://8c8873fb-6e68-4359-8d67-092d399612c9@185.82.126.141:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:21.67ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.39ms
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.165.177:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#👉🆔@MoftConfig📡🇺🇸®️United States©️Reston🅿️ping:142.48ms
