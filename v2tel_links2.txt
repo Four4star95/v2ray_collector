@@ -27679,3 +27679,29 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&securit
 vless://0f8691e2-c289-481b-9dcb-7a4578eab343@172.66.44.104:8443?path=%2Fg7gLAgweCiEhLgds%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87AE4B92.BeStTTtTIvpn.pAgES.DeV#⚜️Telegram:@IP_CF
 vless://5724b383-f0e7-47fc-a3ae-9786d1a5a2e9@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=&encryption=none&host=joinshhproxybedeedeeeeee.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:9.39ms
 vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.142.30:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#[🇺🇸]t.me/ConfigsHub
+vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=Amarat.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️New Barnet🅿️ping:41.9ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.84ms
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?type=ws&host=lv01.abvpn.ru&path=/websocket?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=lv01.abvpn.ru#👉🆔@MoftConfig📡🇱🇻®️Latvia©️Riga🅿️ping:15.48ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Bursa🅿️ping:22.12ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:52.82ms
+vless://TELEGRAM-NUFiLTER@89.34.230.186:3567?mode=gun&security=reality&encryption=none&authority=&pbk=OUFykWUCiUsuGV3oGsKRAAPmyev5dpnP3TvoJO9sECQ&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com&sid=0cc6d3a98d5c#%40NUFiLTER%F0%9F%87%B3%F0%9F%87%B1reality2
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@172.66.47.152:8443?path=%2F8FZhz1YWLM7hxUM3%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87aE4b92.bESTTTTTiVPn.PAGEs.DeV#⚜️Telegram:@IP_CF
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.05ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:52.69ms
+trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:269.13ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.22ms
+trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:8.66ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.45ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Chicago🅿️ping:108.23ms
+vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@ir.lunarmc.ir:2020?type=grpc&serviceName=&authority=&security=none#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān (District 2)🅿️ping:111.6ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=REEdfREe8MahSaNg2.rEDOrG.IR&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:14.79ms
+vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&host=soed.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#⚜️Telegram:@IP_CF
+vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?type=ws&path=/websocket?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=gbr01.abvpn.ru#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:29.93ms
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@www.speedtest.net:8443?path=%2FsZAoEt48NytZGQPJ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87AE4b92.besTtTttIVPn.PAGeS.dEv#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.69ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.47ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.34ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.88ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:22.13ms
