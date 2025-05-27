@@ -1,3 +1,4 @@
+trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.42ms
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v14.pronetwork.com#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.68ms
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=/?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#👉🆔@MoftConfig📡🇺🇸®️United States©️Atlanta🅿️ping:8.37ms
 vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed%2FTelegram%40WedBaZ------&security=&encryption=none&host=M4.nF9JZ2st7N.zULAiR.ORG.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.63ms
@@ -132,7 +133,6 @@ vless://6f393e4a-2811-4eb6-bbe3-a6917381bdcd@140.248.128.69:443?path=%2FChannel-
 vless://ca7fc37e-62fe-42d5-a9a2-6198d480d627@142.93.231.14:14538?security=none&type=grpc#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.11ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.114.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
-vless://8ed5d5c6-08c6-40ed-8f15-ff724c4ecad9@ns.cloudflare.com:2086?path=%2FGoodLuck%3Fed%3D2560&security=&encryption=none&host=USA11.serrjioo.ir&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@145.249.109.53:443?security=reality&encryption=none&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=7409f4913a0eba93#👉🆔@MoftConfig📡🇪🇸®️Spain©️Madrid🅿️ping:60.64ms
 vless://9fdef857-437d-40af-82ca-2c76de893eb6@95.164.16.166:3567?mode=gun&security=reality&encryption=none&pbk=3iP1kIE9A4r0dbC6OoERB95RKv6tZmCHUaNq4tf90lo&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=maps.google.com&sid=86#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.51ms
 vless://afdbb715-9de2-445b-a93d-b764c7dafe54@91.242.241.45:443#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:265.24ms
