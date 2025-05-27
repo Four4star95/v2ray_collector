@@ -27404,3 +27404,24 @@ vless://1821e8ff-ef32-4e22-8b6a-37aaa7760e80@65.109.198.214:19720?type=tcp&path=
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.221:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:7.88ms
 trojan://telegram-id-directvpn@13.38.223.72:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://322f9d78-c9c8-45cf-9ba1-c50946bcff9a@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.68ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:250.99ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Phoenix🅿️ping:153.37ms
+ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0%3D@139.162.106.142:11359#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:249.15ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Chicago🅿️ping:107.9ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.91ms
+vless://4d54fc83-3d4f-409f-a255-a3f3bfeec95c@jsogras.webeleven.ir:3114?security=reality&encryption=none&pbk=HmhJeIza6ZLRu38PWEI00aKv-Nqp4SglYXvDZj9rbhM&headerType=none&fp=random&type=tcp&sni=www.sunucun.com.tr&sid=c03adf0e43c6bb75#👉🆔@MoftConfig📡🇦🇺®️Australia©️Alexandria🅿️ping:287.44ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:35.37ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Seattle🅿️ping:171.65ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.68:443#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.15ms
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shorekeeper.cloudns.org#👉🆔@MoftConfig📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:10.52ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Zurich🅿️ping:47.1ms
+trojan://telegram-id-directvpn@13.38.223.72:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#⚜️Telegram:@IP_CF
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.160:443#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:113.37ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:147.06ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver🅿️ping:168.87ms
+vless://4fd16f19-a4eb-4c99-888e-07af121173d8@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:39.33ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.5ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638826619453662634.hamedan-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:21.49ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k%3D@77.91.103.73:443#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:30.43ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.67ms
+vless://0b139d40-22ae-4f57-b750-bb632640ba68@cdnvpntv20.erfantop.ir:2052?path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20V----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20%3Fed%3D2052&security=none&encryption=none&host=cdnvpntv20.erfantop.ir&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.93ms
