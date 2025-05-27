@@ -67509,3 +67509,14 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none
 vless://09e84d36-de75-4bad-9960-a84d6f1eab9b@ufc.ru:80?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=none&encryption=none&host=JOIN-ELiV2RAY.IR&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:8.26ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.160:80/?type=ws&encryption=none&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.38ms
+vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=&encryption=none&host=mihanwebhost.iri&type=ws#[🇳🇱]t.me/MoftConfig
+vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@145.249.109.53:443?security=reality&encryption=none&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=7409f4913a0eba93#[🏁]t.me/ConfigsHub
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083?allowInsecure=1&sni=test.bujidao.org&type=ws&host=test.bujidao.org&path=/?ed=2048fp=chrome&security=tls#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZ1Y5VVNaOUVpYUFpR0p2dHNsMWs3@45.95.232.236:4248#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#[🇩🇪]t.me/MoftConfig
+vless://0c27902d-c232-4044-ba68-b808c8ad8231@104.16.147.32:443?path=%2Fvpn.6662221.xyz%2F%3Fed&security=tls&encryption=none&host=v2ray-confs.fariborzmohammadi1383.workers.dev&type=ws&sni=v2ray-confs.fariborzmohammadi1383.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@104.21.75.193:443?path=%2FYBa1BBPnrlsvyMZD%2FMzUuMTgwLjIyOS4x%3Fed%3D2560&security=tls&encryption=none&host=64D78605.Fr-7rB.pageS.dEv&type=ws&sni=64D78605.Fr-7rB.pageS.dEv#[🇨🇦]t.me/ConfigsHub
+vless://55520747-311e-4015-83ce-be46e2060ce3@192.0.54.42:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#[🇺🇸]t.me/ConfigsHub
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.67.215.234:443#[🇷🇺]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir#[🇨🇦]t.me/ConfigsHub
