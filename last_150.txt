@@ -1,4 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:34.81ms
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?path=%2FfJBvsL0uR2MtzRig&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&type=ws&sni=mypHOtoGRAPICpIctUre.iR#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.34ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.98:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/MoftConfig
@@ -148,3 +147,4 @@ trojan://telegram-id-directvpn@3.124.58.13:22223?security=tls&alpn=http/1.1&head
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?security=reality&encryption=none&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=700c1d3ddf2f99#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@3.124.58.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.7.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇨🇦]t.me/ConfigsHub
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.169:443&proxyIP=null#⚜️Telegram:@IP_CF
