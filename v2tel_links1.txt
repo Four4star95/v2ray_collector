@@ -68331,3 +68331,23 @@ vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.238:8443?allowInsecure=0&t
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzFlMTU2OS0yODE0LTQ3YzQtYjdkYy05M2RmOTUxN2Y3NjE=@free.2apzhfa.xyz:31141#[🏁]t.me/MoftConfig
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560security=tls#[🇷🇺]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.106:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🇬🇧]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver🅿️ping:178.4ms
+ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@44.243.102.33:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Boardman🅿️ping:190.14ms
+vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@77.110.107.95:443?security=reality&encryption=none&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&host=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=7409f4913a0eba93#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:27.15ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:250.05ms
+vless://797755cb-bd76-4b11-8d57-9ce427e67441@194.182.79.41:48615?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:38.35ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.68:443#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:30.99ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.51ms
+vless://11b91cf2-48bc-4c89-8a19-fa8e3c8f3765@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:6.88ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Phoenix🅿️ping:159.24ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k%3D@77.91.103.73:443#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:29.64ms
+trojan://telegram-id-directvpn@35.181.231.189:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:34.09ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.160:443#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:109.17ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=none&sni=pqh33v3.vetdomok.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.91ms
+ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0%3D@139.162.106.142:11359#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:251.32ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:264.56ms
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@87ae4b92.bestttttivpn.pages.dev:8443?path=%2FbEKAVD5VfOednxo6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87Ae4B92.BEstTtttIVpN.paGEs.DEV#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.89ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Zurich🅿️ping:45.0ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Seattle🅿️ping:176.15ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:142.15ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?security=none&sni=pqh36v7.economy36top.shop&type=grpc&host=pqh36v7.economy36top.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.35ms
