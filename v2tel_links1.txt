@@ -68485,3 +68485,9 @@ vless://9c02f303-84ec-462b-af82-aeed303faea7@104.17.147.22:80?mode=auto&path=%2F
 vless://bc9ed821-e343-4641-bbf5-41fa35f87c6c@134.122.92.59:443?security=reality&encryption=none&pbk=jeolU3LnNSyKZnb6ttzoj5VQJNEILGm6HMTj4qY9IB8&headerType=none&fp=chrome&type=tcp&sni=bot.prod.r1.conversight.ai&sid=783fc5877197f528#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiJtaW1haGRpaS5tdXNpY3MtZmEucnUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii9Kb2luX0JhZGVfQ2hhbm5lbEBKT0tFUlJWUE4iLCJpZCI6IjZhY2E5OGU2LThkMjUtNDdmZi1iZDE5LWEwZGEwYTRiNTAyNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh7Pwn4exXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://18c8eb13-2a85-5cf9-8f8f-dc73407709ce@5.180.52.15:443?path=%2Fvless&security=tls&encryption=none&host=5.180.52.15&fp=chrome&type=ws&sni=5.180.52.15#⚜️Telegram:@IP_CF
+vless://877be3a0-91d0-496c-a224-4413dd6fcc6b@fr.lalegan.shop:2053?type=grpc&mode=gun&serviceName=wizard&security=tls&sni=marzban.negintel.xyz#[🇫🇷]t.me/ConfigsHub
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b9f4@188.114.97.1:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&fp=randomized&type=ws&sni=MYPhoTOgrapICPictURe.IR#[🇨🇦]t.me/ConfigsHub
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#[🇨🇦]t.me/ConfigsHub
+vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?type=tcp&headerType=none&security=none#[🇫🇮]t.me/ConfigsHub
+vless://1821e8ff-ef32-4e22-8b6a-37aaa7760e80@65.109.198.214:19720?type=tcp&headerType=http&host=divarcdn.com&security=none#[🇫🇮]t.me/ConfigsHub
+vless://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
