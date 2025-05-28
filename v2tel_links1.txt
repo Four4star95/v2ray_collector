@@ -68498,3 +68498,5 @@ vless://bc9ed821-e343-4641-bbf5-41fa35f87c6c@marzbantv20202020202020202020.fastr
 vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@tur2.dataxshop.ir:8080?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇹🇷]t.me/ConfigsHub
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@95.38.38.226:23000?security=none&type=tcp&headerType=http&host=speedtest.net.fast.com&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/ConfigsHub
 vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇹🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Q2xkZG1nam5oVVgzVzN3MlFmNWtu@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
+vless://1ba28252-b810-4a33-b816-68f1a7ad13e5@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#[🇨🇦]t.me/ConfigsHub
