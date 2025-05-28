@@ -1,3 +1,5 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:34.81ms
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.85.118.20:443?path=%2FfJBvsL0uR2MtzRig&security=tls&alpn=http%2F1.1&encryption=none&host=myphotograpicpicture.ir&type=ws&sni=mypHOtoGRAPICpIctUre.iR#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.34ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.98:8880?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/MoftConfig
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0&sni=icecream.955850.xyz&ws=1&wspath=%2Fproxyip%3D217.163.76.227%3A443#[🇬🇧]t.me/ConfigsHub
@@ -76,12 +78,10 @@ vless://9de9f5c7-3544-4e60-9781-a794103e2884@104.24.196.20:2086?type=grpc&servic
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.7.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.14ms
 vless://6f393e4a-2811-4eb6-bbe3-a6917381bdcd@140.248.128.69:443?path=%2FChannel-MOSIV2--MOSIV2--Channel-MOSIV2--MOSIV2%3Fed%3D1024&security=tls&encryption=none&host=Channel-MOSIV2--MOSIV2.IR&fp=qq&type=ws&sni=Channel-MOSIV2--MOSIV2.IR#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.41ms
 vless://ca7fc37e-62fe-42d5-a9a2-6198d480d627@142.93.231.14:14538?security=none&type=grpc#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.11ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.101.114.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@176.124.223.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://abb2d75f-e5f1-4db8-98f6-048dfb0eed94@145.249.109.53:443?security=reality&encryption=none&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=7409f4913a0eba93#👉🆔@MoftConfig📡🇪🇸®️Spain©️Madrid🅿️ping:60.64ms
 vless://9fdef857-437d-40af-82ca-2c76de893eb6@95.164.16.166:3567?mode=gun&security=reality&encryption=none&pbk=3iP1kIE9A4r0dbC6OoERB95RKv6tZmCHUaNq4tf90lo&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=maps.google.com&sid=86#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.51ms
 vless://afdbb715-9de2-445b-a93d-b764c7dafe54@91.242.241.45:443#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:265.24ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.pronetwork.com#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:9.39ms
 vless://d8c6ba07-2566-430b-b2a4-e8700347f686@dl.dllavanddownload.ir:3053?type=tcp&path=%2Ffree.php&host=F51.ir&headerType=http&security=none#[🇸🇪]t.me/ConfigsHub
 vless://182dff0f-53ed-4c89-b74d-e221068f28f4@171.22.120.10:3567?type=grpc&serviceName=&authority=MTMVPN----MTMVPN----MTMVPN----MTMVPN&security=reality&pbk=As--7b3xqKlpgs420dAdMeZk7-RVXMeGqLsb6ckgHiQ&fp=chrome&sni=www.cdn77.com&sid=e966&spx=%2F#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:34.59ms
