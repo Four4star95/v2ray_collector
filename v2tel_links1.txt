@@ -68426,3 +68426,7 @@ trojan://telegram-id-directvpn@3.124.58.13:22223?security=tls&alpn=http/1.1&head
 vless://4b65b027-43ae-49a0-baca-10fcf678acfe@151.101.64.155:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&security=none&encryption=none&host=telegram.isvvpn.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://33d296d4-1ddb-4ed8-a481-da2a66a41ffd@p8.punchline.ir:20775?type=xhttp&path=%2Fv2raybluecrystal&host=&mode=auto&security=reality&pbk=JV8xe6kiRR1Ev0QRzjERfqiUOs1VrqC31fZtbnvcZHM&fp=chrome&sni=www.microsoft.com&sid=c7dbe2302e63ac44&spx=%2F#[🇳🇱]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.58.13:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://1821e8ff-ef32-4e22-8b6a-37aaa7760e80@65.109.198.214:19720?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/ConfigsHub
+vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?path=%2Fwebsocket%3Fed%3D2048-%40ShadowProxy66&security=tls&encryption=none&host=lv01.abvpn.ru&type=ws&sni=lv01.abvpn.ru#[🏁]t.me/ConfigsHub
+vless://8c8873fb-6e68-4359-8d67-092d399612c9@185.82.126.141:26000?security=none&encryption=none&host=www.irna.ir.www.alibaba.ir&headerType=http&type=tcp#[🇸🇪]t.me/ConfigsHub
+vless://877be3a0-91d0-496c-a224-4413dd6fcc6b@fr.lalegan.shop:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=wizard&sni=marzban.negintel.xyz#[🇫🇷]t.me/ConfigsHub
