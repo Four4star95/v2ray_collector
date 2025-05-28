@@ -68668,3 +68668,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?encryption=none&
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?encryption=none&security=tls&sni=hOZori.iR&alpn=http%2F1.1&fp=randomized&type=ws&host=hozori.ir&path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg#[🇨🇦]t.me/ConfigsHub
 vless://dcd110d2-bad8-45c0-b4a2-a08f39d2a014@nl.yw5jk.org:3676?security=&encryption=none&host=idem.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 
+vless://f8e5d2e7-a2f6-4efd-908c-6a51d0cdc38f@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇺🇸]t.me/ConfigsHub
+vless://f8e5d2e7-a2f6-4efd-908c-6a51d0cdc38f@Zmaoz.Faculty.Ucdavis.Edu:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇳🇱]t.me/ConfigsHub
