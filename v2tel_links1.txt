@@ -68394,3 +68394,12 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.70.32.138:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#[🏁]t.me/ConfigsHub
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.136:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206TzM2M1dQNjhKMzNDT0lFWA==@ti3hyra4.slashdevslashnetslashtun.net:16009#[🏁]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.80:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🏁]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.94:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🇬🇧]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@92.53.188.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#[🇨🇦]t.me/ConfigsHub
+vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.193:443?allowInsecure=1&sni=cl.bgm2024.dpdns.org&type=ws&host=cl.bgm2024.dpdns.org&path=/?ed=2560security=tls#[🏁]t.me/ConfigsHub
+vless://38a64442-a08b-467a-a1e6-c82ed3be50a9@104.17.21.157:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=selllv2rayng.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.42:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#[🇬🇧]t.me/ConfigsHub
+vless://d8c6ba07-2566-430b-b2a4-e8700347f686@dl.dllavanddownload.ir:3053?type=tcp&path=%2Ffree.php&host=F51.ir&headerType=http&security=none#[🇸🇪]t.me/ConfigsHub
