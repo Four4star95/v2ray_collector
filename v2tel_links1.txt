@@ -68351,3 +68351,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#👉🆔@MoftConfig�
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Seattle🅿️ping:176.15ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:142.15ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?security=none&sni=pqh36v7.economy36top.shop&type=grpc&host=pqh36v7.economy36top.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.35ms
+vless://f4ac8995-d033-4757-8f71-694385fa4cdc@codepen.io:8880/?type=httpupgrade&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam&host=app.mobilewersach.ir.&security=none#[🇨🇦]t.me/ConfigsHub
+vless://f4ac8995-d033-4757-8f71-694385fa4cdc@codepen.io:8880/?type=httpupgrade&path=%2F%3Fed%3D1024-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam-Vmesskhodam&host=app.mobilewersach.ir.&security=none#[🇨🇦]t.me/MoftConfig
