@@ -69011,3 +69011,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.147:8880?path=Telegram%40S
 vless://2099221d-bdc9-46a1-8c77-ff141c9679d2@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&security=&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.166:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 
+vmess://eyJhZGQiOiJGZkZnVFlZLjcyODI3MjguWHlaIiwiYWlkIjowLCJob3N0IjoiRmZGZ1RZWS43MjgyNzI4Llh5WiIsImlkIjoiM2Q0YWQxODctYjU1NC00MzAwLWJmNzEtZDI2YzcxOTYyNTA0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9OaU5ReXJjYUlJSjNXcVJjT0VJQ0F3bWZINyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImZmZmd0eXkuNzI4MjcyOC54eXoifQ==
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.180.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.94:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.166:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.252:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#[🇩🇪]t.me/ConfigsHub
