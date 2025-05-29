@@ -68989,3 +68989,6 @@ vless://588f094b-431b-422c-b80b-007945037072@103.231.73.214:443?type=ws&host=lv0
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:241.0ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.19ms
 vless://f8467c42-f9e5-4c07-9854-517ef3090ef5@104.16.172.185:2053/?type=ws&encryption=none&host=fantin.dpdns.org&path=%2FTelegram%40zede_filteri%2F%3Fed%3D2560&security=tls&sni=fantin.dpdns.org&fp=random#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.44ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.170:443#[🇺🇸]t.me/ConfigsHub
+vless://03b71aba-d3fc-4972-b239-697517ce10ef@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
+vless://SAVTEAM2@grtsgsj.subscripshn.sbs:55555?security=reality&encryption=none&pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=839f6e#[🇹🇷]t.me/ConfigsHub
