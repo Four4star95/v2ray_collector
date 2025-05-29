@@ -69020,3 +69020,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.94:8880/?type=ws&encrypt
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.166:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.252:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560#[🇩🇪]t.me/ConfigsHub
 vless://99d0576a-62d3-41fc-b283-831eba1f052d@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn-telegram-mitivpn-telegram-mitivpn&security=tls&alpn=http%2F1.1&encryption=none&host=de2.dash.ir-sub.fun&fp=chrome&type=ws&sni=haamim.ir#[🇮🇷]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
