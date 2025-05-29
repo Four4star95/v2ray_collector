@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWVqM3FUSm9qWlBqcDJqc2xqSVpE@h110vpntr.outlinekeys.net:65262#[🇹🇷]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.74.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.76.165:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUmhFOVhmV09hWUltcDE2bmtUTUpy@45.95.232.236:4248#[🏁]t.me/ConfigsHub
@@ -41,7 +42,6 @@ vless://4f8b6d2a-daa9-4b87-87ee-7f058fce85c1@188.114.97.10:443?path=%2F%3Fed%3D2
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.187.34:443?security=tls&encryption=none&host=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#[🇺🇸]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.36ms
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?allowInsecure=0&sni=0229.patterdeng.pp.ua&type=ws&host=0229.patterdeng.pp.ua&path=/?ed=2560fp=random&security=tls#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.01ms
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.pronetwork.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?path=%2F&security=tls&encryption=none&host=what.zhonghuoxing.top&fp=chrome&type=ws&sni=what.zhonghuoxing.top#👉🆔@MoftConfig📡🇨🇷®️Costa Rica©️Pozos🅿️ping:8.03ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.47:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:21.62ms
 vless://a0bf4979-b135-4396-c2b3-e492911dbda4@speedtest.net:80?allowInsecure=1&sni=foffmelo.com&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.56ms
