@@ -70117,3 +70117,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=
 vless://0ff570d3-3452-4990-8144-fd2cb9357e09@104.18.14.19:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=925tg.s4ua8zqr.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.pronetwork12.com#⚜️Telegram:@IP_CF
 
+vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@173.234.79.240:2020?security=reality&encryption=none&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&headerType=none&fp=firefox&spx=/v2rayNplus---v2rayNplus&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=31e7200536a1ad45#[🇬🇧]t.me/ConfigsHub
