@@ -70012,3 +70012,7 @@ vless://1fd3b251-7b2b-46df-bbbe-72f17ef7a77b@194.182.79.143:36936?mode=gun&secur
 trojan://telegram-id-privatevpns@35.181.202.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 vless://55591059-5802-4d2c-a5aa-7033d9f72346@194.182.79.41:48615?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/ConfigsHub
 
+trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&alpn=http%2F1.1&host=fffgtyy.7282728.xyz&fp=chrome&type=ws&sni=FFfgtyy.7282728.XYZ#[🇨🇦]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.pronetwork01.com#⚜️Telegram:@IP_CF
+trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?path=%2FHq0I4JMuzO0WLijID&security=tls&alpn=http%2F1.1&host=cvfgtre4.222560.xyz&fp=chrome&type=ws&sni=CVFgTrE4.222560.XyZ#[🇨🇦]t.me/ConfigsHub
+vless://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.217:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#[🇺🇸]t.me/ConfigsHub
