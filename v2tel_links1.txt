@@ -69942,3 +69942,6 @@ vless://d0478b1f-2a71-4d70-9e97-28e9f1a01e5e@uk.accesspoints.cloakify.app:57131?
 vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[🇸🇪]t.me/ConfigsHub
 vless://e1065297-51a3-45d9-87eb-3df3e1435188@Cdn-googlEcloud-auTh.mysErvice.com.updAte.lorNavps.ir:8080?mode=gun&security=reality&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=ios&type=grpc&sni=rEfErSion.Com.&sid=8e36c7e79b74a6fa#[🇳🇱]t.me/ConfigsHub
 vless://b8245016-e494-4eb8-834d-207995abd821@5.75.202.153:20003?security=reality&encryption=none&pbk=F7VsJyw_2U5Bmdvx1JWogG0CCZfoQGPOZL-gTybpIRE&host=TELEGRAM--%40MARAMBASHI--%40MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net.vip.ger.dbsll.ir&sid=23f44163#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206MGRjMGEwZWUtMDA4Yy00MDYzLWIyZjYtYjFmZDJiOGVmNDdi@45.89.109.184:10001#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206MTFjMWZiN2Y5ZWIwMTNiMQ%3D%3D@212.192.15.60:2015#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@103.106.190.208:34045#[🏁]t.me/ConfigsHub
