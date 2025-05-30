@@ -69865,3 +69865,5 @@ vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-N
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.29:7002#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:109.24ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.236:8880?path=%2FTelegram%40vpnAndroid2%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.53.53.20:8880?path=%2F%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU0LjU1LjEyMi4yMzUiLCJwb3J0IjoiODAwMCIsInR5cGUiOiJub25lIiwiaWQiOiJkMjZmYzFhMy0wZDk3LTQxNmItYWJjZC1iMzM1YjRiZjc4ODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9ubWtqIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsInRscyI6IiJ9
+vless://37f3a131-35d8-4d35-8882-05408bf4238a@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
