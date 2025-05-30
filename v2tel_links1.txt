@@ -69972,3 +69972,5 @@ vless://53f%618f%61f-b%614b-4322-9c69-%613%655b1555049@140.248.180.62:443/?type=
 
 
 vless://683943d7f691351724ac2b86@no-tel-id-im_soon.tryfreenet24.xyz:52496?security=reality&encryption=none&pbk=Tmdubjerl-x6RC2yaINZ6zln3Pjnbzr9oVZ8izzn3Es&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=a889244085d63e66#[🇫🇮]t.me/ConfigsHub
+vless://5fa18a48-1fee-40a8-9bf4-f6c2756f5aa3@212.95.33.206:26528?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&fp=chrome&type=grpc&sni=yahoo.com&sid=8f9d4d9a#[🇩🇪]t.me/ConfigsHub
+vless://d0478b1f-2a71-4d70-9e97-28e9f1a01e5e@51.75.162.202:57131?security=reality&encryption=none&pbk=_qtZVreGusWLD5cZue9TOudi63LwpM809AacOpX4UVw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=083b2c1d405177#[🇬🇧]t.me/ConfigsHub
