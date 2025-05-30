@@ -1,3 +1,4 @@
+vless://0f8691e2-c289-481b-9dcb-7a4578eab343@87ae4b92.bestttttivpn.pages.dev:8443?path=%2FbEKAVD5VfOednxo6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87Ae4B92.BEstTtttIVpN.paGEs.DEV#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.76ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Newark🅿️ping:8.68ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:38.53ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=none&sni=pqh27v5.nature27.shop&type=grpc&host=pqh27v5.nature27.shop#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.95ms
@@ -147,4 +148,3 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.84:443?security=tls&sni=
 vless://ffe171e8-cb29-4d8e-b2b2-c57ebcb1d3cb@172.64.35.176:443?security=tls&sni=dk.youlingkais.filegear-sg.me&type=ws&host=dk.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.98ms
 vmess://eyJhZGQiOiIxOTQuNS4xNzguNzAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZWU3MTU2ZjUtYzU5NC00ZDdmLTllMjUtNWRlMDE0MDU5Yzg1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDI2NCIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🇹🇷]t.me/ConfigsHub
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.171:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
