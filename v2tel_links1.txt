@@ -69888,3 +69888,17 @@ vless://6026aa39-1f7f-4053-bfb5-2c9da02d6efe@91.107.162.87:2087?path=%2Ftelegram
 vless://f5a445d1-1df3-406e-91ff-9052cf676153@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.27:80?path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 
+trojan://Eg4ZTOCSZcwl303ZnRaNIKKzaCCDlpOS26TAX7ReY8FR2ISgS3yx3DFaBSC85YqCEBaD9@magnet.wireshop.net:443/?type=tcp&security=tls&sni=magnet.wireshop.net#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.117.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.186.250:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com&fp=chrome#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206MTkyOGFhNGQ2ZTNjOGRmMw@203.32.26.81:2029#[🏁]t.me/ConfigsHub
+vless://82febca6-8856-41fe-84df-c8bda0b72c7b@jpawsv6.ccwink.cc:56300/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gateway.icloud.com&fp=ios&security=reality&pbk=ttdCkJrtiRG4Acny45KhRFeJCuEm8YW02rtOVrveogY&sid=9721135e#[🏁]t.me/ConfigsHub
+vless://32fe54d2-1605-41bf-aff4-8e24957a988d@cl.accesspoints.cloakify.app:35112/?type=tcp&encryption=none&sni=dl.google.com&fp=chrome&security=reality&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#[🏁]t.me/ConfigsHub
+vless://4dc10699-ff48-4688-b7e3-675249f307c3@jp.accesspoints.cloakify.app:30488/?type=tcp&encryption=none&sni=dl.google.com&fp=chrome&security=reality&pbk=oAZiftXfDm4Kue2Zle0lB9QQXEFPRyd24Vf7useQRyY&sid=a7#[🏁]t.me/ConfigsHub
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339/?type=tcp&encryption=none&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#[🏁]t.me/ConfigsHub
+vless://ab9167d1-ffe8-4dfc-e512-2c4b78b52bae@158.178.242.195:45582/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#[🏁]t.me/ConfigsHub
+vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#[🇺🇸]t.me/ConfigsHub
+trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443/?type=ws&host=EEeEee4.hUAngSHANG2030.dPdNS.org&path=%2FptGwaGzcA4KNAXX&security=tls&sni=EEeEee4.hUAngSHANG2030.dPdNS.org#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.196.117.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://82febca6-8856-41fe-84df-c8bda0b72c7b@hkawsv6.ccwink.cc:56300/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gateway.icloud.com&fp=chrome&security=reality&pbk=ttdCkJrtiRG4Acny45KhRFeJCuEm8YW02rtOVrveogY&sid=9721135e#[🏁]t.me/ConfigsHub
+vless://54ffbe99-7aaf-4ceb-9a82-048fb2489757@46.203.248.224:20411/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&sid=#[🇹🇷]t.me/ConfigsHub
