@@ -69837,3 +69837,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880/?type=ws&channel
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.202:8880/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cs.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🇬🇧]t.me/MoftConfig
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?path=%2F&security=tls&encryption=none&host=vle.amclubsapp.dpdns.org&type=ws&sni=vle.amclubsapp.dpdns.org#[🏁]t.me/ConfigsHub
 
+vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/MoftConfig
+vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?type=tcp&security=none#[🇸🇪]t.me/ConfigsHub
