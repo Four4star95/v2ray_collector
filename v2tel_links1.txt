@@ -70170,3 +70170,7 @@ trojan://telegram-id-privatevpns@3.74.181.8:22222?security=tls&alpn=http/1.1&hea
 vless://624c7048-4c9b-4960-9955-edf87d8ee77a@poland.zone-server-irani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=random&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#[🇬🇧]t.me/ConfigsHub
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?mode=stream-one&path=%2Fkavir%2F%3F&security=tls&alpn=h2&encryption=none&host=89.144.35.100&fp=firefox&type=xhttp&sni=kavir.lnmarketplace.net#[🇩🇪]t.me/ConfigsHub
 
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&encryption=none&alpn=http/1.1&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#[🇨🇦]t.me/ConfigsHub
+vless://190492bf-0111-451b-aa16-3490dacd1be7@e.nl.cdn.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#⚜️Telegram:@IP_CF
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=v7pro10.ulserver.ir&type=ws&sni=v7pro10.ulserver.ir#[🇨🇦]t.me/ConfigsHub
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=v7pro01.ulserver.ir&type=ws&sni=v7pro01.ulserver.ir#[🇨🇦]t.me/ConfigsHub
