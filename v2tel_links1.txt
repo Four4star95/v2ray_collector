@@ -70600,3 +70600,7 @@ vless://3dd37e45-e6a5-4db4-86cd-ec0d0c45b1a8@ns9.esfahansiman.com:1991?mode=auto
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.98:8880?path=%2FTelegram%40SiNAVM%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://659d17d1-3549-4146-8e4b-5c8d9c8a61d9@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇨🇦]t.me/MoftConfig
 vless://2ba1d189-c42c-4b18-b262-f330552f8d16@65.109.219.206:56213?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#[🇫🇮]t.me/MoftConfig
+trojan://telegram-id-directvpn@35.180.72.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.180.72.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.72.238:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@35.180.72.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
