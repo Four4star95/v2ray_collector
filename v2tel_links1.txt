@@ -70463,3 +70463,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.95ms
 vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443?security=reality&encryption=none&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=5488b0e7#👉🆔@MoftConfig📡🇺🇸®️United States©️San Jose (Edenvale)🅿️ping:154.43ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:30.82ms
+vless://018614e7-c4b0-4917-8e6f-1d2e67cde29c@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
