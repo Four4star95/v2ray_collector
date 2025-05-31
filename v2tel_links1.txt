@@ -70130,3 +70130,6 @@ trojan://Eg4ZTOCSZcwl303ZnRaNIKKzaCCDlpOS26TAX7ReY8FR2ISgS3yx3DFaBSC85YqCEBaD9@m
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.143.237:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#⚜️Telegram:@IP_CF
 vless://0ff570d3-3452-4990-8144-fd2cb9357e09@104.18.14.19:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=925tg.s4ua8zqr.workers.dev&type=ws#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.193:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#[🏁]t.me/ConfigsHub
+trojan://vpn@109.120.132.80:2025?security=tls&type=ws&host=vkvd127.mycdn.me&path=%2F#[🇸🇪]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206SG40NmR6QmhoT1Q5WWxINA%3D%3D@85.158.110.62:8388#[🇳🇱]t.me/ConfigsHub
