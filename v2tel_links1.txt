@@ -70226,3 +70226,7 @@ vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://190492bf-0111-451b-aa16-3490dacd1be7@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#⚜️Telegram:@IP_CF
 vless://190492bf-0111-451b-aa16-3490dacd1be7@a.nl.cdn.maviks.eu:443?path=%2FMaGLM25tSikPTFr75Q0Yri&security=tls&encryption=none&host=cdn.maviks.eu&fp=chrome&type=httpupgrade&sni=cdn.maviks.eu#⚜️Telegram:@IP_CF
 vless://4c95f41e-2107-432a-8553-88599e562e44@www.speedtest.net:2086?type=httpupgrade&path=%2Fe95e8aa8%2Fsourceforge.net.www.fast.com.pages.dev.ir.favoritety.dpdns.ORG%3C%3E%3Fed%3D80&host=sourceforge.net.www.fast.com.pages.dev.ir.favoritety.dpdns.ORG.&security=none#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@51.44.191.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@51.44.191.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.191.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-privatevpns@51.44.191.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
