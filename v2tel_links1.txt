@@ -70220,3 +70220,6 @@ vless://e6829971-e95c-4858-9f83-3a06466541cb@join.VPNCUSTOMIZE.fast.hosting-ip.c
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇩🇪]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxNTcuMTgwLjg5LjI0MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZDY5MmUxZS0zNWYxLTQ0MTItYjhhOC0xMTgzMTdlMWUxODYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5MzAxIiwicHMiOiJb8J+Hq/Cfh65ddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.123.12:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CHANNEL--ELiV2RAY-ELiV2RAY.IR&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#[🏁]t.me/ConfigsHub
+vless://e486066b-3308-4114-a9a6-5648750b071f@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇨🇦]t.me/ConfigsHub
+vless://e486066b-3308-4114-a9a6-5648750b071f@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇳🇱]t.me/ConfigsHub
