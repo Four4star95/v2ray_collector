@@ -70852,3 +70852,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&securit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.51ms
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@tAdrIsoNlin-tadRisloRna-TadrisOnlin-tadriSonliN-tadrisonLin.lorNavPs.ir:8080?mode=gun&security=reality&encryption=none&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&fp=chrome&type=grpc&sni=rEfErSion.Com.&sid=8e36c7e79b74a6fa#[🇺🇸]t.me/MoftConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.74.74:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=&encryption=none&type=grpc#[🇬🇧]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.76.74.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?mode=gun&security=&encryption=none&type=grpc#[🏁]t.me/MoftConfig
