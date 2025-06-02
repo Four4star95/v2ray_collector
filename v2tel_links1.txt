@@ -72093,3 +72093,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc1ZYY1l1ek1oVXBDZ05QM0RMSExv@89.185.84.185:443#🇬🇧 Великобритания
 vless://f40b925c-a4a2-4350-8ffe-4cb6c37615d7@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 
+vless://CHIK_682479@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_182447@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_682523@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_682504@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#👉🆔@MoftConfig📡🇰🇿®️Kazakhstan©️Almaty🅿️ping:11.17ms
+trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?path=%2FBFBuPh4SuxTxCwkqKrjE&security=tls&host=5ttt.191288.xyz&type=ws&sni=5ttt.191288.xyz#⚜️Telegram:@IP_CF
+vless://CHIK_682538@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_182451@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_982464@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_382484@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
+vless://CHIK_182495@77.91.85.161:443?type=tcp&security=reality&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&fp=chrome&sni=whatsapp.com&sid=ffffffffff&spx=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.84ms
