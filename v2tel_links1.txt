@@ -72081,3 +72081,4 @@ vless://c0b393c6-1371-4d2d-bd56-1d8dc71dcddd@hajlab.ucdavis.edu:80?security=&typ
 vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws&sni=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR#[🇺🇸]t.me/MoftConfig
 vless://77fa8a82-4c73-47e6-a518-e4768e7a1e80@tr.lunarmc.ir:30561?security=reality&encryption=none&pbk=H1HfMqwks7GIdi-LoswMO4xxR7fJihqN_xLolycIWX8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=95ac1a9f19#[🇩🇪]t.me/MoftConfig
 
+vless://cbcf47db-252f-49c9-92af-c0a5c0ebd28f@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
