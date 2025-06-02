@@ -72082,3 +72082,10 @@ vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed
 vless://77fa8a82-4c73-47e6-a518-e4768e7a1e80@tr.lunarmc.ir:30561?security=reality&encryption=none&pbk=H1HfMqwks7GIdi-LoswMO4xxR7fJihqN_xLolycIWX8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=95ac1a9f19#[🇩🇪]t.me/MoftConfig
 
 vless://cbcf47db-252f-49c9-92af-c0a5c0ebd28f@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+trojan://telegram-id-privatevpns@13.39.166.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?security=tls&headerType=none&type=tcp&sni=morse-stank-most.stark-industries.solutions#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.166.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇨🇵
+vmess://eyJhZGQiOiJkYjdmNGMyZi1zdW00ZzAtc3lhNnUyLTRsZzYuaGsucDVwdi5jb20iLCJhaWQiOjIsImhvc3QiOiJkYjdmNGMyZi1zdW00ZzAtc3lhNnUyLTRsZzYuaGsucDVwdi5jb20iLCJpZCI6ImE0YzliN2NjLWE4MTYtMTFlZC05ZjY1LWYyM2M5MTY0Y2E1ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
+vless://17cbb923-e800-4a7d-a87f-9311de30a7b9@3.235.84.76:2083?mode=stream-up&path=%2Fkiava-telegram%2F%3F%40JOKERRVPNBIA_CHANEL%40JOKERRVPN&security=reality&encryption=none&pbk=PWHU3h4DYzwqnvZWK43K-xJvpUevCDv3qgndc59CjgU&host=www.speedtest.net&fp=chrome&spx=%2FBIA_CHANEL%40JOKERRVPN&type=xhttp&sni=www.speedtest.net&sid=18#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.166.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@13.39.166.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
