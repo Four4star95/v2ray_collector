@@ -72404,3 +72404,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?path=Telegram%F0%
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=&sni=pqh24v3.hiddendom.shop#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&alpn=http%2F1.1&host=fffgtyy.7282728.xyz&fp=chrome&type=ws&sni=FFfgtyy.7282728.XYZ#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.31ms
 
+trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&alpn=http%2F1.1&host=fffgtyy.7282728.xyz&fp=chrome&type=ws&sni=FFfgtyy.7282728.XYZ#⚜️Telegram:@IP_CF
