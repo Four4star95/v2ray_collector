@@ -72407,3 +72407,5 @@ trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@172.67.138.187:443?path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7&security=tls&alpn=http%2F1.1&host=fffgtyy.7282728.xyz&fp=chrome&type=ws&sni=FFfgtyy.7282728.XYZ#⚜️Telegram:@IP_CF
 
 vless://a0f49ab0-6e7d-4bcb-8381-a5afe51428ee@iranserver.com:2052?type=ws&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&host=wWw.SpeedtesT.net.mAzMaznet.store.&security=none#[🇨🇦]t.me/ConfigsHub
+vless://3c408e19-135f-4dc0-a80c-9f2da1b179c7@138.201.159.111:45216?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=0oR6xhpY1KcusXmPNBMhoiDt8gKOxGOh3morRFzM2HQ&fp=chrome&sni=microsoft.com&sid=493518a7b6505758&spx=%2F#[🇩🇪]t.me/ConfigsHub
+vless://f5bd5d92-41f2-4a34-8313-964a7b9e39d5@www.speedtest.net:2086?type=httpupgrade&path=%2Fe95e8aa8%2Fsourceforge.net.www.fast.com.pages.dev.ir.favoritety.dpdns.ORG%3C%3E%3Fed%3D80&host=sourceforge.net.www.fast.com.pages.dev.ir.favoritety.dpdns.ORG.&security=none#[🇨🇦]t.me/ConfigsHub
