@@ -72921,3 +72921,15 @@ vless://84e23daf-db3f-4b92-a8db-733c92e3fd00@ns.cloudflare.com:2086?security=non
 vless://84e23daf-db3f-4b92-a8db-733c92e3fd00@ns.cloudflare.com:2086?security=none&type=httpupgrade&headerType=&path=%2FGoodLuck%3Fed%3D2560&host=rosiassn.digikala.com.snnapfood.ir.varzesh3.com.shobb.ir.kdvhgkri558978grfghfkvhfrvhnfjrdghriuygfkrdfjdfjssiedhfgjung.sami0.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.8ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Phoenix🅿️ping:160.82ms
 vless://84e23daf-db3f-4b92-a8db-733c92e3fd00@cls.zibanamas.ir:8295?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&sid=#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Istanbul🅿️ping:75.45ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.170:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:147.85ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Zurich🅿️ping:45.02ms
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#[🇳🇱]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:60.36ms
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@tr.accesspoints.cloakify.app:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#[🇫🇷]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:46.09ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.38ms
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.47:6679#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:136.09ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver🅿️ping:169.55ms
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#[🇳🇱]t.me/ConfigsHub
+vless://43ea315a-6d2a-4b53-ac7a-3328acb0a709@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:31.48ms
