@@ -72425,3 +72425,7 @@ vless://telegram-id-ArV2ray10@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.107.152:80?path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇳🇱]t.me/ConfigsHub
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.236:8880?path=%2FTelegram%3A%40Selinc%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?encryption=none&security=tls&sni=cr7.traneh.dpdns.org&fp=chrome&type=ws&host=cr7.traneh.dpdns.org&path=%2F#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@63.178.74.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.74.90:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@63.178.74.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@63.178.74.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
