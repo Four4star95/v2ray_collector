@@ -1,3 +1,4 @@
+trojan://KW7FfNUocjGWmVO6HOp5tA@142.93.166.50:2051?security=none&host=fararu.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.5ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Chicago🅿️ping:107.73ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.71:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.16ms
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:30.92ms
@@ -144,7 +145,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.193.126:22224?path=%2Ftelegr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyYzlSdTJ1Y0FzZDFpUURldXhWNWpU@62.210.88.22:443#[🇫🇷]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 vless://fb0ce956-097f-46d2-bb69-f7508fea32db@128.199.45.153:8440?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#[🇳🇱]t.me/MoftConfig
-vless://c540f740-7a41-417b-981e-6b1911cacef0@netherland.abrha.site:3735?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#[🇳🇱]t.me/ConfigsHub
 vless://f5bd5d92-41f2-4a34-8313-964a7b9e39d5@www.speedtest.net:2086?type=httpupgrade&path=%2Fe95e8aa8%2Fsourceforge.net.www.fast.com.pages.dev.ir.favoritety.dpdns.ORG%3C%3E%3Fed%3D80&host=sourceforge.net.www.fast.com.pages.dev.ir.favoritety.dpdns.ORG.&security=none#[🇨🇦]t.me/MoftConfig
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#[🇫🇷]t.me/MoftConfig
 vless://e915f414-6bfb-4677-86f1-8c8e50a854cb@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
