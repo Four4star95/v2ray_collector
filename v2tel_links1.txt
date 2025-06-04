@@ -73429,3 +73429,21 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.46.20:8880?path=%2F%3Fed%3D2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.72:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Chicago🅿️ping:107.76ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Istanbul🅿️ping:106.79ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:44.72ms
+vless://telegram-id-ArV2ray11@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&security=none&encryption=none&host=mard.ankaboti.com.&type=ws#[🇺🇸]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
+trojan://Aimer@27.50.48.126:2083?path=%2F&security=tls&host=tyep.esslh.filegear-sg.me&fp=chrome&type=ws&sni=tyep.esslh.filegear-sg.me#[🏁]t.me/MoftConfig
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=vle.amclubsapp.dpdns.org&fp=randomized&type=ws&sni=vle.amclubsapp.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.03ms
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#[🏁]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#[🇩🇪]t.me/MoftConfig
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.64ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
+vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&type=tcp&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/MoftConfig
+vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?security=none&type=ws&path=58834/mail-template&host=my-mail-management-pr0-git-land-manager.clients-github.com&packetEncoding=xudp&encryption=none#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiJhNThiNGMyOS1zdjRuNDAtc3lmajkwLTFyOWR0LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6ImE1OGI0YzI5LXN2NG40MC1zeWZqOTAtMXI5ZHQuaGszLnA1cHYuY29tIiwiaWQiOiJkZTAwM2M3Mi0wMTU3LTExZWYtODZkYS1mMjNjOTFjZmJiYzkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
+vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@ipe.alighan.ir:2083?security=tls&sni=germany.alighan.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=germany.alighan.ir&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇺🇸]t.me/ConfigsHub
+vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?security=none&type=ws&path=58834/mail-template&host=my-mail-management-pr0-git-land-manager.clients-github.com&packetEncoding=xudp&encryption=none#[🇺🇸]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.73:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇺🇸]t.me/MoftConfig
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560security%3Dtls&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#[🇨🇷]t.me/MoftConfig
+vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@ipe.alighan.ir:2083?security=tls&sni=germany.alighan.ir&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=germany.alighan.ir&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?security=none&type=tcp&packetEncoding=xudp&encryption=none#[🇮🇷]t.me/ConfigsHub
