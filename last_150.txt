@@ -1,3 +1,5 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.142:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.08ms
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@152.42.139.46:8880/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4#[🇳🇱]t.me/ConfigsHub
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443/?type=ws&encryption=none&host=ru01.abvpn.ru&path=%2Fwebsocket&security=tls&sni=ru01.abvpn.ru&fp=chrome#[🇷🇺]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.233.21.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8080/?type=grpc&encryption=none&sni=rEfErSion.Com.&fp=chrome&security=reality&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa#[🇺🇸]t.me/ConfigsHub
@@ -129,7 +131,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880/?type=ws&encrypt
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.216.206:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.22ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.234:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#👉🆔@MoftConfig📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:8.12ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.13.32:80/?type=ws&encryption=none&host=Telegram---ELi.V2ray.ir&path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.17ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.148.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.133.1.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:7.91ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.184:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%40ShadowProxy66%3Fed%3D2560#👉🆔@MoftConfig📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:8.27ms
 trojan://telegram-id-privatevpns@63.177.148.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
@@ -142,7 +143,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.16:8880/?type=ws&encryptio
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.13:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%40vpnAndroid2%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.82ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.245.221.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇰🇿®️Kazakhstan©️Almaty (Medeū)🅿️ping:8.51ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.13ms
-trojan://telegram-id-directvpn@63.177.148.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://vpn@109.120.132.80:2025?encryption=none&security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.83ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.220:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.49ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81.247.192:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%2Bid%3A%2B%40ShadowProxy66%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇺🇸®️United States©️Belmont🅿️ping:8.77ms
