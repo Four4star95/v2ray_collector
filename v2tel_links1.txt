@@ -73324,3 +73324,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.166:80?path=%2FTelegram%4
 vless://41ec8f30-6cd7-4703-94e1-95913c1626fa@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=arayeshgaham.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws5
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.2:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.36.216.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.13.32:80?path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=Telegram---ELi.V2ray.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.36.216.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.36.216.174:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
