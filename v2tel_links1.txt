@@ -74369,3 +74369,5 @@ vless://2f99cab3-9044-4e7d-8073-5bfa87c7c1b5@WWW.SPEEDTEST.NET:2052?path=%2F%3Fe
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.3.20:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@13.39.3.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#⚜️Telegram:@IP_CF
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.4:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=raw&headertype=none#[🇺🇸]t.me/ConfigsHub
