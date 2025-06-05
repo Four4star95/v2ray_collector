@@ -74394,3 +74394,4 @@ vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:8080?path=%2FKH6gqt9sb
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560%2F%3FMTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.114.206:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.199.32:443#[🇬🇧]t.me/ConfigsHub
+vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
