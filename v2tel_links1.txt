@@ -74341,3 +74341,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.160.82:22224?type=ws&securit
 trojan://telegram-id-directvpn@18.156.160.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://f105d697-b051-4731-a710-95b79e3edc1a@zula.ir:2053?path=%2Fcontainers%2Fde&security=tls&alpn=h3h2&encryption=none&host=all15.kikforwindows.com&type=ws&sni=all15.kikforwindows.com#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880/?type=grpc&encryption=none#[🇬🇧]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880/?type=grpc&encryption=none#[🇬🇧]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880/?type=grpc&encryption=none#[🇫🇷]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc%3D@166.1.157.228:55330#⚜️Telegram:@IP_CF
+vless://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052/?type=grpc&encryption=none&serviceName=vless-grpc#[🇬🇧]t.me/ConfigsHub
