@@ -74396,3 +74396,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.114.206:443#[�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.199.32:443#[🇬🇧]t.me/ConfigsHub
 vless://d4769aab-99d9-4491-a3e3-a58867915bdf@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.cfmglpqb.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.cfmglpqb.workers.dev&path=%2FTelegram@V2ray_Alpha%2F%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 
+vless://05d83460-c34e-4d1a-9bae-40f60e77cd95@tci.ir.cloud.us.systemgamingirani.ir:443?type=tcp&security=reality&fp=chrome&sni=tgju.org&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#⚜️Telegram:@IP_CF
