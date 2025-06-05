@@ -74336,3 +74336,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?type=ws&host=UuhU
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#👉🆔@MoftConfig📡🇳🇴®️Norway©️Oslo🅿️ping:14.37ms
 vless://a7ed64cf-b5bd-41f4-9266-db04f46ef7af@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.31.120:8880?encryption=none&security=none&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2F#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:10.21ms
+vless://dd6d3066-7bc8-4ede-90e9-c67d71d01eed@zula.ir:2053?path=%2Fcontainers%2Fde&security=tls&alpn=h3h2&encryption=none&host=all4.kikforwindows.com&type=ws&sni=all4.kikforwindows.com#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.160.82:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@18.156.160.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://f105d697-b051-4731-a710-95b79e3edc1a@zula.ir:2053?path=%2Fcontainers%2Fde&security=tls&alpn=h3h2&encryption=none&host=all15.kikforwindows.com&type=ws&sni=all15.kikforwindows.com#[🇨🇦]t.me/ConfigsHub
