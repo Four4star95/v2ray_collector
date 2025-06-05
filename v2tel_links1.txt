@@ -74288,3 +74288,22 @@ vless://c83b40cb-c55d-4b85-b4c8-059c916d66cc@95.164.10.184:4434?security=reality
 vless://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?encryption=none&security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev&path=%2F#[🇨🇦]t.me/MoftConfig
 vless://429f7092-752f-4c33-b1bc-3d3ccc69848c@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=jointo_vistav2ray.ir&type=xhttp#[🇺🇸]t.me/MoftConfig
 vless://b978d99a-ec40-41b6-a610-fe3e2e604ac6@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:38.54ms
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#👉🆔@MoftConfig📡🇳🇴®️Norway©️Oslo🅿️ping:14.14ms
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&headerType=&type=tcp&sni=bats-paper-chump.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:29.79ms
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&headerType=&type=tcp&sni=guy-trace-lyric.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:29.57ms
+trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&headerType=&type=tcp&sni=uk-02.allhubb.info#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Erith🅿️ping:98.01ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.209.0:8880?path=Telegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.3ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.162.229.243:8880?path=%2FTelegram%40ShadowProxy66&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🇬🇧]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprNWpWS25ERzBiYXNFSzlxbDNPckZk@62.210.88.22:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:87.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMER6NEFTVG56d2l2WkdvazVVZGJT@macintosh.outlinekeys.net:19609#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Meppel🅿️ping:31.47ms
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?security=tls&headerType=&type=tcp&sni=morse-stank-most.stark-industries.solutions#👉🆔@MoftConfig📡🇲🇩®️Moldova©️Chisinau🅿️ping:61.63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#👉🆔@MoftConfig📡🇵🇱®️Poland©️Kolonia Opacz🅿️ping:96.67ms
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=bats-paper-chump.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:30.59ms
+vless://9f70a4c0-f727-47fb-ba7d-d604dba9669c@172.67.152.111:443?encryption=none&security=tls&sni=worker-little-leaf-7f8e.foxici5037.workers.Dev&type=ws&host=worker-little-leaf-7f8e.foxici5037.workers.Dev&path=%2F#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.29ms
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=&type=tcp&sni=us.blazeppn.info#👉🆔@MoftConfig📡🇺🇸®️United States©️Clifton🅿️ping:93.48ms
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=&type=tcp&sni=bats-paper-chump.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:30.59ms
+vless://58e5e0f1-1702-430e-8046-59dc971dd035@free.server.techsonic.site:443?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=android.googleapis.com#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:174.72ms
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:31.6ms
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#👉🆔@MoftConfig📡🇺🇸®️United States©️Queens🅿️ping:29.57ms
