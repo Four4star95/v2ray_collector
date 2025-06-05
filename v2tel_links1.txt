@@ -74351,3 +74351,7 @@ vless://54565f37-1afb-403b-a29a-350c928007b2@panel2.svgspeedtest.net:443?type=gr
 vless://01e09d56-4242-439f-a180-939273b1df4b@104.19.54.50:8080?type=ws&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&security=none#[🇨🇦]t.me/ConfigsHub
 
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.181.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://f23d08e5-4999-4e43-b674-0a616ff2145b@o.soskom.ir:26528?type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a&spx=/#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.181.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJhZGQiOiI0NTFlZDQwYS1zdjB4czAtdDIxcnl6LTFyazB1LmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiNDUxZWQ0MGEtc3YweHMwLXQyMXJ5ei0xcmswdS5oay5wNXB2LmNvbSIsImlkIjoiYWU0MDM2NzYtMWY3Mi0xMWVmLTk4ZGYtZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
