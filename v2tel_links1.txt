@@ -74842,3 +74842,6 @@ vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443?security=reality&
 ss://YWVzLTI1Ni1nY206RlgwTzJRTjFDUzg5RTFBMg%3D%3D@185.123.100.140:20024#[🇹🇷]t.me/MoftConfig
 vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇫🇮]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206RlgwTzJRTjFDUzg5RTFBMg%3D%3D@185.123.100.140:20024#[🇹🇷]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTk4LjI1MS44My4yMDgiLCJwb3J0Ijo0NTI2MywiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0bHMiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.123.120:443#[🇬🇧]t.me/ConfigsHub
+vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v23.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#⚜️Telegram:@IP_CF
