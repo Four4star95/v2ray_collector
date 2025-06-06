@@ -75209,3 +75209,4 @@ trojan://telegram-id-privatevpns@35.181.245.246:22222?security=tls&alpn=http/1.1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.245.246:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@35.181.245.246:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@9.223.176.191:48172/?POST%20#⚜️Telegram:@IP_CF
+vless://6a412fca-44a2-4aec-8e2e-458e447d58e5@128.140.97.5:48109?type=tcp&path=%2FToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2rayToxicV2ray&host=www.apple.com&headerType=http&security=none#[🇩🇪]t.me/ConfigsHub
