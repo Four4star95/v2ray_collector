@@ -75349,3 +75349,5 @@ ss://YWVzLTI1Ni1nY206SDFUMjdSV09WMllEWVJWVQ%3D%3D@147.78.2.35:20020#[🏁]t.me/C
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:2095?path=%2F901qf5SHefST0QYH%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.213.239:443#[🇬🇧]t.me/ConfigsHub
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.32.69:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=13tg.jpl8xmqb.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
