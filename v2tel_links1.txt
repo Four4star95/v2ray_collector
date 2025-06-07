@@ -75328,3 +75328,4 @@ vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2095?encryption=none&s
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODQuMjQ3LjE0OS43NyIsInBvcnQiOiI0NzIxMSIsImlkIjoiZmI2NzQyNjAtMWMyMS00Zjk5LThiZDAtM2QxZDM0MWM2NzcxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMzAifQ==
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?encryption=none&security=none&type=ws&host=domain2025.dpdns.org&path=%2Fs9OZ6FClZzVoeUpN%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.39.3.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
