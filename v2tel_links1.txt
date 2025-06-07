@@ -75405,3 +75405,6 @@ vless://d0070428-78f4-49b4-eb80-b477cf433a42@49.12.9.55:8880?mode=gun&security=n
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&fp=chrome&sni=dl.google.com&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.252.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.252.182:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=khorzokhan.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws3
+vless://5f64020c-87d6-4784-bc48-63a55499d173@84.234.31.224:55?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://98f6bad3-37ea-4b8e-8892-e759c0c0c67b@84.234.31.140:66?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
