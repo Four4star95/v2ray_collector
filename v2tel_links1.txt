@@ -75395,3 +75395,4 @@ vless://8016e3e2-85a9-4e9c-86cc-379a888aa59d@tci.ir.cloud.us.systemgamingirani.i
 vless://TELEGRAM-NUFiLTER@151.101.64.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=mard.asabani.com&type=ws#[🇺🇸]t.me/ConfigsHub
 
 
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:2086?path=%2F3wVlyke7DbEIF74o%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
