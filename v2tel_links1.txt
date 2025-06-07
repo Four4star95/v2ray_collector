@@ -75368,3 +75368,5 @@ vless://2f65a39f-76d7-4607-81aa-16038b5b9542@www.speedtest.net:80?path=%2F%40Shh
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#⚜️Telegram:@IP_CF
 
 
+vless://7c24ca73-193f-4873-adfc-3939a3a9b005@188.245.120.39:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:80?path=%2FyeTxGofK7eV9fR3N%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
