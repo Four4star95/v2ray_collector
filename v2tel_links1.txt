@@ -75396,3 +75396,8 @@ vless://TELEGRAM-NUFiLTER@151.101.64.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram
 
 
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:2086?path=%2F3wVlyke7DbEIF74o%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://981ae220-1c73-4334-942e-24c9b476f44f@84.234.31.243:20244?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://8016e3e2-85a9-4e9c-86cc-379a888aa59d@tci.ir.cloud.us.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇺🇸]t.me/ConfigsHub
+vless://8016e3e2-85a9-4e9c-86cc-379a888aa59d@tgju.org.tr.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇹🇷]t.me/ConfigsHub
+vless://8016e3e2-85a9-4e9c-86cc-379a888aa59d@arvancloud.nl.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#[🇳🇱]t.me/ConfigsHub
+vless://d0070428-78f4-49b4-eb80-b477cf433a42@49.12.9.55:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2Ftel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#[🇩🇪]t.me/ConfigsHub
