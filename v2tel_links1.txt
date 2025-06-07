@@ -75355,3 +75355,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydGlnVndyY3E5Tk5XZ1hCampmemp4@62.60.247.40:5
 ss://YWVzLTI1Ni1nY206YjU1YzdlODRhZmRkNTJjYg%3D%3D@185.22.153.67:51002#[🇷🇺]t.me/ConfigsHub
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?encryption=none&security=tls&sni=quiet-bread-928e.wadas15468.workers.dev&fp=randomized&type=ws&host=quiet-bread-928e.wadas15468.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub
 vmess://eyJ2IjoyLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjE2Mi4xNTkuNDUuMjM2IiwicG9ydCI6MjA4NiwiaWQiOiI3ZDkyZmZjOS0wMmUxLTQwODctOGE0Ni1jYzRkNzY1NjA5MTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJtNjkxOS4xNjQ3NDgueHl6IiwicGF0aCI6ImdpdGh1Yi5jb21cL0FsdmluOTk5OSIsInRscyI6ZmFsc2UsInNuaSI6IiJ9
+trojan://telegram-id-privatevpns@63.178.212.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.178.212.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.212.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@63.178.212.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
