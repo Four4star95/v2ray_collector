@@ -76030,3 +76030,5 @@ vless://a10cf769-1141-4031-ab36-165345bbda9f@128.140.97.5:49462?type=tcp&path=%2
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.204.125:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@3.73.204.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-privatevpns@3.73.204.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-directvpn@3.73.204.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.73.204.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
