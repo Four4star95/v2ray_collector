@@ -76245,3 +76245,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidXMw
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2082?path=%2FOBSsA6RsqLVPFcMu%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://ef377f90-4d86-4276-a8b0-05ae02d77c21@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeedeeeeee.ir&type=ws#[🇺🇸]t.me/ConfigsHub
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WldGak5XTTJNVFZpTWpBNVpEa3pZdz09Ok5qUXpaVEZtWmpRdE56UTFNQzAwTUE9PQ%3D%3D@zz.xn--vpn-3f0h822m.com:8071#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.91.84:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#⚜️Telegram:@IP_CF
