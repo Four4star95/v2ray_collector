@@ -76679,3 +76679,5 @@ vless://2d656686-e88b-43fa-ac13-87ee9f414836@ns.cloudflare.com:2086?path=%2FGood
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.31ms
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443/?type=tcp&security=tls&sni=morse-stank-most.stark-industries.solutions&allowInsecure=1#👉🆔@MoftConfig📡🇲🇩®️Moldova©️Chisinau🅿️ping:65.16ms
 
+vless://147ce5c8-76b6-4272-8d2f-7c84f617fb3e@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@146.19.106.154:443?security=tls&headerType=none&type=tcp&sni=both-cramp-banjo.stark-industries.solutions#⚜️Telegram:@IP_CF
