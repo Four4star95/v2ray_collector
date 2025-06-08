@@ -75907,3 +75907,7 @@ vless://7dd3ec51-246d-40c9-8508-90c5ee534659@104.17.21.157:8080?path=%2F%40MaSTe
 vless://CHIK_981036@77.91.76.14:443?security=reality&encryption=none&pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:30.95ms
 vless://CHIK_481529@77.91.85.161:443?security=reality&encryption=none&pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&headerType=&fp=chrome&spx=%2F&type=tcp&sni=whatsapp.com&sid=ffffffffff#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:19.25ms
 
+vless://2f17f276-5d7a-4fab-8a3f-c75a7135ea3d@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
+vmess://eyJhZGQiOiIzNDAxMzE1Ny1zdW56NDAtdGF6NTNkLTFqMHk2LmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6IjM0MDEzMTU3LXN1bno0MC10YXo1M2QtMWoweTYuaGszLnA1cHYuY29tIiwiaWQiOiIxY2NlN2RmMi0yNTFjLTExZWUtOTQwOS1mMjNjOTE2NGNhNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://telegram-id-directvpn@15.188.252.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVXg0SWhDMXBiTXVoZnBkN1JtYmtJ@194.87.45.189:443#🇪🇸 Испания
