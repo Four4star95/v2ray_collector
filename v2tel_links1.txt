@@ -76162,3 +76162,11 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443?security=tls&encr
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@both-cramp-banjo.stark-industries.solutions:443?allowInsecure=1&sni=both-cramp-banjo.stark-industries.solutions#[🇨🇦]t.me/ConfigsHub
 
 
+vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@135.125.244.167:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#[🇩🇪]t.me/ConfigsHub
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.4:443?path=%2F%3Fed%3D2560&security=tls&allowInsecure=1&host=Channel---ELiV2RAY---ELiV2RAY.nET&type=ws&sni=Channel---ELiV2RAY---ELiV2RAY.nET#[🇺🇸]t.me/ConfigsHub
+vless://ddfcdf76-ebdb-4a27-a8a6-f0f13b7d3431@51.89.175.82:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#[🇬🇧]t.me/ConfigsHub
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=Channel---ELiV2RAY---ELiV2RAY.nET&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:80?path=%2FJaxavRV98PXaUKdZ%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://0623826f-6b43-4a96-ac3f-4dabaeaa61a7@www.visa.com:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0601.nemister03.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.175.245:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e1afb93bfe75a34b#[🇬🇧]t.me/ConfigsHub
+vless://3a17f5ac-413e-404b-9dee-fae975e0efe9@78.46.209.177:7005?security=reality&encryption=none&pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com#[🇩🇪]t.me/ConfigsHub

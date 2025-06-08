@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:155.2ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:76.25ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcHB1R01MamhwblpYRkdCUEZ6dkNI@81.19.141.45:443#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:69.06ms
 vless://70cb13d1-90b8-4aa3-bda8-2e8725221403@173.245.58.100:8880?path=%2F%3Fed%3D2048%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=www.speedtest.net.fatsly.com.xziba.com&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:47.61ms
@@ -141,7 +142,6 @@ vless://183d4a1f-6ce9-43e9-d62c-ffe4c0eded47@asanaf.ir:24572?encryption=none&sec
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@tci.ir.cloud.us.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇺🇸]t.me/ConfigsHub
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@tgju.org.tr.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇹🇷]t.me/ConfigsHub
 vless://daa6ed94-d0a5-484f-925d-a6c6f4aaae62@FASTSHOVPNTELEGRAM.bgdragonshop.ir:2053?security=reality&encryption=none&pbk=eR4J5FtMqaNxy-RvJb6JzcBoREYy7iDGC61J6xtQHkc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=48#[🇩🇪]t.me/ConfigsHub
-vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:80?path=%2FJaxavRV98PXaUKdZ%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@arvancloud.fr.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇫🇷]t.me/ConfigsHub
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@arvancloud.fn.ir.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇩🇪]t.me/ConfigsHub
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.235.200.29:8880?path=%2F&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws#[🇺🇸]t.me/ConfigsHub
