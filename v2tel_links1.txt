@@ -76193,3 +76193,4 @@ trojan://telegram-id-directvpn@52.47.60.114:22223?security=tls&alpn=http/1.1&hea
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880/?type=grpc&encryption=none#[🇺🇸]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880/?type=grpc&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880/?type=grpc&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@52.47.60.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
