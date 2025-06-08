@@ -76470,3 +76470,14 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443?encryption=none&
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.147:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=raw&headertype=none#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-privatevpns@13.36.9.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?security=reality&encryption=none&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&headerType=none&fp=chrome&spx=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&type=tcp&flow=xtls-rprx-vision&sni=server-11769.prod.hosts.ooklaserver.net&sid=982264#[🇩🇪]t.me/MoftConfig
+vless://f8729660-82eb-47e0-9f45-2984113316ca@vx.srvice.shop:1020?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪]t.me/MoftConfig
+vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#[🇩🇪]t.me/MoftConfig
+vless://f8729660-82eb-47e0-9f45-2984113316ca@vx.srvice.shop:1020?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪]t.me/ConfigsHub
+vless://f8729660-82eb-47e0-9f45-2984113316ca@www.srvice.shop:1010?security=reality&type=tcp&headerType=none&path=&host=&sni=canva.com&fp=chrome&pbk=a0_d-hjj7ByzOdLnniZTHPcRIEnT9DtI1icnlrekuDM&sid=8a1fb5d015ab108c#[🇩🇪]t.me/ConfigsHub
+vless://855913a1-8109-4c30-bcd7-0559533e122b@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjozMTIwOSwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
+vless://f8729660-82eb-47e0-9f45-2984113316ca@www.srvice.shop:1040?security=none&type=tcp&headerType=http&path=%2Fpath&host=Fast.com#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKRHBiY3FoM3dsMnNrMHdVV2QxaWs5@89.185.84.185:443#🇬🇧 Великобритания
+vless://f8729660-82eb-47e0-9f45-2984113316ca@www.srvice.shop:1040?security=none&type=tcp&headerType=http&path=%2Fpath&host=Fast.com#[🇩🇪]t.me/ConfigsHub
+vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?security=none&type=grpc&headerType=&serviceName=&authority=&mode=gun#[🇩🇪]t.me/ConfigsHub
+vless://f8729660-82eb-47e0-9f45-2984113316ca@www.srvice.shop:1010?security=reality&type=tcp&headerType=none&path=&host=&sni=canva.com&fp=chrome&pbk=a0_d-hjj7ByzOdLnniZTHPcRIEnT9DtI1icnlrekuDM&sid=8a1fb5d015ab108c#[🇩🇪]t.me/MoftConfig
