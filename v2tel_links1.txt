@@ -76226,3 +76226,7 @@ vless://telegram-id-ArV2ray12@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%4
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.93.214:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@52.47.93.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://3ace9555-8fd2-4614-8f1d-4086fb4f4c44@bless.network:443?path=%2F%40AzarAndoozVPNbot%2Frandom-access%2F%40AzarAndoozVPNbot&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=azarandooz.pairof.workers.dev&fp=chrome&type=ws&sni=azarandooz.pairof.workers.dev#[🇨🇦]t.me/ConfigsHub
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&security=none&encryption=none&host=Channel---VPNCUSTOMIZE.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@arvancloud.fn.ir.systemgamingirani.ir:443?security=reality&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38&type=tcp&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
+vless://b2d42bdc-7bb5-43d8-845b-cdb3271653cc@api-staging.4b3a.com:8080?security=reality&sni=rEfErSion.Com.&fp=ios&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&type=tcp&packetEncoding=xudp&encryption=none#[🇳🇱]t.me/ConfigsHub
+vless://058b8f1e-d850-49fc-bbd6-7692c154a99c@157.230.17.102:36750?security=none&type=grpc&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/ConfigsHub
