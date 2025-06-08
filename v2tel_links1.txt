@@ -76217,3 +76217,8 @@ vless://b2d42bdc-7bb5-43d8-845b-cdb3271653cc@api-staging.4b3a.com:8080?security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSE9QMWJXRk1rUVZ4M1BkYmhSbE9r@77.239.116.76:8315#[🇫🇷]t.me/ConfigsHub
 
 
+vless://34acc61e-d63a-4f0f-abb4-73d57ae63611@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&security=none&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub
+vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇬🇧]t.me/ConfigsHub
+vless://b357d11e-48ff-483f-969e-e72c380341f5@128.199.45.153:8440?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&spx=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#[🇳🇱]t.me/ConfigsHub
+vless://99edf917-c7f6-4ddf-8908-6c67e8807491@server1.les88xz.ir:3070?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/ConfigsHub
