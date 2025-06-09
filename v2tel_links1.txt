@@ -77548,3 +77548,4 @@ vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?security=reality&e
 vless://4dc10699-ff48-4688-b7e3-675249f307c3@5.253.41.42:30488?security=reality&encryption=none&pbk=oAZiftXfDm4Kue2Zle0lB9QQXEFPRyd24Vf7useQRyY&headerType=&fp=chrome&type=tcp&sni=dl.google.com&sid=a7#[🏁]t.me/ConfigsHub
 vless://d53da42f-d4b7-4d80-a9ca-cecf3beaa79a@91.107.152.130:443?mode=auto&path=%2F%40iNeronix&security=reality&encryption=none&pbk=kxj-EhIXEgwh66gBVOf3shmmwuMqKgsd0mUJNUN8Gw8&fp=chrome&spx=%2F&type=xhttp&sni=speedtest.net&sid=d62385a8#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#⚜️Telegram:@IP_CF
+vless://1fef6e2e-1da4-471d-9a82-8ee3e34ba158@huffingtonpost.es:80?flow=&type=xhttp&host=jointo_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&security=none#[🇫🇷]t.me/ConfigsHub
