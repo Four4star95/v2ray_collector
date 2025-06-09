@@ -77559,3 +77559,5 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206SzNrUmRJWUdkazRzUnU4Vm10NzBnYUZtL1ZwazUxbFh
 trojan://gwttcHVvdG@62.60.229.38:51415?security=none&headerType=&type=tcp#[🇫🇮]t.me/ConfigsHub
 vless://%F0%9F%91%89TELEGRAM_JOKERRVPN%F0%9F%91%88@www.speedtest.net:8880?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=none&encryption=none&host=joker.ahang-alpha.IR&type=ws#[🇨🇦]t.me/ConfigsHub
 
+vless://63b2160e-b05c-4f2b-b43d-badc811bb1b5@13.48.78.243:1991?mode=stream-up&path=%2Fkiava-telegram%2F%3FBIA_CHANEL%40JOKERRVPN&security=reality&encryption=none&pbk=6pXIzWDoWpZZ4LUo18eS4kkggHbcv2yt7gfhDSvr71M&host=www.speedtest.net&fp=chrome&spx=%2FBIA_CHANEL%40JOKERRVPN&type=xhttp&sni=www.speedtest.net&sid=8e6fa6524e7a#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.36.59.49:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
