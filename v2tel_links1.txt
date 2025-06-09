@@ -76805,3 +76805,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.200:8880?path=Telegram%4
 vless://567fdf8d-a17d-5df9-8831-091fc17a0391@zula.ir:443?path=%2Fvless&security=tls&encryption=none&type=ws&sni=cdn3444444444444.erfantop.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
 
 
+vless://c9e38d00-5df4-465c-bb47-bcbda076ad71@server1.les88xz.ir:3070?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://81edc46d-139c-4a28-a5f6-50eb4fe9a74e@kafshu.ir:2052?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&security=&encryption=none&host=wWw.SpeedtesT.net.xn--hibye-hg1hw1ovzaf50bop5bc33awx0ajxfqk4giqq.store.&type=ws#[🇨🇦]t.me/ConfigsHub
