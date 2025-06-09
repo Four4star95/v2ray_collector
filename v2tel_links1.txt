@@ -77576,3 +77576,8 @@ vmess://eyJhZGQiOiIxNTcuMTgwLjExMy42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxNTcuMTgwLjEyNC44MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MTE2NjgxMi00YzZhLTQyNTctYWYwMC1iYzQ0Y2NmZDc3N2QiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5MzAxIiwicHMiOiJb8J+Hq/Cfh65ddC5tZS9Db25maWdzSHViICwsQWxsLCwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#⚜️Telegram:@IP_CF
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzQ5ZmQ4Ny1hN2ZhLTQ3NmMtYjk3MS1lOGUwZWJkMzRiMmU@free.2weradf.xyz:36341#[🏁]t.me/ConfigsHub
+vless://4a163a6f-1811-4697-ae10-732dfe9589ba@64.44.158.121:36800?security=reality&sni=www.microsoft.com&type=xhttp&path=%2Fv2raybluecrystal&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMTZmZDM4NC04M2NlLTQwOGUtODVjOS0xM2RiOTFiYWVmZjc@free.2apzhfa.xyz:31671#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@13.112.71.144:6666#[🏁]t.me/ConfigsHub
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#[🇹🇷]t.me/ConfigsHub
