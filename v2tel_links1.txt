@@ -77608,3 +77608,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.103:22224?type=ws&securit
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:8443?path=%2FICv2KuPGTKicUvRj%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=domain2025.dpdns.org&fp=randomized&type=ws&sni=dOMAIN2025.dpdns.ORg#[🇨🇦]t.me/ConfigsHub
 trojan://gwttcHVvdG@62.60.229.38:51415?security=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@18.194.77.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://9761fd53-e191-459a-b68e-ccde488e3e51@91.99.24.244:23324?security=none&type=tcp&headerType=http&path=%2Fpath&host=www.speedtest.net#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVU5ocTZiY3E1N3NoTXp2VkNnbVdybmJvYmpnVzNhdTVwdjY1OG9VSGtKUzdDUmtNTHBkdTFXbllCemFWWkR0NjZ4NmRtYkozazl6ZU5LS3RoNG1HOHBzdFhSVW5RYVQ=@mx2.drawnrisha.one:55988#[🇫🇮]t.me/ConfigsHub
+vless://4dc1192f-93e9-4bce-8018-e5d2de0ef2df@d-all.uwieo.com:443?path=%2Ft6L3wjPC4dVr0d80%3Fed%3D2560&security=tls&encryption=none&host=vpn-5ly.pages.dev&fp=chrome&type=ws&sni=VPn-5Ly.pagES.dEV#[🇩🇪]t.me/ConfigsHub
