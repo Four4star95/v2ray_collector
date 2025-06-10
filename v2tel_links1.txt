@@ -77592,3 +77592,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?encryption=none&s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?encryption=none&security=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://5de46b0d-10fd-4162-8997-5003f9da30e0@13.48.78.243:1991?encryption=none&security=tls&sni=mmd-p9k.pages.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=mmd-p9k.pages.dev&path=%2FmA31GbVhTu4dLVc0%2FbW1kLXA5ay5wYWdlcy5kZXY%3Fed%3D2560#[🇸🇪]t.me/ConfigsHub
 
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-252@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-252@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%3Fed%3D2048&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=%50%61%72%73%61%73%68%6F%6E%61%6D-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🇫🇷]t.me/ConfigsHub
