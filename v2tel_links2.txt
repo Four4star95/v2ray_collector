@@ -30800,3 +30800,4 @@ trojan://telegram-id-directvpn@13.36.59.49:22223?security=tls&alpn=http/1.1&head
 vless://63b2160e-b05c-4f2b-b43d-badc811bb1b5@13.48.78.243:1991?mode=stream-up&path=%2Fkiava-telegram%2F%3FBIA_CHANEL%40JOKERRVPN&security=reality&encryption=none&pbk=6pXIzWDoWpZZ4LUo18eS4kkggHbcv2yt7gfhDSvr71M&host=www.speedtest.net&fp=chrome&spx=%2FBIA_CHANEL%40JOKERRVPN&type=xhttp&sni=www.speedtest.net&sid=8e6fa6524e7a#[🇸🇪]t.me/ConfigsHub
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjMwLjc2LjY2IiwicG9ydCI6IjEzNjUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjY4MzFjOWNlLTRjYTgtNDJjMC04MTgxLWZiMTA1NTcxMGNjYyIsInNuaSI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YjI3OWY5Zi1jZjhjLTRkNzgtOGNmYy1hMDc4Zjc0OWNiZGU@free.2weradf.xyz:36141#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#⚜️Telegram:@IP_CF
