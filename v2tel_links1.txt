@@ -77996,3 +77996,23 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUu
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@31.24.253.96:8443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=0926.qiang2000.link&fp=chrome&type=ws&sni=0926.qiang2000.link#⚜️Telegram:@IP_CF
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?security=tls&headerType=none&type=tcp&sni=wispy-crib-net.stark-industries.solutions#⚜️Telegram:@IP_CF
 
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@193.9.49.213:443?security=tls&sni=UoIrHqRs.cAfUnEaR.InFo&type=ws&host=UoIrHqRs.cAfUnEaR.InFo&alpn=h2%2Chttp/1.1&allowInsecure=1#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:8.97ms
+vless://Parsashonam-253@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:8.58ms
+vless://bdf33836-04d7-4048-be9d-9be0660f1d9a@104.16.98.145:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.7ms
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?path=%2Fproxyip%3D212.183.88.172%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#👉🆔@MoftConfig📡🇦🇹®️Austria©️Vienna (Leopoldstadt)🅿️ping:7.96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.64ms
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?allowInsecure=1&sni=wispy-crib-net.stark-industries.solutions#👉🆔@MoftConfig📡🇩🇰®️Denmark©️Copenhagen🅿️ping:16.03ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:265.22ms
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?path=%2F&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.76ms
+vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?path=58834%2Fmail-template&security=none&encryption=none&host=my-mail-management-pr0-git-land-manager.clients-github.com&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️Burlington🅿️ping:9.02ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FlaBjKYcEVdNBNCu9%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.75ms
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@jeff.ns.cloudflare.com:443?path=%2Ftiger%23Telegram%40V2ray_Alpha&security=tls&encryption=none&host=ivsfa.sofia-biaborotookoocheh.info&fp=chrome&type=ws&sni=ivsfa.sofia-biaborotookoocheh.info#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.22ms
+vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.34.159:443?security=tls&sni=1QQsSS.2031.PP.UA&type=ws&host=1qqsss.2031.pp.ua&alpn=http/1.1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.54ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.37:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:270.94ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#👉🆔@MoftConfig📡🇮🇳®️India©️Mumbai🅿️ping:139.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.34ms
+vless://Parsashonam-252@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam-DE.ir&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:8.58ms
+ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.219.5:443#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:322.7ms
+vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.34.159:443?security=tls&sni=1QQsSS.2031.PP.UA&type=ws&host=1qqsss.2031.pp.ua&alpn=http/1.1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.07ms
+vless://Parsashonam-253@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:8.61ms
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@domain2025.dpdns.org:2052?path=%2FLx85HksDCHd0r7iR%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.78ms
