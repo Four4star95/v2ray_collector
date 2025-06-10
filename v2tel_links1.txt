@@ -77628,3 +77628,5 @@ trojan://telegram-id-directvpn@52.58.37.232:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.58.37.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@176.9.243.164:600?security=tls&sni=marzban.negintel.xyz&type=tcp#[🇩🇪]t.me/ConfigsHub
 
+vless://fdc3553f-795c-4279-b9c9-4d6eb0c3d5c2@webhook-receiver.4b3a.com:8443?security=reality&type=tcp&headerType=&path=&host=&sni=cDn.cloUdfLare.com.&fp=chrome&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=6ba85179e30d4fc2#[🇩🇪]t.me/ConfigsHub
+vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@94.103.183.229:2053?path=%2FTG%40ShadowProxy66%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=jj.wxgqlfx.cn&fp=random&type=ws&sni=jj.wxgqlfx.cn#[🇷🇺]t.me/ConfigsHub
