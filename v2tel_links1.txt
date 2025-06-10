@@ -77582,3 +77582,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMTZmZDM4NC04M2NlLTQwOGUtODVjOS0xM2RiOTFiYWV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@13.112.71.144:6666#[🏁]t.me/ConfigsHub
 vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#[🇹🇷]t.me/ConfigsHub
 
+vless://e7d76505-d0bf-4c81-b8e7-c7a784ce7a78@212.80.10.34:5253?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#[🇮🇷]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTI5LjE0Ni4zMS4yNDAiLCJwb3J0IjoiMjUzMTQiLCJpZCI6IjBlZGYyN2NkLTJmMWYtNGRhYi05NWU3LWI0MjQ5NWZkN2U1NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InVzLW4xLnNwZWVkeXl1bi5jb20iLCJwYXRoIjoiXC92aWN0b3JpYXMiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJVUzMifQ==
