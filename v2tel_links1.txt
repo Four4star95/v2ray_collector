@@ -77970,3 +77970,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@jeff.ns.cloudflare.com:443?type=ws&host=ivsfa.sofia-biaborotookoocheh.info&path=/tiger%23Telegram@V2ray_Alpha&security=tls&fp=chrome&sni=ivsfa.sofia-biaborotookoocheh.info#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.06ms
 
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjE5OC43MS4yMTYiLCJwb3J0IjoiNTkwODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
