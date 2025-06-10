@@ -77865,3 +77865,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&securit
 trojan://telegram-id-privatevpns@13.39.206.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:34.41ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?security=none&sni=pqh36v5.economy36top.shop&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:98.12ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.37ms
+vless://c05ab173-c225-461f-8ea3-faad20b2c4e3@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
