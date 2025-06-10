@@ -77602,3 +77602,9 @@ vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@91.193.59.187:2052?type=httpupgrade
 vless://4dc1192f-93e9-4bce-8018-e5d2de0ef2df@d-all.uwieo.com:443?path=%2Ft6L3wjPC4dVr0d80%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chtt‍p%2F1.1&encryption=none&host=vpn-5ly.pages.dev&fp=chrome&type=ws&sni=VPn-5Ly.pagES.dEV#[🇩🇪]t.me/ConfigsHub
 vless://5de46b0d-10fd-4162-8997-5003f9da30e0@bless.network:443?path=%2FhzsdfG0i3fmrWYFh%2FbW1kLXA5ay5wYWdlcy5kZXY%3D%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=mmd-p9k.pages.dev&fp=chrome&type=ws&sni=mmd-p9k.PagEs.Dev#[🇨🇦]t.me/ConfigsHub
 vless://fdc3553f-795c-4279-b9c9-4d6eb0c3d5c2@mail-service.com.check.device-update.4b3a.com:8880?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=safari&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.194.77.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.194.77.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.103:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:8443?path=%2FICv2KuPGTKicUvRj%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=domain2025.dpdns.org&fp=randomized&type=ws&sni=dOMAIN2025.dpdns.ORg#[🇨🇦]t.me/ConfigsHub
+trojan://gwttcHVvdG@62.60.229.38:51415?security=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@18.194.77.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
