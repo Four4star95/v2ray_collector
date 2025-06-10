@@ -77616,3 +77616,14 @@ vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2095?path=%2FSAthVSS
 vless://ecfc4f95-db86-4662-a452-1c45d1ce1e66@91.107.243.243:2020?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://817424ef-1cff-4440-b4df-aec5fa81f252@91.107.155.41:2010?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.&type=ws#WS4-Irancell+%7C+%40ArV2ray
+ss://YWVzLTI1Ni1nY206NDIzY2Y2NDItNjUyOC00MTBjLWI1NDItMmFhZTA0MTEzZDMz@cdn-p1-lm.youku-dns.com:11516#[🏁]t.me/ConfigsHub
+vless://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.162.74:443?security=tls&sni=deR4567.irAN.pP.ua&type=grpc&serviceName=maYYKd6RmrrgwDWL&fp=chrome&alpn=h2#[🇨🇦]t.me/ConfigsHub
+vless://b4d535a5-fe2c-4f50-8e76-0e99faa54ef7@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&fp=chrome#[🇨🇦]t.me/ConfigsHub
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.164:443?security=tls&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&type=ws&host=Wv2NhB0hVh.SoLiJoNiTo.CoM&path=%2F&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://4c6bf10e-128b-46bd-83cd-0674c0c71d91@104.17.148.22:80?security=none&type=xhttp&host=mother26.dgclix.ir&path=%2F%3FTELEGRAM%40MARAMBASHI_MARAMBASHI#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.58.37.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.248.213.93:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.37.232:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@52.58.37.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@52.58.37.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@176.9.243.164:600?security=tls&sni=marzban.negintel.xyz&type=tcp#[🇩🇪]t.me/ConfigsHub
