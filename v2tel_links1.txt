@@ -77819,3 +77819,4 @@ vless://f2a7f9ed-22c3-465c-923f-40ff5d4a4bd8@77.110.116.32:45467?security=realit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.254:8880/?type=ws&encryption=none&flow=&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.46ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:99.76ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:51.84ms
+vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=Apple-SIB.ir&type=ws#⚜️Telegram:@IP_CF
