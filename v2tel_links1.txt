@@ -78242,3 +78242,4 @@ vless://telegram-id-ArV2ray2@www.speedtest.net:80?path=%2F-ArV2ry@ArV2ry-TEL--@A
 vless://b5e5e5f6-8972-4129-81df-3d91d4d53025@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
 vless://1bec8b80-429c-4711-b143-740ae2a7f0f9@81.28.12.12:80?path=%2FAzV2ry%3Fed%3D2056%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=speedtimemsa.com&type=httpupgrade#⚜️Telegram:@IP_CF
 
+vless://3a9b561c-88f5-2c16-e52d-d6fda4a44911@178.239.144.99:12000?security=&encryption=none&headerType=http&type=tcp#test
