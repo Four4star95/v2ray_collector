@@ -78285,3 +78285,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#👉🆔@MoftConfi
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.31ms
 vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?path=%2F&security=none&encryption=none&host=IO.IhJtq0hklC.ZULAiR.OrG.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.6ms
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:104.97ms
+vless://f454c606-7f82-4845-ab8e-271e52b98844@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
