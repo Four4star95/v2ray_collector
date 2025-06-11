@@ -78172,3 +78172,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.170:8880/?type=ws&encryption=none&host=yd.laoyoutiao.link&path=%2F#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:7.89ms
 vless://90f12f7c-6c24-42d3-98bb-9f598dca0589@v01.vxlimir.com:1370/?type=tcp&encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#👉🆔@MoftConfig📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:36.18ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.88:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRb1ZNaERhYWNCSkRSaHlWUVpxU0tZ@81.19.141.45:443#🇩🇪 Германия
+vless://ea7ad009-56ac-4666-8e3d-b87a8e1d9467@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
