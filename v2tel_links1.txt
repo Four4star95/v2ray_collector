@@ -78243,3 +78243,6 @@ vless://b5e5e5f6-8972-4129-81df-3d91d4d53025@ams5.vpntype.dev:443?security=tls&e
 vless://1bec8b80-429c-4711-b143-740ae2a7f0f9@81.28.12.12:80?path=%2FAzV2ry%3Fed%3D2056%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=speedtimemsa.com&type=httpupgrade#⚜️Telegram:@IP_CF
 
 vless://3a9b561c-88f5-2c16-e52d-d6fda4a44911@178.239.144.99:12000?security=&encryption=none&headerType=http&type=tcp#test
+vmess://eyJhZGQiOiIxNzguMjM5LjE0NC45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmNGUwYTQ3Zi0yNTFjLWRmYmYtNzk4MC1kOTM1Y2ZkN2ZhODEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNDAwMCIsInBzIjoi8J+HrPCfh6cgVW5pdGVkIEtpbmdkb20gfCDZhtuM2YUg2KjZh9inIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+trojan://telegram-id-directvpn@51.44.103.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.103.6:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
