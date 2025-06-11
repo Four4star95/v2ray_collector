@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@3.73.204.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.44ms
+trojan://telegram-id-privatevpns@3.73.204.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.52ms
 vless://183d4a1f-6ce9-43e9-d62c-ffe4c0eded47@asanaf.ir:24572?encryption=none&security=tls&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@tci.ir.cloud.us.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇺🇸]t.me/ConfigsHub
 vless://412edced-249e-4f49-a2f5-aa9546f0a6ba@tgju.org.tr.systemgamingirani.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#[🇹🇷]t.me/ConfigsHub
@@ -146,5 +148,3 @@ vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.162.197.175:10986?path=%2Fteleg
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@146.235.19.79:28983?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=tls&encryption=none&host=steep.skyfigure.top&type=ws&sni=steep.skyfigure.top#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:179.91ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.179:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=none&encryption=none&host=sg.laoyoutiao.link&type=ws&sni=sg.laoyoutiao.link#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.09ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.148:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=none&encryption=none&host=sg.laoyoutiao.link&type=ws&sni=sg.laoyoutiao.link#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:7.91ms
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?allowInsecure=0&sni=m2rrrty.777219.xyz&ws=1&wspath=%2FduJhdsnTCbijwHNYeMcCs9#⚜️Telegram:@IP_CF
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOjQxMDI0LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
