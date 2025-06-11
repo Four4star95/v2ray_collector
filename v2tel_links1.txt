@@ -78795,3 +78795,6 @@ vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:8080?path=%2F2jG0
 vless://channel%40v2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#[🇩🇪]t.me/MoftConfig
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@198.46.215.183:50964?security=tls&sni=0229.patterdeng.pp.ua&type=ws&path=%2F%3Fed#👉🆔@MoftConfig📡🇺🇸®️United States©️Elk Grove Village🅿️ping:116.06ms
 vless://channel%40v2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#[🇩🇪]t.me/ConfigsHub
+vless://8d179f31-b033-43dc-8b24-fbf037c8ed0b@vpntv29293.erfantop.ir:192?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
+vless://8d179f31-b033-43dc-8b24-fbf037c8ed0b@vpntv29293.erfantop.ir:192?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.35.20:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&allowInsecure=1#[🇨🇦]t.me/MoftConfig
