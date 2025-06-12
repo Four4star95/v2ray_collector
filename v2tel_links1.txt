@@ -79292,3 +79292,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880?path=%2F&securit
 vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@ip.sb:8080?type=ws&security=none&path=%2F&host=0613.heweiyi.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.72ms
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:2086?path=%2F3wvlyke7dbeif74o%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws&sni=domain2025.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.89ms
 trojan://telegram-id-privatevpns@15.188.93.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWlF6b2NHSGFoek84UUF6d0p2N3FL@194.87.45.189:443#🇪🇸 Испания
+vless://5d5eb66f-8de1-410e-8ed5-61daab8352c8@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
