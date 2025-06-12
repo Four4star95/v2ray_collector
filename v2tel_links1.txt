@@ -79456,3 +79456,7 @@ ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@44.248.149.58:443#👉🆔@MoftConfig📡🇺�
 vless://v2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.62ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dwt8v1.kvote.cn%3Bpath%3D%2Foqhygtklyhwi%3Bmux%3Dmux%3D4%3B%3B#👉🆔@MoftConfig📡🇹🇼®️Taiwan©️Taipei🅿️ping:269.22ms
 vless://41ccc2f6-e2ed-48b6-bb9f-bce8cbfc4f0d@45.135.195.227:8032?security=tls&sni=asanaf.ir&type=tcp&allowInsecure=1#👉🆔@MoftConfig📡🇩🇪®️Germany©️Übach-Palenberg (Übach)🅿️ping:34.04ms
+trojan://telegram-id-privatevpns@13.39.68.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.68.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.68.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇨🇵
+trojan://telegram-id-directvpn@13.39.68.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
