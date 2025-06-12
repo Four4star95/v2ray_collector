@@ -78968,3 +78968,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?allowInsecure=0&sni=m2rrrty.777219.xyz&ws=1&wspath=%2FduJhdsnTCbijwHNYeMcCs9#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.87ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:40.7ms
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.19.173.248:443?security=tls&sni=edccj.ambercc.filegear-sg.me&type=ws&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://053c2b4a-8eb0-430d-b4b2-b84124fbe2e4@62.60.148.14:25756?security=reality&encryption=none&pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=61#[🇫🇷]t.me/ConfigsHub
