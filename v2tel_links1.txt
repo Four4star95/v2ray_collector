@@ -79547,3 +79547,4 @@ vless://b190ed58-a8db-46ce-a68b-8aefcb8a6866@arvancloud.de.ir.systemgamingirani.
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.26ms
 vless://c624fc3e-5112-41d7-93f4-31f389dd96ba@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
 trojan://telegram-id-directvpn@13.39.68.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://28423131-cc24-4aa2-8cf9-28df211993da@server1.les88xz.ir:3070?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
