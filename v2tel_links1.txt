@@ -79659,3 +79659,4 @@ vless://acd867f1-a71b-4a17-a473-2b57930d8678@webhook-receiver.4b3a.com:8443/?sec
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:35.47ms
 vless://f6532006-dcfc-4f42-ab58-b72a3f4e1fb1@www.speedtest.net:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&security=&encryption=none&host=pamchall.com.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:10.1ms
 
+vless://2a840dda-a4d8-4caa-8337-024a38e5b50f@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
