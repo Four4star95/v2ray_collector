@@ -1,3 +1,5 @@
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@154.197.121.138:2052?type=httpupgrade&host=LondoN-Ar-12.pcsTorearsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#[🇬🇧]t.me/ConfigsHub
+trojan://5453ae26-250d-4e79-b4ec-016baf806865@104.21.23.162:443?allowInsecure=1&sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&ws=1&wspath=%2FOYzPAeaZdXUq2d6J3gc4aj#[🇨🇦]t.me/ConfigsHub
 vless://d3ea9097-bec8-4bb1-a662-a851794249bf@104.22.33.78:8880?type=ws&host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.#[🇨🇦]t.me/ConfigsHub
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?allowInsecure=0&sni=FFfgtyy.7282728.XYZ&ws=1&wspath=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7#[🇨🇦]t.me/ConfigsHub
 vless://telegram%3A%3A%3AV2rayvpn_official@n1.cafedorehami.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.cafedorehami.shop#[🇩🇪]t.me/ConfigsHub
@@ -132,10 +134,8 @@ vless://bddbc661-a058-4722-dd74-5f8199a4fab6@104.26.13.31:8080?path=%2F&security
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.166:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=sg.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.15ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.136:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=sg.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.36ms
 vless://7d910091-9504-4fe4-9d04-1e38de91ea90@zarin7i.alireza031.pw:43702?path=%2FZARIN7&security=&encryption=none&host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:104.85ms
-vless://4fc7a937-656f-4b8d-aab0-9a6d91a844c7@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.172:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=sg.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.1ms
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.38ms
-vless://57413029-5035-4de8-8681-e74d00d7ee72@astram.abletodothingsorg.com:80?path=%2F&security=&encryption=none&host=uioijsjvuabcujwecwe.abletodothingsorg.com&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.16ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.177:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=sg.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.3ms
 vless://7d910091-9504-4fe4-9d04-1e38de91ea90@78.157.59.178:43702?path=%2FZARIN7&security=&encryption=none&host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:105.08ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.179:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=&encryption=none&host=sg.laoyoutiao.link&type=ws#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.01ms
