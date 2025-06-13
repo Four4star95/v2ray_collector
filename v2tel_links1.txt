@@ -79668,3 +79668,4 @@ trojan://telegram-id-privatevpns@18.194.138.8:22222?security=tls&alpn=http/1.1&h
 
 vless://44683118-5b3e-4456-a694-eb4aa2e42bae@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
 trojan://LfcDJuqe@36.151.251.46:4448?allowInsecure=1#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuOTQuNjguMTMwIiwicG9ydCI6IjE4NzQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjBkOTBkMzMxLTZjNzAtNGNiOS04NTViLWMxMWJjZmQyMjdjNCIsInNuaSI6IiJ9
