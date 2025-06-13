@@ -79724,3 +79724,4 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE0Mi4xMzIuMTg1LjE1NiIsInBvcnQiOjM4Nzk5LCJpZCI6IjZj
 vless://1ce8f6a2-d86c-48b3-9cc9-f912bdeead52@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
 
 
+vless://telegram-id-ArV2ray@193.46.81.91:2041?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=www.refersion.com&sid=688c#Reality2-All|@ArV2ray
