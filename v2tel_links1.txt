@@ -80207,3 +80207,4 @@ vless://371bba8c-1e17-4a67-aec8-80f594cb565e@nl.spirako.com:443?security=reality
 vless://15868173-1378-4984-a4e2-07d51591b237@sos.sashabike.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=heidi.ns.clooudflare.com.mahxray.com.&type=httpupgrade#⚜️Telegram:@IP_CF
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1elJpQktBWWJLcERRdVc0bktHRUR4MTNINGg5R2VEeGFxMk9NdUppcUJ2UTVSc3M@185.135.86.86:31348#⚜️Telegram:@IP_CF
