@@ -80131,3 +80131,4 @@ vless://8e0447b0-a4c0-491f-9545-e7be3abf391a@sin5.vpntype.dev:443?security=tls&e
 
 vless://13baf8e7-b432-4e51-b174-aa08ab42119c@[::ffff:b94f:9e97]:8051?security=none&encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 vless://b8d7929a-dba7-446a-8615-5ec97a1aa647@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+trojan://d4ee748f-5778-4fc1-8b6b-a1c7f2b8a2ec@iepl01.tube-cat.com:20060/?type=tcp&security=tls&sni=sg.catxstar.com&allowInsecure=1#⚜️Telegram:@IP_CF
