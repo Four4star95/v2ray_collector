@@ -31692,3 +31692,9 @@ vless://cd2e9541-3fce-4d95-9bec-919d884f911e@168.138.212.80:443/?type=ws&encrypt
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80/?type=ws&encryption=none&flow=&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.33ms
 vless://bddbc661-a058-4722-dd74-5f8199a4fab6@104.26.12.31:8080/?type=ws&encryption=none&flow=&host=0611.heweiyi.dpdns.org&path=%2F#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.01ms
 vless://v2Rayfast_7@cloud.updatte.tech:8880/?type=ws&encryption=none&flow=&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇭🇺®️Hungary©️Budapest (XIX. kerület)🅿️ping:8.91ms
+trojan://telegram-id-privatevpns@3.126.104.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.104.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+vless://8e0447b0-a4c0-491f-9545-e7be3abf391a@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://b8d7929a-dba7-446a-8615-5ec97a1aa647@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://13baf8e7-b432-4e51-b174-aa08ab42119c@[::ffff:b94f:9e97]:8051?security=none&encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+trojan://d4ee748f-5778-4fc1-8b6b-a1c7f2b8a2ec@iepl01.tube-cat.com:20060/?type=tcp&security=tls&sni=sg.catxstar.com&allowInsecure=1#⚜️Telegram:@IP_CF
