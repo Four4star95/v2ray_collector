@@ -80143,3 +80143,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.146.50:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.124.40:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@cdn.learniran.xyz:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024&security=none&encryption=none&host=S130.DdigicYber.clicK.&type=httpupgrade#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+http3
 vless://6976a1df-6047-4517-bbf9-adcd1bf9a46e@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbnc4Z3dnZzU0RzhRYmlQRDFMWEdO@194.87.45.189:443#🇪🇸 Испания
