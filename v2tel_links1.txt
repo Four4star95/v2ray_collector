@@ -80185,3 +80185,4 @@ vless://7f2cc6db-ad01-41a7-b88b-630f757a719b@89.34.230.141:10474?mode=gun&securi
 vless://1bc0397c-dca6-4419-b90b-d48cd82d2a4b@Speedtest.net:80?mode=auto&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbede_vmessorg.ir&type=xhttp#⚜️Telegram:@IP_CF
 vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#⚜️Telegram:@IP_CF
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjIxLjk2LjEiLCJwb3J0IjoiODQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5MTQ1ODRlZS0zNTE1LTQ2YWMtYTA5ZC00Njc3YTJlOWRjOWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsInRscyI6InRscyJ9
