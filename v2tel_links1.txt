@@ -80127,3 +80127,4 @@ trojan://1d99eb06-8f7c-4296-8c84-1e57084579a5@iepl.tube-cat.com:20063/?type=tcp&
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80/?type=ws&encryption=none&flow=&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.33ms
 trojan://d4ee748f-5778-4fc1-8b6b-a1c7f2b8a2ec@iepl01.tube-cat.com:20060/?type=tcp&security=tls&sni=sg.catxstar.com&allowInsecure=1#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Queenstown Estate)🅿️ping:244.78ms
 vless://d61c613a-17f0-4e0b-8bab-d136b740ca67@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://8e0447b0-a4c0-491f-9545-e7be3abf391a@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
