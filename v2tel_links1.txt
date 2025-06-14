@@ -80159,3 +80159,4 @@ vless://4b7c9d72-b6ef-4db1-905f-070ea8da5488@lon5.vpntype.dev:443?security=tls&e
 trojan://telegram-id-directvpn@15.188.191.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://7f6a0136-f398-4aea-ad1c-2d5aeead1a4a@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
 
+
