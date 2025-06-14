@@ -80192,3 +80192,7 @@ vless://telegram-id-ArV2ray@84.32.103.234:443?mode=gun&security=reality&encrypti
 
 
 trojan://slch2024@usa.visa.com:443?path=%2F&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#⚜️Telegram:@IP_CF
+vless://TELEGRAM-NUFiLTER@ipjd.motorphrotan.ir:443?mode=gun&security=reality&encryption=none&authority=&pbk=hUz6-2DRR2JQr6lHq7Jx5BSmV3Z3LQGwTIXpWA63xVs&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=maps.google.com#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+reality4
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.228.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.72.228.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://2806aefe-d935-4722-b677-fb6434f62c8d@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#⚜️Telegram:@IP_CF
