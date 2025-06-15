@@ -80870,3 +80870,19 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODUu
 
 
 
+vless://bcd1432f-2b38-43fe-8f92-beb3bde56b8e@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://e3826f80-a4c2-4610-849f-d393e1be319b@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
+vless://b111b26c-7a0d-4326-9cee-eb9cad58a671@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://7f15ac51-e7aa-408f-a363-c00d0ffded19@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
+vless://53c05df7-99fa-4ace-8a62-ddf0ecb19624@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
+vless://5ebbe3f2-4751-436f-a1b0-2d6216af0812@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇸🇬%20Singapore
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.99.0:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://8687e52a-cc3f-4da2-baa9-2844cec72589@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://8d315f3e-b7db-4ae0-a7f5-600194783539@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://132825e5-b688-4640-ba6e-64eec9cf9620@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwOFBTYjJZZkJoRXRNazREUDdGbUdq@194.87.45.189:443#🇪🇸 Испания
+vless://67097210-f39b-456c-b940-49509b296b06@lon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇬🇧%20United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFaWRHOGhWNFV4dzRBa0tXdm1wd2pL@89.185.84.185:443#🇬🇧 Великобритания
+trojan://telegram-id-directvpn@3.66.99.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjE5OC43MS4yMTYiLCJwb3J0IjoiNDYxNTkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vless://06f98868-40f3-46ca-8149-2ad1b7d19922@ams5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Netherlands
