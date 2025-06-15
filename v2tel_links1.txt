@@ -80990,3 +80990,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.177:8880/?type=ws&encryp
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.11ms
 vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&fp=chrome&type=ws&path=%2Fvless%2F#👉🆔@MoftConfig📡🇧🇷®️Brazil©️São Paulo🅿️ping:226.63ms
 vless://TELEGRAM-NUFiLTER@151.242.2.35:44690?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40NUFiLTER+%F0%9F%87%B1%F0%9F%87%BA%D8%A8%D8%AF+%D9%BE%DB%8C%D9%86%DA%AF+%D9%85%DB%8C%D8%AF%D9%87+%D9%88%D9%84%DB%8C+%D9%88%D8%B5%D9%84%D9%87
+trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epcch.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ashton.ns.cloudflare.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yz.ylka.dpdns.org&type=ws&sni=yz.ylka.dpdns.org#⚜️Telegram:@IP_CF
