@@ -81261,3 +81261,4 @@ vless://6abbaf96-4b16-48d3-b996-a6067fc6eb2c@104.26.15.85:8080?type=ws&host=M4.n
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%3A%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.09ms
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.17.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.09ms
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?type=ws&host=barayeiran.nastaranh.dpdns.org&path=/?ed%3D2560/?JOKERRVPN&security=none#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NEo1Z1M4aTZGaUd1cHFyYWhGdk05@77.110.102.235:31080#⚜️Telegram:@IP_CF
