@@ -80929,3 +80929,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.44ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.06ms
 trojan://Aimer@199.34.228.191:2096?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Oakland (Downtown Oakland)🅿️ping:8.37ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.162.228.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Southport🅿️ping:8.53ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.229.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇨🇿®️Czechia©️Prague🅿️ping:8.15ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.198.173.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇮🇳®️India©️New Delhi🅿️ping:8.24ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.190:8880/?type=ws&encryption=none&flow=&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.11ms
+trojan://ttfang@121.167.145.40:10843/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me&allowInsecure=1#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Jeongja-dong)🅿️ping:311.74ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.238.228.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.63ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.93:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.65ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.211.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇧🇿®️Belize©️Belize City🅿️ping:8.12ms
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@193.122.58.158:443/?type=ws&encryption=none&flow=&host=piqie.justin-lifeistooshort.info&path=%2Ftiger&security=tls&sni=piqie.justin-lifeistooshort.info#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main (Innenstadt I)🅿️ping:28.57ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.182.84.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇷🇺®️Russia©️Kaliningrad🅿️ping:8.31ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇧🇬®️Bulgaria©️Sandanski🅿️ping:7.96ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.217:80/?type=ws&encryption=none&flow=&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇰🇿®️Kazakhstan©️Kapshagay🅿️ping:8.29ms
+vless://0783b1b9-5d8b-4d03-adc3-b050acc71a29@168.138.181.208:443/?type=ws&encryption=none&flow=&host=sgp.rtot.me&path=%2Fbing&security=tls&sni=sgp.rtot.me#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:180.85ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:8.33ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.199:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.96ms
+trojan://ttfang@47.245.91.197:9000/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me&allowInsecure=1#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:253.29ms
+trojan://ttfang@138.2.100.221:26621/?type=ws&host=ttfang.fange.me&path=%2F&security=tls&sni=ttfang.fange.me&allowInsecure=1#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore (Loyang)🅿️ping:185.69ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:8.05ms
+vless://telegram-id-ArV2ray2@www.speedtest.net:80/?type=ws&encryption=none&flow=&host=www.speedtest.net.b.1.speedtest2029.com.&path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.61ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.217.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.69ms
