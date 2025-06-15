@@ -80724,3 +80724,10 @@ vless://6486c034-4380-4601-b35b-85ba3a65feb0@151.101.69.22:80?security=none&type
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2095?path=%2FRtYBGEwkOwlzf3oV%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.54ms
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&allowInsecure=0#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.51ms
 
+vless://turboo-server@85.9.96.92:8080?path=%2FTurbooServer&security=&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:100.15ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:9.53ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.113.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiMSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJzeXllaXlwdnB2IiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzeXllaXlwdnB2LTE2MjE5MjM5MjA0LmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL292aFwvY2RuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://telegram-id-privatevpns@18.198.113.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-directvpn@18.198.113.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://2a3b707f-fa3c-4629-871f-62dfe3dc14ba@vip-82.f-sub.cfd:5969?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:14.39ms
