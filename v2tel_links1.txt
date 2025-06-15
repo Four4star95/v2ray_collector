@@ -80989,3 +80989,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.213:8880/?type=ws&encryp
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.177:8880/?type=ws&encryption=none&flow=&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:9.08ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.213:8880/?type=ws&encryption=none&flow=&host=jp.laoyoutiao.link#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.11ms
 vless://1a7a39e4-8c9b-4052-b8b2-c0929536bba5@95.164.4.88:8443?encryption=none&security=tls&sni=pq-brazil1.09vpn.com&fp=chrome&type=ws&path=%2Fvless%2F#👉🆔@MoftConfig📡🇧🇷®️Brazil©️São Paulo🅿️ping:226.63ms
+vless://TELEGRAM-NUFiLTER@151.242.2.35:44690?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40NUFiLTER+%F0%9F%87%B1%F0%9F%87%BA%D8%A8%D8%AF+%D9%BE%DB%8C%D9%86%DA%AF+%D9%85%DB%8C%D8%AF%D9%87+%D9%88%D9%84%DB%8C+%D9%88%D8%B5%D9%84%D9%87
