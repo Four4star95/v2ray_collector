@@ -32093,3 +32093,5 @@ vmess://eyJ2IjoiMiIsInBzIjoiOCB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.135.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@63.178.112.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.153.135.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://TELEGRAM-NUFiLTER@89.34.230.165:443?security=reality&encryption=none&pbk=TQfube5IrOCF-ZAZF7j-zvci-1EpqqWXVu2dksubzRw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=maps.google.com#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20reality2
+vless://04a8fc0b-a72b-4d31-8f26-4a8ed6f78d41@202.133.89.132:6062?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
