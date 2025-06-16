@@ -81347,3 +81347,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.80:3306#👉🆔@MoftConfig�
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?type=ws&host=barayeiran.nastaranh.dpdns.org&path=/?ed%3D2560/?JOKERRVPN&security=none#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.05ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Bo🅿️ping:289.22ms
 trojan://telegram-id-directvpn@3.124.169.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+
