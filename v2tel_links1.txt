@@ -81377,3 +81377,26 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.199:8880?type=ws&host=jp
 
 
 
+vless://5438a51f-e993-4a4a-85dd-566130b491cf@tenns3.bidaplay.ir:3389?path=%2F&security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:119.41ms
+vless://b198aacc-2812-4c9c-be95-520d7ceb48ac@151.101.69.20:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=joinbedeZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:158.02ms
+vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20tcp2
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.236:8880?type=ws&host=us.laoyoutiao.link&path=%2F#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:16.46ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.218.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:8.63ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.151:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇲🇽®️Mexico©️Mexico City🅿️ping:100.44ms
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:443?security=tls&sni=omidyzvg2.kamaleriz.info&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/&host=omidyzvg2.kamaleriz.info&encryption=none#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:41.6ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.76:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:14.63ms
+vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.127.113:80?security=none&sni=sib.sibzamini.dpdns.org&type=ws&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2560&fp=random#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.99ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.8.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:280.36ms
+vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?encryption=none&security=none&type=ws&host=br.presskiwi.dpdns.org&path=%2FBaRAyeIran%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.46ms
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?security=none&sni=dw.alibichareh.dpdns.org&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.83ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.175:8880?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2F#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.28ms
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?security=none&type=ws&host=kssepa.sabzipolobamahi.dpdns.org&path=%2F%3Fed%3D2560%2F%3FJOKERRVPN#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
+vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@lightning2025.top:619?path=%2Fws%3Fed%3D2048&security=&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 3)🅿️ping:106.56ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.190.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.8ms
+trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.132:8880?security=none&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.05ms
+vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:31.07ms
+vless://turboo-server@fn.turbooserver.ir:8080?security=reality&encryption=none&pbk=3Hj0Zbqa4Ry2r2zeLhGUB4r5atY2KRg5bAFbQ0ulZkE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=canva.com#👉🆔@MoftConfig📡🇮🇪®️Ireland©️Dublin🅿️ping:30.83ms
+vless://ab32904a-2456-4745-8d86-0535ca8d3c3d@tun.momasserver.ir:1121?security=none&encryption=none&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān (District 4)🅿️ping:101.48ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.24:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:269.11ms
