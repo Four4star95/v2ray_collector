@@ -81324,3 +81324,26 @@ vless://TELEGRAM-NUFiLTER@151.242.2.35:44690?security=none&encryption=none&host=
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.26:8880?security=none&type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@MxlShare+@WangCai2+%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:8.44ms
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.132:34045?security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Cầu Diễn🅿️ping:224.52ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:37.74ms
+vless://1071ac52-ae75-478e-a58b-86a85aba04be@ms.aradsoft.org:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=canva.com#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Loughborough🅿️ping:28.93ms
+vless://cb4560ba-ae96-4f8d-b6ec-ae4d1f0bf7c4@104.21.96.1:8080?type=httpupgrade&host=docs.acveo.ir&path=%2FMTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.34ms
+vless://telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#Reality3|@ArV2ray
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:123.8ms
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.102:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:111.15ms
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#👉🆔@MoftConfig📡🇺🇸®️United States©️Atlanta🅿️ping:117.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#👉🆔@MoftConfig📡🇮🇱®️Israel©️Tel Aviv🅿️ping:84.14ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:37.76ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#👉🆔@MoftConfig📡🇷🇺®️Russia©️Obruchevo🅿️ping:28.36ms
+vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Istanbul🅿️ping:66.7ms
+vless://50437839-f3a7-46c6-87ea-27a56ad36dae@xoxo.i-missvezze.ir:29262?type=tcp&path=%2F&headerType=http&security=none#👉🆔@MoftConfig📡🇮🇷®️Iran©️Bandar Abbas🅿️ping:113.79ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.169.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://c2f690dc-6187-48a8-aa8b-b75d43d11df4@104.17.148.22:2053?security=tls&sni=app1.appdatanew2025g.lat&type=ws&host=app1.appdatanew2025g.lat&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.1ms
+vless://7c30bf84-bd33-4b21-9abc-7f756ecf006b@104.21.64.1:8080?security=none&type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.19ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:37.84ms
+vless://a7c9c017-db10-4d15-b01b-0634db498b57@172.67.197.165:443?security=tls&sni=XcdvfGBnHU7.0890604.XyZ&type=ws&host=xcdvfgbnhu7.0890604.xyz&path=%2FxZjr7v1DqrYyamxeTh7sLJtI1&fp=chrome&alpn=http%2F1.1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.37ms
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:106.52ms
+vless://9cb10076-f3e2-4b01-80d8-8317123c0349@157.180.116.167:2053?mode=gun&security=reality&encryption=none&pbk=OFmQboE5s4LVS9AjppK8o1b0t8Hh3JgdClB0HHCRURo&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&sni=speedtest.net&sid=6145fe820a20#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:13.78ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.80:3306#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:104.98ms
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?type=ws&host=barayeiran.nastaranh.dpdns.org&path=/?ed%3D2560/?JOKERRVPN&security=none#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Bo🅿️ping:289.22ms
+trojan://telegram-id-directvpn@3.124.169.204:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
