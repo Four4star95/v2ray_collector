@@ -81608,3 +81608,4 @@ trojan://Aimer@188.164.159.91:2083?allowInsecure=1&sni=epcca.ambercc.filegear-sg
 vless://5a79e1f3-c772-469e-99c8-0a7036c53cbd@sr35.boodel.sbs:2086?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 7)🅿️ping:111.47ms
 vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@104.17.148.22:2087?security=tls&sni=Tp008CsUrZ.rAmRiDdEr.CoM&type=ws&host=Tp008CsUrZ.rAmRiDdEr.CoM&path=/#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.78ms
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@104.24.135.83:80?security=none&sni=delam.ahaysiahzangi.dpdns.org&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.63ms
+
