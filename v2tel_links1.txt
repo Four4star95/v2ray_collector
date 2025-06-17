@@ -81696,3 +81696,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAz
 vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#WS-Irancell%20%7C%20%40ArV2ray
 trojan://telegram-id-directvpn@13.36.8.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@15.237.90.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://Aimer@67.226.221.104:80?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
