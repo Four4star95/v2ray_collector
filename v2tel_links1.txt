@@ -81739,3 +81739,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRnhwUkE1REFpb0J1dnk0ZGxiVTlB@104.192.227.16
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOC4yMTEuMTc1LjUzIiwicG9ydCI6IjM2NjY4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImI3OTgzNzJhLTU0YzgtNDU5Ny05NjllLThiMDBkMmY3NmMwOSIsInNuaSI6IiJ9
 
+trojan://Bm92516VO0@51.15.68.121:1935?security=tls&headerType=none&type=tcp&sni=x11-amsterdam-scaleway-v2-c88f0.devefun.org#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.72.117.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.117.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
