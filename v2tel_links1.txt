@@ -82001,3 +82001,13 @@ vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D256
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.62.141:80?path=%2FBaRAyeIran%3Fed%3D2560&security=&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.44ms
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.wappalyzer.com:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:10.84ms
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.24.247.217:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.87ms
+vless://d116cb52-3637-4fb2-8788-0a071a28374b@154.90.54.4:21056/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://cf9d4075-4a49-4a39-aa21-5706ad50ec7f@154.90.54.4:45346/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://3d588837-7ea3-4d03-a378-e7bae62e1d1d@154.90.54.4:10005/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://7e19350d-0b3a-48c4-93c3-8c651aa579a7@154.90.54.4:24996/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://9fc2d725-97ed-4329-98a0-11e501f7d0bd@154.90.54.4:12118/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=random&type=ws&sni=tannaz.juveitaly.dpdns.org#[🇨🇦]t.me/MoftConfig
+vless://bcc7a07c-4a0b-435f-98a4-c0322344c669@154.90.54.4:36438/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&encryption=none&headerType=&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://449b7374-f604-4a52-8a7b-b9897009a61e@154.90.54.4:57518/?type=tcp&security=none#[🇦🇪]t.me/MoftConfig
+vless://turboo-server@fast.ultra-irancell.com:46801?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
