@@ -32333,3 +32333,21 @@ vless://263ab08f-09d3-4e88-989c-e1e84d00c353@www.speedtest.net:443?mode=auto&pat
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#⚜️Telegram:@IP_CF
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#👉🆔@MoftConfig📡🇺🇸®️United States©️Atlanta🅿️ping:117.68ms
 vless://176d590c-6cb2-46e4-a3db-c63f18a1e3ab@178.239.150.221:8821?security=&encryption=none&headerType=&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc=@144.126.146.38:30789#[🇺🇸]t.me/MoftConfig
+trojan://telegram-id-directvpn@15.237.4.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://7d910091-9504-4fe4-9d04-1e38de91ea90@zarin7i.alireza031.pw:43702?path=%2FZARIN7&security=none&encryption=none&host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&type=ws#[🇮🇷]t.me/MoftConfig
+vless://cf994a4f-92f7-435e-ba57-607cbb29bb14@tel5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇮🇱%20Israel
+vless://telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.3ms
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?path=%2Fvless%2F%3FVless_txt&security=none&encryption=none&host=ov-germany1.09vpn.com&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.32ms
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#[🇨🇦]t.me/MoftConfig
+vless://d2901eeb-586c-45d5-9347-86a093ff3713@it3zq4.smrfy.online:32348?security=none&encryption=none&host=trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://662e38ba-8427-4955-94aa-76f5347a0ce8@172.67.161.129:443?path=%2F6DuxYMYmrGrnGKRtF5UvWyyVQu&security=tls&alpn=http%2F1.1&encryption=none&host=eeeeeer.666470.xyz&fp=chrome&type=ws&sni=eeEEEeR.666470.xYZ#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.77ms
+vless://0dac3a50-6258-554d-9404-d8b05e4aedc6@104.21.69.44:443?path=%2Fvless&security=tls&encryption=none&host=jp-1-sso.medicaldream.ir&fp=chrome&type=ws&sni=jp-1-sso.medicaldream.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.37ms
+vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇫🇷]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.4.132:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://0a2666ab-e58f-421b-aa36-e3bedf1b54fa@tn6.adamlinux.ir:8051?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://ae05d347-316b-4827-aac7-55f098037f7d@broadcasting.dargahco.xyz:8002?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/MoftConfig
+vless://5a1e5c0d-92ec-44f0-86f7-add44c41aa83@185.143.234.122:8080/?type=httpupgrade&encryption=none&flow=&host=snapp-ir.nadi-kala.shop&path=%2F#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:36.05ms
+vless://ab9e2bad-bcf0-43e0-9671-3ec504f0d1a3@151.101.69.76:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/MoftConfig
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@172.67.60.197:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.9ms
