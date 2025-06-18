@@ -32285,3 +32285,5 @@ vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?mode=gun&securit
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODQuMjQ3LjE0OS43NyIsInBvcnQiOiI0NzIxMSIsImlkIjoiZmI2NzQyNjAtMWMyMS00Zjk5LThiZDAtM2QxZDM0MWM2NzcxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzMyJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYXJzYXNob25hbS0yNTk%3D@157.180.127.73:23819#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@TELEGRAM-NUFiLTER-JOIN.motorphrotan.ir:443#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20ss
+vless://0dac3a50-6258-554d-9404-d8b05e4aedc6@104.21.69.44:443?path=%2Fvless&security=tls&encryption=none&host=jp-1-sso.medicaldream.ir&fp=chrome&type=ws&sni=jp-1-sso.medicaldream.ir#⚜️Telegram:@IP_CF
+vless://055636cc-dc0a-4917-8a42-f3fc8be47c06@85.133.202.35:5112?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#⚜️Telegram:@IP_CF
