@@ -81899,3 +81899,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdjJsSWRZWmxETVh0SVRqbEp1UFIw@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36171#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36471#[🏁]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZUVrdDdxSFJ0b1JaWWtDcEFXQXFQ@77.83.246.74:443#🇵🇱 Польша
+vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eLOQuENt-caSE.ZUlaIR.orG.&type=ws#[🇨🇦]t.me/MoftConfig
+vless://0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.194.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#[🇺🇸]t.me/MoftConfig
+vless://ab9e2bad-bcf0-43e0-9671-3ec504f0d1a3@151.101.69.48:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/MoftConfig
+vless://9af9dc5d-5849-4ca1-bcc0-a2a53091cb6c@159.89.86.241:8443?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=8jNnXIMyO3_rYopLhsXqGiutnKIEmW8myaV5f1CzVEc&sid=55f711551c4e3248#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM2FkNjcxOS0yYTc5LTQzZWMtYThlYy1lNTVhODQ0ZWI5ZTY@free.2apzhfa.xyz:31677#[🏁]t.me/MoftConfig
+vless://41e606c4-c9bb-42a3-9601-55e9ff6f706a@104.17.199.61:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.126.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-privatevpns@3.122.126.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM2FkNjcxOS0yYTc5LTQzZWMtYThlYy1lNTVhODQ0ZWI5ZTY@free.2apzhfa.xyz:31245#[🏁]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?type=grpc&mode=gun&security=none#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM2FkNjcxOS0yYTc5LTQzZWMtYThlYy1lNTVhODQ0ZWI5ZTY@free.2apzhfa.xyz:31571#[🏁]t.me/MoftConfig
+trojan://telegram-id-directvpn@3.122.126.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.122.126.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.126.53:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@221.131.165.9:10860?security=tls&flow=xtls-rprx-vision-udp443&sni=www.nvidia.com&fp=chrome#[🏁]t.me/MoftConfig
+vless://38b41ed4-5fe2-4868-8016-8df32dcaed78@pic.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic.zarashop0.ir#[🇫🇮]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.122.126.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM2FkNjcxOS0yYTc5LTQzZWMtYThlYy1lNTVhODQ0ZWI5ZTY@free.2apzhfa.xyz:31115#[🏁]t.me/MoftConfig
+vless://6b6e7ff7-02e8-4800-981b-4a61acaa46b2@91.107.131.31:443?security=tls&sni=mw12.asalemaraghe.ir&type=ws&host=mw12.asalemaraghe.ir&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🇩🇪]t.me/MoftConfig
