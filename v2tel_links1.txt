@@ -81889,3 +81889,13 @@ vless://9c9698a7-2a8b-4885-aeef-a764bdff9fbb@5.160.200.110:5005?encryption=none&
 vless://1c624c35-feef-4cb5-c6da-d2e75ca463bb@37.202.224.194:55269?encryption=none&security=none&type=tcp&headerType=none#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:98.95ms
 vless://73c4fdef-f27b-404f-8776-9fcd3d5d3acf@185.143.233.5:8880?encryption=none&security=none&type=ws&host=getasa.ir&path=%2Fwp-admin#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:34.75ms
 vless://1119c0c8-0eb9-45c1-8023-9a86e70d99fc@37.32.41.164:2053?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:111.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36215#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36411#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36115#[🏁]t.me/MoftConfig
+vless://d2dd3167-6370-4291-85ca-09903d1b3ca5@ir.tunneled.site:5050?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZFd3bDlraVhqd2FLanE1SThGUjFD@194.87.45.189:443#🇪🇸 Испания
+vless://999632c7-0609-4a00-b1d0-a8dd6a978678@178.239.145.148:9435?security=&encryption=none&host=docker.com&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdjJsSWRZWmxETVh0SVRqbEp1UFIw@89.185.84.185:443#🇬🇧 Великобритания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36171#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjJkZDhhYy1mMTMxLTRhYzMtOGNjZi03NTE0MmYzNjRlYTQ@free.2weradf.xyz:36471#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZUVrdDdxSFJ0b1JaWWtDcEFXQXFQ@77.83.246.74:443#🇵🇱 Польша
