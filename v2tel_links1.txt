@@ -82196,3 +82196,4 @@ vless://095c48e4-6b7a-443a-80d0-1ebca4659a2d@151.101.194.165:80?security=none&ty
 trojan://telegram-id-directvpn@35.181.235.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NDM3YmRmMS1hYzhjLTQ0NWUtYjhjMi0yYTIwMDQ0ZWJjODU@free.2weradf.xyz:36171#[🏁]t.me/MoftConfig
 vless://26f59655-5ac1-4bc0-bb2d-a042ab8e6388@irNt.Nisvn.ir:500?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+
