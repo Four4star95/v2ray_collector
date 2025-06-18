@@ -81809,3 +81809,4 @@ trojan://Ng35283528@104.16.83.176:443?path=%2F%3Fed%3D2560&security=tls&host=c2.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYXJzYXNob25hbS0yNTk%3D@157.180.127.73:23819#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@TELEGRAM-NUFiLTER-JOIN.motorphrotan.ir:443#%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20ss
 vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?mode=gun&security=none&encryption=none&type=grpc&serviceName=2226vless#⚜️Telegram:@IP_CF
+vless://055636cc-dc0a-4917-8a42-f3fc8be47c06@85.133.202.35:5112?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#⚜️Telegram:@IP_CF
