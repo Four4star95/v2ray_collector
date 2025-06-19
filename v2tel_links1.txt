@@ -82274,3 +82274,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://128fde49-c4d6-41e0-9176-156bf62527eb@ns2.cloudflare.com:443?security=tls&sni=rayan-fg-6.parvin.filegear-sg.me&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-fg-6.parvin.filegear-sg.me&encryption=none#⚜️Telegram:@IP_CF
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#⚜️Telegram:@IP_CF
