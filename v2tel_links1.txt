@@ -82325,3 +82325,4 @@ trojan://CPbhv1RtdImqair6J4zrNw@config.thecommit.site:3080?security=none&type=ws
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU0LjI2LjEzNC4yMjEiLCJwb3J0IjoiNTQ4MTMiLCJpZCI6ImRmOWM2ZTllLTllN2EtNGQwNi04OGJiLTliMjkzMzdiOTczZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjIifQ==
 
 
+vless://1f2850cf-bf86-454a-8be3-b06433e153cf@193.233.233.148:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#⚜️Telegram:@IP_CF
