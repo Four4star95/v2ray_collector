@@ -82251,3 +82251,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaHdsOTNhUTFjZ0x5b1lmSFRiQmF3@canvip-xray4.a
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTQ3LjE4OC43NCIsInBvcnQiOjIyMzU5LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMzY3OTc3NTQtYmI1OS00NzQxLWIwODUtODZmZWIyZWM1NDdjIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzc2ZTE0NmE3NDczZTAw@151.240.3.168:11209#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#⚜️Telegram:@IP_CF
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.16.100.188:80?encryption=none&security=none&sni=entezar.loseyourself.dpdns.org&fp=random&type=ws&host=entezar.loseyourself.dpdns.org&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
