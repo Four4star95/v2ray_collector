@@ -82333,3 +82333,7 @@ vless://1f2850cf-bf86-454a-8be3-b06433e153cf@193.233.233.148:443?security=realit
 vless://263ab08f-09d3-4e88-989c-e1e84d00c353@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=tamash360.com&type=xhttp#⚜️Telegram:@IP_CF
 
 
+vless://20014e01-099f-4b85-e20c-3300e918101e@ri.fvpn.xyz:58631?mode=gun&security=reality&encryption=none&pbk=cx6wHcHc8u1hhMMHgDm44ZWGAovk64yohSiq4ZYVLSY&fp=chrome&spx=%2F&type=grpc&sni=ftp.ipv6.debian.org&sid=4e2e#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuMTM3LjE1NS40NSIsInBvcnQiOiIxNzY0NiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIzNyJ9
+trojan://telegram-id-directvpn@13.39.72.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ%3D@vip-iran.interservervip.xyz:31792#⚜️Telegram:@IP_CF
