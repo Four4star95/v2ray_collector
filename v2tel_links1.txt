@@ -82430,3 +82430,4 @@ trojan://telegram-id-directvpn@18.199.53.32:22223?security=tls&alpn=http/1.1&hea
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443/?type=tcp&encryption=none&flow=&security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1#⚜️Telegram:@IP_CF
 vless://6801a2f9-c081-4eb5-fd42-b14d819d827c@185.226.117.39:8443?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
 
+
