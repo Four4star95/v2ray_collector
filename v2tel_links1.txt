@@ -82378,3 +82378,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:44
 
 vless://1d173704-d5cc-4ce2-8b06-3a9a71037530@cdnjs.com:443?security=tls&sni=rayan-navy.foton.dpdns.org&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-navy.foton.dpdns.org&encryption=none#⚜️Telegram:@IP_CF
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.90.29:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@51.44.90.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
