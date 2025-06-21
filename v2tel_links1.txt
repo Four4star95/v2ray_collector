@@ -82497,3 +82497,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.165.127:22224?type=ws&securi
 trojan://telegram-id-directvpn@63.177.165.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://13bc58c3-a9e9-40ad-be26-0335e72b890c@193.151.132.16:8543?type=tcp&security=none#⚜️Telegram:@IP_CF
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn.chandplus.com#⚜️Telegram:@IP_CF
+vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&type=tcp&headerType=&path=&host=#⚜️Telegram:@IP_CF
+vless://2eab3d30-efe9-4fcc-9a77-627795758309@151.101.3.8:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi7.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram:@IP_CF
