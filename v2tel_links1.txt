@@ -82520,3 +82520,5 @@ vmess://eyJhZGQiOiIzMS40MS4zNS4xOTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
+vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@eir-72.f-sub.cfd:2398?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#⚜️Telegram:@IP_CF
+vless://2657b843-1595-49b7-9598-d164c44730b1@good.srvice.shop:30275?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
