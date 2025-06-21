@@ -82462,3 +82462,4 @@ vmess://eyJhZGQiOiIxNDIuNC4xMTkuNzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 
 
+vless://380c77d5-6172-43e0-93cf-fa2f69f4736a@panel28.sharpwp2.shop:9060?security=none&encryption=none&host=skype.com&headerType=http&type=tcp#⚜️Telegram:@IP_CF
