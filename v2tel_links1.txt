@@ -82454,3 +82454,6 @@ vless://21dc817b-6a67-4781-b229-fe2f89f771db@172.67.144.73:443?path=%2F6qJ79zf1V
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiU3Nzc3Nzc1cuMjIyNTYwLlhZeiIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIzOTNiMTA2MS1kNjE1LTQ1OWEtODYxNi0zZjk0NDdiZGZmNWEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSIsImhvc3QiOiJzc3Nzc3Nzdy4yMjI1NjAueHl6IiwidGxzIjoiIn0=
 
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.55.155:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@52.58.55.155:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://107718a0-3fa1-4030-8c85-d4f9cdcc5085@Speedtest.net:80?mode=auto&path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&security=&encryption=none&host=jointo_unlimiteddev.ir&type=xhttp#⚜️Telegram:@IP_CF
