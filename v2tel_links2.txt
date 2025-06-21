@@ -32511,3 +32511,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTg1
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?encryption=none&security=none&type=tcp&headerType=none#⚜️Telegram:@IP_CF
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443/?type=tcp&encryption=none&flow=&security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1#⚜️Telegram:@IP_CF
 vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws&sni=WQ.R5Kt41PbPO.zuLAIR.orG.#⚜️Telegram:@IP_CF
+ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw%3D%3D@37.202.231.23:444#⚜️Telegram:@IP_CF
+vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&encryption=none&host=persiangames.online&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+vless://6c39e8e2-bb98-478b-9fc7-f35939d465f3@ninja.thegameuhb.ir:1342?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjIxLjE1LjMzIiwicG9ydCI6IjIwNTMiLCJpZCI6IjVhOWZmY2JiLWRlOWQtNGM4Mi05YTY2LTQ4NmJlODk1MDQwNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzdXBwb3J0LnNhYmFwYXJkYXppcmFuLmlyIiwicGF0aCI6IlwvQE0zSERJTzEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzdXBwb3J0LnNhYmFwYXJkYXppcmFuLmlyIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIn0=
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&security=none&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#⚜️Telegram:@IP_CF
