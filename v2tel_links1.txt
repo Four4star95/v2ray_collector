@@ -82435,3 +82435,7 @@ vless://6801a2f9-c081-4eb5-fd42-b14d819d827c@185.226.117.39:8443?security=none&e
 
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?encryption=none&security=none&type=tcp&headerType=none#⚜️Telegram:@IP_CF
 vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws&sni=WQ.R5Kt41PbPO.zuLAIR.orG.#⚜️Telegram:@IP_CF
+vless://6c39e8e2-bb98-478b-9fc7-f35939d465f3@ninja.thegameuhb.ir:1342?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?path=%2F&security=none&encryption=none&host=dl1.mcinet.xyz.&type=httpupgrade#⚜️Telegram:@IP_CF
+ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw%3D%3D@37.202.231.23:444#⚜️Telegram:@IP_CF
