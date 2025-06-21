@@ -82481,3 +82481,4 @@ vmess://eyJhZGQiOiI4NC4yNDcuMTQ5Ljc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@51.44.50.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.50.180:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://1f4b4e6f-8af4-4cdf-98a2-f31b4c07c824@Speedtest.net:80?flow=&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&security=none#⚜️Telegram:@IP_CF
