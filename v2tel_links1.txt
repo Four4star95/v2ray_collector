@@ -82472,3 +82472,4 @@ ss://YWVzLTI1Ni1nY206YTg2ZjRjYzMtN2ViYi1iN2UyLTNjZTYtOTcxNGE3YTUwNzk0@3705081370
 trojan://telegram-id-directvpn@13.39.0.228:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vmess://eyJhZGQiOiIyMTYuMjI3LjE2OC4xNTciLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwicG9ydCI6NDU0MTcsImlkIjoiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIn0=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.0.228:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#⚜️Telegram:@IP_CF
