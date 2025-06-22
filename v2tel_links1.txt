@@ -82616,3 +82616,4 @@ vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443?path=%2FR8vYH26
 
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjczLjQ1IiwicG9ydCI6IjgwIiwiaWQiOiI1YTk2MjQ4NS00MWY3LTRiNTAtYWY2Ni0xYjVjOTc2N2VhZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaDMuZ3JBc1NvUnkuc2hvcCIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+trojan://telegram-id-directvpn@13.38.159.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
