@@ -82597,3 +82597,4 @@ vless://0068c687-73ef-4a2d-b849-f26e8afe43c2@api.rainblu.ir:8081?security=none&e
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTkzLjE1MS4xNDEuMzYiLCJwb3J0IjoiMzQ4ODkiLCJpZCI6ImQxMDVlYjY0LWVlNjktNDIwMS05MWQ4LTdhODk5M2E3YjU0MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 
 
+trojan://telegram-id-directvpn@13.36.163.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
