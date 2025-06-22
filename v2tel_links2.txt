@@ -32571,3 +32571,7 @@ vmess://eyJhZGQiOiI1LjE1OS40OS43NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vless://029d3375-361d-4f22-8213-b0dc0b3ff4e9@151.101.3.8:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi7.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc@144.126.146.38:30789#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@15.236.173.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxNTQuNTUuMTIyLjIzNSIsInYiOiIyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJwb3J0Ijo4MDAwLCJpZCI6ImUzYmU5M2E4LTU0YWMtNDhiMi1iMDc5LTZjMGQzZDUyM2U4NyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LmJpbmcuY29tIiwicGF0aCI6Ilwvbm1raiIsInRscyI6IiJ9
+vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@172.67.219.196:80/?type=ws&encryption=none&flow=&host=cddfrt678.852224.dpdns.org&path=%2Fl3y4CZ9KUctFw6Ri5y2#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAyLjE3Ny4xODkuMzAiLCJwb3J0IjoiODAiLCJpZCI6IjAwMDEzZWM1LTE5M2MtNGZhMS1iYjFjLTk5ODgzYTk3NGJiMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoMy5nckFzU29SeS5zaG9wIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?allowInsecure=1&sni=ZZzzzZZ.890601.XYZ&ws=1&wspath=%2Fl96MZ8se5Kl2p8BiMhP42l#⚜️Telegram:@IP_CF
