@@ -82572,3 +82572,4 @@ trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&head
 
 
 
+trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
