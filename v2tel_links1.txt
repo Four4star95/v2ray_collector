@@ -82697,3 +82697,6 @@ trojan://telegram-id-directvpn@35.181.94.60:22223?security=tls&alpn=http/1.1&hea
 
 vless://2843fb92-b3c6-4d77-8e02-095eb68ef48c@11020011m2.mrpixanos.ir:52234?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443?security=tls&type=ws&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv&path=/trVxXjc9031MC8sntF?ed=2560&host=joinmahdiserver-csn.pages.dev#⚜️Telegram:@IP_CF
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:8443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2Ftrwidp0ENHXMUNX4bA%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=inVinciBLe.fafa20.sHop&fp=randomized&alpn=http%2F1.1#⚜️Telegram:@IP_CF
+vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
+vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
