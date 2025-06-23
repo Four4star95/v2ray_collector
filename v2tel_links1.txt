@@ -82708,3 +82708,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIw
 vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6MCwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiI2Y2JjOWM3OC0xY2IxLTU3ZDQtYTk5OS1lMmY0ZTM0YzFlMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL25hc25ldFwvY2RuIiwicG9ydCI6ODA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 
+vless://008ed7c3-29a6-4187-a1a9-84a4533705a8@online.slashve.info:45468?type=tcp&headerType=http&host=iRaNserVeR.cOm&path=/&security=none#⚜️Telegram:@IP_CF
