@@ -82701,3 +82701,4 @@ trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:8443?host=invinc
 vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 
+vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?encryption=none&security=none&type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=%2F%40BeFreeWithUs%3Fed%3D2048&mode=auto#⚜️Telegram:@IP_CF
