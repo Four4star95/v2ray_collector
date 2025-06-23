@@ -32609,3 +32609,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcy
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#⚜️Telegram:@IP_CF
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443?path=%2FR8vYH26j2wZpwD4O%3Fed2048&security=tls&alpn=http%2F1.1&encryption=none&host=s2.www.getasa.ir&fp=randomized&type=ws&sni=mydigipay.com#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.38.159.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@52.221.23.45:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#⚜️Telegram:@IP_CF
+vless://25dc4687-1fcf-4380-b633-b88a2afe9781@37.120.167.155:4444?mode=multi&security=reality&encryption=none&pbk=XiW81p0vPWFZYd7YtQMBh3T9GNaO6F7BfHqxsGmHLkM&fp=firefox&spx=%2F&type=grpc&serviceName=nobitex.ir&sni=nobitex.ir&sid=4b#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDMuMTU2LjEwMi42NSIsInBvcnQiOiIxMTA2MCIsInR5cGUiOiJub25lIiwiaWQiOiI1Y2RkMzcxZS1jYzRlLTRlYTItOTFhOC1jNzU1ZjAwZjY3YTAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
