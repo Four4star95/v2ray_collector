@@ -82695,3 +82695,4 @@ trojan://telegram-id-directvpn@35.181.94.60:22223?security=tls&alpn=http/1.1&hea
 
 
 
+vless://2843fb92-b3c6-4d77-8e02-095eb68ef48c@11020011m2.mrpixanos.ir:52234?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#⚜️Telegram:@IP_CF
