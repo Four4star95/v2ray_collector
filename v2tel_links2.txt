@@ -32638,3 +32638,10 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVV
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMi41OC44Ny4yMjEiLCJwb3J0IjoiNDY2MjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjZiYTllNWEtNzExYy00OTZmLWJlNjAtYWM1NDY0ZGVjMmI4IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.159.113:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.138.112:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@35.180.241.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcWJPbFBlMFNiTkd6bkZRbUd0NkZB@delta.yangon.ca:8443#⚜️Telegram:@IP_CF
+trojan://Lar3HXz16D@104.21.48.1:443?security=tls&type=grpc&sni=tabnak.twn24.ir#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiI0NS4xOTYuMjE5LjE3NCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkMWYyMGUwYy05NjdmLTRmOWEtZmI4Yy0zMDI3ZWUzNmNjYTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ3NjgwIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.241.27:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vmess://eyJhZGQiOiIyLjE0NC43LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNTY2ODA3YS1hOWJhLTQ0YzktYjNjNi0xMDQ5Y2NkN2UwYWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1Nzg5IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096?path=%2F%23Telegram%40V2ray_Alpha&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HkPk6Cd2Kj.9PeSc.CoM&fp=chrome&type=ws&sni=HkPk6Cd2Kj.9PeSc.CoM#⚜️Telegram:@IP_CF
