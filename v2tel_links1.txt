@@ -83042,3 +83042,4 @@ trojan://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=%2Fws&secu
 vless://197a3e0e-4add-4355-be14-203fcee488c1@cloud.wiromusic.ir:80?mode=auto&path=%2FXhTtP&security=none&encryption=none&host=buffalu1.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 trojan://Aimer@176.124.223.40:2053?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 
+vless://5d71b518-9f52-414a-abf2-b806684233be@116.203.69.142:2087?encryption=none&security=tls&sni=its.zarashop0.ir&alpn=h2&fp=chrome&type=grpc#%F0%9F%94%92%20@MoftConfig%20DE
