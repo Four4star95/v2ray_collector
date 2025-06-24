@@ -82997,3 +82997,7 @@ vless://eb0c3de4-c9b4-44cd-9fe8-69d7fe0f0874@free-gb.vpnkey.dev:443?security=tls
 vless://e62c4f50-5de2-4522-bec6-18a6a61fce1b@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.25ms
 vless://936f64b8-4045-4cb1-80ea-54315ea40709@151.101.3.8:80?mode=auto&path=%2Fmitivpn&security=none&encryption=none&host=drmitivpn.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.25ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:32.04ms
+vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=reza-aliyari722.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
+trojan://Aimer@154.197.64.240:8443?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDMuMjQ3LjEzNS4xNzAiLCJwb3J0IjoiNDYyMTAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiZDFlY2E3MDYtMWFhZS00MmQzLWJhYjAtNjk5OTVkN2IwMjNkIiwic25pIjoiIn0=
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
