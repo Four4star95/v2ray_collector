@@ -83033,3 +83033,4 @@ vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?path=%2F&security=no
 
 
 vless://088fc8fb-9293-43a6-8f5d-e88e671e370b@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#⚜️Telegram:@IP_CF
+vless://00671ca5-d3ba-46cf-839a-22f61f9d2ce4@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=zedmodeon98.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
