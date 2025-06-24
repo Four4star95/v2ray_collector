@@ -1,3 +1,4 @@
+vless://bcacaab-baac-aacb-cdab-aabbabcbccca@127.0.0.1:8080?security=tls&type=tcp#👉🆔@MoftConfig📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.09ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#👉🆔@MoftConfig📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:34.14ms
 vless://fadebdad-95ba-4f69-a16a-b0f0b7845483@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning6.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.16ms
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:293.83ms
@@ -126,7 +127,6 @@ trojan://installshield@38.180.249.177:8443?security=tls&fp=chrome&type=raw&sni=3
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTg1LjEwOC4xMjguMTM3IiwicG9ydCI6IjMwMDAwIiwiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d3cuMTQ2MDExNzYueHl6IiwicGF0aCI6IlwvcGF0aFwvMzAwMDIyMTEzMzI5IiwidGxzIjoidGxzIiwic25pIjoid3d3LjE0NjAxMTc2Lnh5eiIsInRlc3RfbmFtZSI6IjcyIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@TELEGRAM-NUFiLTER-JOIN.motorphrotan.ir:443#⚜️Telegram:@IP_CF
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@52.221.23.45:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#⚜️Telegram:@IP_CF
-vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=&encryption=none&host=opsyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 vless://08c650ba-6585-449f-ba5f-6bfbf8b890e7@151.101.3.8:80?path=%2F%3Fed%3D1024&security=&encryption=none&host=Operatorus.com&type=ws#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@52.58.55.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
 trojan://telegram-id-privatevpns@13.36.163.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
