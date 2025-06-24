@@ -82828,3 +82828,25 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.20:50345#👉🆔@MoftConfig📡
 vless://7e882c9e-bd43-4a66-b5e4-8c2e5a996292@91.99.71.91:36617?encryption=none&security=reality&sni=tgju.org&fp=random&pbk=uJehQIimFAu7bJsl2eFfv4qPA8cx2fSHRZGvnjBJBxo&sid=005ea5&type=grpc#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:33.14ms
 vless://4520f395-2cb3-4ba0-8d22-23b96479a2cb@beethoven.bug-father.top:23717/?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tabriz (Nowbar)🅿️ping:116.24ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?encryption=none&security=tls&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Bo🅿️ping:300.27ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver🅿️ping:174.61ms
+trojan://Aimer@192.200.160.109:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Four Points Centre)🅿️ping:7.9ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:266.73ms
+vless://04e394cd-fa26-44b9-afc8-817383557eba@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram:@IP_CF
+vless://telegram-id-ArV2ray@151.101.3.8:80?mode=auto&path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter&security=none&encryption=none&host=Mislebqoapdnwan.com&type=xhttp#Xhttp-All%20%7C%20%40ArV2ray
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Arvada🅿️ping:140.57ms
+vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.179:443?path=%2F&security=tls&encryption=none&host=jd.chenchuanjin.sbs&type=ws&sni=jd.chenchuanjin.sbs#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:184.92ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVVjb24wcm12T1NpOD06ODk4cUFpbEFOMzJWbkZLUldIaU0wbFJyVHV0MVM2RS9kQmpPUXdsRzBudz0%3D@direct.yangon.ca:8444#👉🆔@MoftConfig📡🇨🇦®️Canada©️Vancouver (South Main)🅿️ping:152.96ms
+ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#👉🆔@MoftConfig📡🇭🇰®️Hong Kong©️Hong Kong🅿️ping:294.16ms
+vless://f43ae697-e34a-4ec8-80ec-40710280c782@WwW.SpEeDTesT.NeT:2082?security=none&encryption=none&host=gerokmot.toppho.ir&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.99ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Zurich🅿️ping:45.23ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:43.12ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#👉🆔@MoftConfig📡🇯🇵®️Japan©️Shibuya🅿️ping:286.97ms
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.08ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Humble🅿️ping:141.96ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.68:443#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:32.26ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#👉🆔@MoftConfig📡🇦🇹®️Austria©️Vienna🅿️ping:26.71ms
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.121.218:8881#👉🆔@MoftConfig📡🇺🇸®️United States©️Chicago🅿️ping:109.08ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:109.44ms
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:8.16ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.9:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Phoenix🅿️ping:154.64ms
