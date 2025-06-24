@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#👉🆔@MoftConfig📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:34.14ms
+vless://fadebdad-95ba-4f69-a16a-b0f0b7845483@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning6.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.16ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:293.83ms
 vless://8c15cc84-2bec-f384-6044-399800ead842@vssweb.ir:40100/?security=none&encryption=none&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān (District 17)🅿️ping:98.0ms
 trojan://Aimer@108.165.152.241:2053?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇮🇳®️India©️Jaipur (Goverdhan Colony)🅿️ping:8.09ms
 vless://3e53f3cb-bb35-c6be-d955-c53f5bd7c709@178.239.144.99:13000/?path=%2F&security=&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:96.26ms
@@ -135,13 +138,10 @@ trojan://telegram-id-privatevpns@13.39.4.140:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.194.77.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
 trojan://telegram-id-privatevpns@18.199.53.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
 trojan://telegram-id-privatevpns@35.180.241.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
-vmess://eyJhZGQiOiIxOTIuNTMuMTEzLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzZhMjhjMy01YzhkLTRkZjMtYTc5Yi05ZGE2MjI2NDBmMmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@wifi6.iampr0.com:800?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@35.181.94.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
 trojan://telegram-id-privatevpns@51.44.138.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
 trojan://telegram-id-privatevpns@52.47.109.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
 trojan://telegram-id-privatevpns@63.177.165.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
-vmess://eyJhZGQiOiJFZWVkY0Z2Zy45OTk4MjQueFlaIiwiYWlkIjowLCJob3N0IjoiZWVlZGNmdmcuOTk5ODI0Lnh5eiIsImlkIjoiY2RlYzlkNTctNjYxZC00NTZhLWJiZjItYjRjMzhlOWM2NzExIiwibmV0Ijoid3MiLCJwYXRoIjoiXC85ZFpsSkxqSEhyTDBWd1NvbGJxRnBnIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 trojan://telegram-id-privatevpns@51.44.50.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
 trojan://telegram-id-privatevpns@13.36.106.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
 trojan://telegram-id-privatevpns@15.236.173.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
