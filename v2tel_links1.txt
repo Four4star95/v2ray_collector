@@ -82797,3 +82797,4 @@ vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=%2Fwp-admin&sec
 vless://fbddfda4-ce1e-4af5-adbd-a70454551a1d@87.236.38.152:58034?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 
 
+trojan://Aimer@40.233.70.7:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
