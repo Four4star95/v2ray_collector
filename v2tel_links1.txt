@@ -82969,3 +82969,4 @@ vless://69a3dfb1-4bee-46e5-9d82-ba70dde35bbd@hhh.fastly80.hosting-ip.com:80?path
 vless://e9b14780-abea-464a-b271-d8482a217ecd@151.101.3.8:80?path=%2Fdownload&security=&encryption=none&host=speedfastly.net&type=ws#[🇺🇸]t.me/MoftConfig
 vless://793aa3b2-84f3-4eb8-b69d-f92efb02b403@104.16.53.11:2052?path=%2F&security=&encryption=none&host=4www.speedtest.net.tps.debian.org.gr.websites.savfast.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
 vless://0ad80b34-ca8b-493a-e5f5-fe863b81b91c@fr.blizza.store:2096?type=ws&path=%2F&host=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=fr.blizza.store#⚜️Telegram:@IP_CF
+
