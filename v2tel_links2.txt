@@ -32810,3 +32810,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoicHJv
 vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#⚜️Telegram:@IP_CF
 vless://088fc8fb-9293-43a6-8f5d-e88e671e370b@speedtest.net:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#⚜️Telegram:@IP_CF
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online#⚜️Telegram:@IP_CF
+vless://197a3e0e-4add-4355-be14-203fcee488c1@cloud.wiromusic.ir:80?mode=auto&path=%2FXhTtP&security=none&encryption=none&host=buffalu1.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
+trojan://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=%2Fws&security=tls&alpn=h2&host=Germandiginoe.com&fp=firefox&type=ws&sni=mci.ir#⚜️Telegram:@IP_CF
+vless://00671ca5-d3ba-46cf-839a-22f61f9d2ce4@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=zedmodeon98.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
