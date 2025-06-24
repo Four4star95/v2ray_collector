@@ -32668,3 +32668,6 @@ vmess://eyJhZGQiOiI2Mi4xNDYuMjMzLjY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 trojan://Aimer@118.45.113.48:16064?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6MCwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiI2Y2JjOWM3OC0xY2IxLTU3ZDQtYTk5OS1lMmY0ZTM0YzFlMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL25hc25ldFwvY2RuIiwicG9ydCI6ODA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?encryption=none&security=none&type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=%2F%40BeFreeWithUs%3Fed%3D2048&mode=auto#⚜️Telegram:@IP_CF
+vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=opsyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
+vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=&encryption=none&host=opsyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
+vless://08c650ba-6585-449f-ba5f-6bfbf8b890e7@151.101.3.8:80?path=%2F%3Fed%3D1024&security=&encryption=none&host=Operatorus.com&type=ws#⚜️Telegram:@IP_CF
