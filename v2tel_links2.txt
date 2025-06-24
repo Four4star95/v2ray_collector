@@ -32717,3 +32717,5 @@ trojan://Aimer@40.233.70.7:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-
 vless://020f1fc3-02f4-49c4-ae0e-8881ecc82467@speedtest.net:80?mode=auto&path=%2Fhu%3Fed%3D2560&security=none&encryption=none&host=bootstrap.com&type=xhttp#⚜️Telegram:@IP_CF
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/MoftConfig
+trojan://Aimer@40.233.70.7:8443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://008ed7c3-29a6-4187-a1a9-84a4533705a8@online.slashve.info:45468?security=none&encryption=none&host=iRaNserVeR.cOm&headerType=http&type=tcp#⚜️Telegram:@IP_CF
