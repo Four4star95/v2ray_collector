@@ -1,26 +1,3 @@
-vless://1bc0397c-dca6-4419-b90b-d48cd82d2a4b@Speedtest.net:80?mode=auto&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbede_vmessorg.ir&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.66ms
-trojan://Aimer@92.53.190.161:2087?allowInsecure=0&sni=epccg.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.54ms
-vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#👉🆔@MoftConfig📡🇺🇸®️United States©️Reston🅿️ping:143.0ms
-vless://020bc5bc-a7f1-4638-85d0-616a7646f10d@jmu.ac.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=testttt.grizzzzlyshopp.click&fp=chrome&type=xhttp&sni=snapp.ir#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:97.51ms
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.237.88.39:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Portland🅿️ping:240.38ms
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?path=%2F%3Fed%3D8880-%40%45v%61y_vpn----%40%45v%61y_vpn----%40%45v%61y_vpn----%40%45v%61y_vpn----%40%45v%61y_vpn----%40%45v%61y_vpn…#👉🆔@MoftConfig📡🇺🇦®️Ukraine©️Kyiv🅿️ping:8.3ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.03ms
-vless://55FuseVPN----------ProxyPJ@pj.fox1-ov.com:40359?mode=multi&security=reality&encryption=none&pbk=9lf2RZMICZ0W6k6AMbeYwdGULRpIZirANt6I5LzhpC8&fp=chrome&spx=%2F&type=grpc&serviceName=%2F%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN&sni=speedtest.net&sid=6da30034#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:26.42ms
-vless://016b6f1c-fe66-4e99-b9a6-a1dbba92b1a5@172.67.73.163:80?security=none&type=ws&host=glOriouS-ComPArISoN.OnEEAT.cO.&path=%2F%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.06ms
-vless://4b270bff-0f7e-428e-9fab-a4d96c068e8b@104.21.64.1:8080?type=httpupgrade&host=website.acveo.ir&path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.16ms
-vless://56652249-2e67-4429-b86c-3df8b838ad85@104.26.14.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=4j.QBAo1g5z6k.ZulaIR.org.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.31ms
-vless://37960caf-f67b-4f4c-af9e-fd92baa3f506@vip-82.f-sub.cfd:5969?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:14.46ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#👉🆔@MoftConfig📡🇲🇩®️Moldova©️Chisinau🅿️ping:62.25ms
-vless://90767dd0-5315-4ff0-a6ab-b6e8766feffd@151.101.6.200:443/?type=ws&host=aklisvpntelegram.com&path=/@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn&security=tls&fp=firefox&sni=gmail.google.com&allowInsecure=true#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.14ms
-vless://12c4e4ff-e1e9-487c-9ae3-e55b0b5b5e3a@customers.tele-shop-too.studio:44?security=reality&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&encryption=none&headerType=none&spx=%2F&type=tcp&sni=refersion.com&sid=f289871208&fp=chrome#👉🆔@MoftConfig📡🇨🇭®️Switzerland©️Geneva🅿️ping:43.09ms
-vless://4a919c7f-a75c-48cc-b340-b95db7bad82d@151.101.194.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.4ms
-vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@66.81.247.141:2087?security=tls&sni=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&type=ws&host=Tp3993VbRi.ScOrPiOnBiGpLaY.oRg&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔@MoftConfig📡🇺🇸®️United States©️Belmont🅿️ping:7.89ms
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.237.88.39:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Portland🅿️ping:204.96ms
-vless://994eabdb-f1ad-4d42-b3d7-c7aebebb095c@vip-82.f-sub.cfd:5969/?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:14.09ms
-vless://bcacaab-baac-aacb-cdab-aabbabcbccca@127.0.0.1:8080?security=tls&type=tcp#👉🆔@MoftConfig📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#👉🆔@MoftConfig📡🇩🇪®️Germany©️Limburg an der Lahn🅿️ping:34.14ms
-vless://fadebdad-95ba-4f69-a16a-b0f0b7845483@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=&encryption=none&host=Lightning6.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.16ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:293.83ms
 vless://8c15cc84-2bec-f384-6044-399800ead842@vssweb.ir:40100/?security=none&encryption=none&host=vssweb.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān (District 17)🅿️ping:98.0ms
 trojan://Aimer@108.165.152.241:2053?allowInsecure=0&sni=epccf.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇮🇳®️India©️Jaipur (Goverdhan Colony)🅿️ping:8.09ms
 vless://3e53f3cb-bb35-c6be-d955-c53f5bd7c709@178.239.144.99:13000/?path=%2F&security=&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:96.26ms
@@ -148,3 +125,26 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@TELEGRAM-NUFiLTER-JOIN
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@52.221.23.45:443?security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#⚜️Telegram:@IP_CF
 vless://07af2138-82f3-44e2-8ee6-4b236468d1d8@151.101.3.8:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=&encryption=none&host=opsyour-name.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 vless://08c650ba-6585-449f-ba5f-6bfbf8b890e7@151.101.3.8:80?path=%2F%3Fed%3D1024&security=&encryption=none&host=Operatorus.com&type=ws#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@52.58.55.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@13.36.163.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@63.178.152.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@13.39.0.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@18.197.223.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@13.38.159.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@13.39.4.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@18.194.77.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@18.199.53.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@35.180.241.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+vmess://eyJhZGQiOiIxOTIuNTMuMTEzLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzZhMjhjMy01YzhkLTRkZjMtYTc5Yi05ZGE2MjI2NDBmMmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDAyIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@wifi6.iampr0.com:800?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@35.181.94.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@51.44.138.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@52.47.109.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@63.177.165.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+vmess://eyJhZGQiOiJFZWVkY0Z2Zy45OTk4MjQueFlaIiwiYWlkIjowLCJob3N0IjoiZWVlZGNmdmcuOTk5ODI0Lnh5eiIsImlkIjoiY2RlYzlkNTctNjYxZC00NTZhLWJiZjItYjRjMzhlOWM2NzExIiwibmV0Ijoid3MiLCJwYXRoIjoiXC85ZFpsSkxqSEhyTDBWd1NvbGJxRnBnIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+trojan://telegram-id-privatevpns@51.44.50.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@13.36.106.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@15.236.173.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@51.44.90.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+trojan://telegram-id-privatevpns@63.178.252.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+trojan://telegram-id-privatevpns@63.176.196.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
