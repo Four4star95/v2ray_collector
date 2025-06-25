@@ -83481,3 +83481,23 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#[🇺🇸]t.me/M
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?encryption=none&security=none&sni=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 vless://freewireguard-telegram-channel@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=nushdaru.sohrab.com&type=xhttp#[🇺🇸]t.me/MoftConfig
 vless://1f431db3-1918-4e7b-a855-c93485e11694@172.67.111.215:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Āmol🅿️ping:153.0ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.2ms
+trojan://Aimer@108.162.194.193:443?sni=agepy.aimercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.98ms
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@13.248.169.48:443?security=tls&sni=de.stablize.top&allowInsecure=1#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:116.75ms
+vless://497798a0-5661-ae2c-226a-19ae60d21269@lavin2.stevejobs-net.com:39044?security=none&encryption=none&host=speedtest.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:102.49ms
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:103.14ms
+vless://e834394b-11f8-49bd-bedd-5fdbee745706@185.29.223.151:2083?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:118.73ms
+vless://freewireguard-telegram-channel@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=nushdaru.sohrab.com&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.09ms
+vless://3113673b-98b4-4fac-9668-519097cf91a8@mci.liraki.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=fast3-mankhodam.com&type=xhttp#👉🆔@MoftConfig📡🇮🇹®️Italy©️Milan🅿️ping:42.37ms
+vless://afdcb194-952f-413c-87b4-e8bac205a759@hub.document.lat:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=csxaqpxj-name.global.ssl.fastly.net.&type=xhttp#👉🆔@MoftConfig📡🇫🇷®️France©️Strasbourg🅿️ping:40.97ms
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:28.12ms
+trojan://3774827088566296576@exotic-bengal.treefrog761.one:443?sni=exotic-bengal.treefrog761.one#👉🆔@MoftConfig📡🇩🇪®️Germany©️Cologne (Innenstadt, Cologne)🅿️ping:32.43ms
+trojan://Aimer@108.165.152.40:2096?security=tls&type=tcp&sni=ngep.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇮🇳®️India©️Jaipur (Goverdhan Colony)🅿️ping:8.29ms
+ss://YWVzLTI1Ni1nY206RFEyQkJNVzFBUFNDVzhIRA==@154.196.244.11:16001#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:258.19ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.66.2.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:13.14ms
+vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#👉🆔@MoftConfig📡🇫🇷®️France©️Strasbourg🅿️ping:40.36ms
+trojan://caacbba-abac-baac-dcab-cccabcbaabab@127.0.0.1:8080?security=tls&type=tcp#👉🆔@MoftConfig📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:3.97ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Phoenix🅿️ping:154.92ms
+vless://9176690e-66dd-4218-b39b-2131403fcd85@pishgam.sdcards.ir:80?mode=auto&path=%2F%3Fed%3D2087&security=none&encryption=none&host=date.server-dev2.ir&type=xhttp#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.3ms
