@@ -83056,3 +83056,4 @@ trojan://Aimer@162.159.44.233:8443?security=tls&type=tcp&sni=ngepz.ambercc.fileg
 vless://000273dd-8af5-4c53-b47b-c3c49bcf9e2a@151.101.3.8:80?mode=auto&path=%2FTelegram%40viturey%3Fed%3D2048&security=none&encryption=none&host=bpi7.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 
 
+trojan://Aimer@192.200.160.35:2083?security=tls&type=tcp&sni=agept.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
