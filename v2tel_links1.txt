@@ -83083,3 +83083,8 @@ trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&type
 vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@162.159.1.33:443/?type=ws&encryption=none&flow=&host=rayan-fg-1.narges.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=rayan-fg-1.narges.filegear-sg.me&fp=chrome#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.01ms
 vless://da1b57b8-ca10-457c-afa5-857f8f91383f@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=sdopkdsfsaokjdsd.ir&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.29ms
 trojan://telegram-id-directvpn@3.75.251.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://c99fb9cd-643e-47aa-ae82-592cd2b1cdc5@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=rtakp.ir&type=ws#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowT1lQOGlVK3dRWDFaVU1XcExQWTF3WFk3N09uMjJaSmt5Wmk1YkZSNEx3PQ@157.180.127.73:23819#[🇫🇮]t.me/MoftConfig
+vless://95f85b0b-947b-4a5f-a3f2-68a6dfc35c3b@sudo.winapp3.ir:80?path=%2F&security=&encryption=none&host=su3germany1.global.ssl.fastly.net&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.31ms
+trojan://b46a2da5-79eb-47d1-ad1e-30b988c0f93b@5.83.221.31:20224?security=tls&sni=v2usa01.fuqiangren.com#⚜️Telegram:@IP_CF
