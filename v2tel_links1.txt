@@ -83501,3 +83501,23 @@ trojan://caacbba-abac-baac-dcab-cccabcbaabab@127.0.0.1:8080?security=tls&type=tc
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#👉🆔@MoftConfig📡🇺🇸®️United States©️Phoenix🅿️ping:154.92ms
 vless://9176690e-66dd-4218-b39b-2131403fcd85@pishgam.sdcards.ir:80?mode=auto&path=%2F%3Fed%3D2087&security=none&encryption=none&host=date.server-dev2.ir&type=xhttp#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.3ms
+trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Erith🅿️ping:71.31ms
+vless://500af27a-e34c-419b-989a-6240f7f394e0@all2.golnar-clod.ir:8880?path=%2F%3Fed%3D80&security=none&encryption=none&host=top.golnar-clod.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206ZjRjZDBhNTU0ZTlkMDU1OGM1ODE@console.03.aliyun.aq.kunlunaqs.com:45917#[🏁]t.me/MoftConfig
+vless://c023cfb7-08a0-448d-aaa8-18d0ee67dffc@172.64.35.250:443?security=tls&sni=kq7ilv.alligator27.com&type=ws&host=kq7ilv.alligator27.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206M2UyNmE4Y2ZiMDlmZGEyMTliMzY@console.03.aliyun.aq.kunlunaqs.com:45573#[🏁]t.me/MoftConfig
+vless://1f431db3-1918-4e7b-a855-c93485e11694@172.67.111.215:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.42ms
+vless://589e57c5-a5da-4ca4-bc1b-1c58b4ae423a@tamizokatamizveryclearifiedtamiz.ivy-net.ir:8080?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2048&host=okashiojoqwnedoqnwepodmqiewdnpnqweurqweprmoinoiwqepr.okatestoka.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.79ms
+vless://90bf4f10-aee6-416a-ba27-031101538867@104.18.26.90:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&fp=randomized&type=ws&sni=2free2.aparatir.xyz#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.88ms
+vless://8960c969-eebb-4b5a-b480-4662e51893ca:8080?path=%2F&security=none&encryption=none&host=okamicsajnklssaklsksa212r2322eaw3e2dwml.okatestoka.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://01571030-9447-4760-a931-bad5b88767cb@104.19.223.79:2087?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s04.doodgechan.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s04.doodgechan.ir#[🇨🇦]t.me/MoftConfig
+vless://67525da1-a606-4725-98f3-513c13904d9d@h.hafman.lol:11928?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2mamad%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.12ms
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.111:443?sni=kdlsupport.zendesk.com#[🏁]t.me/MoftConfig
+trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#[🇨🇦]t.me/MoftConfig
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#👉🆔@MoftConfig📡🇺🇸®️United States©️Reston🅿️ping:150.02ms
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40V2mamad%2F%3Fed%3D2560&security=&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#[🇨🇦]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.27ms
+vless://c87849e2-becf-4acf-a77b-d15caa00d86f@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSQ2NEMWNjZU5Lb2ZHYlVVdUJDWUJq@45.12.133.203:15357#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:54.32ms
+trojan://Aimer@92.243.75.49:2087?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/MoftConfig
