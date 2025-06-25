@@ -83480,3 +83480,4 @@ trojan://fivh9CYhgT@104.21.32.1:443?security=tls&sni=esna.twn24.ir&type=httpupgr
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#[🇺🇸]t.me/MoftConfig
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?encryption=none&security=none&sni=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
 vless://freewireguard-telegram-channel@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=nushdaru.sohrab.com&type=xhttp#[🇺🇸]t.me/MoftConfig
+vless://1f431db3-1918-4e7b-a855-c93485e11694@172.67.111.215:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
