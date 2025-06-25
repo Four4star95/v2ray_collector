@@ -1,3 +1,4 @@
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083?path=%2FtrYStgfIRQtOjkkxCQ%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=invincible.fafa20.shop&fp=randomized&type=ws&sni=INvincIBLE.fafA20.Shop#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:7.89ms
 vless://0c2f233c-5ec1-4dd1-840b-354fa503d329@mr51.iranman.shop:11090?security=none&encryption=none&host=google.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:174.24ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.222:8880?security=none&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#👉🆔@MoftConfig📡🇯🇵®️Japan©️Chiyoda🅿️ping:8.04ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.147:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.11ms
@@ -147,4 +148,3 @@ vless://710940c6-3406-4cb0-8524-1275f8ca9033@free.fastly80.hosting-ip.com:80?mod
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F%3Fed%3D2560%2FV2ray_Alpha#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.15ms
 vless://5011a449-a2f9-4a98-a0da-7ef0d927e3d2@50.7.87.86:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-fi.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:25.76ms
 trojan://DHvwod7oq7@104.21.80.1:2083?security=tls&type=ws&sni=esna.twn24.ir&path=/mehdi&host=esna.twn24.ir#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.23ms
-vless://18aa1b02-867c-4071-a0b7-0b53b0516ff7@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=oFnKGAC26JAs2SXa.xyz&type=ws#⚜️Telegram:@IP_CF
