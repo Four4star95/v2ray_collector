@@ -83521,3 +83521,13 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%
 vless://c87849e2-becf-4acf-a77b-d15caa00d86f@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSQ2NEMWNjZU5Lb2ZHYlVVdUJDWUJq@45.12.133.203:15357#👉🆔@MoftConfig📡🇫🇷®️France©️Paris🅿️ping:54.32ms
 trojan://Aimer@92.243.75.49:2087?sni=agepy.aimercc.filegear-sg.me#[🏁]t.me/MoftConfig
+vless://19682091-842e-4856-9692-ddd305f98989@Ps.fast.hosting-ip.com:80?mode=auto&path=%2Fed%3F%3D2048&security=none&encryption=none&host=Frzdyour-name.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:40.82ms
+vless://f1abce0d-998b-4ee0-b0d3-d820e6bcd011@maskunlimit51.royalmt.life:12215?security=&encryption=none&type=ws#[🇮🇷]t.me/MoftConfig
+vless://8960c969-eebb-4b5a-b480-4662e51893ca@mtn.ivy-net.ir:8080?encryption=none&security=none&type=httpupgrade&host=okamicsajnklssaklsksa212r2322eaw3e2dwml.okatestoka.ir&path=%2F#[🇨🇦]t.me/MoftConfig
+vless://80d1fe59-60f4-4272-a280-820e1ef0a754@www.speedtest.net:443?path=%3Fed%3D2048&security=tls&encryption=none&host=tfs733.pages.dev&type=ws&sni=pages.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.81ms
+vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#[🏁]t.me/MoftConfig
+vless://dcafb248-38ba-489c-bceb-42e5a72e85d1@7store.rolexcloud.net:43643?security=none&encryption=none&host=ir1.node.check-host.net&headerType=http&type=tcp#[🇳🇱]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ%3D%3D@157.180.127.73:23819#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:13.6ms
+vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv73.momdping.com#[🇮🇷]t.me/MoftConfig
+vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.235.201:2087?path=%2F&security=tls&encryption=none&host=vip9.nikatel.store&type=ws&sni=vip9.nikatel.store#[🇮🇷]t.me/MoftConfig
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
