@@ -84650,3 +84650,14 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.253:8080#👉🆔@Moft
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@jnir-addr.cybsecguru.com:443?type=ws&host=siavash.6006900.xyz&path=/Javid-SHAH-KingRezaPahlavi/?ed%3D2560&security=tls&fp=firefox&sni=siavash.6006900.xyz&alpn=h2,http/1.1&fragment=4-6,8-15,1-2#👉🆔@MoftConfig📡🇨🇾®️Cyprus©️Nicosia🅿️ping:8.63ms
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?path=%2F&security=none&encryption=none&host=cf.d3z.net&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco (Financial District)🅿️ping:8.47ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.74ms
+trojan://.Q%3C3_m%29mwwp%21H%21i%5E@188.114.96.3:2053?path=%2FtrJQRh5iOdL0cWOnaS%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=noctyq.pages.dev&fp=randomized&type=ws&sni=NOcTYq.pAgES.Dev#[🇨🇦]t.me/MoftConfig
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.189.100:17416?type=grpc&mode=gun&security=reality&fp=chrome&sni=sourceforge.net&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&sid=b3&spx=/#[🇩🇪]t.me/MoftConfig
+vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80?path=%2FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=none&encryption=none&host=spx.lindak.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.04ms
+vless://a4760cbf-9b45-4121-a19c-3e44e1efac93@hub.twixspace.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=m9jpnh0VwRVeEH5w9L_ZjDjdb5UaVFWKL6heM5_8tSU&sid=4038bf2c107d2e38&type=tcp&headerType=none#[🇩🇪]t.me/MoftConfig
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416?type=grpc&mode=gun&security=reality&fp=chrome&sni=sourceforge.net&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&sid=b3&spx=/#[🇩🇪]t.me/MoftConfig
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&fp=random&type=ws&sni=agolna.mahsaamini.dpdns.org#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443?type=tcp#[🇬🇧]t.me/MoftConfig
+vless://f811e885-bf58-4f0e-a350-5f1313e1c92d@85.9.124.45:2052?type=ws&path=%2F&host=&security=none#[🇮🇷]t.me/MoftConfig
+vless://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?type=grpc&mode=gun&security=reality&fp=chrome&sni=www.speedtest.net&pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&sid=19d2063459&spx=/#[🇩🇪]t.me/MoftConfig
+vless://e281fd41-85fc-465e-9299-356e31ae57a4@connection07.evananet.com:45839?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:103.17ms
