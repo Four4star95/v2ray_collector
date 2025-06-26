@@ -84723,3 +84723,23 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.204.84:443?security=tls&sni=
 vless://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:153.37ms
 trojan://CPbhv1RtdImqair6J4zrNw@217.145.79.43:3080?security=none&type=ws#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:29.02ms
 vless://Parsashonam-265@151.101.3.8:80?type=xhttp&path=/---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam&host=ParsashonamTelegramChannel2.ir&mode=auto&security=none#[🇺🇸]t.me/MoftConfig
+vless://21389e1d-e91f-4156-93ee-4ed2c321e37c@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇫🇷®️France©️Roubaix🅿️ping:64.4ms
+vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.84ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#👉🆔@MoftConfig📡🇸🇮®️Slovenia©️Ljubljana🅿️ping:75.38ms
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880?path=%2F&security=none&encryption=none&host=yg.bantony199.top&type=ws#👉🆔@MoftConfig📡🇧🇷®️Brazil©️Casa Verde🅿️ping:8.23ms
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@63.141.128.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Four Points Centre)🅿️ping:8.09ms
+vless://1da6a214-30b0-4a95-9b75-5028bb3a23ce@pishgam.sdcards.ir:80?path=%2F%3Fed%3D2087&security=none&encryption=none&host=speed.apkclubmovie.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.76ms
+vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.83ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.63:80?sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇺🇸®️United States©️Austin (Downtown Austin)🅿️ping:8.28ms
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#👉🆔@MoftConfig📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:267.88ms
+vless://9da21010-6025-430a-9ce9-6096673d86d1@91.99.183.196:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:34.78ms
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@188.244.122.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main (Frankfurt am Main Süd)🅿️ping:8.02ms
+trojan://CPbhv1RtdImqair6J4zrNw@217.145.79.43:3080?security=none&type=ws#⚜️Telegram:@IP_CF
+vless://a85136b1-1a76-481d-aef8-4bdc1f3d4773@tamizokatamizveryclearifiedtamiz.ivy-net.ir:8080?path=%2F&security=none&encryption=none&host=xokashope2neowdcsdcs23.okatestoka.ir&type=httpupgrade#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.65ms
+vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=%2Fed%3D2560&security=none&encryption=none&host=speedtest.net.km&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:8.22ms
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.114.204:17416?mode=gun&security=reality&encryption=none&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&fp=chrome&spx=%2F&type=grpc&sni=sourceforge.net&sid=b3#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.71ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.20:50345#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seongnam-si (Buljeong-ro)🅿️ping:289.0ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:32.08ms
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=%2F%3Fed%3D2560%2F%3F%40ELFV2RAY&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.44ms
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#👉🆔@MoftConfig📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:264.13ms
+vless://81ba22e4-ef1d-4944-8cde-3adaee509bd0@test.jeanland.shop:46443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Ahvāz (District 1)🅿️ping:106.76ms
