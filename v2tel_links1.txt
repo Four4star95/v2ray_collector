@@ -83834,3 +83834,24 @@ vless://1734035c-6dcc-411a-91e5-0d7786e9093e@local-only.hardwarenew.ir:8081?secu
 vless://f2b072a1-edf5-4b47-9a9f-2e94d9df91c6@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=sigma-1016.vevem66216.workers.dev&fp=chrome&type=ws&sni=sigma-1016.vevem66216.workers.dev#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.47ms
 vless://2dc56709-0f44-4bef-bee8-41ab6e128904@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Shuposipet.com&type=ws#👉🆔@MoftConfig📡🇫🇷®️France©️Strasbourg🅿️ping:7.51ms
 vless://063f79bf-b690-43bd-99d7-18fd0d0f03de@asia5.novahomedesigntips.com:54546?security=none&encryption=none&type=ws#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tabriz (Nowbar)🅿️ping:96.26ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?encryption=none&security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#[🇺🇸]t.me/MoftConfig
+vless://ccc75873-a458-48c5-8de5-890c901aaaf5@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#[🇨🇦]t.me/MoftConfig
+vless://6f6678a2-f18c-4e69-8c04-9c54b2adb0d9@151.101.3.8:80?security=none&type=ws&headerType=&path=%2Fdownload%3Fed%3D2560&host=ana.ir#[🇺🇸]t.me/MoftConfig
+vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.17.134.206:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=drive.speegy.club#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#[🏁]t.me/MoftConfig
+vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.17.209.145:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=dw.alibichareh.dpdns.org&fp=random&type=ws&sni=dw.alibichareh.dpdns.org#[🇨🇦]t.me/MoftConfig
+trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-other.05vr9nyqg5.download:13036?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODUxOTMwMS02ODE0LTRhY2QtODVjYS00MjMwMDU3ZGQzMjI@free.2apzhfa.xyz:31511#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODUxOTMwMS02ODE0LTRhY2QtODVjYS00MjMwMDU3ZGQzMjI@free.2apzhfa.xyz:31313#[🏁]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#[🏁]t.me/MoftConfig
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws#[🇬🇧]t.me/MoftConfig
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&sni=147135001178.sec22org.com&type=raw&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/MoftConfig
+vless://994c91dd-b282-4c25-a0c5-af76b480c080@66.235.200.1:443?encryption=none&security=tls&sni=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&host=mci-google-bing3164.sdb5j.workers.dev&path=%2F%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
+vless://6cf14976-c942-4463-b6ad-f3b2edbc7e9b@vip2.reiisvezze2.ir:1002?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#[🇺🇸]t.me/MoftConfig
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TWtnNU9GVmFWRGxNVkRGVVJUTllPUQ@w72tapyb.slashdevslashnetslashtun.net:15008#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODUxOTMwMS02ODE0LTRhY2QtODVjYS00MjMwMDU3ZGQzMjI@free.2apzhfa.xyz:31243#[🏁]t.me/MoftConfig
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VEZwUk1GSTVRa3cyT1VkRFF6WkdVdw@8tv68qhq.slashdevslashnetslashtun.net:15005#[🏁]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODUxOTMwMS02ODE0LTRhY2QtODVjYS00MjMwMDU3ZGQzMjI@free.2apzhfa.xyz:31115#[🏁]t.me/MoftConfig
+trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-jp.05vr9nyqg5.download:13012?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#[🏁]t.me/MoftConfig
+vless://e66bf44c-4f43-432e-9ab2-9c1b73ec4f6a@81.28.12.12:80?security=none&type=ws&host=bolak.com#[🇳🇱]t.me/MoftConfig
