@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Coventry🅿️ping:40.83ms
 vless://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=none&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:8.03ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@hk02.x.quickcht3.club:52612#👉🆔@MoftConfig📡🇨🇳®️China©️Wuhan🅿️ping:262.87ms
 vless://d06b82d1-1a2b-4942-a19c-e112d7afe8b2@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=&encryption=none&host=Zilor.ir&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.22ms
@@ -136,7 +137,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.198.232:8880?security=none&t
 vless://0c8901be-e521-46d9-b967-d97c2b114945@speedtest.net:80?mode=auto&path=%2Fazadi%3Fed%3D2560&security=none&encryption=none&host=forchannel.global.ssl.fastly.net&fp=chrome&type=xhttp#[🇺🇸]t.me/MoftConfig
 vless://bffb19cc-3f9c-4245-83e4-71c4eb54d7e0@172.64.33.81:443?security=tls&sni=3m9l6g.allgums.com&type=ws&host=3m9l6g.allgums.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@45.131.208.40:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#[🏁]t.me/MoftConfig
-trojan://blue2024@104.18.153.27:443?sni=td.promote.icu#⚜️Telegram:@IP_CF
 vless://68594162-da62-4792-94d5-5102e717f7f6@rene.blackkwolff.com:9435?security=none&type=tcp&headerType=http&path=%2F&host=docker.com#[🇺🇸]t.me/MoftConfig
 trojan://Aimer@45.153.7.216:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 vless://2c139f61-3830-4a2e-9ed0-c1dcb58a8933@hub1.g-movies.ir:80?mode=auto&path=%2Fvip&security=&encryption=none&host=sopjsn.global.ssl.fastly.net&type=xhttp#[🇩🇪]t.me/MoftConfig
