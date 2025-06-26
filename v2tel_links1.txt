@@ -84328,3 +84328,22 @@ vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@speedtest.net:80?mode=auto&path=%2F
 vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@ip2.yw5jk.org:80?mode=auto&path=%2F%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%2C%40iP_CF%3Fed%3D2048&security=none&encryption=none&host=lool-fool.global.ssl.fastly.net&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.55ms
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#👉🆔@MoftConfig📡🇺🇸®️United States©️Los Angeles🅿️ping:164.44ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/DRAGON?ed=512&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.13ms
+vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#[🇺🇸]t.me/MoftConfig
+trojan://NISHIKUITAN111@104.19.44.160:443?#[🇨🇦]t.me/MoftConfig
+vless://2cc40db0-2b2d-4a3f-8e2e-3148a6c56392@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&type=tcp&sni=refersion.com&fp=chrome&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:34.85ms
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 14)🅿️ping:102.94ms
+vless://863a79a8-b56b-41cc-b7fb-c7d7314c2fa2@109.207.173.6:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇳🇱]t.me/MoftConfig
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:8.36ms
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@67.220.95.230:5601#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:105.05ms
+trojan://3774827088566296576@13.37.126.60:443?sni=amused-buzzard.insect388.motorcycles#[🇫🇷]t.me/MoftConfig
+vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@199.232.214.172:80?mode=auto&path=%2Fauthentic_channel%3Fed%3D2560&security=none&encryption=none&host=ownercolin.com&type=xhttp#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.31ms
+vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.95:80?type=ws&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#[🏁]t.me/MoftConfig
+vless://0586f5cc-28a7-431f-adc2-24a399f8cab4@85.133.240.43:21405?security=&encryption=none&host=taaghche.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:137.78ms
+vless://053381ac-6c3d-4272-ba3d-ca1f5220fb57@iras1.cipdoraextra22.shop:2083?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@199.232.214.172:80?security=&type=tcp&encryption=none#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:7.31ms
+vless://674a2547-95ed-4d3e-9afe-945c21e1f65f@sec.lucyshoping.ir:24995?path=%2F&security=none&encryption=none&type=ws#[🇮🇷]t.me/MoftConfig
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://62790d46-ecec-46c4-90df-09c101f32d5a@146.75.55.82:80?mode=auto&path=%2FW6n7bMNkCOAipYmIfrGZF77zA%3Fed%3D2048&security=none&alpn=http%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22cMaxLifetimeMs%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-900%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&host=esmahdi.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=esmahdi.global.ssl.fastly.net#👉🆔@MoftConfig📡🇮🇹®️Italy©️Milan🅿️ping:42.83ms
+vless://4a5d5d8b-32eb-4fe9-88d0-3b592a61d752@viop.fast.hosting-ip.com:80?type=xhttp&path=%2Fyahyabaiuch%3Fed%3D2560&host=Yahyabaluchyour-name.global.ssl.fastly.net&mode=auto&security=none#[🇺🇸]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:10.79ms
+trojan://Aimer@209.208.227.79:443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Atlanta (Knight Park/Howell Station)🅿️ping:8.35ms
