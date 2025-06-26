@@ -84451,3 +84451,23 @@ vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encrypt
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=fggerlad.gerald81.dpdns.org&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
 trojan://Aimer@77.74.228.4:2087?sni=agepw.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:7.9ms
 trojan://telegram-id-directvpn@52.29.248.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#👉🆔@MoftConfig📡🇺🇸®️United States©️Atlanta🅿️ping:122.1ms
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?security=none&encryption=none&type=ws&host=kssepa.sabzipolobamahi.dpdns.org&path=/?ed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.03ms
+vless://2ee654be-dcf2-4a6b-acfb-e7945263a1cf@config_v_2ray-99916.edges.chat2.fun:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=utt.ac.ir&type=xhttp#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#👉🆔@MoftConfig📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:39.67ms
+vless://0d1cb112-006f-4eaa-89d1-15da714d12e1@yldl.ir:2096?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:101.48ms
+vless://d94c78e8-d8bd-4cb4-8448-97c398f9a2aa@dl2.kuckenpq.ir:45001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:110.72ms
+vless://35949c07-cca2-435d-b6b9-b244d2ea39a4@german1trial.vpn-instagram.com:443/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&path=%2F&security=tls&sni=german1trial.vpn-instagram.com&fp=firefox#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:9.02ms
+trojan://ttfang@47.245.91.197:9000?security=tls&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=%2F#👉🆔@MoftConfig📡🇸🇬®️Singapore©️Singapore🅿️ping:250.32ms
+vless://d92a72fc-6ecc-43cc-8c76-bd7f08caf648@188.121.109.206:8081?security=none&encryption=none&headerType=none&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:107.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:29.62ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️London🅿️ping:19.01ms
+vless://be86d1fc-16a6-4590-804c-6ce580f73b78@46.38.151.102:6071?security=none&type=tcp&headerType=http&path=%2F&host=fast.com#[🇮🇷]t.me/MoftConfig
+vless://e497da22-d020-40fb-a1fa-bc294066a2d2@66.235.200.5:80?allowInsecure=0&sni=pormang.webhost99.workers.dev&type=ws&host=pormang.webhost99.workers.dev&path=/#👉🆔@MoftConfig📡🇺🇸®️United States©️Jacksonville (Deerwood)🅿️ping:8.27ms
+vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@www.speedtest.net:80?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=PaMCHALL.cOM.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.55ms
+vless://2dc56709-0f44-4bef-bee8-41ab6e128904@nwarne.fast.hosting-ip.com:80?security=&type=ws&path=/de?ed%3D1048&host=Shuposipet.com&encryption=none#[🇺🇸]t.me/MoftConfig
+vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80?security=none&encryption=none&type=ws&host=agolna.mahsaamini.dpdns.org&path=/?ed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.53ms
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran (District 6)🅿️ping:100.32ms
+vless://18cb3f69-1713-415f-ac7b-f65c2a8e9fed@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.78ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?security=none&encryption=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=/TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed%3D2560#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTova0dwWU13QlVmSlVTM0FOQ0l2YnI3RnpPRDdmclUvVDd3bVhMa0RJSDVRPQ==@23.88.54.248:443#👉🆔@MoftConfig📡🇩🇪®️Germany©️Nuremberg🅿️ping:34.66ms
