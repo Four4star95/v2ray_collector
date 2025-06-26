@@ -83988,3 +83988,25 @@ trojan://telegram-id-directvpn@3.78.155.46:22223?security=tls&alpn=http/1.1&head
 trojan://3770966768580042752@89.39.70.165:443?security=tls&type=tcp&sni=warm-oryx.goat627.mom#[🇳🇱]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.247.139:8880?security=none&type=grpc#[🇫🇮]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.217:8880?type=grpc#[🇫🇮]t.me/MoftConfig
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#[🏁]t.me/MoftConfig
+trojan://Aimer@167.68.4.131:8443?allowInsecure=0&sni=agepy.aimercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Eagan🅿️ping:8.43ms
+trojan://INFFV5jp2Q@x1-sweden-amazon-v2.devefun.org:1935?security=tls&headerType=none&fp=safari&type=tcp&sni=x1-sweden-amazon-v2.devefun.org#👉🆔@MoftConfig📡🇸🇪®️Sweden©️Stockholm🅿️ping:10.02ms
+vless://ccc75873-a458-48c5-8de5-890c901aaaf5@mn.co:8080?path=%2Fmelo&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.72ms
+vless://ccc75873-a458-48c5-8de5-890c901aaaf5@zmaoz.faculty.ucdavis.edu:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=melodebot.net&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:8.04ms
+vless://ccc75873-a458-48c5-8de5-890c901aaaf5@speedtest.org:8080?path=%2Fmelo&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.61ms
+vless://387f1cba-7339-4050-ae73-0ef798d58102@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=none&encryption=none&host=ana.ir&type=ws#[🏁]t.me/MoftConfig
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.48.1:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.24ms
+trojan://telegram-id-directvpn@13.39.130.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://Aimer@176.53.144.206:8443?security=tls&type=ws&sni=ngepy.ambercc.filegear-sg.me&host=ngepy.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.234.239.63:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#[🏁]t.me/MoftConfig
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.234.239.247:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#[🏁]t.me/MoftConfig
+vless://ccc75873-a458-48c5-8de5-890c901aaaf5@tgju.org:8080?path=%2Fmelo&security=none&encryption=none&host=shad.ir.bot.digicyber.click&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.85ms
+trojan://Aimer@103.116.7.103:2083?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Redwood City🅿️ping:8.25ms
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@23.227.60.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#[🇨🇦]t.me/MoftConfig
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.4ms
+vless://ccc75873-a458-48c5-8de5-890c901aaaf5@speedtest.net:80?path=%2Fmelo%2Fws%3Fed%3D2048&security=none&encryption=none&host=melodebot.net&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.65ms
+vless://b5188936-7695-4536-a7b1-dcec26639a48@nv197.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv197.momdping.com#[🇮🇷]t.me/MoftConfig
+vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann…#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:99.94ms
+trojan://Aimer@172.64.35.168:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.18ms
+vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?security=none&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=www.speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:105.82ms
+trojan://Aimer@154.211.8.98:2087?allowInsecure=0&sni=agepy.aimercc.filegear-sg.me#👉🆔@MoftConfig📡🇺🇸®️United States©️Washington D.C.🅿️ping:7.99ms
