@@ -84661,3 +84661,24 @@ vless://f811e885-bf58-4f0e-a350-5f1313e1c92d@85.9.124.45:2052?type=ws&path=%2F&h
 vless://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/MoftConfig
 vless://a26ea133-45e6-48d9-9ff6-a05e08d81724@209.38.186.105:47948?type=grpc&mode=gun&security=reality&fp=chrome&sni=www.speedtest.net&pbk=N6bGwHO9Erbwn6CaSfQLGY8Oi3mGxqRXsQuHOBTMBV4&sid=19d2063459&spx=/#[🇩🇪]t.me/MoftConfig
 vless://e281fd41-85fc-465e-9299-356e31ae57a4@connection07.evananet.com:45839?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehran🅿️ping:103.17ms
+vless://a0134ece-8e49-447b-a24b-9736cca12edd@89.44.242.109:11459?flow=&headerType=http&type=tcp#👉🆔@MoftConfig📡🇮🇷®️Iran©️Tehrān🅿️ping:104.27ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:36.13ms
+vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.04ms
+trojan://telegram-id-privatevpns@15.237.236.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+vless://ae0cc111-7d64-4ceb-bdfe-050f4c4823ce@izafree.lalash.ir:36509?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔@MoftConfig📡🇺🇸®️United States©️Ashburn🅿️ping:109.81ms
+vless://a85136b1-1a76-481d-aef8-4bdc1f3d4773@tamizokatamizveryclearifiedtamiz.ivy-net.ir:8080?path=%2F&security=none&encryption=none&host=xokashope2neowdcsdcs23.okatestoka.ir&type=httpupgrade#[🇨🇦]t.me/MoftConfig
+vless://2706427a-bf92-43b5-a001-37e31e4c4d56@209.38.189.100:17416?mode=gun&security=reality&encryption=none&pbk=X5W26tu1FjZOfBtofWeSH6QmkQddPR2wbM7atObEWik&fp=chrome&spx=%2F&type=grpc&sni=sourceforge.net&sid=b3#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:29.64ms
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:8.34ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.236.205:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#👉🆔@MoftConfig📡🇹🇼®️Taiwan©️Taoyuan🅿️ping:259.01ms
+vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@check-host.wizardxray.shop:702?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@104.17.147.22:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#👉🆔@MoftConfig📡🇨🇦®️Canada©️Toronto🅿️ping:17.04ms
+trojan://telegram-id-directvpn@15.237.236.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#👉🆔@MoftConfig📡🇺🇸®️United States©️New York🅿️ping:31.23ms
+vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@whats-my-ip.wizardxray.shop:701?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#👉🆔@MoftConfig📡🇹🇷®️Turkey©️Istanbul🅿️ping:69.39ms
+vless://ca2185ed-e671-47dd-99be-bd14d18f13d8@f2.snnap.org:80?mode=auto&path=%2F&security=none&encryption=none&host=miladhospital8.com&type=xhttp#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.94ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.236.205:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇨🇵
+vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@ip-static-address.wizardxray.shop:700?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.235:7306#👉🆔@MoftConfig📡🇺🇸®️United States©️Dallas🅿️ping:187.32ms
+trojan://CPbhv1RtdImqair6J4zrNw@217.145.79.43:3080?security=none&type=ws#👉🆔@MoftConfig📡🇫🇮®️Finland©️Helsinki🅿️ping:29.56ms
