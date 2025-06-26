@@ -1,3 +1,4 @@
+vless://263ab08f-09d3-4e88-989c-e1e84d00c353@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=tamash360.com&type=xhttp#[🇫🇷]t.me/MoftConfig
 vless://bb138034-fb6a-4668-8736-222b4a15dbd8@no.europlus3.us:600?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=%2F%40VPNOD_%40VPNOD_%40VPNOD&security=none&encryption=none&host=mail.ski1plag.ir&type=ws#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYzkyN2QzNy1mMDFmLTRjMDUtODYwMy1jZTkzODdiOWYzYmY@free.2weradf.xyz:36115#[🏁]t.me/MoftConfig
@@ -140,7 +141,6 @@ trojan://e53ecb38-1974-4cca-b640-039e1f310710@172.67.203.189:443?security=tls&sn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SjQ0RHA1TnV4TDJzUEpuN25pZkJW@51.158.252.130:443#[🇳🇱]t.me/MoftConfig
 trojan://bpb-trojan@198.202.211.146:443?security=tls&type=tcp&sni=bpb.my79801.com#[🇺🇸]t.me/MoftConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&security=&encryption=none&type=grpc#[🇺🇸]t.me/MoftConfig
-trojan://Aimer@172.64.33.144:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 trojan://Aimer@108.165.152.76:2096?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#[🇮🇳]t.me/MoftConfig
 trojan://naEX%5Dg*qw%40MT%26lFz@104.21.48.1:2087?security=tls&type=ws&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&path=/trb6oyXIzrlytDBNlm?ed=2560&host=joinmahdiserver-53k.pages.dev#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@duke.ns.cloudflare.com:443?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#[🇨🇦]t.me/MoftConfig
