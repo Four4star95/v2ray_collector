@@ -33325,3 +33325,6 @@ trojan://telegram-id-directvpn@18.159.150.95:22223?security=tls&alpn=http/1.1&he
 trojan://Aimer@188.164.159.49:2087/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.144.147:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://1c6a665b-d306-464c-91de-fad0c31469e0@v2shop25.bing-net.com:4925?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.36.196.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.196.135:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
