@@ -85211,3 +85211,4 @@ trojan://telegram-id-directvpn@52.47.70.112:22223?security=tls&alpn=http/1.1&hea
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjMzMyIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6InRuYnVwcmkuZG9uZ2Zhbmd5aWhhby54eXoiLCJ0bHMiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#%40NUFiLTER
 
+trojan://Aimer@108.165.152.169:2087?allowInsecure=0&sni=agept.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
