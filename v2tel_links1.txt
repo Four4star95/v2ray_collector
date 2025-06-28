@@ -85300,3 +85300,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.36.170:22224?type=ws&securit
 
 trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 
+vless://12486672-3116-48b2-8495-2d7223874a7b@31.58.239.159:1433?path=%2F&security=none&encryption=none&host=snapp.ir&type=ws#⚜️Telegram:@IP_CF
