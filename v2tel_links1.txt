@@ -85284,3 +85284,4 @@ trojan://telegram-id-directvpn@52.58.129.157:22223?security=tls&alpn=http/1.1&he
 vless://0788f940-bc79-4438-9553-ac469844469d@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Meme.global.ssl.fastly.net&type=xhttp#⚜️Telegram:@IP_CF
 
 vmess://eyJhZGQiOiJ4Y3ZCbk1qS2kuOTk5ODI0Lnh5WiIsImFpZCI6MCwiaG9zdCI6InhjdkJuTWpLaS45OTk4MjQueHlaIiwiaWQiOiI1MTJkOTY3NC1kYjEyLTQ0Y2EtYTFiNS02NTQyNDQ1NDliNjUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3VpQXh2SDZPa1ZrMFZDZmE3ZFgzSklyWWs3em0iLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
