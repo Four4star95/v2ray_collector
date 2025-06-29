@@ -85330,3 +85330,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.174.48:22224?type=ws&security=
 trojan://telegram-id-directvpn@3.77.174.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vless://0f307e5d-f3ef-4c16-b63f-0588f5ccb2a0@37.152.190.244:80?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjM0MSIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6InBtbmJuc2pwNi5kb25nZmFuZ3lpaGFvLnh5eiIsInRscyI6IiJ9
