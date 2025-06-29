@@ -85353,3 +85353,4 @@ vless://5ece2450-5de1-4975-a6ef-3e045ac8db78@test.fast.hosting-ip.com:80?mode=au
 trojan://telegram-id-directvpn@15.188.133.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6IjJ1N29waTVzcWciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiMnU3b3BpNXNxZy00NTE1MDE3NDc2Lm1hc2hhbGxhaGJldC5jb20iLCJwYXRoIjoiXC9uYXNuZXRcL2NkbiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
