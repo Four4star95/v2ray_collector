@@ -1,3 +1,5 @@
+vless://0c8901be-e521-46d9-b967-d97c2b114945@speedtest.net:80?mode=auto&path=%2Fazadi%3Fed%3D2560&security=none&encryption=none&host=forchannel.global.ssl.fastly.net&fp=chrome&type=xhttp#[🇺🇸]t.me/MoftConfig
+vless://bffb19cc-3f9c-4245-83e4-71c4eb54d7e0@172.64.33.81:443?security=tls&sni=3m9l6g.allgums.com&type=ws&host=3m9l6g.allgums.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@45.131.208.40:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#[🏁]t.me/MoftConfig
 vless://68594162-da62-4792-94d5-5102e717f7f6@rene.blackkwolff.com:9435?security=none&type=tcp&headerType=http&path=%2F&host=docker.com#[🇺🇸]t.me/MoftConfig
 trojan://Aimer@45.153.7.216:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
@@ -146,5 +148,3 @@ vless://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none=Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOG0zcUoxVmZpNGpSVE5CYm5aREVD@45.150.32.13:14628#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.58ms
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net&path=%2F#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.4ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.75:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:7.98ms
-trojan://telegram-id-directvpn@15.188.133.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.133.79:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
