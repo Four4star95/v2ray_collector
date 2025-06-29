@@ -33382,3 +33382,8 @@ vmess://eyJhZGQiOiIxMDQuMjEuNjQuMSIsImFpZCI6MCwiaG9zdCI6InVzMDEuc2gtY2xvdWRmbGFy
 trojan://Aimer@154.21.87.99:443?sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQuMjE1LjQwLjEzNiIsInBvcnQiOiIxNTcwOCIsInR5cGUiOiJub25lIiwiaWQiOiJmODM3YjUxMC03MDUwLTRkZWMtYjE4Mi1hNzc3ZGMzNTg0NjkiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6InN6LXNnLTA4LmdyYWJnby5wcm8iLCJ0bHMiOiIifQ==
 trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?security=none&seed=FeymPy9HR8&encryption=none&headerType=wireguard&type=kcp#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.174.48:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@35.156.229.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.229.197:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.77.174.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
