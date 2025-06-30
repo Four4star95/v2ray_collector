@@ -85621,3 +85621,16 @@ vless://a1b2c3d4-e5f6-7890-abcd-ef1234567890@45.32.123.45:443?type=tcp&encryptio
 vless://902fac1b-24c6-4557-8143-8fc72e552554@62.60.206.100:8080?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=/#[🇨🇦]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw==@is3.opensocks.site:8388#[🏁]t.me/MoftConfig
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#[🏁]t.me/MoftConfig
+trojan://ababacc-bcaa-abac-cbda-bcaccbcababa@127.0.0.1:8080?security=tls&type=tcp#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE2LjIyNy4xNjguMTU3IiwicG9ydCI6IjQ1MjMzIiwiaWQiOiI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0=
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa3hSRTJVdUJDZDZZcEZia1dmNVJn@5.75.205.114:1574#[🇩🇪]t.me/MoftConfig
+vless://57242334-c1e6-4fc6-fd13-989a5aff9695@151.101.3.8:80?path=%2F%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn%40AKLISVPN%40aklisvpn%40aklisvpn%40aklisvpn&security=none&encryption=none&host=aklisturkey.org&type=ws#[🇺🇸]t.me/MoftConfig
+vless://c25dc3b6-3dd5-4c06-a211-7e40d03205c0@m1.baranbax.lat:1110?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#[🇨🇦]t.me/MoftConfig
+vless://fd8be803-c16f-4d8f-9dcd-cbad92be1100@js.document.lat:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=imam-ali.global.ssl.fastly.net.&type=xhttp#[🇺🇸]t.me/MoftConfig
+vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fatmelo.com&type=ws#[🇺🇸]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.80.85:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://ke7hz36ewz@npmjs.com:2053?encryption=none&security=tls&sni=ke7hz36ewz-4515017473.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=ke7hz36ewz-4515017473.mashallahbet.com&path=%2Fnasnet%2Fcdn#[🇨🇦]t.me/MoftConfig
+vless://8a60e27a-f906-4d15-a6db-4ae638347ac8@104.248.34.189:2083?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
