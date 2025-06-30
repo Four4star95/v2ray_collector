@@ -85487,3 +85487,4 @@ vless://8e72da07-0429-432e-8f0a-e9a3d4fc538f@151.101.194.133:80?security=none&ty
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?security=&encryption=none&type=grpc#[🇮🇷]t.me/MoftConfig
 trojan://telegram-id-directvpn@3.65.166.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 ss://YWVzLTI1Ni1nY206OTYxYWI5NWMtN2IxNy00ZmVhLThhM2YtNmIyN2E0MjYxNzJk@wb.kaiqsz.com:48497#[🏁]t.me/MoftConfig
+
