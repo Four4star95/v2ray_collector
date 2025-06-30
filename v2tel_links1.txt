@@ -85537,3 +85537,5 @@ vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.124.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@3.64.207.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.207.82:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoibnBtanMuY29tIiwicG9ydCI6IjgwODAiLCJpZCI6ImRubHFmYXFxcm4iLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZG5scWZhcXFybi05MTk5MTMwMTIxLmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL2hldHpuZXJcL2NkbiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&fp=firefox&type=ws&sni=black.fullmargintraders.com#⚜️Telegram:@IP_CF
