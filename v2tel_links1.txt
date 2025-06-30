@@ -85496,3 +85496,4 @@ vmess://eyJhZGQiOiJzc1h4WmFTdy45OTk4MjQueHlaIiwiYWlkIjowLCJob3N0Ijoic3N4eHphc3cu
 trojan://er668@104.21.112.1:443?security=tls&type=tcp&sni=kfjdi.pages.dev#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiI2Mi4zLjQyLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3ZDNjNTIxZi1mZmZjLTRmM2MtZjY2MC1hMTQ4MmFhZDNlNjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxOTQ4IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://Aimer@192.200.160.19:8443?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://blue2024@104.16.93.142:443?sni=td.promote.icu#⚜️Telegram:@IP_CF
