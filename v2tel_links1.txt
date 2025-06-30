@@ -85634,3 +85634,4 @@ vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@151.101.3.8:80?path=%2Folem%2Fws%3F
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.80.85:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://ke7hz36ewz@npmjs.com:2053?encryption=none&security=tls&sni=ke7hz36ewz-4515017473.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=ke7hz36ewz-4515017473.mashallahbet.com&path=%2Fnasnet%2Fcdn#[🇨🇦]t.me/MoftConfig
 vless://8a60e27a-f906-4d15-a6db-4ae638347ac8@104.248.34.189:2083?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=asebeeme.global.ssl.fastly.net&type=xhttp#%40NUFiLTER+%F0%9F%87%B3%F0%9F%87%B1+xhttp%282%29
