@@ -85635,3 +85635,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.80.85:22224?type=ws&security
 vless://ke7hz36ewz@npmjs.com:2053?encryption=none&security=tls&sni=ke7hz36ewz-4515017473.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=ke7hz36ewz-4515017473.mashallahbet.com&path=%2Fnasnet%2Fcdn#[🇨🇦]t.me/MoftConfig
 vless://8a60e27a-f906-4d15-a6db-4ae638347ac8@104.248.34.189:2083?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=asebeeme.global.ssl.fastly.net&type=xhttp#%40NUFiLTER+%F0%9F%87%B3%F0%9F%87%B1+xhttp%282%29
+vless://1051fff6-131a-4d59-b148-48c1ab567907@tnasia.exvocal542.store:6061?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.29.16:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@35.181.29.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
