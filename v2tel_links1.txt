@@ -85979,3 +85979,4 @@ trojan://telegram-id-directvpn@13.37.177.131:22223?security=tls&alpn=http/1.1&he
 vmess://eyJhZGQiOiJ3V1N4Y2RGUjUuOTk5ODM0LlhZeiIsImFpZCI6MCwiaG9zdCI6Ind3c3hjZGZyNS45OTk4MzQueHl6IiwiaWQiOiJjZGVjOWQ1Ny02NjFkLTQ1NmEtYmJmMi1iNGMzOGU5YzY3MTEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzlkWmxKTGpISHJMMFZ3U29sYnFGcGciLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 
 trojan://telegram-id-directvpn@13.37.177.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:26788?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
