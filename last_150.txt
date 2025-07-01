@@ -1,8 +1,3 @@
-vless://bffb19cc-3f9c-4245-83e4-71c4eb54d7e0@172.64.33.81:443?security=tls&sni=3m9l6g.allgums.com&type=ws&host=3m9l6g.allgums.com&path=/wss&alpn=http/1.1#[🇨🇦]t.me/MoftConfig
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@45.131.208.40:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#[🏁]t.me/MoftConfig
-vless://68594162-da62-4792-94d5-5102e717f7f6@rene.blackkwolff.com:9435?security=none&type=tcp&headerType=http&path=%2F&host=docker.com#[🇺🇸]t.me/MoftConfig
-trojan://Aimer@45.153.7.216:2053?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
-vless://2c139f61-3830-4a2e-9ed0-c1dcb58a8933@hub1.g-movies.ir:80?mode=auto&path=%2Fvip&security=&encryption=none&host=sopjsn.global.ssl.fastly.net&type=xhttp#[🇩🇪]t.me/MoftConfig
 vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@151.101.3.8:80?mode=auto&path=%2Fauthentic_channel%3Fed%3D2560&security=none&encryption=none&host=ownercolin.com&type=xhttp#[🇺🇸]t.me/MoftConfig
 trojan://ldq6RVIsLJ@uk-04.allhubb.info:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=randomized&type=tcp&sni=uk-04.allhubb.info#[🇬🇧]t.me/MoftConfig
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.165.216.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#[🇺🇸]t.me/MoftConfig
@@ -148,3 +143,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOG0zcUoxVmZpNGpSVE5CYm5aREVD@45.150.32.13:1
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net&path=%2F#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.4ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.75:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:7.98ms
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@lovefishingfishes.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#⚜️Telegram:@IP_CF
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://6752968d-9068-47dc-a25b-264f4d513771@230920393.f-sub.com:3799?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#[🇩🇪]t.me/MoftConfig
+trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=d5e7#[🇩🇪]t.me/MoftConfig
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
