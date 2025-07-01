@@ -85769,3 +85769,25 @@ trojan://Aimer@162.159.44.48:443?security=tls&type=ws&sni=ngepz.ambercc.filegear
 trojan://Aimer@162.159.44.48:443?security=tls&type=ws&sni=ngepz.ambercc.filegear-sg.me&host=ngepz.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096?path=%2F%23Telegram%40V2ray_Alpha&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HkPk6Cd2Kj.9PeSc.CoM&fp=chrome&type=ws&sni=HkPk6Cd2Kj.9PeSc.CoM#[🇨🇦]t.me/MoftConfig
 vless://28f8ae56-3e67-417c-827a-de55d90225b4@31.58.144.164:32545?security=reality&encryption=none&pbk=V2udjJMegh27OhXkN__N4H7CPPbyVJ2HKBLV4q47HXk&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=0e#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.247.80:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
+vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#[🇹🇷]t.me/MoftConfig
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#[🇨🇦]t.me/MoftConfig
+vless://04368a1f-690a-40b6-bd6e-293ce96fdc05@91.99.199.145:443?security=reality&encryption=none&pbk=Nx4K6MTHh3ZDnRbOTc0ZORSZ-lh6IXuIc9K-sM5mrXA&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=7399588d8eeb#[🇩🇪]t.me/MoftConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.247.80:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=d5e7#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.125.247.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://8aaab8ef-9713-4b69-b839-6bb45070ab35@91.99.130.39:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080#[🇺🇸]t.me/MoftConfig
+vless://f02cac19-36ca-4d19-9197-b8f00dda4faf@62.60.159.238:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.parsdl.xyz&fp=chrome&type=ws&sni=parsdl.xyz#[🇸🇪]t.me/MoftConfig
+trojan://3763495982449565696@87.120.204.100:443?security=tls&type=tcp&sni=closing-phoenix.goat627.mom#[🏁]t.me/MoftConfig
+vless://7a66b8ef-9713-4b69-b839-6bb45070af5@1.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🏁]t.me/MoftConfig
+vless://4c7aaa77-25f6-4d50-aea9-fec7ef1b236a@syntax.leaksfa.com:2589?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#[🇮🇷]t.me/MoftConfig
+vless://7a76b8ef-9713-4b69-b839-6bb45070af5@1.99.120.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🏁]t.me/MoftConfig
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
+vless://7a66b8ef-9713-4b69-a899-6bb45070af5@1.99.30.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🏁]t.me/MoftConfig
+vless://7a66b8ef-9713-4b69-a839-6bb45070cf5@1.99.130.219:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🏁]t.me/MoftConfig
+vless://f694c2bd-ec06-4700-ac4e-5bd3eb50d41b@speedtest.net:80?path=%2Fed%3D2560&security=none&encryption=none&host=turboo-server.game&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://telegram-id-privatevpns@3.125.247.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪@MoftConfig
+vless://6c8cc745-8719-48df-8b0d-647134e9823a@151.101.3.8:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=tsvCY5W4AP61qVbo.net&type=ws#[🇨🇦]t.me/MoftConfig
+trojan://blue2024@104.129.167.128:443?security=tls&type=tcp&sni=ta.promote.icu#[🏁]t.me/MoftConfig
