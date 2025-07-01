@@ -1,3 +1,4 @@
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@51.81.37.230:443?security=tls&sni=147135004002.sec20org.com&type=tcp#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.13.94:443#[🇬🇧]t.me/MoftConfig
 vless://3a559234-bb5f-4db7-95da-f65c43f8ad88@irancellserver18.gamelip.com:22482?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#[🇹🇷]t.me/MoftConfig
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.30:443?allowInsecure=0&sni=zz.bgm2024.us.kg&type=ws&host=zz.bgm2024.us.kg&path=/fp=chrome&security=tls#[🏁]t.me/MoftConfig
@@ -125,7 +126,6 @@ vless://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none=Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOG0zcUoxVmZpNGpSVE5CYm5aREVD@45.150.32.13:14628#👉🆔@MoftConfig📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:32.58ms
 vless://5f301020-9b83-493f-94a9-75fb761ef0d3@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v11.drlimit.net&path=%2F#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:7.4ms
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.75:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#👉🆔@MoftConfig📡🇬🇧®️United Kingdom©️Stretford🅿️ping:7.98ms
-vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@lovefishingfishes.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#⚜️Telegram:@IP_CF
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://6752968d-9068-47dc-a25b-264f4d513771@230920393.f-sub.com:3799?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#[🇩🇪]t.me/MoftConfig
 trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=d5e7#[🇩🇪]t.me/MoftConfig
