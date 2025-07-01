@@ -1,3 +1,4 @@
+vless://2c139f61-3830-4a2e-9ed0-c1dcb58a8933@hub1.g-movies.ir:80?mode=auto&path=%2Fvip&security=&encryption=none&host=sopjsn.global.ssl.fastly.net&type=xhttp#[🇩🇪]t.me/MoftConfig
 vless://461b0991-d24b-42dc-87c2-c505cf1a01f4@151.101.3.8:80?mode=auto&path=%2Fauthentic_channel%3Fed%3D2560&security=none&encryption=none&host=ownercolin.com&type=xhttp#[🇺🇸]t.me/MoftConfig
 trojan://ldq6RVIsLJ@uk-04.allhubb.info:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=randomized&type=tcp&sni=uk-04.allhubb.info#[🇬🇧]t.me/MoftConfig
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.165.216.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#[🇺🇸]t.me/MoftConfig
@@ -146,5 +147,4 @@ vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@lovefishingfishes.kuckenpq.ir:32135
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://6752968d-9068-47dc-a25b-264f4d513771@230920393.f-sub.com:3799?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#[🇩🇪]t.me/MoftConfig
 trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=d5e7#[🇩🇪]t.me/MoftConfig
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
