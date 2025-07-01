@@ -85999,3 +85999,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.102.198:22224?type=ws&securi
 trojan://telegram-id-directvpn@15.237.102.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vmess://eyJhZGQiOiIxMDQuMTkuNDguMjM2IiwiYWlkIjowLCJob3N0IjoiMTAwLTE3Ny0xNy00NS5zMi5kYi1saW5rMDEudG9wIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2RhYmFpLmluMTcyLjY3LjkyLjE1NiIsInBvcnQiOjg4ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 
+vless://0ec7224a-6a95-4f4b-9039-d6c87cd47959@test.vipfastconnect.top:2053?security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com#⚜️Telegram:@IP_CF
