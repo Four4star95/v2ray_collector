@@ -85983,3 +85983,6 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:26788?security=none&en
 
 
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjcyLjUuMjIxIiwicG9ydCI6IjQ2NjY2IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3LjcyOTY5ODU2Lnh5eiIsInBhdGgiOiJcL3BhdGhcLzE3MDczMzEzMjIzMyIsInRscyI6InRscyIsInNuaSI6Ind3dy43Mjk2OTg1Ni54eXoiLCJ0ZXN0X25hbWUiOiIxMTUifQ==
+trojan://telegram-id-directvpn@3.76.166.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.166.82:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
