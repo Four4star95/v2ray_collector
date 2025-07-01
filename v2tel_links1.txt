@@ -85974,3 +85974,5 @@ vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?path=%2Ftelegra
 
 
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@13.37.177.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
