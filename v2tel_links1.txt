@@ -85970,3 +85970,4 @@ vless://4e6a1e53-ed96-4907-b763-3cfb449d43b3@151.101.0.155:80?security=none&type
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/MoftConfig
 
 
+vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=Kk40.motorphrotan.ir#%40NUFiLTER%20%F0%9F%87%B1%F0%9F%87%BAws%20%5Bmci%5Dvless://8e68e16a-096e-4485-9efb-21cb2989c296@104.16.104.151:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=Kk40.motorphrotan.ir#%40NUFiLTER%20%F0%9F%87%B1%F0%9F%87%BAws%20%5Bmtn%5D
