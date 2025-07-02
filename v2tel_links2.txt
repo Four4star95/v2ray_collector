@@ -33667,3 +33667,4 @@ trojan://telegram-id-directvpn@18.197.182.128:22223?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.182.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vmess://eyJhZGQiOiJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwiYWlkIjowLCJob3N0IjoiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsImlkIjoiMjg2NGUzMDEtODAyMy00NDMzLWI3MDMtYmRkMWE1MmUwMzc2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMDk2LCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRlMDEuc2gtY2xvdWRmbGFyZS5zYnMifQ==
 trojan://Aimer@sage.ns.cloudflare.com:443?sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://3669023846591373312@35.75.186.204:443?security=tls&sni=equipped-parakeet.pigeon031.one&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF
