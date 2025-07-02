@@ -86034,3 +86034,5 @@ vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&
 
 
 
+trojan://Aimer@sage.ns.cloudflare.com:443?sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiRrgAsHzTP8d&security=tls&alpn=http%2F1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#⚜️Telegram:@IP_CF
