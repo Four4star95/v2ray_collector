@@ -33724,3 +33724,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTI5
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.92.41:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@52.47.92.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vmess://eyJhZGQiOiJhYzk0NzUzMC1zdjJzZzAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20iLCJhaWQiOjIsImhvc3QiOiJhYzk0NzUzMC1zdjJzZzAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20iLCJpZCI6ImNmODllMDY0LTVjNzctMTFlYi1iZDNhLWYyM2M5MTY0Y2E1ZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
+trojan://telegram-id-directvpn@3.77.65.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://Aimer@220.125.26.232:50000?allowInsecure=0&sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.73.30.42:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://Aimer@89.110.86.132:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
+vless://f272146a-0eef-45bc-a112-c5909f33fdba@104.18.26.90:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Kk48.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%40NUFiLTER%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%9A%80%F0%9F%87%B1%F0%9F%87%BA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.30.42:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.65.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
