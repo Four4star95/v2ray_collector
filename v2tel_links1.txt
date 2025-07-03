@@ -86130,3 +86130,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.23.217:22224?type=ws&security
 trojan://telegram-id-directvpn@3.120.23.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjA5LjIwOS40OC4xOSIsInBvcnQiOiIyNjAyNCIsInR5cGUiOiJub25lIiwiaWQiOiIzYTZjNzg5Zi0wNTQ4LTRjYTMtODNjMC0yYzc4YWNiZWU4MTEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImJncC14ZGQuYmx1ZS1iZ3AueHl6IiwidGxzIjoiIn0=
+
