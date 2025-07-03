@@ -86113,3 +86113,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjM0NiIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6InVrYm5zYmh2bS5kb25nZmFuZ3lpaGFvLnh5eiIsInRscyI6IiJ9
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+trojan://Aimer@14.36.202.242:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
