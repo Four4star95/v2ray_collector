@@ -86173,3 +86173,5 @@ trojan://Aimer@pranab.ns.cloudflare.com:443?path=%2F%3Fed%3D2560%26Tel-%40V2ray_
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.23.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.92.41:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.37.201.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.201.250:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
