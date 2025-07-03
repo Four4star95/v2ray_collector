@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@131.145.13.94:443#[🇬🇧]t.me/MoftConfig
 vless://3a559234-bb5f-4db7-95da-f65c43f8ad88@irancellserver18.gamelip.com:22482?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#[🇹🇷]t.me/MoftConfig
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.30:443?allowInsecure=0&sni=zz.bgm2024.us.kg&type=ws&host=zz.bgm2024.us.kg&path=/fp=chrome&security=tls#[🏁]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#[🏁]t.me/MoftConfig
@@ -146,5 +147,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#�
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#[🏁]t.me/MoftConfig
 trojan://wb6368@172.66.44.86:443?security=tls&type=tcp&sni=hsdgbuys.pages.dev#[🇨🇦]t.me/MoftConfig
 vless://f694c2bd-ec06-4700-ac4e-5bd3eb50d41b@151.101.130.219:80?path=%2Fed%3D2560&security=&encryption=none&host=turboo-server.game&type=ws#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:6.96ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS52YXJ6ZXNoMzYwLmNvOjQ0Mw==#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiMTlcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJhZGQiOiJucG1qcy5jb20iLCJwb3J0IjoiODA4MCIsImlkIjoiY3FtdTZnbW15dSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJjcW11NmdtbXl1LTkxOTkxMTMzNC5raGFzdGVobmFiYXNoaS5jb20iLCJwYXRoIjoiXC9oZXR6bmVyXC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
