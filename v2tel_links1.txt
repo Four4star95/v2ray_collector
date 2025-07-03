@@ -86116,3 +86116,4 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=&encry
 trojan://Aimer@14.36.202.242:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vmess://eyJhZGQiOiIxNzIuNjQuMzIuMjE3IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwXC8xLjEiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJhMzI2M2UyLTg5MWMtNDQ0Ni1iNDc0LWE4YzYzYWNiNmUyNSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjIwODciLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNDQyMDIyNjk1Lmh5cG5vdGl6LmZ1biIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
+
