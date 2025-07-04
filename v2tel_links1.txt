@@ -86219,3 +86219,5 @@ trojan://29gO5d3PAqtx@expresstv.sabapardaziran.ir:2087?security=tls&sni=expresst
 trojan://telegram-id-directvpn@35.156.9.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.9.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://Aimer@59.7.61.67:50000?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://Aimer@162.159.39.181:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://Aimer@8.20.125.1:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
