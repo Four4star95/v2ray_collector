@@ -86208,3 +86208,6 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE2OS4xNTAuMjA4LjgzIiwicG9ydCI6MTgwMDAsImFpZCI6MCwi
 
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMi4xODkuMTE3LjEwOCIsInBvcnQiOiIzNTAxMCIsImlkIjoiY2QzNDhjOTQtYWJmZi00OWM3LWEzZWYtNTQ3NWZlYzg5ZDRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTAwIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.171.73:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://ec833494-665d-4616-92f5-5cb397771f24@104.18.26.90:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=kk103.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=ws#%40NUFiLTER%20%F0%9F%87%AE%F0%9F%87%B7%F0%9F%9A%80%F0%9F%87%B1%F0%9F%87%BA%282%29
+trojan://telegram-id-directvpn@35.157.171.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
