@@ -86227,3 +86227,5 @@ trojan://Aimer@8.20.125.1:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#�
 
 
 
+trojan://telegram-id-directvpn@15.237.70.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.70.229:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
