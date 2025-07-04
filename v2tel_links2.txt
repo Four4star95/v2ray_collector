@@ -33787,3 +33787,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDMu
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.105.66:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.133.142:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@13.36.105.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJhZGQiOiIzZGVkM2E3Zi1zdmxiNDAtc3owNTJ1LWFteWEuaGsucDVwdi5jb20iLCJhaWQiOjEsImhvc3QiOiIzZGVkM2E3Zi1zdmxiNDAtc3owNTJ1LWFteWEuaGsucDVwdi5jb20iLCJpZCI6ImVlMWI5ZTk0LTliOTUtMTFlZi04OTY3LWYyM2M5MWNmYmJjOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
