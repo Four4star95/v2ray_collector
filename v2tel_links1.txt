@@ -86390,3 +86390,4 @@ trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=%2Fxa846InE
 
 
 
+trojan://telegram-id-directvpn@13.36.105.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
