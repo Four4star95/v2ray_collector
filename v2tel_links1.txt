@@ -86377,3 +86377,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.44.43:22224?type=ws&security=
 
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=&encryption=none&headerType=&type=tcp#⚜️Telegram:@IP_CF
 trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#⚜️Telegram:@IP_CF
+vless://012bcb20-421c-434c-8fd0-2c4d564a103e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872445251926601.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872445251926601.kish-prx-dnraaaf.info&path=/cazskiws#⚜️Telegram:@IP_CF
