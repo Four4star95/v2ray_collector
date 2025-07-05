@@ -86333,3 +86333,4 @@ vless://0e2c33de-0882-4c7a-9343-b05d204216ba@91.99.166.65:80/?type=xhttp&path=%2
 vmess://eyJhZGQiOiI2Mi4xNDYuMjMzLjExNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmODYzZWY5OS01ZWYwLTQzMjEtYWFhYy1hNDc2YTVlOGMzZmIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM4MzI0IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 
+vless://0e2c33de-0882-4c7a-9343-b05d204216ba@91.99.166.65:80?mode=auto&path=%2Flunavo-vpn&security=reality&encryption=none&pbk=nuNgT0HxAJ7YZPfM5uYM_-8aDKvCmr9jQpxBUMRjJRE&host=shahin2001lunavo.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=aider.chat&sid=39f0afc3#⚜️Telegram:@IP_CF
