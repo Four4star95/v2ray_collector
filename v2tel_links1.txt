@@ -86392,3 +86392,4 @@ trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=%2Fxa846InE
 
 trojan://telegram-id-directvpn@13.36.105.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.254.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJiZDEyOTQ0YS1zdjB4czAtdDJsYzFjLTFtaW0yLmhrLnA1cHYuY29tIiwiYWlkIjoyLCJob3N0IjoiYmQxMjk0NGEtc3YweHMwLXQybGMxYy0xbWltMi5oay5wNXB2LmNvbSIsImlkIjoiNmUzZWUxZGUtMzgxZi0xMWVlLTg3ZjktZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
