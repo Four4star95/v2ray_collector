@@ -86414,3 +86414,4 @@ vless://f488c8c4-7ce6-4767-aa4a-2ffbc88786e0@104.18.26.90:80?path=%2Ftelegram-NU
 trojan://telegram-id-directvpn@18.157.144.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vmess://eyJhZGQiOiIzMS40MS4zNS4xOTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDVjMDg2MjEtODhhZS00ODk4LTg4MzgtYWRmNDY1M2Q1OWU3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NzA1NyIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
