@@ -86453,3 +86453,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.173.190:22224?type=ws&security
 trojan://telegram-id-directvpn@3.76.173.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vmess://eyJhZGQiOiJmODU3OWU0OS1zdjRuNDAtdDloZ2h3LTFzZG9xLmhrMy5wNXB2LmNvbSIsImFpZCI6MiwiaG9zdCI6ImY4NTc5ZTQ5LXN2NG40MC10OWhnaHctMXNkb3EuaGszLnA1cHYuY29tIiwiaWQiOiI3YzA3NzU3Mi02ZGE5LTExZWYtYjc4Ni1mMjNjOTFjZmJiYzkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
+trojan://Aimer@pranab.ns.cloudflare.com:443?sni=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
