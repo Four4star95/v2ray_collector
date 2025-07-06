@@ -86442,3 +86442,4 @@ trojan://telegram-id-directvpn@51.44.102.57:22223?security=tls&alpn=http/1.1&hea
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.102.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vmess://eyJhZGQiOiI5YzEyY2UzZC1zdjJzZzAtdDY1YTNlLXRxZ3ouaGsucDVwdi5jb20iLCJhaWQiOjIsImhvc3QiOiI5YzEyY2UzZC1zdjJzZzAtdDY1YTNlLXRxZ3ouaGsucDVwdi5jb20iLCJpZCI6Ijg4ZGEwZDIxLWIyNWQtMTFlYy1iOWY3LWYyM2M5MWNmYmJjOSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
 
+vless://0498875d-3520-4883-a8be-821b5a89fedc@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=iranv2ray-turboo.com&type=xhttp#⚜️Telegram:@IP_CF
