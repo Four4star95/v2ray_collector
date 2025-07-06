@@ -86481,3 +86481,4 @@ vmess://eyJhZGQiOiJ3V1N4Y2RGUjUuOTk5ODM0LlhZeiIsImFpZCI6MCwiaG9zdCI6IndXU3hjZEZS
 
 vless://080fd5bd-db7b-400b-bf04-f2b7c19965d6@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#⚜️Telegram:@IP_CF
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#⚜️Telegram:@IP_CF
