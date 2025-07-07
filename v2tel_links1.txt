@@ -86501,3 +86501,5 @@ vmess://eyJhZGQiOiJkZGRjY2N2ZmYuNDQ0NDkzNi54eXoiLCJhaWQiOjAsImhvc3QiOiJkZGRjY2N2
 
 
 trojan://Aimer@119.196.34.173:50000?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@18.194.185.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.185.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
