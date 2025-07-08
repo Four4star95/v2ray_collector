@@ -33956,3 +33956,6 @@ vmess://eyJhZGQiOiIxODUuMTg5LjU4LjE5NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 trojan://Aimer@162.159.44.76:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGFhLmRhc2h1YWkuY3lvdSIsInBvcnQiOiI0NTA1MiIsInR5cGUiOiJub25lIiwiaWQiOiJlOWE5ODczNy0zZGY5LTRiYzMtYTMwYy03N2M5NzhiMDcxZTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImhhYS5kYXNodWFpLmN5b3UiLCJ0bHMiOiIifQ==
 
+trojan://telegram-id-directvpn@18.193.215.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.215.48:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://Aimer@arvind.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized#⚜️Telegram:@IP_CF
