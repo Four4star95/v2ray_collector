@@ -86643,3 +86643,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.93.104:22224?type=ws&securit
 vmess://eyJ2IjoiMiIsImFkZCI6IjE2OS4xNTAuMjA4LjgzIiwicG9ydCI6MTgwMDAsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJwcyI6Ilx1ZDgzZFx1ZGQzNCB8IHZtZXNzXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
 trojan://3774827088566296576@13.213.142.42:443?security=tls&sni=exotic-bengal.treefrog761.one&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF
 
+vless://0c594034-4210-49c0-99ab-b52ec0df0f6c@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=turbooseeeerver.org&type=xhttp#%40NUFiLTER+%F0%9F%87%B3%F0%9F%87%B1+xhttp
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4Ni4xOTAuMjE1LjE5MyIsInBvcnQiOjIyMzI0LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwicHMiOiJcdWQ4M2RcdWRkMzQgfCB2bWVzc1x1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiJ9
