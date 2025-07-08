@@ -86575,3 +86575,4 @@ vmess://eyJhZGQiOiIxODUuMTg5LjU4LjE5NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 trojan://Aimer@162.159.44.76:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#⚜️Telegram:@IP_CF
 
 
+trojan://Aimer@arvind.ns.cloudflare.com:443/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epml.ambercc.filegear-sg.me&alpn=h3&fp=randomized#⚜️Telegram:@IP_CF
