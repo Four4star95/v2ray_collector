@@ -86891,3 +86891,5 @@ vmess://eyJhZGQiOiI4LjIxNC4zMy4xNTgiLCJhaWQiOjAsImhvc3QiOiI4LjIxNC4zMy4xNTgiLCJp
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#⚜️Telegram:@IP_CF
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.143.101:6668?allowInsecure=1&sni=baidu.com#⚜️Telegram:@IP_CF
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002?security=tls&sni=v2tw01.fuqiangren.com#⚜️Telegram:@IP_CF
+vless://00db004a-7ae7-400d-b7c3-f6ab2f3f1edc@london.gpairnetwork369.de:6839?security=none&type=tcp&headerType=&path=&host=#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxMDQuMjEuMy4xODkiLCJhaWQiOjAsImhvc3QiOiJjYzJkNC44OTA2MDAwNC54eXoiLCJpZCI6IjJmYzM3NzEzLTMwMTctNDk3ZS1mZjJkLTk2NWY4MjZhMTlhMyIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6MjA1MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJjYzJkNC44OTA2MDAwNC54eXoifQ==
