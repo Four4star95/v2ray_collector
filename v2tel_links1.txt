@@ -87170,3 +87170,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.120.43:22224?type=ws&securit
 trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vless://0b58d103-e198-4a36-aa79-84a4aca8188b@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&fragment=&security=none&encryption=none&host=kk213.motorphrotan.ir.&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%F0%9D%98%81.%F0%9D%97%BA%F0%9D%97%B2%2F%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%9A%F0%9D%97%9F%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%98+%285%29
