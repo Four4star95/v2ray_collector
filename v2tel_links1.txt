@@ -87197,3 +87197,4 @@ trojan://telegram-id-directvpn@3.78.31.242:22223?security=tls&alpn=http/1.1&head
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.156.12:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@3.76.156.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
+vless://69268d69-4d1a-44fe-9e3a-e3238fe5fcb0@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=serverplus.co&type=xhttp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%F0%9D%98%81.%F0%9D%97%BA%F0%9D%97%B2%2F%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%9A%F0%9D%97%9F%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%98
