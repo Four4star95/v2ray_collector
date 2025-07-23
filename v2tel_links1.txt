@@ -87368,3 +87368,4 @@ trojan://telegram-id-directvpn@15.236.28.202:22223?security=tls&alpn=http/1.1&he
 
 
 
+vless://90b89fd9-1682-4b01-93ac-bd1300d2a22f@CoNFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=newmethod.com&type=xhttp#%5B%F0%9F%87%B1%F0%9F%87%BA%5D%40configLINE
