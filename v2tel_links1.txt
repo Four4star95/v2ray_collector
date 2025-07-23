@@ -87369,3 +87369,6 @@ trojan://telegram-id-directvpn@15.236.28.202:22223?security=tls&alpn=http/1.1&he
 
 
 vless://90b89fd9-1682-4b01-93ac-bd1300d2a22f@CoNFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=newmethod.com&type=xhttp#%5B%F0%9F%87%B1%F0%9F%87%BA%5D%40configLINE
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.218.127:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://b0dc0687-a93b-48e0-b80c-e7604d3a3f05@CoNFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=antifilter.io&type=xhttp#%5B%F0%9F%87%B1%F0%9F%87%BA%5D%40configLINE%282%29
+trojan://telegram-id-directvpn@18.153.218.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
