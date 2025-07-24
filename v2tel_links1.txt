@@ -87429,3 +87429,6 @@ vless://2eb9c669-6ea3-42a1-861f-d30669cbfc01@172.66.40.99:8880?path=%2Ftelegram-
 
 
 
+trojan://telegram-id-directvpn@63.178.130.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8880&security=none&encryption=none&host=usnew.motorphrotan.ir.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.130.164:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
