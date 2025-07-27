@@ -87636,3 +87636,4 @@ trojan://telegram-id-directvpn@13.37.84.247:22223?security=tls&alpn=http/1.1&hea
 
 
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8880&security=none&encryption=none&host=lsus.motorphrotan.ir.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE
+
