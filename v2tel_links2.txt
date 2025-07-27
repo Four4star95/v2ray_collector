@@ -34410,3 +34410,4 @@ trojan://telegram-id-directvpn@13.36.102.158:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.225.112:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.102.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@51.44.225.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://4e1f6df7-b7ee-401a-8550-9cc630bbc698@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=manian.motorphrotan.ir.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE
