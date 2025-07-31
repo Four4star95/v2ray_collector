@@ -87880,3 +87880,4 @@ trojan://telegram-id-directvpn@63.179.68.57:22223?security=tls&alpn=http/1.1&hea
 
 
 
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE
