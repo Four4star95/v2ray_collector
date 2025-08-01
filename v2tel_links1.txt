@@ -87924,3 +87924,4 @@ vless://4ab47a73-56b2-45fc-b21e-342ed8d8c2ee@172.66.40.99:80?path=%2Ftelegram-CO
 
 
 vless://4ab47a73-56b2-45fc-b21e-342ed8d8c2ee@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=a50.motorphrotan.ir&type=ws#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%40configLINE
+
