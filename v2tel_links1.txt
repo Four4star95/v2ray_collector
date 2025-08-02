@@ -88028,3 +88028,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.45.126:22224?type=ws&securit
 trojan://telegram-id-directvpn@63.179.45.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=ab.shangoli4.motorphrotan.ir&type=ws#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%40configLINE%282%29vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=ab.shangoli5.motorphrotan.ir.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE%282%29
