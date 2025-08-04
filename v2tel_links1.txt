@@ -88133,3 +88133,4 @@ trojan://telegram-id-directvpn@18.199.40.31:22223?security=tls&alpn=http/1.1&hea
 
 
 
+vless://93bfae26-8ce6-4957-ae4a-04bc24b29907@172.66.40.99:8880?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=ab.shangoli3.motorphrotan.ir.&type=ws#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE%283%29vless://6a63f49d-6949-4e41-a257-1cbbd7dce9a0@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=Ab.shangoli1.motorphrotan.ir.&type=ws#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%40configLINE%283%29
