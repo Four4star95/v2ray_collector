@@ -34765,3 +34765,7 @@ vless://b1a1ac9d-27aa-417a-9980-03b79cccc1e9@172.66.40.99:8080?path=%2Ftelegram-
 vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cPo.SpEeDtEsT2029.CoM&fp=firefox&type=ws&sni=cPo.SpEeDtEsT2029.CoM#TLS4-ALL%20%7C%20%40ArV2ray
 
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.137.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.179.125:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.124.179.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.72.137.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
