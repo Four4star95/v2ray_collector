@@ -89066,3 +89066,4 @@ trojan://telegram-id-directvpn@18.198.129.207:22223?security=tls&alpn=http/1.1&h
 
 
 
+vless://TELEGRAM-CONFiGLiNE-join@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=hE136.maShkesTan.CoM&fp=firefox&allowinsecure=0&type=ws&sni=hE136.maShkesTan.CoM#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%282%29vless://TELEGRAM-CONFiGLiNE-join@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=he10.motorbazan.com&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE
