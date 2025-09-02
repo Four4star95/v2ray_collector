@@ -90344,3 +90344,4 @@ trojan://telegram-id-directvpn@18.159.140.57:22223?security=tls&alpn=http/1.1&he
 
 
 
+vless://e508d2b9-b117-4252-9a88-6e1f75ebcd51@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az136.dr-mojtaba.ir&type=ws#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%40configLINE
