@@ -90346,3 +90346,4 @@ trojan://telegram-id-directvpn@18.159.140.57:22223?security=tls&alpn=http/1.1&he
 
 vless://e508d2b9-b117-4252-9a88-6e1f75ebcd51@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az136.dr-mojtaba.ir&type=ws#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%40configLINE
 vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=wIs.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg&fp=firefox&type=ws&sni=wIs.2SeDkFjEuIxIjD0Ew9DvKcxoisiEk61.BlOg#TLS5-ALL%20%7C%20%40ArV2ray
+
