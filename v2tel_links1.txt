@@ -90377,3 +90377,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.89.11:22224?type=ws&security=
 
 
 
+trojan://telegram-id-directvpn@13.38.239.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.239.27:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://e31520a8-1f17-4915-9a8a-03aa9fd1be34@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az138.dr-mojtaba.ir&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE
