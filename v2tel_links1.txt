@@ -90748,3 +90748,5 @@ trojan://253bc477d4e43c209f2d427272968280@219.73.55.195:443?allowInsecure=1&sni=
 vmess://eyJhZGQiOiI0NS4xNDQuMTc0LjIxMSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWY1NTE0ZmYtYTVjMy00YjBkLWE2YzItNDRjOWNiMTk1NWQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMjEwNiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&security=tls&sni=sj3.freeguard.org#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NzRlZTVhMi00MmU2LTRjOWYtYWI2Zi04ODVmOWM4ZTcxYzk=@125.231.72.120:10065#⚜️Telegram:@IP_CF
+vless://20eb2d5d-10ba-485d-b4c5-3ff2b8168225@78.47.216.178:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#⚜️Telegram:@IP_CF
