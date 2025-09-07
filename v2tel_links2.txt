@@ -35414,3 +35414,7 @@ vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Cteleg
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.97.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40ArFilter%3Fed%3D80&security=none&encryption=none&host=Mtkirand.com&type=xhttp#XHTTP2-All%20%7C%20%40ArV2ray
 trojan://telegram-id-directvpn@15.188.112.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@13.36.49.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.49.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://bpb-trojan@108.162.198.69:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net&fp=chrome&allowInsecure=1#⚜️Telegram:@IP_CF
+vless://074d7498-4aa9-41f9-b322-3e0debb686c7@www.speedtest.net:2053?path=%2Fcdn%2Fapp-assets%2Fv3.3.2%2F&security=tls&encryption=none&host=cdn-assets.cyberscaler.com&fp=firefox&type=ws&sni=cdn-assets.cyberscaler.com#⚜️Telegram:@IP_CF
