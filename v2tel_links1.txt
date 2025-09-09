@@ -91034,3 +91034,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.68.47:22224?type=ws&security
 trojan://telegram-id-directvpn@63.179.68.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
 
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=azzz107.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=chrome&allowinsecure=0&type=ws&sni=azzz107.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%40configLINE%282%29
