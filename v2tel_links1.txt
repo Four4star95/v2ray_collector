@@ -91148,3 +91148,5 @@ trojan://telegram-id-directvpn@15.237.71.39:22223?security=tls&alpn=http/1.1&hea
 
 
 vless://TELEGRAM-CONFiGLiNE@91.99.95.76:443?mode=gun&security=reality&encryption=none&authority=&pbk=E9Ve9pGVnR-PcLSdOI4onL0qPyvsVVVY44vhmZOTlhc&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE&sni=ru.sfasti.ru&sid=5e79a423a5#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%D8%AA%D8%B3%D8%AA
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.198.102:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+trojan://telegram-id-directvpn@15.188.198.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
