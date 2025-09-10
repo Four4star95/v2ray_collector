@@ -91082,3 +91082,5 @@ vmess://eyJhZGQiOiIxMDcuMTQ5LjEzNC4xNjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjcwN2Nl
 trojan://slch2024@188.244.122.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#⚜️Telegram:@IP_CF
 trojan://slch2024@193.124.224.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#⚜️Telegram:@IP_CF
 
+vless://1ab44c12-1462-422e-aeab-aaa025636f61@217.198.12.224:443?security=reality&encryption=none&pbk=cBJsDdArckzyAvjzcqF_cK9Rpts2Lxq1oqj-b9_HeQ8&headerType=none&fp=chrome&spx=%2Fy3vtypp2mJH2n5t&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=46fe77b51a66#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQ2LjU5LjU1LjUwIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsInBhdGgiOiJcL2xpbmt2d3MifQ==
