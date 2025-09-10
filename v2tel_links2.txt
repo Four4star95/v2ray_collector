@@ -35503,3 +35503,9 @@ trojan://slch2024@192.0.54.195:2096?path=%2FTelegram&security=tls&host=ocost-dy.
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.199.220:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 vless://TELEGRAM-CONFiGLiNE@185.231.172.107:80?mode=gun&security=reality&encryption=none&authority=&pbk=5Fd6427UoAtNiJTFUPb6DGu5Xcvi2UBdU-AJKjFJQic&fp=firefox&spx=%2F&allowinsecure=0&type=grpc&serviceName=telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE&sni=ru.sfasti.ru&sid=d37b55508f29#%F0%9F%87%B3%F0%9F%87%B1%40NUFiLTER%282%29
 trojan://telegram-id-directvpn@3.126.199.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@13.36.105.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://slch2024@195.13.44.87:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=Telegram&security=tls&sni=ocost-dy.wmlefl.cc#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.78.88.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJhZGQiOiI1MS4yNTQuMjEuMTkzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl02.saint.ydns.eu:8080#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.88.96:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
