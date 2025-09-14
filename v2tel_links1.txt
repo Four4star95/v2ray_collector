@@ -91521,3 +91521,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.65.168:22224?type=ws&security
 
 
 
+vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40ArFilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter%3Fed%3D80&security=none&encryption=none&host=Mtkirand.com&type=xhttp#XHTTP2-All%20%7C%20%40ArV2ray
