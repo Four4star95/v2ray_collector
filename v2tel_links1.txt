@@ -91658,3 +91658,6 @@ trojan://bpb-trojan@185.238.228.6:443?security=tls&type=ws&sni=403b3611-99bc-43b
 trojan://654a309b-fdaa-3263-9bed-74a7e1532fd9@103.224.182.213:443?type=tcp&security=tls&fp=chrome&sni=az05feiy.kuli888.xyz&allowInsecure=1#⚜️Telegram:@IP_CF
 
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#⚜️Telegram:@IP_CF
+vless://00fcbecb-d832-40a0-b2b1-76bb56df166b@104.248.193.151:443?path=%2FFree-VPN-CF-Geo-Project%2FNL10&security=tls&encryption=none&host=joss.krikkrik.tech&fp=randomized&type=ws&sni=joss.krikkrik.tech#⚜️Telegram:@IP_CF
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTI3LjEuMS4xMjciLCJwb3J0IjoiODAiLCJpZCI6IjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImFsbG93SW5zZWN1cmUiOjF9
