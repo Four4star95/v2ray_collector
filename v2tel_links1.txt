@@ -91965,3 +91965,5 @@ vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=%2F-Arfil
 
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiczMuZ2hvc3Rya2Uuc2JzIiwicG9ydCI6ODg4MCwiaWQiOiI3MTI0Y2MzMC1iNzUxLTQ3YzUtYjg3YS0wMmRiOGM2N2NlNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInRscyI6Im5vbmUiLCJwYXRoIjoiQEdob3N0cmF5X05HIiwiYXV0aG9yaXR5IjoiIn0=
+trojan://telegram-id-directvpn@15.237.89.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.89.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
