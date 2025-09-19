@@ -91943,3 +91943,5 @@ vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ3
 
 
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#⚜️Telegram:@IP_CF
+trojan://34dea460-bad1-11ed-94f5-1239d0255272@163.172.211.74:443?security=tls&sni=tci.ir&allowInsecure=1&fp=chrome&type=tcp#⚜️Telegram:@IP_CF
