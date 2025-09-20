@@ -92111,3 +92111,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.216.106:22224?type=ws&securit
 
 
 
+vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ei.arfilter.blog&fp=firefox&type=ws&sni=ei.arfilter.blog#TLS2-ALL%20%7C%20%40ArV2ray
