@@ -92301,3 +92301,4 @@ trojan://telegram-id-directvpn@13.37.205.90:22223?security=tls&alpn=http/1.1&hea
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.72.16:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 trojan://telegram-id-directvpn@13.36.72.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjEyMy41OC4yMDMuOTIiLCJwb3J0Ijo4NDQzLCJpZCI6IjBiYjAzNjViLWMxODMtNDhjMy1hZDBkLWE5MGZjNzZlMjkyNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
