@@ -92253,3 +92253,4 @@ vless://0cb6455d-4ee0-4740-83ce-3d16e3c81aa8@103.106.1.2:443?path=%2FFree-VPN-CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.20.237:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@63.177.20.237:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 
+vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?encryption=none&security=reality&sni=chess.com&fp=chrome&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&sid=4d01fba3&type=tcp&headerType=none#⚜️Telegram:@IP_CF
