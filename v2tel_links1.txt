@@ -92264,3 +92264,5 @@ trojan://telegram-id-directvpn@35.181.20.144:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.20.144:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 
 
+vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter%3Fed%3D80&security=none&encryption=none&host=Mtkirand.com&type=xhttp#XHTTP2-All%20%7C%20%40ArV2ray
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoia2FtLmRldnBpcmF0ZS5iYWJ5IiwicG9ydCI6NDQ1MTQsImlkIjoiZWIwZTNmNGYtN2NiOC00NTEyLWFiMTItZmUwNjMxYzA5ZmJhIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSJ9
