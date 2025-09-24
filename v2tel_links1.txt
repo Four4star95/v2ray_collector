@@ -92420,3 +92420,5 @@ trojan://telegram-id-directvpn@13.36.222.54:22223?security=tls&alpn=http/1.1&hea
 
 
 vless://telegram-id-ArV2ray@test.fast.hosting-ip.com:80?mode=auto&path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@ArFilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter%3Fed%3D80&security=none&encryption=none&host=Mtkirand.com&type=xhttp#XHTTP-All%20%7C%20%40ArV2ray
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.28.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@18.159.28.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
